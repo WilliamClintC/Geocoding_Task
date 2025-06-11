@@ -1,2 +1,17 @@
+# Environment variables (contains sensitive API keys)
 .env
+*.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Result files that might contain sensitive data
+*_results.csv
+*_api_results.csv
+nearby_places_results.csv
 
