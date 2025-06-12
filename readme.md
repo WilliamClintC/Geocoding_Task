@@ -28,3 +28,13 @@ https://geodata.bts.gov/datasets/usdot%3A%3Anorth-american-roads/about?utm_sourc
 
 Census TIGER roads have ramps coded
 https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+
+
+use map quest and yelp  for older ones. use google search then click on  mpapquest and yelp to ideentify. 
+
+
+check if the lat and long match up
+map quest and google and yelp
+
+checks on the names match up
+
