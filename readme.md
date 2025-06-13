@@ -36,5 +36,6 @@ use map quest and yelp  for older ones. use google search then click on  mpapque
 check if the lat and long match up
 map quest and google and yelp
 
-checks on the names match up
+checks if the names match up
 
+try to edit the adresses a bit more remove the north of blah blah and south of blah blah
