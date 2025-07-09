@@ -1,0 +1,27 @@
+{
+  "name": "yellowpages-scraper",
+  "version": "1.0.0",
+  "description": "YellowPages scraper with Puppeteer Stealth",
+  "main": "robust_scraper.js",
+  "scripts": {
+    "start": "node robust_scraper.js",
+    "scrape": "node robust_scraper.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "fs-extra": "^11.2.0",
+    "puppeteer": "^24.11.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "keywords": [
+    "scraping",
+    "yellowpages",
+    "puppeteer",
+    "stealth"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

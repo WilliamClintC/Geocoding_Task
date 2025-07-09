@@ -39,3 +39,5 @@ map quest and google and yelp
 checks if the names match up
 
 try to edit the adresses a bit more remove the north of blah blah and south of blah blah
+
+NOTE TO UPGRADE THE RV AND TRAVELLERS CODE SUCH THAT WE CAN ALSO GAIN LOCATIONS if we just search LONGitude. in RV an travvleerrs

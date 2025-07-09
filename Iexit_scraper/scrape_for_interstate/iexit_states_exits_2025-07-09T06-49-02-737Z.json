@@ -1,0 +1,2951 @@
+[
+  {
+    "state": "Alabama",
+    "exitLinks": [
+      {
+        "highway": "I-10",
+        "href": "/exits/Alabama/I-10/East/648",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-10/East/648"
+      },
+      {
+        "highway": "I-20",
+        "href": "/exits/Alabama/I-20/East/667",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-20/East/667"
+      },
+      {
+        "highway": "I-22",
+        "href": "/exits/Alabama/I-22/East/101",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-22/East/101"
+      },
+      {
+        "highway": "I-59",
+        "href": "/exits/Alabama/I-59/North/662",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-59/North/662"
+      },
+      {
+        "highway": "I-65",
+        "href": "/exits/Alabama/I-65/North/656",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-65/North/656"
+      },
+      {
+        "highway": "I-85",
+        "href": "/exits/Alabama/I-85/North/715",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-85/North/715"
+      },
+      {
+        "highway": "I-359",
+        "href": "/exits/Alabama/I-359/North/329",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-359/North/329"
+      },
+      {
+        "highway": "I-459",
+        "href": "/exits/Alabama/I-459/North/552",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-459/North/552"
+      },
+      {
+        "highway": "I-759",
+        "href": "/exits/Alabama/I-759/East/331",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-759/East/331"
+      },
+      {
+        "highway": "I-165",
+        "href": "/exits/Alabama/I-165/North/337",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-165/North/337"
+      },
+      {
+        "highway": "I-565",
+        "href": "/exits/Alabama/I-565/East/341",
+        "fullUrl": "https://www.iexitapp.com/exits/Alabama/I-565/East/341"
+      }
+    ]
+  },
+  {
+    "state": "Alaska",
+    "exitLinks": []
+  },
+  {
+    "state": "Arizona",
+    "exitLinks": [
+      {
+        "highway": "I-10",
+        "href": "/exits/Arizona/I-10/East/643",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/I-10/East/643"
+      },
+      {
+        "highway": "I-15",
+        "href": "/exits/Arizona/I-15/North/89",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/I-15/North/89"
+      },
+      {
+        "highway": "I-40",
+        "href": "/exits/Arizona/I-40/East/671",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/I-40/East/671"
+      },
+      {
+        "highway": "I-8",
+        "href": "/exits/Arizona/I-8/East/143",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/I-8/East/143"
+      },
+      {
+        "highway": "I-17",
+        "href": "/exits/Arizona/I-17/North/146",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/I-17/North/146"
+      },
+      {
+        "highway": "I-19",
+        "href": "/exits/Arizona/I-19/North/147",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/I-19/North/147"
+      },
+      {
+        "highway": "AZ 101",
+        "href": "/exits/Arizona/AZ%20101/East/495",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/AZ%20101/East/495"
+      },
+      {
+        "highway": "AZ 51",
+        "href": "/exits/Arizona/AZ%2051/North/496",
+        "fullUrl": "https://www.iexitapp.com/exits/Arizona/AZ%2051/North/496"
+      }
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "exitLinks": [
+      {
+        "highway": "I-40",
+        "href": "/exits/Arkansas/I-40/East/675",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-40/East/675"
+      },
+      {
+        "highway": "I-55",
+        "href": "/exits/Arkansas/I-55/North/116",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-55/North/116"
+      },
+      {
+        "highway": "I-30",
+        "href": "/exits/Arkansas/I-30/East/161",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-30/East/161"
+      },
+      {
+        "highway": "I-430",
+        "href": "/exits/Arkansas/I-430/North/293",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-430/North/293"
+      },
+      {
+        "highway": "I-530",
+        "href": "/exits/Arkansas/I-530/East/294",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-530/East/294"
+      },
+      {
+        "highway": "I-630",
+        "href": "/exits/Arkansas/I-630/East/295",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-630/East/295"
+      },
+      {
+        "highway": "I-440",
+        "href": "/exits/Arkansas/I-440/East/313",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-440/East/313"
+      },
+      {
+        "highway": "I-540",
+        "href": "/exits/Arkansas/I-540/East/316",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-540/East/316"
+      },
+      {
+        "highway": "I-49",
+        "href": "/exits/Arkansas/I-49/North/726",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-49/North/726"
+      },
+      {
+        "highway": "I-49",
+        "href": "/exits/Arkansas/I-49/North/732",
+        "fullUrl": "https://www.iexitapp.com/exits/Arkansas/I-49/North/732"
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "exitLinks": [
+      {
+        "highway": "I-10",
+        "href": "/exits/California/I-10/East/642",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-10/East/642"
+      },
+      {
+        "highway": "US 101",
+        "href": "/exits/California/US%20101/North/654",
+        "fullUrl": "https://www.iexitapp.com/exits/California/US%20101/North/654"
+      },
+      {
+        "highway": "I-15",
+        "href": "/exits/California/I-15/North/87",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-15/North/87"
+      },
+      {
+        "highway": "I-40",
+        "href": "/exits/California/I-40/East/670",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-40/East/670"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/California/I-80/East/127",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-80/East/127"
+      },
+      {
+        "highway": "I-5",
+        "href": "/exits/California/I-5/North/139",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-5/North/139"
+      },
+      {
+        "highway": "I-8",
+        "href": "/exits/California/I-8/East/142",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-8/East/142"
+      },
+      {
+        "highway": "I-105",
+        "href": "/exits/California/I-105/East/248",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-105/East/248"
+      },
+      {
+        "highway": "I-205",
+        "href": "/exits/California/I-205/North/250",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-205/North/250"
+      },
+      {
+        "highway": "I-405",
+        "href": "/exits/California/I-405/North/253",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-405/North/253"
+      },
+      {
+        "highway": "I-505",
+        "href": "/exits/California/I-505/North/256",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-505/North/256"
+      },
+      {
+        "highway": "I-605",
+        "href": "/exits/California/I-605/North/257",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-605/North/257"
+      },
+      {
+        "highway": "I-805",
+        "href": "/exits/California/I-805/North/259",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-805/North/259"
+      },
+      {
+        "highway": "I-110",
+        "href": "/exits/California/I-110/East/260",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-110/East/260"
+      },
+      {
+        "highway": "I-210",
+        "href": "/exits/California/I-210/East/264",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-210/East/264"
+      },
+      {
+        "highway": "I-710",
+        "href": "/exits/California/I-710/North/271",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-710/North/271"
+      },
+      {
+        "highway": "I-215",
+        "href": "/exits/California/I-215/North/274",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-215/North/274"
+      },
+      {
+        "highway": "I-238",
+        "href": "/exits/California/I-238/East/308",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-238/East/308"
+      },
+      {
+        "highway": "I-280",
+        "href": "/exits/California/I-280/North/394",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-280/North/394"
+      },
+      {
+        "highway": "I-380",
+        "href": "/exits/California/I-380/East/399",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-380/East/399"
+      },
+      {
+        "highway": "I-580",
+        "href": "/exits/California/I-580/East/405",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-580/East/405"
+      },
+      {
+        "highway": "I-680",
+        "href": "/exits/California/I-680/North/407",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-680/North/407"
+      },
+      {
+        "highway": "I-780",
+        "href": "/exits/California/I-780/East/411",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-780/East/411"
+      },
+      {
+        "highway": "I-880",
+        "href": "/exits/California/I-880/North/412",
+        "fullUrl": "https://www.iexitapp.com/exits/California/I-880/North/412"
+      },
+      {
+        "highway": "US 50",
+        "href": "/exits/California/US%2050/North/497",
+        "fullUrl": "https://www.iexitapp.com/exits/California/US%2050/North/497"
+      },
+      {
+        "highway": "CA 99",
+        "href": "/exits/California/CA%2099/North/498",
+        "fullUrl": "https://www.iexitapp.com/exits/California/CA%2099/North/498"
+      },
+      {
+        "highway": "CA 60",
+        "href": "/exits/California/CA%2060/East/499",
+        "fullUrl": "https://www.iexitapp.com/exits/California/CA%2060/East/499"
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "exitLinks": [
+      {
+        "highway": "I-70",
+        "href": "/exits/Colorado/I-70/East/66",
+        "fullUrl": "https://www.iexitapp.com/exits/Colorado/I-70/East/66"
+      },
+      {
+        "highway": "I-76",
+        "href": "/exits/Colorado/I-76/East/77",
+        "fullUrl": "https://www.iexitapp.com/exits/Colorado/I-76/East/77"
+      },
+      {
+        "highway": "I-25",
+        "href": "/exits/Colorado/I-25/North/153",
+        "fullUrl": "https://www.iexitapp.com/exits/Colorado/I-25/North/153"
+      },
+      {
+        "highway": "I-225",
+        "href": "/exits/Colorado/I-225/North/286",
+        "fullUrl": "https://www.iexitapp.com/exits/Colorado/I-225/North/286"
+      },
+      {
+        "highway": "I-270",
+        "href": "/exits/Colorado/I-270/East/345",
+        "fullUrl": "https://www.iexitapp.com/exits/Colorado/I-270/East/345"
+      },
+      {
+        "highway": "E 470",
+        "href": "/exits/Colorado/E%20470/North/500",
+        "fullUrl": "https://www.iexitapp.com/exits/Colorado/E%20470/North/500"
+      }
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/Connecticut/I-95/North/621",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/I-95/North/621"
+      },
+      {
+        "highway": "I-84",
+        "href": "/exits/Connecticut/I-84/East/220",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/I-84/East/220"
+      },
+      {
+        "highway": "I-91",
+        "href": "/exits/Connecticut/I-91/North/229",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/I-91/North/229"
+      },
+      {
+        "highway": "I-384",
+        "href": "/exits/Connecticut/I-384/East/418",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/I-384/East/418"
+      },
+      {
+        "highway": "I-291",
+        "href": "/exits/Connecticut/I-291/North/444",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/I-291/North/444"
+      },
+      {
+        "highway": "I-691",
+        "href": "/exits/Connecticut/I-691/North/447",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/I-691/North/447"
+      },
+      {
+        "highway": "I-395",
+        "href": "/exits/Connecticut/I-395/North/472",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/I-395/North/472"
+      },
+      {
+        "highway": "CT 9",
+        "href": "/exits/Connecticut/CT%209/North/501",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/CT%209/North/501"
+      },
+      {
+        "highway": "CT 15",
+        "href": "/exits/Connecticut/CT%2015/North/730",
+        "fullUrl": "https://www.iexitapp.com/exits/Connecticut/CT%2015/North/730"
+      }
+    ]
+  },
+  {
+    "state": "Delaware",
+    "exitLinks": [
+      {
+        "highway": "I-295",
+        "href": "/exits/Delaware/I-295/North/640",
+        "fullUrl": "https://www.iexitapp.com/exits/Delaware/I-295/North/640"
+      },
+      {
+        "highway": "I-495",
+        "href": "/exits/Delaware/I-495/North/650",
+        "fullUrl": "https://www.iexitapp.com/exits/Delaware/I-495/North/650"
+      },
+      {
+        "highway": "I-95",
+        "href": "/exits/Delaware/I-95/North/692",
+        "fullUrl": "https://www.iexitapp.com/exits/Delaware/I-95/North/692"
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "exitLinks": [
+      {
+        "highway": "I-295",
+        "href": "/exits/Florida/I-295/North/652",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-295/North/652"
+      },
+      {
+        "highway": "I-10",
+        "href": "/exits/Florida/I-10/East/649",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-10/East/649"
+      },
+      {
+        "highway": "I-95",
+        "href": "/exits/Florida/I-95/North/686",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-95/North/686"
+      },
+      {
+        "highway": "I-4",
+        "href": "/exits/Florida/I-4/East/655",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-4/East/655"
+      },
+      {
+        "highway": "I-75",
+        "href": "/exits/Florida/I-75/North/577",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-75/North/577"
+      },
+      {
+        "highway": "I-110",
+        "href": "/exits/Florida/I-110/East/263",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-110/East/263"
+      },
+      {
+        "highway": "I-175",
+        "href": "/exits/Florida/I-175/North/364",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-175/North/364"
+      },
+      {
+        "highway": "I-275",
+        "href": "/exits/Florida/I-275/North/365",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-275/North/365"
+      },
+      {
+        "highway": "I-375",
+        "href": "/exits/Florida/I-375/North/371",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-375/North/371"
+      },
+      {
+        "highway": "I-195",
+        "href": "/exits/Florida/I-195/North/457",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-195/North/457"
+      },
+      {
+        "highway": "I-595",
+        "href": "/exits/Florida/I-595/East/479",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/I-595/East/479"
+      },
+      {
+        "highway": "Ronald Reagan Turnpike",
+        "href": "/exits/Florida/Ronald%20Reagan%20Turnpike/North/502",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/Ronald%20Reagan%20Turnpike/North/502"
+      },
+      {
+        "highway": "Florida's Turnpike",
+        "href": "/exits/Florida/Florida's%20Turnpike/North/503",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/Florida's%20Turnpike/North/503"
+      },
+      {
+        "highway": "Western Beltway",
+        "href": "/exits/Florida/Western%20Beltway/North/504",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/Western%20Beltway/North/504"
+      },
+      {
+        "highway": "417 Toll",
+        "href": "/exits/Florida/417%20Toll/North/505",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/417%20Toll/North/505"
+      },
+      {
+        "highway": "FL 528",
+        "href": "/exits/Florida/FL%20528/East/506",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/FL%20528/East/506"
+      },
+      {
+        "highway": "Suncoast Parkway",
+        "href": "/exits/Florida/Suncoast%20Parkway/North/507",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/Suncoast%20Parkway/North/507"
+      },
+      {
+        "highway": "Sawgrass Expressway",
+        "href": "/exits/Florida/Sawgrass%20Expressway/North/735",
+        "fullUrl": "https://www.iexitapp.com/exits/Florida/Sawgrass%20Expressway/North/735"
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/Georgia/I-95/North/687",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-95/North/687"
+      },
+      {
+        "highway": "I-20",
+        "href": "/exits/Georgia/I-20/East/668",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-20/East/668"
+      },
+      {
+        "highway": "I-59",
+        "href": "/exits/Georgia/I-59/North/663",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-59/North/663"
+      },
+      {
+        "highway": "I-16",
+        "href": "/exits/Georgia/I-16/East/145",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-16/East/145"
+      },
+      {
+        "highway": "I-24",
+        "href": "/exits/Georgia/I-24/East/569",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-24/East/569"
+      },
+      {
+        "highway": "I-75",
+        "href": "/exits/Georgia/I-75/North/578",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-75/North/578"
+      },
+      {
+        "highway": "I-85",
+        "href": "/exits/Georgia/I-85/North/716",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-85/North/716"
+      },
+      {
+        "highway": "I-516",
+        "href": "/exits/Georgia/I-516/East/278",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-516/East/278"
+      },
+      {
+        "highway": "I-520",
+        "href": "/exits/Georgia/I-520/East/281",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-520/East/281"
+      },
+      {
+        "highway": "I-475",
+        "href": "/exits/Georgia/I-475/North/373",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-475/North/373"
+      },
+      {
+        "highway": "I-575",
+        "href": "/exits/Georgia/I-575/North/376",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-575/North/376"
+      },
+      {
+        "highway": "I-675",
+        "href": "/exits/Georgia/I-675/North/377",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-675/North/377"
+      },
+      {
+        "highway": "I-185",
+        "href": "/exits/Georgia/I-185/North/420",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-185/North/420"
+      },
+      {
+        "highway": "I-285",
+        "href": "/exits/Georgia/I-285/Inner/422",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-285/Inner/422"
+      },
+      {
+        "highway": "I-985",
+        "href": "/exits/Georgia/I-985/North/426",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/I-985/North/426"
+      },
+      {
+        "highway": "GA 400",
+        "href": "/exits/Georgia/GA%20400/North/529",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/GA%20400/North/529"
+      },
+      {
+        "highway": "GA 316",
+        "href": "/exits/Georgia/GA%20316/East/728",
+        "fullUrl": "https://www.iexitapp.com/exits/Georgia/GA%20316/East/728"
+      }
+    ]
+  },
+  {
+    "state": "Hawaii",
+    "exitLinks": [
+      {
+        "highway": "H-1",
+        "href": "/exits/Hawaii/H-1/East/245",
+        "fullUrl": "https://www.iexitapp.com/exits/Hawaii/H-1/East/245"
+      },
+      {
+        "highway": "H-2",
+        "href": "/exits/Hawaii/H-2/North/246",
+        "fullUrl": "https://www.iexitapp.com/exits/Hawaii/H-2/North/246"
+      },
+      {
+        "highway": "H-3",
+        "href": "/exits/Hawaii/H-3/East/247",
+        "fullUrl": "https://www.iexitapp.com/exits/Hawaii/H-3/East/247"
+      }
+    ]
+  },
+  {
+    "state": "Idaho",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Idaho/I-90/East/50",
+        "fullUrl": "https://www.iexitapp.com/exits/Idaho/I-90/East/50"
+      },
+      {
+        "highway": "I-86",
+        "href": "/exits/Idaho/I-86/East/82",
+        "fullUrl": "https://www.iexitapp.com/exits/Idaho/I-86/East/82"
+      },
+      {
+        "highway": "I-15",
+        "href": "/exits/Idaho/I-15/North/91",
+        "fullUrl": "https://www.iexitapp.com/exits/Idaho/I-15/North/91"
+      },
+      {
+        "highway": "I-84",
+        "href": "/exits/Idaho/I-84/East/216",
+        "fullUrl": "https://www.iexitapp.com/exits/Idaho/I-84/East/216"
+      },
+      {
+        "highway": "I-184",
+        "href": "/exits/Idaho/I-184/East/417",
+        "fullUrl": "https://www.iexitapp.com/exits/Idaho/I-184/East/417"
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Illinois/I-90/East/56",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-90/East/56"
+      },
+      {
+        "highway": "I-70",
+        "href": "/exits/Illinois/I-70/East/69",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-70/East/69"
+      },
+      {
+        "highway": "I-88",
+        "href": "/exits/Illinois/I-88/East/85",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-88/East/85"
+      },
+      {
+        "highway": "I-55",
+        "href": "/exits/Illinois/I-55/North/118",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-55/North/118"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Illinois/I-80/East/133",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-80/East/133"
+      },
+      {
+        "highway": "I-24",
+        "href": "/exits/Illinois/I-24/East/566",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-24/East/566"
+      },
+      {
+        "highway": "I-39",
+        "href": "/exits/Illinois/I-39/North/163",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-39/North/163"
+      },
+      {
+        "highway": "I-57",
+        "href": "/exits/Illinois/I-57/North/172",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-57/North/172"
+      },
+      {
+        "highway": "I-64",
+        "href": "/exits/Illinois/I-64/East/174",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-64/East/174"
+      },
+      {
+        "highway": "I-72",
+        "href": "/exits/Illinois/I-72/East/185",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-72/East/185"
+      },
+      {
+        "highway": "I-74",
+        "href": "/exits/Illinois/I-74/East/188",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-74/East/188"
+      },
+      {
+        "highway": "I-94",
+        "href": "/exits/Illinois/I-94/East/239",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-94/East/239"
+      },
+      {
+        "highway": "I-155",
+        "href": "/exits/Illinois/I-155/North/324",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-155/North/324"
+      },
+      {
+        "highway": "I-255",
+        "href": "/exits/Illinois/I-255/North/326",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-255/North/326"
+      },
+      {
+        "highway": "IL 255",
+        "href": "/exits/Illinois/IL%20255/North/327",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/IL%20255/North/327"
+      },
+      {
+        "highway": "I-355",
+        "href": "/exits/Illinois/I-355/North/328",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-355/North/328"
+      },
+      {
+        "highway": "I-270",
+        "href": "/exits/Illinois/I-270/East/347",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-270/East/347"
+      },
+      {
+        "highway": "I-172",
+        "href": "/exits/Illinois/I-172/East/362",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-172/East/362"
+      },
+      {
+        "highway": "I-474",
+        "href": "/exits/Illinois/I-474/East/363",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-474/East/363"
+      },
+      {
+        "highway": "I-180",
+        "href": "/exits/Illinois/I-180/East/392",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-180/East/392"
+      },
+      {
+        "highway": "I-280",
+        "href": "/exits/Illinois/I-280/East/396",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-280/East/396"
+      },
+      {
+        "highway": "I-190",
+        "href": "/exits/Illinois/I-190/East/431",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-190/East/431"
+      },
+      {
+        "highway": "I-290",
+        "href": "/exits/Illinois/I-290/East/434",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-290/East/434"
+      },
+      {
+        "highway": "I-294",
+        "href": "/exits/Illinois/I-294/North/451",
+        "fullUrl": "https://www.iexitapp.com/exits/Illinois/I-294/North/451"
+      }
+    ]
+  },
+  {
+    "state": "Indiana",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Indiana/I-90/East/57",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-90/East/57"
+      },
+      {
+        "highway": "I-69",
+        "href": "/exits/Indiana/I-69/North/62",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-69/North/62"
+      },
+      {
+        "highway": "I-69",
+        "href": "/exits/Indiana/I-69/North/63",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-69/North/63"
+      },
+      {
+        "highway": "I-70",
+        "href": "/exits/Indiana/I-70/East/70",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-70/East/70"
+      },
+      {
+        "highway": "I-65",
+        "href": "/exits/Indiana/I-65/North/659",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-65/North/659"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Indiana/I-80/East/134",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-80/East/134"
+      },
+      {
+        "highway": "I-64",
+        "href": "/exits/Indiana/I-64/East/175",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-64/East/175"
+      },
+      {
+        "highway": "I-74",
+        "href": "/exits/Indiana/I-74/East/189",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-74/East/189"
+      },
+      {
+        "highway": "I-94",
+        "href": "/exits/Indiana/I-94/East/240",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-94/East/240"
+      },
+      {
+        "highway": "I-164",
+        "href": "/exits/Indiana/I-164/East/332",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-164/East/332"
+      },
+      {
+        "highway": "I-265",
+        "href": "/exits/Indiana/I-265/North/339",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-265/North/339"
+      },
+      {
+        "highway": "I-465",
+        "href": "/exits/Indiana/I-465/North/340",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-465/North/340"
+      },
+      {
+        "highway": "I-865",
+        "href": "/exits/Indiana/I-865/East/342",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-865/East/342"
+      },
+      {
+        "highway": "I-469",
+        "href": "/exits/Indiana/I-469/North/343",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-469/North/343"
+      },
+      {
+        "highway": "I-275",
+        "href": "/exits/Indiana/I-275/North/368",
+        "fullUrl": "https://www.iexitapp.com/exits/Indiana/I-275/North/368"
+      }
+    ]
+  },
+  {
+    "state": "Iowa",
+    "exitLinks": [
+      {
+        "highway": "I-35",
+        "href": "/exits/Iowa/I-35/North/684",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-35/North/684"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Iowa/I-80/East/132",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-80/East/132"
+      },
+      {
+        "highway": "I-29",
+        "href": "/exits/Iowa/I-29/North/157",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-29/North/157"
+      },
+      {
+        "highway": "I-74",
+        "href": "/exits/Iowa/I-74/East/187",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-74/East/187"
+      },
+      {
+        "highway": "I-129",
+        "href": "/exits/Iowa/I-129/North/290",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-129/North/290"
+      },
+      {
+        "highway": "I-235",
+        "href": "/exits/Iowa/I-235/North/299",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-235/North/299"
+      },
+      {
+        "highway": "I-280",
+        "href": "/exits/Iowa/I-280/East/395",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-280/East/395"
+      },
+      {
+        "highway": "I-380",
+        "href": "/exits/Iowa/I-380/West/400",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-380/West/400"
+      },
+      {
+        "highway": "I-480",
+        "href": "/exits/Iowa/I-480/East/403",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-480/East/403"
+      },
+      {
+        "highway": "I-680",
+        "href": "/exits/Iowa/I-680/East/409",
+        "fullUrl": "https://www.iexitapp.com/exits/Iowa/I-680/East/409"
+      }
+    ]
+  },
+  {
+    "state": "Kansas",
+    "exitLinks": [
+      {
+        "highway": "I-35",
+        "href": "/exits/Kansas/I-35/North/682",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-35/North/682"
+      },
+      {
+        "highway": "I-70",
+        "href": "/exits/Kansas/I-70/East/67",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-70/East/67"
+      },
+      {
+        "highway": "I-135",
+        "href": "/exits/Kansas/I-135/North/296",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-135/North/296"
+      },
+      {
+        "highway": "I-235",
+        "href": "/exits/Kansas/I-235/North/298",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-235/North/298"
+      },
+      {
+        "highway": "I-335",
+        "href": "/exits/Kansas/I-335/North/300",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-335/North/300"
+      },
+      {
+        "highway": "I-435",
+        "href": "/exits/Kansas/I-435/Inner/301",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-435/Inner/301"
+      },
+      {
+        "highway": "I-435",
+        "href": "/exits/Kansas/I-435/Inner/723",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-435/Inner/723"
+      },
+      {
+        "highway": "I-635",
+        "href": "/exits/Kansas/I-635/North/305",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-635/North/305"
+      },
+      {
+        "highway": "US 75",
+        "href": "/exits/Kansas/US%2075/North/321",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/US%2075/North/321"
+      },
+      {
+        "highway": "I-470",
+        "href": "/exits/Kansas/I-470/East/352",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-470/East/352"
+      },
+      {
+        "highway": "I-670",
+        "href": "/exits/Kansas/I-670/East/356",
+        "fullUrl": "https://www.iexitapp.com/exits/Kansas/I-670/East/356"
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "exitLinks": [
+      {
+        "highway": "I-65",
+        "href": "/exits/Kentucky/I-65/North/658",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-65/North/658"
+      },
+      {
+        "highway": "I-24",
+        "href": "/exits/Kentucky/I-24/East/567",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-24/East/567"
+      },
+      {
+        "highway": "I-64",
+        "href": "/exits/Kentucky/I-64/East/176",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-64/East/176"
+      },
+      {
+        "highway": "I-71",
+        "href": "/exits/Kentucky/I-71/North/183",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-71/North/183"
+      },
+      {
+        "highway": "I-75",
+        "href": "/exits/Kentucky/I-75/North/580",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-75/North/580"
+      },
+      {
+        "highway": "I-264",
+        "href": "/exits/Kentucky/I-264/East/333",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-264/East/333"
+      },
+      {
+        "highway": "I-265",
+        "href": "/exits/Kentucky/I-265/North/338",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-265/North/338"
+      },
+      {
+        "highway": "I-471",
+        "href": "/exits/Kentucky/I-471/North/360",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-471/North/360"
+      },
+      {
+        "highway": "I-275",
+        "href": "/exits/Kentucky/I-275/North/367",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/I-275/North/367"
+      },
+      {
+        "highway": "Western Kentucky Parkway",
+        "href": "/exits/Kentucky/Western%20Kentucky%20Parkway/East/493",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/Western%20Kentucky%20Parkway/East/493"
+      },
+      {
+        "highway": "Cumberland Parkway",
+        "href": "/exits/Kentucky/Cumberland%20Parkway/East/508",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/Cumberland%20Parkway/East/508"
+      },
+      {
+        "highway": "Purchase Parkway",
+        "href": "/exits/Kentucky/Purchase%20Parkway/North/509",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/Purchase%20Parkway/North/509"
+      },
+      {
+        "highway": "Pennyrile Parkway",
+        "href": "/exits/Kentucky/Pennyrile%20Parkway/North/510",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/Pennyrile%20Parkway/North/510"
+      },
+      {
+        "highway": "Natcher Parkway",
+        "href": "/exits/Kentucky/Natcher%20Parkway/North/511",
+        "fullUrl": "https://www.iexitapp.com/exits/Kentucky/Natcher%20Parkway/North/511"
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "exitLinks": [
+      {
+        "highway": "I-10",
+        "href": "/exits/Louisiana/I-10/East/646",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-10/East/646"
+      },
+      {
+        "highway": "I-20",
+        "href": "/exits/Louisiana/I-20/East/665",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-20/East/665"
+      },
+      {
+        "highway": "I-55",
+        "href": "/exits/Louisiana/I-55/North/113",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-55/North/113"
+      },
+      {
+        "highway": "I-59",
+        "href": "/exits/Louisiana/I-59/North/660",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-59/North/660"
+      },
+      {
+        "highway": "I-12",
+        "href": "/exits/Louisiana/I-12/East/144",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-12/East/144"
+      },
+      {
+        "highway": "I-49",
+        "href": "/exits/Louisiana/I-49/North/170",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-49/North/170"
+      },
+      {
+        "highway": "I-110",
+        "href": "/exits/Louisiana/I-110/East/261",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-110/East/261"
+      },
+      {
+        "highway": "I-210",
+        "href": "/exits/Louisiana/I-210/East/265",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-210/East/265"
+      },
+      {
+        "highway": "I-310",
+        "href": "/exits/Louisiana/I-310/East/266",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-310/East/266"
+      },
+      {
+        "highway": "I-510",
+        "href": "/exits/Louisiana/I-510/East/268",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-510/East/268"
+      },
+      {
+        "highway": "I-610",
+        "href": "/exits/Louisiana/I-610/East/270",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-610/East/270"
+      },
+      {
+        "highway": "I-910",
+        "href": "/exits/Louisiana/I-910/East/272",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-910/East/272"
+      },
+      {
+        "highway": "I-220",
+        "href": "/exits/Louisiana/I-220/East/279",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-220/East/279"
+      },
+      {
+        "highway": "I-49",
+        "href": "/exits/Louisiana/I-49/North/731",
+        "fullUrl": "https://www.iexitapp.com/exits/Louisiana/I-49/North/731"
+      }
+    ]
+  },
+  {
+    "state": "Maine",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/Maine/I-95/North/625",
+        "fullUrl": "https://www.iexitapp.com/exits/Maine/I-95/North/625"
+      },
+      {
+        "highway": "I-195",
+        "href": "/exits/Maine/I-195/North/463",
+        "fullUrl": "https://www.iexitapp.com/exits/Maine/I-195/North/463"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Maine/I-295/North/469",
+        "fullUrl": "https://www.iexitapp.com/exits/Maine/I-295/North/469"
+      },
+      {
+        "highway": "I-395",
+        "href": "/exits/Maine/I-395/North/474",
+        "fullUrl": "https://www.iexitapp.com/exits/Maine/I-395/North/474"
+      }
+    ]
+  },
+  {
+    "state": "Maryland",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/Maryland/I-95/North/691",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-95/North/691"
+      },
+      {
+        "highway": "I-70",
+        "href": "/exits/Maryland/I-70/East/74",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-70/East/74"
+      },
+      {
+        "highway": "I-68",
+        "href": "/exits/Maryland/I-68/East/182",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-68/East/182"
+      },
+      {
+        "highway": "I-81",
+        "href": "/exits/Maryland/I-81/North/207",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-81/North/207"
+      },
+      {
+        "highway": "I-83",
+        "href": "/exits/Maryland/I-83/North/212",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-83/North/212"
+      },
+      {
+        "highway": "I-97",
+        "href": "/exits/Maryland/I-97/North/243",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-97/North/243"
+      },
+      {
+        "highway": "I-270",
+        "href": "/exits/Maryland/I-270/East/349",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-270/East/349"
+      },
+      {
+        "highway": "I-370",
+        "href": "/exits/Maryland/I-370/East/350",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-370/East/350"
+      },
+      {
+        "highway": "MD 200",
+        "href": "/exits/Maryland/MD%20200/East/351",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/MD%20200/East/351"
+      },
+      {
+        "highway": "I-195",
+        "href": "/exits/Maryland/I-195/North/459",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-195/North/459"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Maryland/I-295/North/465",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-295/North/465"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Maryland/I-295/North/734",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-295/North/734"
+      },
+      {
+        "highway": "I-495",
+        "href": "/exits/Maryland/I-495/North/475",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-495/North/475"
+      },
+      {
+        "highway": "US 50",
+        "href": "/exits/Maryland/US%2050/East/481",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/US%2050/East/481"
+      },
+      {
+        "highway": "I-695",
+        "href": "/exits/Maryland/I-695/North/483",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-695/North/483"
+      },
+      {
+        "highway": "I-795",
+        "href": "/exits/Maryland/I-795/North/486",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-795/North/486"
+      },
+      {
+        "highway": "I-895",
+        "href": "/exits/Maryland/I-895/North/487",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/I-895/North/487"
+      },
+      {
+        "highway": "MD 100",
+        "href": "/exits/Maryland/MD%20100/East/512",
+        "fullUrl": "https://www.iexitapp.com/exits/Maryland/MD%20100/East/512"
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/Massachusetts/I-95/North/623",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-95/North/623"
+      },
+      {
+        "highway": "I-90",
+        "href": "/exits/Massachusetts/I-90/East/61",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-90/East/61"
+      },
+      {
+        "highway": "I-84",
+        "href": "/exits/Massachusetts/I-84/East/221",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-84/East/221"
+      },
+      {
+        "highway": "I-91",
+        "href": "/exits/Massachusetts/I-91/North/230",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-91/North/230"
+      },
+      {
+        "highway": "I-93",
+        "href": "/exits/Massachusetts/I-93/North/232",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-93/North/232"
+      },
+      {
+        "highway": "I-190",
+        "href": "/exits/Massachusetts/I-190/East/433",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-190/East/433"
+      },
+      {
+        "highway": "I-290",
+        "href": "/exits/Massachusetts/I-290/East/436",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-290/East/436"
+      },
+      {
+        "highway": "I-291",
+        "href": "/exits/Massachusetts/I-291/North/445",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-291/North/445"
+      },
+      {
+        "highway": "I-391",
+        "href": "/exits/Massachusetts/I-391/North/446",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-391/North/446"
+      },
+      {
+        "highway": "I-195",
+        "href": "/exits/Massachusetts/I-195/East/462",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-195/East/462"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Massachusetts/I-295/North/468",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-295/North/468"
+      },
+      {
+        "highway": "I-395",
+        "href": "/exits/Massachusetts/I-395/North/473",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-395/North/473"
+      },
+      {
+        "highway": "I-495",
+        "href": "/exits/Massachusetts/I-495/North/478",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/I-495/North/478"
+      },
+      {
+        "highway": "US 3",
+        "href": "/exits/Massachusetts/US%203/North/513",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/US%203/North/513"
+      },
+      {
+        "highway": "MA 3",
+        "href": "/exits/Massachusetts/MA%203/North/525",
+        "fullUrl": "https://www.iexitapp.com/exits/Massachusetts/MA%203/North/525"
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "exitLinks": [
+      {
+        "highway": "I-69",
+        "href": "/exits/Michigan/I-69/North/64",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-69/North/64"
+      },
+      {
+        "highway": "I-75",
+        "href": "/exits/Michigan/I-75/North/582",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-75/North/582"
+      },
+      {
+        "highway": "I-94",
+        "href": "/exits/Michigan/I-94/East/241",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-94/East/241"
+      },
+      {
+        "highway": "I-96",
+        "href": "/exits/Michigan/I-96/East/242",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-96/East/242"
+      },
+      {
+        "highway": "I-275",
+        "href": "/exits/Michigan/I-275/North/370",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-275/North/370"
+      },
+      {
+        "highway": "I-375",
+        "href": "/exits/Michigan/I-375/North/372",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-375/North/372"
+      },
+      {
+        "highway": "I-475",
+        "href": "/exits/Michigan/I-475/North/375",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-475/North/375"
+      },
+      {
+        "highway": "I-675",
+        "href": "/exits/Michigan/I-675/North/379",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-675/North/379"
+      },
+      {
+        "highway": "I-194",
+        "href": "/exits/Michigan/I-194/East/450",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-194/East/450"
+      },
+      {
+        "highway": "I-196",
+        "href": "/exits/Michigan/I-196/East/489",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-196/East/489"
+      },
+      {
+        "highway": "US 131",
+        "href": "/exits/Michigan/US%20131/North/490",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/US%20131/North/490"
+      },
+      {
+        "highway": "I-496",
+        "href": "/exits/Michigan/I-496/East/491",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-496/East/491"
+      },
+      {
+        "highway": "I-696",
+        "href": "/exits/Michigan/I-696/East/492",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/I-696/East/492"
+      },
+      {
+        "highway": "US 23",
+        "href": "/exits/Michigan/US%2023/North/528",
+        "fullUrl": "https://www.iexitapp.com/exits/Michigan/US%2023/North/528"
+      }
+    ]
+  },
+  {
+    "state": "Minnesota",
+    "exitLinks": [
+      {
+        "highway": "I-35W",
+        "href": "/exits/Minnesota/I-35W/North/679",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-35W/North/679"
+      },
+      {
+        "highway": "I-35",
+        "href": "/exits/Minnesota/I-35/North/685",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-35/North/685"
+      },
+      {
+        "highway": "I-90",
+        "href": "/exits/Minnesota/I-90/East/54",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-90/East/54"
+      },
+      {
+        "highway": "I-94",
+        "href": "/exits/Minnesota/I-94/East/237",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-94/East/237"
+      },
+      {
+        "highway": "I-535",
+        "href": "/exits/Minnesota/I-535/North/304",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-535/North/304"
+      },
+      {
+        "highway": "I-394",
+        "href": "/exits/Minnesota/I-394/East/452",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-394/East/452"
+      },
+      {
+        "highway": "I-494",
+        "href": "/exits/Minnesota/I-494/East/453",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-494/East/453"
+      },
+      {
+        "highway": "I-694",
+        "href": "/exits/Minnesota/I-694/East/454",
+        "fullUrl": "https://www.iexitapp.com/exits/Minnesota/I-694/East/454"
+      }
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "exitLinks": [
+      {
+        "highway": "I-10",
+        "href": "/exits/Mississippi/I-10/East/647",
+        "fullUrl": "https://www.iexitapp.com/exits/Mississippi/I-10/East/647"
+      },
+      {
+        "highway": "I-20",
+        "href": "/exits/Mississippi/I-20/East/666",
+        "fullUrl": "https://www.iexitapp.com/exits/Mississippi/I-20/East/666"
+      },
+      {
+        "highway": "I-22",
+        "href": "/exits/Mississippi/I-22/East/100",
+        "fullUrl": "https://www.iexitapp.com/exits/Mississippi/I-22/East/100"
+      },
+      {
+        "highway": "I-55",
+        "href": "/exits/Mississippi/I-55/North/114",
+        "fullUrl": "https://www.iexitapp.com/exits/Mississippi/I-55/North/114"
+      },
+      {
+        "highway": "I-59",
+        "href": "/exits/Mississippi/I-59/North/661",
+        "fullUrl": "https://www.iexitapp.com/exits/Mississippi/I-59/North/661"
+      },
+      {
+        "highway": "I-110",
+        "href": "/exits/Mississippi/I-110/East/262",
+        "fullUrl": "https://www.iexitapp.com/exits/Mississippi/I-110/East/262"
+      },
+      {
+        "highway": "I-220",
+        "href": "/exits/Mississippi/I-220/East/280",
+        "fullUrl": "https://www.iexitapp.com/exits/Mississippi/I-220/East/280"
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "exitLinks": [
+      {
+        "highway": "I-35",
+        "href": "/exits/Missouri/I-35/North/683",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-35/North/683"
+      },
+      {
+        "highway": "I-70",
+        "href": "/exits/Missouri/I-70/East/68",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-70/East/68"
+      },
+      {
+        "highway": "I-55",
+        "href": "/exits/Missouri/I-55/North/117",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-55/North/117"
+      },
+      {
+        "highway": "I-29",
+        "href": "/exits/Missouri/I-29/North/156",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-29/North/156"
+      },
+      {
+        "highway": "I-44",
+        "href": "/exits/Missouri/I-44/East/168",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-44/East/168"
+      },
+      {
+        "highway": "I-57",
+        "href": "/exits/Missouri/I-57/North/171",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-57/North/171"
+      },
+      {
+        "highway": "I-64",
+        "href": "/exits/Missouri/I-64/East/173",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-64/East/173"
+      },
+      {
+        "highway": "I-229",
+        "href": "/exits/Missouri/I-229/North/291",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-229/North/291"
+      },
+      {
+        "highway": "I-435",
+        "href": "/exits/Missouri/I-435/Inner/302",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-435/Inner/302"
+      },
+      {
+        "highway": "I-635",
+        "href": "/exits/Missouri/I-635/North/306",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-635/North/306"
+      },
+      {
+        "highway": "I-155",
+        "href": "/exits/Missouri/I-155/North/323",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-155/North/323"
+      },
+      {
+        "highway": "I-255",
+        "href": "/exits/Missouri/I-255/North/325",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-255/North/325"
+      },
+      {
+        "highway": "I-170",
+        "href": "/exits/Missouri/I-170/North/344",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-170/North/344"
+      },
+      {
+        "highway": "I-270",
+        "href": "/exits/Missouri/I-270/East/346",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-270/East/346"
+      },
+      {
+        "highway": "I-470",
+        "href": "/exits/Missouri/I-470/East/353",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-470/East/353"
+      },
+      {
+        "highway": "I-670",
+        "href": "/exits/Missouri/I-670/East/357",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-670/East/357"
+      },
+      {
+        "highway": "I-49",
+        "href": "/exits/Missouri/I-49/North/727",
+        "fullUrl": "https://www.iexitapp.com/exits/Missouri/I-49/North/727"
+      }
+    ]
+  },
+  {
+    "state": "Montana",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Montana/I-90/East/51",
+        "fullUrl": "https://www.iexitapp.com/exits/Montana/I-90/East/51"
+      },
+      {
+        "highway": "I-15",
+        "href": "/exits/Montana/I-15/North/92",
+        "fullUrl": "https://www.iexitapp.com/exits/Montana/I-15/North/92"
+      },
+      {
+        "highway": "I-94",
+        "href": "/exits/Montana/I-94/East/235",
+        "fullUrl": "https://www.iexitapp.com/exits/Montana/I-94/East/235"
+      },
+      {
+        "highway": "I-115",
+        "href": "/exits/Montana/I-115/North/273",
+        "fullUrl": "https://www.iexitapp.com/exits/Montana/I-115/North/273"
+      }
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "exitLinks": [
+      {
+        "highway": "I-76",
+        "href": "/exits/Nebraska/I-76/East/78",
+        "fullUrl": "https://www.iexitapp.com/exits/Nebraska/I-76/East/78"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Nebraska/I-80/East/131",
+        "fullUrl": "https://www.iexitapp.com/exits/Nebraska/I-80/East/131"
+      },
+      {
+        "highway": "I-129",
+        "href": "/exits/Nebraska/I-129/North/289",
+        "fullUrl": "https://www.iexitapp.com/exits/Nebraska/I-129/North/289"
+      },
+      {
+        "highway": "I-180",
+        "href": "/exits/Nebraska/I-180/East/391",
+        "fullUrl": "https://www.iexitapp.com/exits/Nebraska/I-180/East/391"
+      },
+      {
+        "highway": "I-480",
+        "href": "/exits/Nebraska/I-480/East/402",
+        "fullUrl": "https://www.iexitapp.com/exits/Nebraska/I-480/East/402"
+      },
+      {
+        "highway": "I-680",
+        "href": "/exits/Nebraska/I-680/East/408",
+        "fullUrl": "https://www.iexitapp.com/exits/Nebraska/I-680/East/408"
+      }
+    ]
+  },
+  {
+    "state": "Nevada",
+    "exitLinks": [
+      {
+        "highway": "I-15",
+        "href": "/exits/Nevada/I-15/North/88",
+        "fullUrl": "https://www.iexitapp.com/exits/Nevada/I-15/North/88"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Nevada/I-80/East/128",
+        "fullUrl": "https://www.iexitapp.com/exits/Nevada/I-80/East/128"
+      },
+      {
+        "highway": "I-215",
+        "href": "/exits/Nevada/I-215/North/275",
+        "fullUrl": "https://www.iexitapp.com/exits/Nevada/I-215/North/275"
+      },
+      {
+        "highway": "I-515",
+        "href": "/exits/Nevada/I-515/North/277",
+        "fullUrl": "https://www.iexitapp.com/exits/Nevada/I-515/North/277"
+      },
+      {
+        "highway": "I-580",
+        "href": "/exits/Nevada/I-580/East/406",
+        "fullUrl": "https://www.iexitapp.com/exits/Nevada/I-580/East/406"
+      },
+      {
+        "highway": "US 95",
+        "href": "/exits/Nevada/US%2095/North/526",
+        "fullUrl": "https://www.iexitapp.com/exits/Nevada/US%2095/North/526"
+      },
+      {
+        "highway": "I-11",
+        "href": "/exits/Nevada/I-11/North/733",
+        "fullUrl": "https://www.iexitapp.com/exits/Nevada/I-11/North/733"
+      }
+    ]
+  },
+  {
+    "state": "New Hampshire",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/New%20Hampshire/I-95/North/624",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Hampshire/I-95/North/624"
+      },
+      {
+        "highway": "I-89",
+        "href": "/exits/New%20Hampshire/I-89/North/227",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Hampshire/I-89/North/227"
+      },
+      {
+        "highway": "I-93",
+        "href": "/exits/New%20Hampshire/I-93/North/233",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Hampshire/I-93/North/233"
+      },
+      {
+        "highway": "I-293",
+        "href": "/exits/New%20Hampshire/I-293/North/448",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Hampshire/I-293/North/448"
+      },
+      {
+        "highway": "I-393",
+        "href": "/exits/New%20Hampshire/I-393/North/449",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Hampshire/I-393/North/449"
+      },
+      {
+        "highway": "Spaulding Turnpike",
+        "href": "/exits/New%20Hampshire/Spaulding%20Turnpike/North/494",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Hampshire/Spaulding%20Turnpike/North/494"
+      },
+      {
+        "highway": "US 3",
+        "href": "/exits/New%20Hampshire/US%203/North/514",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Hampshire/US%203/North/514"
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "exitLinks": [
+      {
+        "highway": "I-278",
+        "href": "/exits/New%20Jersey/I-278/North/632",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-278/North/632"
+      },
+      {
+        "highway": "I-78",
+        "href": "/exits/New%20Jersey/I-78/East/635",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-78/East/635"
+      },
+      {
+        "highway": "New Jersey Turnpike",
+        "href": "/exits/New%20Jersey/New%20Jersey%20Turnpike/North/637",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/New%20Jersey%20Turnpike/North/637"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/New%20Jersey/I-295/North/641",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-295/North/641"
+      },
+      {
+        "highway": "I-95",
+        "href": "/exits/New%20Jersey/I-95/North/619",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-95/North/619"
+      },
+      {
+        "highway": "I-76",
+        "href": "/exits/New%20Jersey/I-76/East/81",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-76/East/81"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/New%20Jersey/I-80/East/137",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-80/East/137"
+      },
+      {
+        "highway": "I-676",
+        "href": "/exits/New%20Jersey/I-676/East/385",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-676/East/385"
+      },
+      {
+        "highway": "I-280",
+        "href": "/exits/New%20Jersey/I-280/East/397",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-280/East/397"
+      },
+      {
+        "highway": "I-287",
+        "href": "/exits/New%20Jersey/I-287/North/427",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-287/North/427"
+      },
+      {
+        "highway": "I-195",
+        "href": "/exits/New%20Jersey/I-195/North/460",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/I-195/North/460"
+      },
+      {
+        "highway": "Garden State Parkway",
+        "href": "/exits/New%20Jersey/Garden%20State%20Parkway/North/523",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Jersey/Garden%20State%20Parkway/North/523"
+      }
+    ]
+  },
+  {
+    "state": "New Mexico",
+    "exitLinks": [
+      {
+        "highway": "I-10",
+        "href": "/exits/New%20Mexico/I-10/East/644",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Mexico/I-10/East/644"
+      },
+      {
+        "highway": "I-40",
+        "href": "/exits/New%20Mexico/I-40/East/672",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Mexico/I-40/East/672"
+      },
+      {
+        "highway": "I-25",
+        "href": "/exits/New%20Mexico/I-25/North/152",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20Mexico/I-25/North/152"
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "exitLinks": [
+      {
+        "highway": "Hutchinson River Parkway",
+        "href": "/exits/New%20York/Hutchinson%20River%20Parkway/North/631",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/Hutchinson%20River%20Parkway/North/631"
+      },
+      {
+        "highway": "I-278",
+        "href": "/exits/New%20York/I-278/North/633",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-278/North/633"
+      },
+      {
+        "highway": "I-78",
+        "href": "/exits/New%20York/I-78/East/636",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-78/East/636"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/New%20York/I-295/North/638",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-295/North/638"
+      },
+      {
+        "highway": "I-678",
+        "href": "/exits/New%20York/I-678/North/639",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-678/North/639"
+      },
+      {
+        "highway": "I-495",
+        "href": "/exits/New%20York/I-495/East/651",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-495/East/651"
+      },
+      {
+        "highway": "I-87",
+        "href": "/exits/New%20York/I-87/North/653",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-87/North/653"
+      },
+      {
+        "highway": "I-95",
+        "href": "/exits/New%20York/I-95/North/620",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-95/North/620"
+      },
+      {
+        "highway": "I-90",
+        "href": "/exits/New%20York/I-90/East/60",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-90/East/60"
+      },
+      {
+        "highway": "I-86",
+        "href": "/exits/New%20York/I-86/East/725",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-86/East/725"
+      },
+      {
+        "highway": "I-88",
+        "href": "/exits/New%20York/I-88/East/86",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-88/East/86"
+      },
+      {
+        "highway": "I-81",
+        "href": "/exits/New%20York/I-81/North/209",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-81/North/209"
+      },
+      {
+        "highway": "I-84",
+        "href": "/exits/New%20York/I-84/East/219",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-84/East/219"
+      },
+      {
+        "highway": "I-481",
+        "href": "/exits/New%20York/I-481/North/413",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-481/North/413"
+      },
+      {
+        "highway": "I-684",
+        "href": "/exits/New%20York/I-684/East/419",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-684/East/419"
+      },
+      {
+        "highway": "I-287",
+        "href": "/exits/New%20York/I-287/North/428",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-287/North/428"
+      },
+      {
+        "highway": "I-787",
+        "href": "/exits/New%20York/I-787/North/429",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-787/North/429"
+      },
+      {
+        "highway": "I-190",
+        "href": "/exits/New%20York/I-190/North/432",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-190/North/432"
+      },
+      {
+        "highway": "I-290",
+        "href": "/exits/New%20York/I-290/East/435",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-290/East/435"
+      },
+      {
+        "highway": "I-390",
+        "href": "/exits/New%20York/I-390/East/437",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-390/East/437"
+      },
+      {
+        "highway": "I-490",
+        "href": "/exits/New%20York/I-490/East/439",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-490/East/439"
+      },
+      {
+        "highway": "I-590",
+        "href": "/exits/New%20York/I-590/East/440",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-590/East/440"
+      },
+      {
+        "highway": "I-690",
+        "href": "/exits/New%20York/I-690/East/441",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-690/East/441"
+      },
+      {
+        "highway": "I-890",
+        "href": "/exits/New%20York/I-890/East/442",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-890/East/442"
+      },
+      {
+        "highway": "I-990",
+        "href": "/exits/New%20York/I-990/East/443",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-990/East/443"
+      },
+      {
+        "highway": "I-695",
+        "href": "/exits/New%20York/I-695/North/484",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-695/North/484"
+      },
+      {
+        "highway": "I-895",
+        "href": "/exits/New%20York/I-895/North/488",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/I-895/North/488"
+      },
+      {
+        "highway": "Garden State Parkway",
+        "href": "/exits/New%20York/Garden%20State%20Parkway/North/524",
+        "fullUrl": "https://www.iexitapp.com/exits/New%20York/Garden%20State%20Parkway/North/524"
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/North%20Carolina/I-95/North/689",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-95/North/689"
+      },
+      {
+        "highway": "I-73",
+        "href": "/exits/North%20Carolina/I-73/North/75",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-73/North/75"
+      },
+      {
+        "highway": "I-74",
+        "href": "/exits/North%20Carolina/I-74/East/76",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-74/East/76"
+      },
+      {
+        "highway": "I-26",
+        "href": "/exits/North%20Carolina/I-26/East/103",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-26/East/103"
+      },
+      {
+        "highway": "I-40",
+        "href": "/exits/North%20Carolina/I-40/East/677",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-40/East/677"
+      },
+      {
+        "highway": "I-77",
+        "href": "/exits/North%20Carolina/I-77/North/198",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-77/North/198"
+      },
+      {
+        "highway": "I-85",
+        "href": "/exits/North%20Carolina/I-85/North/718",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-85/North/718"
+      },
+      {
+        "highway": "I-240",
+        "href": "/exits/North%20Carolina/I-240/East/312",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-240/East/312"
+      },
+      {
+        "highway": "I-440",
+        "href": "/exits/North%20Carolina/I-440/East/315",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-440/East/315"
+      },
+      {
+        "highway": "I-540",
+        "href": "/exits/North%20Carolina/I-540/East/317",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-540/East/317"
+      },
+      {
+        "highway": "I-277",
+        "href": "/exits/North%20Carolina/I-277/North/386",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-277/North/386"
+      },
+      {
+        "highway": "I-485",
+        "href": "/exits/North%20Carolina/I-485/North/424",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-485/North/424"
+      },
+      {
+        "highway": "I-795",
+        "href": "/exits/North%20Carolina/I-795/North/485",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/I-795/North/485"
+      },
+      {
+        "highway": "NC 147",
+        "href": "/exits/North%20Carolina/NC%20147/North/522",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Carolina/NC%20147/North/522"
+      }
+    ]
+  },
+  {
+    "state": "North Dakota",
+    "exitLinks": [
+      {
+        "highway": "I-29",
+        "href": "/exits/North%20Dakota/I-29/North/159",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Dakota/I-29/North/159"
+      },
+      {
+        "highway": "I-94",
+        "href": "/exits/North%20Dakota/I-94/East/236",
+        "fullUrl": "https://www.iexitapp.com/exits/North%20Dakota/I-94/East/236"
+      }
+    ]
+  },
+  {
+    "state": "Ohio",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Ohio/I-90/East/58",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-90/East/58"
+      },
+      {
+        "highway": "I-70",
+        "href": "/exits/Ohio/I-70/East/71",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-70/East/71"
+      },
+      {
+        "highway": "I-76",
+        "href": "/exits/Ohio/I-76/East/79",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-76/East/79"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Ohio/I-80/East/135",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-80/East/135"
+      },
+      {
+        "highway": "I-71",
+        "href": "/exits/Ohio/I-71/North/184",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-71/North/184"
+      },
+      {
+        "highway": "I-74",
+        "href": "/exits/Ohio/I-74/East/190",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-74/East/190"
+      },
+      {
+        "highway": "I-75",
+        "href": "/exits/Ohio/I-75/North/581",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-75/North/581"
+      },
+      {
+        "highway": "I-77",
+        "href": "/exits/Ohio/I-77/North/201",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-77/North/201"
+      },
+      {
+        "highway": "I-270",
+        "href": "/exits/Ohio/I-270/East/348",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-270/East/348"
+      },
+      {
+        "highway": "I-470",
+        "href": "/exits/Ohio/I-470/East/354",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-470/East/354"
+      },
+      {
+        "highway": "I-670",
+        "href": "/exits/Ohio/I-670/East/358",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-670/East/358"
+      },
+      {
+        "highway": "I-271",
+        "href": "/exits/Ohio/I-271/North/359",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-271/North/359"
+      },
+      {
+        "highway": "I-471",
+        "href": "/exits/Ohio/I-471/North/361",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-471/North/361"
+      },
+      {
+        "highway": "I-275",
+        "href": "/exits/Ohio/I-275/North/369",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-275/North/369"
+      },
+      {
+        "highway": "I-475",
+        "href": "/exits/Ohio/I-475/North/374",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-475/North/374"
+      },
+      {
+        "highway": "I-675",
+        "href": "/exits/Ohio/I-675/North/378",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-675/North/378"
+      },
+      {
+        "highway": "I-277",
+        "href": "/exits/Ohio/I-277/North/387",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-277/North/387"
+      },
+      {
+        "highway": "I-280",
+        "href": "/exits/Ohio/I-280/East/398",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-280/East/398"
+      },
+      {
+        "highway": "I-480",
+        "href": "/exits/Ohio/I-480/East/404",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-480/East/404"
+      },
+      {
+        "highway": "I-680",
+        "href": "/exits/Ohio/I-680/East/410",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-680/East/410"
+      },
+      {
+        "highway": "I-490",
+        "href": "/exits/Ohio/I-490/East/438",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/I-490/East/438"
+      },
+      {
+        "highway": "US 23",
+        "href": "/exits/Ohio/US%2023/North/527",
+        "fullUrl": "https://www.iexitapp.com/exits/Ohio/US%2023/North/527"
+      }
+    ]
+  },
+  {
+    "state": "Oklahoma",
+    "exitLinks": [
+      {
+        "highway": "I-35",
+        "href": "/exits/Oklahoma/I-35/North/681",
+        "fullUrl": "https://www.iexitapp.com/exits/Oklahoma/I-35/North/681"
+      },
+      {
+        "highway": "I-40",
+        "href": "/exits/Oklahoma/I-40/East/674",
+        "fullUrl": "https://www.iexitapp.com/exits/Oklahoma/I-40/East/674"
+      },
+      {
+        "highway": "I-44",
+        "href": "/exits/Oklahoma/I-44/East/167",
+        "fullUrl": "https://www.iexitapp.com/exits/Oklahoma/I-44/East/167"
+      },
+      {
+        "highway": "I-235",
+        "href": "/exits/Oklahoma/I-235/North/297",
+        "fullUrl": "https://www.iexitapp.com/exits/Oklahoma/I-235/North/297"
+      },
+      {
+        "highway": "I-240",
+        "href": "/exits/Oklahoma/I-240/East/310",
+        "fullUrl": "https://www.iexitapp.com/exits/Oklahoma/I-240/East/310"
+      },
+      {
+        "highway": "I-244",
+        "href": "/exits/Oklahoma/I-244/East/319",
+        "fullUrl": "https://www.iexitapp.com/exits/Oklahoma/I-244/East/319"
+      },
+      {
+        "highway": "US 75",
+        "href": "/exits/Oklahoma/US%2075/North/320",
+        "fullUrl": "https://www.iexitapp.com/exits/Oklahoma/US%2075/North/320"
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "exitLinks": [
+      {
+        "highway": "I-5",
+        "href": "/exits/Oregon/I-5/North/140",
+        "fullUrl": "https://www.iexitapp.com/exits/Oregon/I-5/North/140"
+      },
+      {
+        "highway": "I-82",
+        "href": "/exits/Oregon/I-82/East/211",
+        "fullUrl": "https://www.iexitapp.com/exits/Oregon/I-82/East/211"
+      },
+      {
+        "highway": "I-84",
+        "href": "/exits/Oregon/I-84/East/214",
+        "fullUrl": "https://www.iexitapp.com/exits/Oregon/I-84/East/214"
+      },
+      {
+        "highway": "I-105",
+        "href": "/exits/Oregon/I-105/North/249",
+        "fullUrl": "https://www.iexitapp.com/exits/Oregon/I-105/North/249"
+      },
+      {
+        "highway": "I-205",
+        "href": "/exits/Oregon/I-205/North/251",
+        "fullUrl": "https://www.iexitapp.com/exits/Oregon/I-205/North/251"
+      },
+      {
+        "highway": "I-405",
+        "href": "/exits/Oregon/I-405/North/254",
+        "fullUrl": "https://www.iexitapp.com/exits/Oregon/I-405/North/254"
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "exitLinks": [
+      {
+        "highway": "I-78",
+        "href": "/exits/Pennsylvania/I-78/East/634",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-78/East/634"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Pennsylvania/I-295/North/737",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-295/North/737"
+      },
+      {
+        "highway": "I-95",
+        "href": "/exits/Pennsylvania/I-95/North/693",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-95/North/693"
+      },
+      {
+        "highway": "I-90",
+        "href": "/exits/Pennsylvania/I-90/East/59",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-90/East/59"
+      },
+      {
+        "highway": "I-70",
+        "href": "/exits/Pennsylvania/I-70/East/73",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-70/East/73"
+      },
+      {
+        "highway": "I-76",
+        "href": "/exits/Pennsylvania/I-76/East/80",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-76/East/80"
+      },
+      {
+        "highway": "I-86",
+        "href": "/exits/Pennsylvania/I-86/East/724",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-86/East/724"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Pennsylvania/I-80/East/136",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-80/East/136"
+      },
+      {
+        "highway": "I-79",
+        "href": "/exits/Pennsylvania/I-79/North/203",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-79/North/203"
+      },
+      {
+        "highway": "I-81",
+        "href": "/exits/Pennsylvania/I-81/North/208",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-81/North/208"
+      },
+      {
+        "highway": "I-83",
+        "href": "/exits/Pennsylvania/I-83/North/213",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-83/North/213"
+      },
+      {
+        "highway": "I-84",
+        "href": "/exits/Pennsylvania/I-84/East/218",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-84/East/218"
+      },
+      {
+        "highway": "I-99",
+        "href": "/exits/Pennsylvania/I-99/North/244",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-99/North/244"
+      },
+      {
+        "highway": "I-176",
+        "href": "/exits/Pennsylvania/I-176/East/380",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-176/East/380"
+      },
+      {
+        "highway": "I-276",
+        "href": "/exits/Pennsylvania/I-276/East/381",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-276/East/381"
+      },
+      {
+        "highway": "I-376",
+        "href": "/exits/Pennsylvania/I-376/East/382",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-376/East/382"
+      },
+      {
+        "highway": "I-476",
+        "href": "/exits/Pennsylvania/I-476/North/383",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-476/North/383"
+      },
+      {
+        "highway": "I-676",
+        "href": "/exits/Pennsylvania/I-676/East/384",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-676/East/384"
+      },
+      {
+        "highway": "I-279",
+        "href": "/exits/Pennsylvania/I-279/North/389",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-279/North/389"
+      },
+      {
+        "highway": "I-579",
+        "href": "/exits/Pennsylvania/I-579/North/390",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-579/North/390"
+      },
+      {
+        "highway": "I-180",
+        "href": "/exits/Pennsylvania/I-180/East/393",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-180/East/393"
+      },
+      {
+        "highway": "I-380",
+        "href": "/exits/Pennsylvania/I-380/East/401",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-380/East/401"
+      },
+      {
+        "highway": "I-283",
+        "href": "/exits/Pennsylvania/I-283/North/416",
+        "fullUrl": "https://www.iexitapp.com/exits/Pennsylvania/I-283/North/416"
+      }
+    ]
+  },
+  {
+    "state": "Rhode Island",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/Rhode%20Island/I-95/North/622",
+        "fullUrl": "https://www.iexitapp.com/exits/Rhode%20Island/I-95/North/622"
+      },
+      {
+        "highway": "I-195",
+        "href": "/exits/Rhode%20Island/I-195/East/461",
+        "fullUrl": "https://www.iexitapp.com/exits/Rhode%20Island/I-195/East/461"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Rhode%20Island/I-295/North/467",
+        "fullUrl": "https://www.iexitapp.com/exits/Rhode%20Island/I-295/North/467"
+      }
+    ]
+  },
+  {
+    "state": "South Carolina",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/South%20Carolina/I-95/North/688",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-95/North/688"
+      },
+      {
+        "highway": "I-20",
+        "href": "/exits/South%20Carolina/I-20/East/669",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-20/East/669"
+      },
+      {
+        "highway": "I-26",
+        "href": "/exits/South%20Carolina/I-26/East/104",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-26/East/104"
+      },
+      {
+        "highway": "I-77",
+        "href": "/exits/South%20Carolina/I-77/North/197",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-77/North/197"
+      },
+      {
+        "highway": "I-85",
+        "href": "/exits/South%20Carolina/I-85/North/717",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-85/North/717"
+      },
+      {
+        "highway": "I-520",
+        "href": "/exits/South%20Carolina/I-520/East/282",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-520/East/282"
+      },
+      {
+        "highway": "I-126",
+        "href": "/exits/South%20Carolina/I-126/East/287",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-126/East/287"
+      },
+      {
+        "highway": "I-526",
+        "href": "/exits/South%20Carolina/I-526/East/288",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-526/East/288"
+      },
+      {
+        "highway": "I-185",
+        "href": "/exits/South%20Carolina/I-185/North/421",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-185/North/421"
+      },
+      {
+        "highway": "I-385",
+        "href": "/exits/South%20Carolina/I-385/North/423",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-385/North/423"
+      },
+      {
+        "highway": "I-585",
+        "href": "/exits/South%20Carolina/I-585/North/425",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Carolina/I-585/North/425"
+      }
+    ]
+  },
+  {
+    "state": "South Dakota",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/South%20Dakota/I-90/East/53",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Dakota/I-90/East/53"
+      },
+      {
+        "highway": "I-29",
+        "href": "/exits/South%20Dakota/I-29/North/158",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Dakota/I-29/North/158"
+      },
+      {
+        "highway": "I-229",
+        "href": "/exits/South%20Dakota/I-229/North/292",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Dakota/I-229/North/292"
+      },
+      {
+        "highway": "I-190",
+        "href": "/exits/South%20Dakota/I-190/East/430",
+        "fullUrl": "https://www.iexitapp.com/exits/South%20Dakota/I-190/East/430"
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "exitLinks": [
+      {
+        "highway": "I-22",
+        "href": "/exits/Tennessee/I-22/East/99",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-22/East/99"
+      },
+      {
+        "highway": "I-26",
+        "href": "/exits/Tennessee/I-26/East/102",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-26/East/102"
+      },
+      {
+        "highway": "I-40",
+        "href": "/exits/Tennessee/I-40/East/676",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-40/East/676"
+      },
+      {
+        "highway": "I-55",
+        "href": "/exits/Tennessee/I-55/North/115",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-55/North/115"
+      },
+      {
+        "highway": "I-65",
+        "href": "/exits/Tennessee/I-65/North/657",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-65/North/657"
+      },
+      {
+        "highway": "I-24",
+        "href": "/exits/Tennessee/I-24/East/568",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-24/East/568"
+      },
+      {
+        "highway": "I-24",
+        "href": "/exits/Tennessee/I-24/East/570",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-24/East/570"
+      },
+      {
+        "highway": "I-75",
+        "href": "/exits/Tennessee/I-75/North/579",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-75/North/579"
+      },
+      {
+        "highway": "I-81",
+        "href": "/exits/Tennessee/I-81/North/204",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-81/North/204"
+      },
+      {
+        "highway": "I-124",
+        "href": "/exits/Tennessee/I-124/North/284",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-124/North/284"
+      },
+      {
+        "highway": "I-140",
+        "href": "/exits/Tennessee/I-140/East/309",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-140/East/309"
+      },
+      {
+        "highway": "I-240",
+        "href": "/exits/Tennessee/I-240/East/311",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-240/East/311"
+      },
+      {
+        "highway": "I-440",
+        "href": "/exits/Tennessee/I-440/East/563",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-440/East/563"
+      },
+      {
+        "highway": "I-640",
+        "href": "/exits/Tennessee/I-640/East/318",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-640/East/318"
+      },
+      {
+        "highway": "I-155",
+        "href": "/exits/Tennessee/I-155/North/322",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-155/North/322"
+      },
+      {
+        "highway": "I-275",
+        "href": "/exits/Tennessee/I-275/North/366",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/I-275/North/366"
+      },
+      {
+        "highway": "Briley Parkway",
+        "href": "/exits/Tennessee/Briley%20Parkway/Inner/562",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/Briley%20Parkway/Inner/562"
+      },
+      {
+        "highway": "TN 840",
+        "href": "/exits/Tennessee/TN%20840/East/564",
+        "fullUrl": "https://www.iexitapp.com/exits/Tennessee/TN%20840/East/564"
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "exitLinks": [
+      {
+        "highway": "I-10",
+        "href": "/exits/Texas/I-10/East/645",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-10/East/645"
+      },
+      {
+        "highway": "I-35W",
+        "href": "/exits/Texas/I-35W/North/678",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-35W/North/678"
+      },
+      {
+        "highway": "I-35",
+        "href": "/exits/Texas/I-35/North/680",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-35/North/680"
+      },
+      {
+        "highway": "I-20",
+        "href": "/exits/Texas/I-20/East/664",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-20/East/664"
+      },
+      {
+        "highway": "I-40",
+        "href": "/exits/Texas/I-40/East/673",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-40/East/673"
+      },
+      {
+        "highway": "I-27",
+        "href": "/exits/Texas/I-27/North/155",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-27/North/155"
+      },
+      {
+        "highway": "I-30",
+        "href": "/exits/Texas/I-30/East/160",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-30/East/160"
+      },
+      {
+        "highway": "I-37",
+        "href": "/exits/Texas/I-37/North/162",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-37/North/162"
+      },
+      {
+        "highway": "I-44",
+        "href": "/exits/Texas/I-44/East/166",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-44/East/166"
+      },
+      {
+        "highway": "I-45",
+        "href": "/exits/Texas/I-45/North/169",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-45/North/169"
+      },
+      {
+        "highway": "I-410",
+        "href": "/exits/Texas/I-410/East/267",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-410/East/267"
+      },
+      {
+        "highway": "I-610",
+        "href": "/exits/Texas/I-610/East/269",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-610/East/269"
+      },
+      {
+        "highway": "I-820",
+        "href": "/exits/Texas/I-820/East/283",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-820/East/283"
+      },
+      {
+        "highway": "I-635",
+        "href": "/exits/Texas/I-635/North/307",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-635/North/307"
+      },
+      {
+        "highway": "US 83",
+        "href": "/exits/Texas/US%2083/North/729",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/US%2083/North/729"
+      },
+      {
+        "highway": "I-69",
+        "href": "/exits/Texas/I-69/North/736",
+        "fullUrl": "https://www.iexitapp.com/exits/Texas/I-69/North/736"
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "exitLinks": [
+      {
+        "highway": "I-70",
+        "href": "/exits/Utah/I-70/East/65",
+        "fullUrl": "https://www.iexitapp.com/exits/Utah/I-70/East/65"
+      },
+      {
+        "highway": "I-15",
+        "href": "/exits/Utah/I-15/North/90",
+        "fullUrl": "https://www.iexitapp.com/exits/Utah/I-15/North/90"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Utah/I-80/East/129",
+        "fullUrl": "https://www.iexitapp.com/exits/Utah/I-80/East/129"
+      },
+      {
+        "highway": "I-84",
+        "href": "/exits/Utah/I-84/East/217",
+        "fullUrl": "https://www.iexitapp.com/exits/Utah/I-84/East/217"
+      },
+      {
+        "highway": "I-215",
+        "href": "/exits/Utah/I-215/North/276",
+        "fullUrl": "https://www.iexitapp.com/exits/Utah/I-215/North/276"
+      }
+    ]
+  },
+  {
+    "state": "Vermont",
+    "exitLinks": [
+      {
+        "highway": "I-89",
+        "href": "/exits/Vermont/I-89/North/228",
+        "fullUrl": "https://www.iexitapp.com/exits/Vermont/I-89/North/228"
+      },
+      {
+        "highway": "I-91",
+        "href": "/exits/Vermont/I-91/North/231",
+        "fullUrl": "https://www.iexitapp.com/exits/Vermont/I-91/North/231"
+      },
+      {
+        "highway": "I-93",
+        "href": "/exits/Vermont/I-93/North/234",
+        "fullUrl": "https://www.iexitapp.com/exits/Vermont/I-93/North/234"
+      }
+    ]
+  },
+  {
+    "state": "Virginia",
+    "exitLinks": [
+      {
+        "highway": "I-95",
+        "href": "/exits/Virginia/I-95/North/690",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-95/North/690"
+      },
+      {
+        "highway": "I-64",
+        "href": "/exits/Virginia/I-64/East/178",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-64/East/178"
+      },
+      {
+        "highway": "I-66",
+        "href": "/exits/Virginia/I-66/East/179",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-66/East/179"
+      },
+      {
+        "highway": "I-77",
+        "href": "/exits/Virginia/I-77/North/199",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-77/North/199"
+      },
+      {
+        "highway": "I-81",
+        "href": "/exits/Virginia/I-81/North/205",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-81/North/205"
+      },
+      {
+        "highway": "I-85",
+        "href": "/exits/Virginia/I-85/North/719",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-85/North/719"
+      },
+      {
+        "highway": "I-264",
+        "href": "/exits/Virginia/I-264/East/334",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-264/East/334"
+      },
+      {
+        "highway": "I-464",
+        "href": "/exits/Virginia/I-464/East/335",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-464/East/335"
+      },
+      {
+        "highway": "I-664",
+        "href": "/exits/Virginia/I-664/East/336",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-664/East/336"
+      },
+      {
+        "highway": "I-581",
+        "href": "/exits/Virginia/I-581/North/414",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-581/North/414"
+      },
+      {
+        "highway": "I-195",
+        "href": "/exits/Virginia/I-195/North/458",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-195/North/458"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Virginia/I-295/North/464",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-295/North/464"
+      },
+      {
+        "highway": "I-395",
+        "href": "/exits/Virginia/I-395/North/470",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-395/North/470"
+      },
+      {
+        "highway": "I-495",
+        "href": "/exits/Virginia/I-495/North/476",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/I-495/North/476"
+      },
+      {
+        "highway": "VA 267",
+        "href": "/exits/Virginia/VA%20267/East/515",
+        "fullUrl": "https://www.iexitapp.com/exits/Virginia/VA%20267/East/515"
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Washington/I-90/East/49",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/I-90/East/49"
+      },
+      {
+        "highway": "I-5",
+        "href": "/exits/Washington/I-5/North/141",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/I-5/North/141"
+      },
+      {
+        "highway": "I-82",
+        "href": "/exits/Washington/I-82/East/210",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/I-82/East/210"
+      },
+      {
+        "highway": "I-205",
+        "href": "/exits/Washington/I-205/North/252",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/I-205/North/252"
+      },
+      {
+        "highway": "I-405",
+        "href": "/exits/Washington/I-405/North/255",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/I-405/North/255"
+      },
+      {
+        "highway": "I-705",
+        "href": "/exits/Washington/I-705/North/258",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/I-705/North/258"
+      },
+      {
+        "highway": "I-182",
+        "href": "/exits/Washington/I-182/East/415",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/I-182/East/415"
+      },
+      {
+        "highway": "WA 520",
+        "href": "/exits/Washington/WA%20520/East/516",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/WA%20520/East/516"
+      },
+      {
+        "highway": "WA 18",
+        "href": "/exits/Washington/WA%2018/East/517",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/WA%2018/East/517"
+      },
+      {
+        "highway": "WA 167",
+        "href": "/exits/Washington/WA%20167/North/518",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/WA%20167/North/518"
+      },
+      {
+        "highway": "WA 512",
+        "href": "/exits/Washington/WA%20512/East/519",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington/WA%20512/East/519"
+      }
+    ]
+  },
+  {
+    "state": "Washington DC",
+    "exitLinks": [
+      {
+        "highway": "I-66",
+        "href": "/exits/Washington%20DC/I-66/East/180",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington%20DC/I-66/East/180"
+      },
+      {
+        "highway": "I-295",
+        "href": "/exits/Washington%20DC/I-295/North/466",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington%20DC/I-295/North/466"
+      },
+      {
+        "highway": "I-395",
+        "href": "/exits/Washington%20DC/I-395/North/471",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington%20DC/I-395/North/471"
+      },
+      {
+        "highway": "I-495",
+        "href": "/exits/Washington%20DC/I-495/North/477",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington%20DC/I-495/North/477"
+      },
+      {
+        "highway": "US 50",
+        "href": "/exits/Washington%20DC/US%2050/East/480",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington%20DC/US%2050/East/480"
+      },
+      {
+        "highway": "I-695",
+        "href": "/exits/Washington%20DC/I-695/North/482",
+        "fullUrl": "https://www.iexitapp.com/exits/Washington%20DC/I-695/North/482"
+      }
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "exitLinks": [
+      {
+        "highway": "I-70",
+        "href": "/exits/West%20Virginia/I-70/East/72",
+        "fullUrl": "https://www.iexitapp.com/exits/West%20Virginia/I-70/East/72"
+      },
+      {
+        "highway": "I-64",
+        "href": "/exits/West%20Virginia/I-64/East/177",
+        "fullUrl": "https://www.iexitapp.com/exits/West%20Virginia/I-64/East/177"
+      },
+      {
+        "highway": "I-68",
+        "href": "/exits/West%20Virginia/I-68/East/181",
+        "fullUrl": "https://www.iexitapp.com/exits/West%20Virginia/I-68/East/181"
+      },
+      {
+        "highway": "I-77",
+        "href": "/exits/West%20Virginia/I-77/North/200",
+        "fullUrl": "https://www.iexitapp.com/exits/West%20Virginia/I-77/North/200"
+      },
+      {
+        "highway": "I-79",
+        "href": "/exits/West%20Virginia/I-79/North/202",
+        "fullUrl": "https://www.iexitapp.com/exits/West%20Virginia/I-79/North/202"
+      },
+      {
+        "highway": "I-81",
+        "href": "/exits/West%20Virginia/I-81/North/206",
+        "fullUrl": "https://www.iexitapp.com/exits/West%20Virginia/I-81/North/206"
+      },
+      {
+        "highway": "I-470",
+        "href": "/exits/West%20Virginia/I-470/East/355",
+        "fullUrl": "https://www.iexitapp.com/exits/West%20Virginia/I-470/East/355"
+      }
+    ]
+  },
+  {
+    "state": "Wisconsin",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Wisconsin/I-90/East/55",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-90/East/55"
+      },
+      {
+        "highway": "I-39",
+        "href": "/exits/Wisconsin/I-39/North/164",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-39/North/164"
+      },
+      {
+        "highway": "I-43",
+        "href": "/exits/Wisconsin/I-43/North/165",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-43/North/165"
+      },
+      {
+        "highway": "I-94",
+        "href": "/exits/Wisconsin/I-94/East/238",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-94/East/238"
+      },
+      {
+        "highway": "I-535",
+        "href": "/exits/Wisconsin/I-535/North/303",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-535/North/303"
+      },
+      {
+        "highway": "I-794",
+        "href": "/exits/Wisconsin/I-794/East/455",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-794/East/455"
+      },
+      {
+        "highway": "I-894",
+        "href": "/exits/Wisconsin/I-894/East/456",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-894/East/456"
+      },
+      {
+        "highway": "I-41",
+        "href": "/exits/Wisconsin/I-41/North/722",
+        "fullUrl": "https://www.iexitapp.com/exits/Wisconsin/I-41/North/722"
+      }
+    ]
+  },
+  {
+    "state": "Wyoming",
+    "exitLinks": [
+      {
+        "highway": "I-90",
+        "href": "/exits/Wyoming/I-90/East/52",
+        "fullUrl": "https://www.iexitapp.com/exits/Wyoming/I-90/East/52"
+      },
+      {
+        "highway": "I-80",
+        "href": "/exits/Wyoming/I-80/East/130",
+        "fullUrl": "https://www.iexitapp.com/exits/Wyoming/I-80/East/130"
+      },
+      {
+        "highway": "I-25",
+        "href": "/exits/Wyoming/I-25/North/154",
+        "fullUrl": "https://www.iexitapp.com/exits/Wyoming/I-25/North/154"
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+---
+title: "Meeting Notes"
+format:
+  pdf:
+    number-sections: true
+    appendix: true
+
+date: last-modified
+author:
+  - name: William Clinton Co
+    affiliations:
+      - name: University of British Columbia
+        department: Department of Economics
+
+abstract: | 
+  This outlines the discussion of Prof. Sarah and William on July 2 2025. It discusses the current situation/challenges of the geocoding project and proposes solutions. 
+
+bibliography: bibliography.bib  
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+# Current State {#sec-intro}
+
+-   We are close to finishing there is a maximum of 52 places unmatched.
+
+-   The 52 places can be sub categorized based on severity of the mismatch.
+
+    Match
+
+    :   -   **State/ZIP level-\>City/Exit level -\> Road Level -\> [Place Name Level](#sec-place-name-level-mismatch)** (@sec-place-name-level-mismatch)
+
+## **Place Name Level Mismatch (36 places)** {#sec-place-name-level-mismatch}
+
+-   For example, “Three sisters truck stop at I-10 Exit 61, AZ, 12345, San Luis”.
+
+    -   Match found for "I-10", "Exit 61", "AZ","12345", "San Luis".
+
+    -   No match for “three sisters”
+
+-   Previous discussions mention this can be defined as a match since it matches down to the "road level"
+
+    -   William raises concerns because of Inconsistency of address matching.
+        Inconsistencies can be categorized into 2 categories.
+
+        -   Unexplained inconsistencies
+
+            -   [Minor](#fig-Minor-mismatch) (@fig-Minor-mismatch) – 0.1 mile discrepancy
+
+            -   [Major](#fig-Major-mismatch)(@fig-Major-mismatch and @sec-major-mismatch-details) – 6.2 mile discrepancy
+
+        -   Direction of exits matter.
+            The current approach does not take this into account.
+
+    -   Solution discussed is to use Google address vs Truckers friend address to verify
+
+-   **Tight Definition of Matching:theres only a match for city/exit/ state. Zipcode level\
+    \
+    **
+
+    -   16 places are unmatched using stricter criteria.
+
+    -   Theres at least 3 that arent findable
+
+::: note
+This is a note.
+Use it to highlight useful or additional information.
+:::
+
+## Appendix {.appendix}
+
+![Minor Mismatch](images/Screenshot_2025-07-01_040942.png){#fig-Minor-mismatch}
+
+![Major Mismatch](images/Screenshot_2025-07-01_061750.png){#fig-Major-mismatch}
+
+### Major Mismatch Details {#sec-major-mismatch-details}
+
+Truckers friend gives us the following address *"Circle K,23260 Hwy 95, San Luis, **85349**"*
+
+if we query this in Google map we are lead to an address *"23260 US-95, Somerton, AZ **85350**, USA"*
+
+Note $85349 \neq 85350$

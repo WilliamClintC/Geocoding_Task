@@ -1,0 +1,26 @@
+{
+  "name": "iexit-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for iExit states page using Puppeteer with Stealth plugin",
+  "main": "iexit_scraper.js",
+  "scripts": {
+    "start": "node iexit_scraper.js",
+    "download": "node scrape_for_interstate/webpage_downloader.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.46"
+  },
+  "keywords": [
+    "puppeteer",
+    "scraping",
+    "stealth",
+    "iexit"
+  ],
+  "author": "",
+  "license": "MIT"
+}

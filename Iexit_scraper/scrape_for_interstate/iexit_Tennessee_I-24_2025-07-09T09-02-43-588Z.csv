@@ -1,0 +1,12 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Tennessee,I-24,57928,Tennessee Welcome Center,WELCOME CENTER,"Tennessee Welcome Center
+          (MM: 171.8)","Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Welcome%20Center/57928,34.991213,-85.401629,http://maps.google.com/maps?t=m&q=loc:34.991213+-85.401629,Eastbound
+Tennessee,I-24,18771,Exit 174,EXIT 174,US-41; US-64; US-11; Lookout Valley; Lookout Mountain,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20174/18771,35.016596,-85.385262,http://maps.google.com/maps?t=m&q=loc:35.016596+-85.385262,Eastbound
+Tennessee,I-24,18772,Exit 175,EXIT 175,Browns Ferry Rd; Lookout Mta,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20175/18772,35.026335,-85.368729,http://maps.google.com/maps?t=m&q=loc:35.026335+-85.368729,Eastbound
+Tennessee,I-24,43466,Exit 178,EXIT 178,US-11; US-41; US-64; Lookout Mt; Broad St,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20178/43466,35.029818,-85.322023,http://maps.google.com/maps?t=m&q=loc:35.029818+-85.322023,Eastbound
+Tennessee,I-24,18774,Exit 180A,EXIT 180A,Rossville Blvd,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20180A/18774,35.023628,-85.299762,http://maps.google.com/maps?t=m&q=loc:35.023628+-85.299762,Eastbound
+Tennessee,I-24,18775,Exit 180B,EXIT 180B,US-27 S; Rossville Blvd,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20180B/18775,35.020335,-85.296568,http://maps.google.com/maps?t=m&q=loc:35.020335+-85.296568,Eastbound
+Tennessee,I-24,18776,Exit 181,EXIT 181,4th Ave,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20181/18776,35.017452,-85.283957,http://maps.google.com/maps?t=m&q=loc:35.017452+-85.283957,Eastbound
+Tennessee,I-24,18777,Exit 181A,EXIT 181A,US-41 S; Westside Dr; E Ridge,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20181A/18777,35.014807,-85.274986,http://maps.google.com/maps?t=m&q=loc:35.014807+-85.274986,Eastbound
+Tennessee,I-24,18778,Exit 183,EXIT 183,Germantown Rd; Belvoir Ave,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20183/18778,35.015246,-85.25349,http://maps.google.com/maps?t=m&q=loc:35.015246+-85.25349,Eastbound
+Tennessee,I-24,18779,Exit 184,EXIT 184,Moore Rd,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20184/18779,35.008202,-85.236443,http://maps.google.com/maps?t=m&q=loc:35.008202+-85.236443,Eastbound

@@ -1,0 +1,114 @@
+---
+title: "Meeting Notes"
+author: "William Clinton Co"
+institute: "University of British Columbia, Department of Economics"
+date: last-modified
+
+abstract: |
+  This document summarizes the meeting between Prof. Sarah and William on July 2, 2025. It outlines the current challenges of the geocoding project and outlines potential solutions and next steps. Relevant images and links are also embedded.
+
+format:
+  pdf:
+    number-sections: true
+    toc: true
+    fontsize: 11pt
+    papersize: letter
+    linestretch: 1.3
+    fig-prefix: "Figure"
+    toc-depth: 3
+editor:
+  markdown:
+    wrap: sentence
+---
+
+# Current State {#sec-intro}
+
+-   We are close to finishing there is a maximum of 52 places unmatched.
+
+-   The 52 places can be sub categorized based on severity of the mismatch.
+
+    Match
+
+    :   -   [State/ZIP-Level -\> City/Exit-Level](#sec-place-name-level-mismatch) **-\> Road Level -\> [Place Name Level](#sec-place-name-level-mismatch)**
+
+## **Place Name Level Mismatch (36 places)** {#sec-place-name-level-mismatch}
+
+-   For example, “Three sisters truck stop at I-10 Exit 61, AZ, 12345, San Luis”.
+
+    -   Match found for "I-10", "Exit 61", "AZ","12345", "San Luis".
+
+    -   No match for “three sisters”
+
+-   Previous discussions mention this can be defined as a match since it matches down to the "road level"
+
+    -   William raises concerns because of inconsistency of address matching.
+        Inconsistencies can be categorized into 2 categories.
+
+        1.  Unexplained inconsistencies
+
+            -   Minor (@sec-minor-mismatch) – 0.1 mile discrepancy
+
+            -   Major (@sec-major-mismatch and @sec-major-mismatch-details ) – 6.2 mile discrepancy
+
+        2.  Direction of exits (@sec-direction-mismatch)
+
+            -   The current approach does not take exit direction into account
+
+            -   3 mile discrepancy shown in example
+
+## **Higher Level Mismatch (16 places)** {#sec-higher-level-mismatch}
+
+-   There's only a match for city/exit/state/zipcode level (no place name match)
+
+    -   There were at least 2 places I could not find manually
+
+## Solutions Discussed
+
+1.  Use Google address vs Truckers friend address to verify
+
+2.  [Yellow Pages website](https://www.yellowpages.ca/) – phone number search
+
+# Next Steps
+
+1.  Yellow Pages scraping
+
+2.  Write Data Appendix with clean code
+
+3.  next meeting wed.
+    11AM PST
+
+## Maybe of Interest
+
+-   [Iexit website](https://www.iexitapp.com/California/I-80/Exit%2089/40150) – has the ability to observe exit locations, direction and associated trucks stops.
+
+    -   unlikely to be scrapable
+
+    -   potential use –Use interstate exit latitude/longitude coordinates to identify nearby truck stops.
+
+\appendix
+
+# Appendix {.appendix}
+
+## Minor Mismatch {#sec-minor-mismatch}
+
+![](images/minor-mismatch.png)
+
+## Major Mismatch {#sec-major-mismatch}
+
+![](images/Screenshot_2025-07-01_061750.png)
+
+### Major Mismatch Details {#sec-major-mismatch-details}
+
+1.  Truckers friend gives us the following address: "Circle K, 23260 Hwy 95, San Luis, **85349**"
+
+2.  If we query this in Google Maps we may be led to an address: ["23260 US-95, Somerton, AZ **85350**, USA"](https://maps.app.goo.gl/hzdLyktmMAriakVz5)
+
+3.  Note: $85349 \neq 85350$
+
+4.  The likely correct address is ["766 Main St, San Luis, AZ 85349, United States"](https://maps.app.goo.gl/27KDFS7UUrqY51D6A)
+
+5.  The difference is 6 miles south.
+
+## Direction Mismatch {#sec-direction-mismatch}
+
+![](images/clipboard-1935295622.png)

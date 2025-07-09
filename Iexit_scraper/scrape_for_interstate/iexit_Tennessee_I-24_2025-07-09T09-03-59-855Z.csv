@@ -1,0 +1,12 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Tennessee,I-24,18789,Exit 184,EXIT 184,Moore Rd,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20184/18789,35.005182,-85.227342,http://maps.google.com/maps?t=m&q=loc:35.005182+-85.227342,Westbound
+Tennessee,I-24,18790,Exit 183A,EXIT 183A,Belvoir Ave; Germantown Rd,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20183A/18790,35.009072,-85.238361,http://maps.google.com/maps?t=m&q=loc:35.009072+-85.238361,Westbound
+Tennessee,I-24,18791,Exit 181,EXIT 181,4th Ave,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20181/18791,35.015727,-85.277599,http://maps.google.com/maps?t=m&q=loc:35.015727+-85.277599,Westbound
+Tennessee,I-24,18792,Exit 180A,EXIT 180A,Rossville Blvd; TN-8 N,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20180A/18792,35.018778,-85.289847,http://maps.google.com/maps?t=m&q=loc:35.018778+-85.289847,Westbound
+Tennessee,I-24,18793,Exit 180B,EXIT 180B,Rossville Blvd; US-27 S,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20180B/18793,35.01895,-85.294629,http://maps.google.com/maps?t=m&q=loc:35.01895+-85.294629,Westbound
+Tennessee,I-24,18794,Exit 178,EXIT 178,"US 27
+          (MM: 178.0)","Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20178/18794,35.026496,-85.30416,http://maps.google.com/maps?t=m&q=loc:35.026496+-85.30416,Westbound
+Tennessee,I-24,43468,Exit 178,EXIT 178,State Route 58 N; Market St; TN-58 N,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20178/43468,35.026496,-85.30416,http://maps.google.com/maps?t=m&q=loc:35.026496+-85.30416,Westbound
+Tennessee,I-24,43469,Exit 178,EXIT 178,TN-58 S; Market St,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20178/43469,35.028006,-85.306947,http://maps.google.com/maps?t=m&q=loc:35.028006+-85.306947,Westbound
+Tennessee,I-24,18795,Exit 175,EXIT 175,Lookout Mountain,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20175/18795,35.028586,-85.359852,http://maps.google.com/maps?t=m&q=loc:35.028586+-85.359852,Westbound
+Tennessee,I-24,18796,Exit 174,EXIT 174,US-41; US-64; US-11; Lookout Valley,"Chattanooga, Tennessee",https://www.iexitapp.com/Tennessee/I-24/Exit%20174/18796,35.021445,-85.380814,http://maps.google.com/maps?t=m&q=loc:35.021445+-85.380814,Westbound
