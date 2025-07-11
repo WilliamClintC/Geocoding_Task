@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Georgia,GA 316,58134,Sugarloaf Pkwy,EXIT,Sugarloaf Pkwy,", Georgia",https://www.iexitapp.com/Georgia/GA%20316/Exit%20/58134,33.961324,-84.068619,http://maps.google.com/maps?t=m&q=loc:33.961324+-84.068619,Eastbound
+Georgia,GA 316,58135,Riverside Pkwy,EXIT,Riverside Pkwy,", Georgia",https://www.iexitapp.com/Georgia/GA%20316/Exit%20/58135,33.95861,-84.042077,http://maps.google.com/maps?t=m&q=loc:33.95861+-84.042077,Eastbound
+Georgia,GA 316,58136,GA-120,EXIT,GA-120,", Georgia",https://www.iexitapp.com/Georgia/GA%20316/Exit%20/58136,33.965172,-84.019634,http://maps.google.com/maps?t=m&q=loc:33.965172+-84.019634,Eastbound
+Georgia,GA 316,58137,GA-120,EXIT,GA-120,", Georgia",https://www.iexitapp.com/Georgia/GA%20316/Exit%20/58137,33.971432,-84.009437,http://maps.google.com/maps?t=m&q=loc:33.971432+-84.009437,Eastbound

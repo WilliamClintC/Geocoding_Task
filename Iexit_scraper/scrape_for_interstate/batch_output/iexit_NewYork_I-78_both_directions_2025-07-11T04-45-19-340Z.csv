@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-78,47088,Exit 1,EXIT 1,Laight Street;Hudson Street,"New York, New York",https://www.iexitapp.com/New%20York/I-78/Exit%201/47088,40.721657,-74.006924,http://maps.google.com/maps?t=m&q=loc:40.721657+-74.006924,Eastbound
+New York,I-78,47089,Exit 2,EXIT 2,Beach Street;Hudson Street;Ericsson Place,"New York, New York",https://www.iexitapp.com/New%20York/I-78/Exit%202/47089,40.721146,-74.007993,http://maps.google.com/maps?t=m&q=loc:40.721146+-74.007993,Eastbound
+New York,I-78,47090,Exit 3,EXIT 3,Ericsson Place,"New York, New York",https://www.iexitapp.com/New%20York/I-78/Exit%203/47090,40.720887,-74.007773,http://maps.google.com/maps?t=m&q=loc:40.720887+-74.007773,Eastbound
+New York,I-78,47091,Exit 4,EXIT 4,Varick Street,"New York, New York",https://www.iexitapp.com/New%20York/I-78/Exit%204/47091,40.720813,-74.007419,http://maps.google.com/maps?t=m&q=loc:40.720813+-74.007419,Eastbound
+New York,I-78,222,Exit 5,EXIT 5,Laight Street;Varick Street,"New York, New York",https://www.iexitapp.com/New%20York/I-78/Exit%205/222,40.721223,-74.006924,http://maps.google.com/maps?t=m&q=loc:40.721223+-74.006924,Eastbound

@@ -21,6 +21,35 @@ const CONFIG = {
     }
 };
 
+// Function to play system sound/bell (standalone version)
+function playNotificationSound() {
+    try {
+        // System bell character - works on most systems
+        process.stdout.write('\x07');
+        
+        // For Windows, we can also try to play a system sound
+        if (process.platform === 'win32') {
+            try {
+                const { exec } = require('child_process');
+                // Play Windows system sound asynchronously
+                exec('powershell -c "[console]::beep(800,300)"', (error) => {
+                    if (error) {
+                        console.log('🔔 Bell notification sent (PowerShell beep failed)');
+                    } else {
+                        console.log('🔔 Sound notification played');
+                    }
+                });
+            } catch (error) {
+                console.log('🔔 Bell notification sent (system sound unavailable)');
+            }
+        } else {
+            console.log('🔔 Bell notification sent');
+        }
+    } catch (error) {
+        console.log('🔔 Notification attempted');
+    }
+}
+
 // Function to read and parse the States.csv file
 function readStatesCSV() {
     console.log('📄 Reading States.csv file...');
@@ -1053,35 +1082,6 @@ class CoordinateScraper {
         } catch (error) {
             console.error('❌ Failed to switch directions:', error.message);
             return null;
-        }
-    }
-
-    // Function to play system sound/bell
-    playNotificationSound() {
-        try {
-            // System bell character - works on most systems
-            process.stdout.write('\x07');
-            
-            // For Windows, we can also try to play a system sound
-            if (process.platform === 'win32') {
-                try {
-                    const { exec } = require('child_process');
-                    // Play Windows system sound asynchronously
-                    exec('powershell -c "[console]::beep(800,300)"', (error) => {
-                        if (error) {
-                            console.log('🔔 Bell notification sent (PowerShell beep failed)');
-                        } else {
-                            console.log('🔔 Sound notification played');
-                        }
-                    });
-                } catch (error) {
-                    console.log('🔔 Bell notification sent (system sound unavailable)');
-                }
-            } else {
-                console.log('🔔 Bell notification sent');
-            }
-        } catch (error) {
-            console.log('🔔 Notification attempted');
         }
     }
 

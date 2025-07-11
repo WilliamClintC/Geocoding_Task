@@ -1,0 +1,43 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Ohio,I-76,52045,Glacier Hills Service Plaza,SERVICE PLAZA,"Glacier Hills Service Plaza
+          (MM: 236.0)","New Springfield, Ohio",https://www.iexitapp.com/Ohio/I-76/Service%20Plaza/52045,40.938673,-80.582052,http://maps.google.com/maps?t=m&q=loc:40.938673+-80.582052,Westbound
+Ohio,I-76,9817,Exit 234,EXIT 234,"I 680
+          (MM: 234.0)","North Lima, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%20234/9817,40.954487,-80.637791,http://maps.google.com/maps?t=m&q=loc:40.954487+-80.637791,Westbound
+Ohio,I-76,9818,Exit 232,EXIT 232,OH-7 N,"North Lima, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%20232/9818,40.964556,-80.651626,http://maps.google.com/maps?t=m&q=loc:40.964556+-80.651626,Westbound
+Ohio,I-76,52046,Exit 232,EXIT 232,OH-7 N,"North Lima, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%20232/52046,40.96675,-80.658335,http://maps.google.com/maps?t=m&q=loc:40.96675+-80.658335,Westbound
+Ohio,I-76,52048,I 80,EXIT,I 80,"North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%20/52048,41.109468,-80.831798,http://maps.google.com/maps?t=m&q=loc:41.109468+-80.831798,Westbound
+Ohio,I-76,52049,Exit 218,EXIT 218,Mahoning Avenue,"North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%20218/52049,41.111962,-80.835289,http://maps.google.com/maps?t=m&q=loc:41.111962+-80.835289,Westbound
+Ohio,I-76,52050,Exit 218,EXIT 218,Mahoning Avenue,"North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%20218/52050,41.10214,-80.829071,http://maps.google.com/maps?t=m&q=loc:41.10214+-80.829071,Westbound
+Ohio,I-76,9820,Exit 57,EXIT 57,Ohio 45; Bailey Road; Warren,"North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2057/9820,41.107292,-80.883004,http://maps.google.com/maps?t=m&q=loc:41.107292+-80.883004,Westbound
+Ohio,I-76,9821,Exit 54,EXIT 54,OH-534; Lake Milton; Newton Falls,"Lake Milton, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2054/9821,41.104448,-80.943438,http://maps.google.com/maps?t=m&q=loc:41.104448+-80.943438,Westbound
+Ohio,I-76,9822,Exit 48,EXIT 48,OH-225; Alliance,"Diamond, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2048/9822,41.106058,-81.046161,http://maps.google.com/maps?t=m&q=loc:41.106058+-81.046161,Westbound
+Ohio,I-76,52051,Portage Rest Area,REST AREA,"Portage Rest Area
+          (MM: 45.0)","Rootstown, Ohio",https://www.iexitapp.com/Ohio/I-76/Rest%20Area/52051,41.105418,-81.105815,http://maps.google.com/maps?t=m&q=loc:41.105418+-81.105815,Westbound
+Ohio,I-76,9824,Exit 43,EXIT 43,OH-14; Alliance; Ravenna,"Rootstown, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2043/9824,41.106012,-81.149923,http://maps.google.com/maps?t=m&q=loc:41.106012+-81.149923,Westbound
+Ohio,I-76,9825,Exit 38,EXIT 38,OH-5; OH-44; Ravenna,"Rootstown, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2038/9825,41.110108,-81.235825,http://maps.google.com/maps?t=m&q=loc:41.110108+-81.235825,Westbound
+Ohio,I-76,9826,Exit 33,EXIT 33,Kent; OH-43; Hartville,"Kent, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2033/9826,41.107936,-81.338955,http://maps.google.com/maps?t=m&q=loc:41.107936+-81.338955,Westbound
+Ohio,I-76,9827,Exit 31,EXIT 31,County Road 18; Tallmadge,"Kent, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2031/9827,41.102676,-81.374626,http://maps.google.com/maps?t=m&q=loc:41.102676+-81.374626,Westbound
+Ohio,I-76,9828,Exit 29,EXIT 29,OH-532; Mogadore; Tallmadge,"Tallmadge, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2029/9828,41.077682,-81.403303,http://maps.google.com/maps?t=m&q=loc:41.077682+-81.403303,Westbound
+Ohio,I-76,9829,Exit 27,EXIT 27,Gilchrist Rd; OH-91; Canton Rd,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2027/9829,41.065754,-81.431947,http://maps.google.com/maps?t=m&q=loc:41.065754+-81.431947,Westbound
+Ohio,I-76,9830,Exit 26,EXIT 26,E Market St; OH-18,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2026/9830,41.063132,-81.451961,http://maps.google.com/maps?t=m&q=loc:41.063132+-81.451961,Westbound
+Ohio,I-76,9831,Exit 25,EXIT 25,Ohio 241; Innovation Way; Kelly Ave,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2025/9831,41.062389,-81.473171,http://maps.google.com/maps?t=m&q=loc:41.062389+-81.473171,Westbound
+Ohio,I-76,9832,Exit 24B,EXIT 24B,Arlington St,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2024B/9832,41.062379,-81.482089,http://maps.google.com/maps?t=m&q=loc:41.062379+-81.482089,Westbound
+Ohio,I-76,9833,Exit 24A,EXIT 24A,Inman St; Johnston St,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2024A/9833,41.063331,-81.495807,http://maps.google.com/maps?t=m&q=loc:41.063331+-81.495807,Westbound
+Ohio,I-76,9834,Exit 23B,EXIT 23B,"SR 8
+          (MM: 23.0)","Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2023B/9834,41.06209,-81.500474,http://maps.google.com/maps?t=m&q=loc:41.06209+-81.500474,Westbound
+Ohio,I-76,9838,Exit 21C,EXIT 21C,OH-59 E; Dart Ave,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2021C/9838,41.062206,-81.533821,http://maps.google.com/maps?t=m&q=loc:41.062206+-81.533821,Westbound
+Ohio,I-76,9840,Exit 21A,EXIT 21A,East Ave,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2021A/9840,41.060106,-81.556092,http://maps.google.com/maps?t=m&q=loc:41.060106+-81.556092,Westbound
+Ohio,I-76,9842,Exit 19,EXIT 19,Battles Avenue; Kenmore Boulevard,"Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2019/9842,41.048936,-81.565184,http://maps.google.com/maps?t=m&q=loc:41.048936+-81.565184,Westbound
+Ohio,I-76,9843,Exit 18,EXIT 18,"I 277;US 224
+          (MM: 18.0)","Akron, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2018/9843,41.037683,-81.565467,http://maps.google.com/maps?t=m&q=loc:41.037683+-81.565467,Westbound
+Ohio,I-76,9844,Exit 17,EXIT 17,OH-619; Wooster Rd; Barberton,"Barberton, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2017/9844,41.035677,-81.577334,http://maps.google.com/maps?t=m&q=loc:41.035677+-81.577334,Westbound
+Ohio,I-76,9845,Exit 16,EXIT 16,Barber Rd,"Barberton, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2016/9845,41.040391,-81.608429,http://maps.google.com/maps?t=m&q=loc:41.040391+-81.608429,Westbound
+Ohio,I-76,9846,Exit 14,EXIT 14,Cleve-Mass Rd; Norton,"Barberton, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2014/9846,41.03945,-81.634253,http://maps.google.com/maps?t=m&q=loc:41.03945+-81.634253,Westbound
+Ohio,I-76,9847,Exit 13B,EXIT 13B,"SR 21
+          (MM: 13.0)","Barberton, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2013B/9847,41.039903,-81.658338,http://maps.google.com/maps?t=m&q=loc:41.039903+-81.658338,Westbound
+Ohio,I-76,52056,Exit 13A,EXIT 13A,"SR 21
+          (MM: 13.0)","Barberton, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2013A/52056,41.040024,-81.66369,http://maps.google.com/maps?t=m&q=loc:41.040024+-81.66369,Westbound
+Ohio,I-76,9848,Exit 11,EXIT 11,OH-261; Norton; Wadsworth,"Wadsworth, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%2011/9848,41.043148,-81.689609,http://maps.google.com/maps?t=m&q=loc:41.043148+-81.689609,Westbound
+Ohio,I-76,9849,Exit 9,EXIT 9,OH-94; Wadsworth; N Royalton,"Wadsworth, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%209/9849,41.046822,-81.725746,http://maps.google.com/maps?t=m&q=loc:41.046822+-81.725746,Westbound
+Ohio,I-76,9850,Exit 7,EXIT 7,OH-57,"Wadsworth, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%207/9850,41.03444,-81.758972,http://maps.google.com/maps?t=m&q=loc:41.03444+-81.758972,Westbound
+Ohio,I-76,9852,Exit 2,EXIT 2,OH-3; Medina; Seville,"Seville, Ohio",https://www.iexitapp.com/Ohio/I-76/Exit%202/9852,41.03324,-81.860758,http://maps.google.com/maps?t=m&q=loc:41.03324+-81.860758,Westbound

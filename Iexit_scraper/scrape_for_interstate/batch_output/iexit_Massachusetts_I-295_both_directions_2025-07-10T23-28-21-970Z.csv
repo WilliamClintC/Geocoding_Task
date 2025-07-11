@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Massachusetts,I-295,38368,Exit 2A,EXIT 2A,US 1 south – Pawtucket Rl,"North Attleboro, Massachusetts",https://www.iexitapp.com/Massachusetts/I-295/Exit%202A/38368,41.949208,-71.350953,http://maps.google.com/maps?t=m&q=loc:41.949208+-71.350953,Northbound
+Massachusetts,I-295,38369,Exit 2B,EXIT 2B,US 1 north – N. Attleboro,"North Attleboro, Massachusetts",https://www.iexitapp.com/Massachusetts/I-295/Exit%202B/38369,41.949083,-71.34537,http://maps.google.com/maps?t=m&q=loc:41.949083+-71.34537,Northbound
+Massachusetts,I-295,38371,Exit 2B,EXIT 2B,"US 1 – North Attleboro, Pawtucket, RI","Attleboro, Massachusetts",https://www.iexitapp.com/Massachusetts/I-295/Exit%202B/38371,41.949647,-71.341161,http://maps.google.com/maps?t=m&q=loc:41.949647+-71.341161,Southbound
+Massachusetts,I-295,38372,Exit 2A,EXIT 2A,"US 1 – North Attleboro, Pawtucket, RI","North Attleboro, Massachusetts",https://www.iexitapp.com/Massachusetts/I-295/Exit%202A/38372,41.949379,-71.346352,http://maps.google.com/maps?t=m&q=loc:41.949379+-71.346352,Southbound

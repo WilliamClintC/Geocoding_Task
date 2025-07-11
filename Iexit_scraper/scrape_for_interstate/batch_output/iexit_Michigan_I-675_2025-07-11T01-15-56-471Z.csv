@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Michigan,I-675,35170,Exit 1,EXIT 1,Veterans Memorial Parkway,"Saginaw, Michigan",https://www.iexitapp.com/Michigan/I-675/Exit%201/35170,43.433998,-83.907489,http://maps.google.com/maps?t=m&q=loc:43.433998+-83.907489,Northbound
+Michigan,I-675,35171,Exit 2,EXIT 2,5th - 6th Aves,"Saginaw, Michigan",https://www.iexitapp.com/Michigan/I-675/Exit%202/35171,43.435749,-83.922211,http://maps.google.com/maps?t=m&q=loc:43.435749+-83.922211,Northbound
+Michigan,I-675,35172,Exit 3,EXIT 3,M-58 (Davenport Avenue) / Michigan Avenue,"Saginaw, Michigan",https://www.iexitapp.com/Michigan/I-675/Exit%203/35172,43.439312,-83.947777,http://maps.google.com/maps?t=m&q=loc:43.439312+-83.947777,Northbound
+Michigan,I-675,35173,Exit 6,EXIT 6,Tittabawassee Road – Zilwaukee,"Saginaw, Michigan",https://www.iexitapp.com/Michigan/I-675/Exit%206/35173,43.474188,-83.956155,http://maps.google.com/maps?t=m&q=loc:43.474188+-83.956155,Northbound

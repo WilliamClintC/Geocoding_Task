@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Georgia,I-59,14487,Exit 4,EXIT 4,Rising Fawn,"Rising Fawn, Georgia",https://www.iexitapp.com/Georgia/I-59/Exit%204/14487,34.769497,-85.538863,http://maps.google.com/maps?t=m&q=loc:34.769497+-85.538863,Northbound
+Georgia,I-59,14488,Exit 11,EXIT 11,GA-136; Trenton,"Trenton, Georgia",https://www.iexitapp.com/Georgia/I-59/Exit%2011/14488,34.867614,-85.516473,http://maps.google.com/maps?t=m&q=loc:34.867614+-85.516473,Northbound
+Georgia,I-59,14489,Exit 17,EXIT 17,Slygo Rd; New England,"Trenton, Georgia",https://www.iexitapp.com/Georgia/I-59/Exit%2017/14489,34.940202,-85.478138,http://maps.google.com/maps?t=m&q=loc:34.940202+-85.478138,Northbound

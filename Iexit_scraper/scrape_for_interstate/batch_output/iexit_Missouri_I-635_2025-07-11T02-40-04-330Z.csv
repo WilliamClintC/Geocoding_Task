@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-635,33242,Exit 11B,EXIT 11B,"MO 9
+          (MM: 11.0)","Riverside, Missouri",https://www.iexitapp.com/Missouri/I-635/Exit%2011B/33242,39.175282,-94.622657,http://maps.google.com/maps?t=m&q=loc:39.175282+-94.622657,Southbound
+Missouri,I-635,57034,Exit 11A,EXIT 11A,"MO 9
+          (MM: 11.0)","Riverside, Missouri",https://www.iexitapp.com/Missouri/I-635/Exit%2011A/57034,39.171765,-94.62431,http://maps.google.com/maps?t=m&q=loc:39.171765+-94.62431,Southbound
+Missouri,I-635,57037,Exit 10,EXIT 10,"US 69
+          (MM: 10.0)","Riverside, Missouri",https://www.iexitapp.com/Missouri/I-635/Exit%2010/57037,39.164746,-94.626862,http://maps.google.com/maps?t=m&q=loc:39.164746+-94.626862,Southbound
+Missouri,I-635,33243,Exit 9,EXIT 9,Horizons Parkway; Argosy Casino Parkway,"Riverside, Missouri",https://www.iexitapp.com/Missouri/I-635/Exit%209/33243,39.160737,-94.634229,http://maps.google.com/maps?t=m&q=loc:39.160737+-94.634229,Southbound

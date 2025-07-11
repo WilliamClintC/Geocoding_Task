@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-280,35652,Exit 11A,EXIT 11A,IL 92 west – Andalusia,"Rock Island, Illinois",https://www.iexitapp.com/Illinois/I-280/Exit%2011A/35652,41.467649,-90.618167,http://maps.google.com/maps?t=m&q=loc:41.467649+-90.618167,Eastbound
+Illinois,I-280,35653,Exit 11B,EXIT 11B,IL 92 east – Rock Island,"Rock Island, Illinois",https://www.iexitapp.com/Illinois/I-280/Exit%2011B/35653,41.463632,-90.614587,http://maps.google.com/maps?t=m&q=loc:41.463632+-90.614587,Eastbound
+Illinois,I-280,35654,Exit 15,EXIT 15,To US 67 / Airport Road – Milan,"Milan, Illinois",https://www.iexitapp.com/Illinois/I-280/Exit%2015/35654,41.44943,-90.552804,http://maps.google.com/maps?t=m&q=loc:41.44943+-90.552804,Eastbound
+Illinois,I-280,35655,Exit 18A,EXIT 18A,US 6 east – Quad City Airport,"Moline, Illinois",https://www.iexitapp.com/Illinois/I-280/Exit%2018A/35655,41.457883,-90.501086,http://maps.google.com/maps?t=m&q=loc:41.457883+-90.501086,Eastbound
+Illinois,I-280,35656,Exit 18B,EXIT 18B,I-74 / US 6 west – Moline,"Moline, Illinois",https://www.iexitapp.com/Illinois/I-280/Exit%2018B/35656,41.457889,-90.494967,http://maps.google.com/maps?t=m&q=loc:41.457889+-90.494967,Eastbound
+Illinois,I-280,35657,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 19.0)","Moline, Illinois",https://www.iexitapp.com/Illinois/I-280/Weigh%20Station/35657,41.453958,-90.476344,http://maps.google.com/maps?t=m&q=loc:41.453958+-90.476344,Eastbound
+Illinois,I-280,35658,I 280,EXIT,I 280,"Colona, Illinois",https://www.iexitapp.com/Illinois/I-280/Exit%20/35658,41.44039,-90.339531,http://maps.google.com/maps?t=m&q=loc:41.44039+-90.339531,Eastbound

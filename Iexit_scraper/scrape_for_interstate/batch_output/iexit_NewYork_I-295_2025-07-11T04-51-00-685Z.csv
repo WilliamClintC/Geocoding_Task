@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-295,47223,Exit 1,EXIT 1,Exit,"Queens Village, New York",https://www.iexitapp.com/New%20York/I-295/Exit%201/47223,40.725034,-73.754515,http://maps.google.com/maps?t=m&q=loc:40.725034+-73.754515,Northbound
+New York,I-295,47225,Exit 2,EXIT 2,Union Turnpike,"Queens Village, New York",https://www.iexitapp.com/New%20York/I-295/Exit%202/47225,40.729922,-73.76273,http://maps.google.com/maps?t=m&q=loc:40.729922+-73.76273,Northbound
+New York,I-295,47229,Exit 5,EXIT 5,New York 25A; Northern Blvd,"Oakland Gardens, New York",https://www.iexitapp.com/New%20York/I-295/Exit%205/47229,40.754668,-73.776103,http://maps.google.com/maps?t=m&q=loc:40.754668+-73.776103,Northbound
+New York,I-295,47230,Exit 6A,EXIT 6A,35 Ave,"Bayside, New York",https://www.iexitapp.com/New%20York/I-295/Exit%206A/47230,40.763521,-73.779369,http://maps.google.com/maps?t=m&q=loc:40.763521+-73.779369,Northbound
+New York,I-295,47231,Exit 7,EXIT 7,Willets Point Blvd,"Bayside, New York",https://www.iexitapp.com/New%20York/I-295/Exit%207/47231,40.784596,-73.786201,http://maps.google.com/maps?t=m&q=loc:40.784596+-73.786201,Northbound
+New York,I-295,47233,Exit 9,EXIT 9,Pennyfield Avenue; Harding Avenue,"Bronx, New York",https://www.iexitapp.com/New%20York/I-295/Exit%209/47233,40.817996,-73.803931,http://maps.google.com/maps?t=m&q=loc:40.817996+-73.803931,Northbound
+New York,I-295,47235,Exit 11,EXIT 11,Randall Avenue,"Bronx, New York",https://www.iexitapp.com/New%20York/I-295/Exit%2011/47235,40.82333,-73.821068,http://maps.google.com/maps?t=m&q=loc:40.82333+-73.821068,Northbound

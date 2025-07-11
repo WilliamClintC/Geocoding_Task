@@ -1,0 +1,147 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Arizona,I-10,828,Exit 1,EXIT 1,Ehrenberg Parker,"Cibola, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%201/828,33.603018,-114.523753,http://maps.google.com/maps?t=m&q=loc:33.603018+-114.523753,Eastbound
+Arizona,I-10,47731,Ehrenberg Port of Entry,WEIGH STATION,"Ehrenberg Port of Entry
+          (MM: 3.0)","Cibola, Arizona",https://www.iexitapp.com/Arizona/I-10/Weigh%20Station/47731,33.611231,-114.478838,http://maps.google.com/maps?t=m&q=loc:33.611231+-114.478838,Eastbound
+Arizona,I-10,47732,Ehrenberg Rest Area,REST AREA,"Ehrenberg Rest Area
+          (MM: 5.0)","Cibola, Arizona",https://www.iexitapp.com/Arizona/I-10/Rest%20Area/47732,33.617531,-114.457139,http://maps.google.com/maps?t=m&q=loc:33.617531+-114.457139,Eastbound
+Arizona,I-10,58195,Exit 5,EXIT 5,Tom Wells Road,"Ehrenberg, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%205/58195,33.62308,-114.437869,http://maps.google.com/maps?t=m&q=loc:33.62308+-114.437869,Eastbound
+Arizona,I-10,830,Exit 11,EXIT 11,Dome Rock Rd,"Parker, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2011/830,33.646779,-114.33914,http://maps.google.com/maps?t=m&q=loc:33.646779+-114.33914,Eastbound
+Arizona,I-10,831,Exit 17,EXIT 17,US-95; AZ-95; Yuma; Parker,"Parker, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2017/831,33.65906,-114.244769,http://maps.google.com/maps?t=m&q=loc:33.65906+-114.244769,Eastbound
+Arizona,I-10,832,Exit 19,EXIT 19,Quartzite,"Parker, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2019/832,33.664586,-114.206032,http://maps.google.com/maps?t=m&q=loc:33.664586+-114.206032,Eastbound
+Arizona,I-10,47733,Exit 26,EXIT 26,Gold Nugget Rd,"Parker, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2026/47733,33.679118,-114.089419,http://maps.google.com/maps?t=m&q=loc:33.679118+-114.089419,Eastbound
+Arizona,I-10,834,Exit 31,EXIT 31,US-60 E; Wickenburg Prescott,"Parker, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2031/834,33.662668,-114.020973,http://maps.google.com/maps?t=m&q=loc:33.662668+-114.020973,Eastbound
+Arizona,I-10,835,Exit 45,EXIT 45,Vicksburg Rd,"Parker, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2045/835,33.63141,-113.772508,http://maps.google.com/maps?t=m&q=loc:33.63141+-113.772508,Eastbound
+Arizona,I-10,836,Bouse Wash Rest Area,REST AREA,"Bouse Wash Rest Area
+          (MM: 53.0)","Roll, Arizona",https://www.iexitapp.com/Arizona/I-10/Rest%20Area/836,33.61346,-113.651114,http://maps.google.com/maps?t=m&q=loc:33.61346+-113.651114,Eastbound
+Arizona,I-10,837,Exit 53,EXIT 53,Hovatter Rd,"Roll, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2053/837,33.609716,-113.62611,http://maps.google.com/maps?t=m&q=loc:33.609716+-113.62611,Eastbound
+Arizona,I-10,838,Exit 69,EXIT 69,Ave 75 E,"Roll, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2069/838,33.569452,-113.357971,http://maps.google.com/maps?t=m&q=loc:33.569452+-113.357971,Eastbound
+Arizona,I-10,839,Exit 81,EXIT 81,Salome Rd,"Tonopah, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2081/839,33.538845,-113.161787,http://maps.google.com/maps?t=m&q=loc:33.538845+-113.161787,Eastbound
+Arizona,I-10,840,Burnt Well Rest Area,REST AREA,"Burnt Well Rest Area
+          (MM: 86.0)","Tonopah, Arizona",https://www.iexitapp.com/Arizona/I-10/Rest%20Area/840,33.521321,-113.075702,http://maps.google.com/maps?t=m&q=loc:33.521321+-113.075702,Eastbound
+Arizona,I-10,841,Exit 94,EXIT 94,Tonopah,"Tonopah, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2094/841,33.498466,-112.942587,http://maps.google.com/maps?t=m&q=loc:33.498466+-112.942587,Eastbound
+Arizona,I-10,842,Exit 98,EXIT 98,Wintersburg Rd,"Tonopah, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%2098/842,33.483476,-112.875435,http://maps.google.com/maps?t=m&q=loc:33.483476+-112.875435,Eastbound
+Arizona,I-10,843,Exit 103,EXIT 103,339th Ave,"Tonopah, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20103/843,33.46383,-112.787595,http://maps.google.com/maps?t=m&q=loc:33.46383+-112.787595,Eastbound
+Arizona,I-10,844,Exit 109,EXIT 109,Sun Valley Pkwy; Palo Verde Rd,"Buckeye, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20109/844,33.440323,-112.682846,http://maps.google.com/maps?t=m&q=loc:33.440323+-112.682846,Eastbound
+Arizona,I-10,845,Exit 112,EXIT 112,"AZ 85
+          (MM: 112.0)","Buckeye, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20112/845,33.429093,-112.633105,http://maps.google.com/maps?t=m&q=loc:33.429093+-112.633105,Eastbound
+Arizona,I-10,846,Exit 114,EXIT 114,Miller Rd,"Buckeye, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20114/846,33.431399,-112.597005,http://maps.google.com/maps?t=m&q=loc:33.431399+-112.597005,Eastbound
+Arizona,I-10,847,Exit 117,EXIT 117,Watson Rd,"Buckeye, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20117/847,33.442252,-112.563595,http://maps.google.com/maps?t=m&q=loc:33.442252+-112.563595,Eastbound
+Arizona,I-10,848,Exit 120,EXIT 120,Verrado Way,"Buckeye, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20120/848,33.458961,-112.511764,http://maps.google.com/maps?t=m&q=loc:33.458961+-112.511764,Eastbound
+Arizona,I-10,849,Exit 121,EXIT 121,Jackrabbit Trail,"Buckeye, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20121/849,33.462313,-112.485489,http://maps.google.com/maps?t=m&q=loc:33.462313+-112.485489,Eastbound
+Arizona,I-10,47735,Exit 123,EXIT 123,Citrus Rd; 1,"Goodyear, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20123/47735,33.461375,-112.450742,http://maps.google.com/maps?t=m&q=loc:33.461375+-112.450742,Eastbound
+Arizona,I-10,47736,Exit 124,EXIT 124,"Cotton Lane
+          (MM: 124.0)","Goodyear, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20124/47736,33.461383,-112.442154,http://maps.google.com/maps?t=m&q=loc:33.461383+-112.442154,Eastbound
+Arizona,I-10,47738,Exit 126,EXIT 126,Estrella Pkwy; Pebblecreek Pkwy,"Goodyear, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20126/47738,33.461227,-112.402149,http://maps.google.com/maps?t=m&q=loc:33.461227+-112.402149,Eastbound
+Arizona,I-10,47739,Exit 127,EXIT 127,Bullard Avenue,"Goodyear, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20127/47739,33.46114,-112.382453,http://maps.google.com/maps?t=m&q=loc:33.46114+-112.382453,Eastbound
+Arizona,I-10,853,Exit 128,EXIT 128,Litchfield Rd,"Goodyear, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20128/853,33.457824,-112.36406,http://maps.google.com/maps?t=m&q=loc:33.457824+-112.36406,Eastbound
+Arizona,I-10,854,Exit 129,EXIT 129,Dysart Rd,"Goodyear, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20129/854,33.457724,-112.346515,http://maps.google.com/maps?t=m&q=loc:33.457724+-112.346515,Eastbound
+Arizona,I-10,855,Exit 131,EXIT 131,Avondale Blvd,"Avondale, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20131/855,33.458091,-112.312696,http://maps.google.com/maps?t=m&q=loc:33.458091+-112.312696,Eastbound
+Arizona,I-10,856,Exit 132,EXIT 132,107th Ave,"Avondale, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20132/856,33.460981,-112.295972,http://maps.google.com/maps?t=m&q=loc:33.460981+-112.295972,Eastbound
+Arizona,I-10,857,Exit 133A,EXIT 133A,99th Ave,"Avondale, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20133A/857,33.461181,-112.288582,http://maps.google.com/maps?t=m&q=loc:33.461181+-112.288582,Eastbound
+Arizona,I-10,858,Exit 133B,EXIT 133B,"AZ 101 Loop
+          (MM: 133.0)","Avondale, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20133B/858,33.46133,-112.279863,http://maps.google.com/maps?t=m&q=loc:33.46133+-112.279863,Eastbound
+Arizona,I-10,859,Exit 134,EXIT 134,91st Ave,"Tolleson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20134/859,33.461471,-112.27169,http://maps.google.com/maps?t=m&q=loc:33.461471+-112.27169,Eastbound
+Arizona,I-10,860,Exit 135,EXIT 135,83rd Ave,"Tolleson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20135/860,33.46212,-112.244504,http://maps.google.com/maps?t=m&q=loc:33.46212+-112.244504,Eastbound
+Arizona,I-10,861,Exit 136,EXIT 136,75th Ave,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20136/861,33.462248,-112.227265,http://maps.google.com/maps?t=m&q=loc:33.462248+-112.227265,Eastbound
+Arizona,I-10,862,Exit 137,EXIT 137,67th Ave,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20137/862,33.462483,-112.210289,http://maps.google.com/maps?t=m&q=loc:33.462483+-112.210289,Eastbound
+Arizona,I-10,863,Exit 138,EXIT 138,59th Ave,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20138/863,33.462645,-112.193539,http://maps.google.com/maps?t=m&q=loc:33.462645+-112.193539,Eastbound
+Arizona,I-10,864,Exit 139,EXIT 139,51st Avenue,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20139/864,33.462679,-112.175048,http://maps.google.com/maps?t=m&q=loc:33.462679+-112.175048,Eastbound
+Arizona,I-10,865,Exit 140,EXIT 140,43rd Ave,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20140/865,33.462178,-112.15911,http://maps.google.com/maps?t=m&q=loc:33.462178+-112.15911,Eastbound
+Arizona,I-10,866,Exit 141,EXIT 141,35th Ave,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20141/866,33.461792,-112.140656,http://maps.google.com/maps?t=m&q=loc:33.461792+-112.140656,Eastbound
+Arizona,I-10,867,Exit 142,EXIT 142,27th Ave,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20142/867,33.461777,-112.122906,http://maps.google.com/maps?t=m&q=loc:33.461777+-112.122906,Eastbound
+Arizona,I-10,870,Exit 144A,EXIT 144A,7th Ave,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20144A/870,33.461307,-112.089101,http://maps.google.com/maps?t=m&q=loc:33.461307+-112.089101,Eastbound
+Arizona,I-10,871,Exit 145,EXIT 145,7th St,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20145/871,33.462145,-112.069953,http://maps.google.com/maps?t=m&q=loc:33.462145+-112.069953,Eastbound
+Arizona,I-10,872,Exit 146,EXIT 146,16th St,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20146/872,33.461839,-112.052926,http://maps.google.com/maps?t=m&q=loc:33.461839+-112.052926,Eastbound
+Arizona,I-10,873,Exit 147C,EXIT 147C,"Red Mountain Freeway
+          (MM: 147.0)","Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20147C/873,33.461854,-112.047252,http://maps.google.com/maps?t=m&q=loc:33.461854+-112.047252,Eastbound
+Arizona,I-10,874,Exit 147A-B,EXIT 147A-B,"AZ 202 Loop
+          (MM: 147.0)","Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20147A-B/874,33.461809,-112.04563,http://maps.google.com/maps?t=m&q=loc:33.461809+-112.04563,Eastbound
+Arizona,I-10,876,Exit 148,EXIT 148,Washington Street; Jefferson Street; Rental Car Return,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20148/876,33.452175,-112.037561,http://maps.google.com/maps?t=m&q=loc:33.452175+-112.037561,Eastbound
+Arizona,I-10,878,Exit 149,EXIT 149,Sky Harbor,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20149/878,33.442543,-112.037613,http://maps.google.com/maps?t=m&q=loc:33.442543+-112.037613,Eastbound
+Arizona,I-10,880,Exit 151,EXIT 151,University Dr; 32nd St,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20151/880,33.414786,-112.014845,http://maps.google.com/maps?t=m&q=loc:33.414786+-112.014845,Eastbound
+Arizona,I-10,881,Exit 152,EXIT 152,40th St,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20152/881,33.410709,-112.002537,http://maps.google.com/maps?t=m&q=loc:33.410709+-112.002537,Eastbound
+Arizona,I-10,882,Exit 153,EXIT 153,48th St; AZ-143; Broadway Rd,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20153/882,33.41077,-111.985075,http://maps.google.com/maps?t=m&q=loc:33.41077+-111.985075,Eastbound
+Arizona,I-10,47746,Exit 154,EXIT 154,"US 60
+          (MM: 154.0)","Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20154/47746,33.397497,-111.967681,http://maps.google.com/maps?t=m&q=loc:33.397497+-111.967681,Eastbound
+Arizona,I-10,884,Exit 155,EXIT 155,Baseline Rd; Guadalupe,"Tempe, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20155/884,33.392281,-111.967843,http://maps.google.com/maps?t=m&q=loc:33.392281+-111.967843,Eastbound
+Arizona,I-10,885,Exit 157,EXIT 157,Elliot Rd,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20157/885,33.354627,-111.971115,http://maps.google.com/maps?t=m&q=loc:33.354627+-111.971115,Eastbound
+Arizona,I-10,886,Exit 158,EXIT 158,Warner Rd,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20158/886,33.340447,-111.972367,http://maps.google.com/maps?t=m&q=loc:33.340447+-111.972367,Eastbound
+Arizona,I-10,887,Exit 159,EXIT 159,Ray Road,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20159/887,33.327358,-111.972362,http://maps.google.com/maps?t=m&q=loc:33.327358+-111.972362,Eastbound
+Arizona,I-10,888,Exit 160,EXIT 160,Chandler Blvd,"Phoenix, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20160/888,33.31144,-111.972447,http://maps.google.com/maps?t=m&q=loc:33.31144+-111.972447,Eastbound
+Arizona,I-10,889,Exit 161,EXIT 161,"AZ 202 Loop;AZ 202 Loop
+          (MM: 161.0)","Chandler, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20161/889,33.309071,-111.972418,http://maps.google.com/maps?t=m&q=loc:33.309071+-111.972418,Eastbound
+Arizona,I-10,890,Exit 162,EXIT 162,Sundust Rd,"Chandler, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20162/890,33.284039,-111.96963,http://maps.google.com/maps?t=m&q=loc:33.284039+-111.96963,Eastbound
+Arizona,I-10,891,Exit 164,EXIT 164,Arizona 347 S; Queen Creek Rd,"Chandler, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20164/891,33.26024,-111.952078,http://maps.google.com/maps?t=m&q=loc:33.26024+-111.952078,Eastbound
+Arizona,I-10,892,Exit 167,EXIT 167,Riggs Rd,"Chandler, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20167/892,33.224359,-111.924334,http://maps.google.com/maps?t=m&q=loc:33.224359+-111.924334,Eastbound
+Arizona,I-10,893,Exit 175,EXIT 175,AZ-587 N; Casa Blanca Rd,"Bapchule, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20175/893,33.117311,-111.841769,http://maps.google.com/maps?t=m&q=loc:33.117311+-111.841769,Eastbound
+Arizona,I-10,894,Sacaton Rest Area,REST AREA,"Sacaton Rest Area
+          (MM: 182.0)","Maricopa, Arizona",https://www.iexitapp.com/Arizona/I-10/Rest%20Area/894,33.045852,-111.786767,http://maps.google.com/maps?t=m&q=loc:33.045852+-111.786767,Eastbound
+Arizona,I-10,895,Exit 185,EXIT 185,Arizona 187; Arizona 387; Coolidge; Florence,"Maricopa, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20185/895,33.006059,-111.755609,http://maps.google.com/maps?t=m&q=loc:33.006059+-111.755609,Eastbound
+Arizona,I-10,896,Exit 190,EXIT 190,McCartney Rd,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20190/896,32.943045,-111.704971,http://maps.google.com/maps?t=m&q=loc:32.943045+-111.704971,Eastbound
+Arizona,I-10,897,Exit 194,EXIT 194,Arizona 287; Florence Boulvard,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20194/897,32.88328,-111.687085,http://maps.google.com/maps?t=m&q=loc:32.88328+-111.687085,Eastbound
+Arizona,I-10,898,Exit 198,EXIT 198,Jimmie Kerr Boulevard,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20198/898,32.839151,-111.686459,http://maps.google.com/maps?t=m&q=loc:32.839151+-111.686459,Eastbound
+Arizona,I-10,900,Exit 200,EXIT 200,Sunland Gin Rd; Arizona City,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20200/900,32.81112,-111.674457,http://maps.google.com/maps?t=m&q=loc:32.81112+-111.674457,Eastbound
+Arizona,I-10,901,Exit 203,EXIT 203,Toltec Rd,"Eloy, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20203/901,32.779292,-111.623156,http://maps.google.com/maps?t=m&q=loc:32.779292+-111.623156,Eastbound
+Arizona,I-10,902,Exit 208,EXIT 208,Sunshine Blvd,"Eloy, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20208/902,32.736373,-111.553557,http://maps.google.com/maps?t=m&q=loc:32.736373+-111.553557,Eastbound
+Arizona,I-10,903,Exit 211A,EXIT 211A,Picacho,"Eloy, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20211A/903,32.72555,-111.519994,http://maps.google.com/maps?t=m&q=loc:32.72555+-111.519994,Eastbound
+Arizona,I-10,904,Exit 211B,EXIT 211B,AZ-87 N; Coolidge,"Eloy, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20211B/904,32.722606,-111.515104,http://maps.google.com/maps?t=m&q=loc:32.722606+-111.515104,Eastbound
+Arizona,I-10,905,Exit 219,EXIT 219,Picacho Peak Rd,"Picacho, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20219/905,32.650727,-111.398354,http://maps.google.com/maps?t=m&q=loc:32.650727+-111.398354,Eastbound
+Arizona,I-10,906,Exit 226,EXIT 226,Red Rock,"Picacho, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20226/906,32.577302,-111.326722,http://maps.google.com/maps?t=m&q=loc:32.577302+-111.326722,Eastbound
+Arizona,I-10,47751,Exit 232,EXIT 232,Pinal Air Park Rd,"Marana, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20232/47751,32.509919,-111.270841,http://maps.google.com/maps?t=m&q=loc:32.509919+-111.270841,Eastbound
+Arizona,I-10,908,Exit 236,EXIT 236,Marana,"Marana, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20236/908,32.465777,-111.221793,http://maps.google.com/maps?t=m&q=loc:32.465777+-111.221793,Eastbound
+Arizona,I-10,909,Exit 240,EXIT 240,Tangerine Rd,"Marana, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20240/909,32.427561,-111.16826,http://maps.google.com/maps?t=m&q=loc:32.427561+-111.16826,Eastbound
+Arizona,I-10,910,Exit 242,EXIT 242,Avra Valley Rd,"Marana, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20242/910,32.402966,-111.134005,http://maps.google.com/maps?t=m&q=loc:32.402966+-111.134005,Eastbound
+Arizona,I-10,911,Exit 244,EXIT 244,Twin Peaks Road,"Marana, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20244/911,32.385237,-111.114845,http://maps.google.com/maps?t=m&q=loc:32.385237+-111.114845,Eastbound
+Arizona,I-10,912,Exit 246,EXIT 246,Cortaro Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20246/912,32.362568,-111.093897,http://maps.google.com/maps?t=m&q=loc:32.362568+-111.093897,Eastbound
+Arizona,I-10,913,Exit 248,EXIT 248,North Casa Grande Highway,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20248/913,32.341298,-111.070567,http://maps.google.com/maps?t=m&q=loc:32.341298+-111.070567,Eastbound
+Arizona,I-10,914,Exit 250,EXIT 250,Orange Grove Road,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20250/914,32.327287,-111.055589,http://maps.google.com/maps?t=m&q=loc:32.327287+-111.055589,Eastbound
+Arizona,I-10,915,Exit 251,EXIT 251,Sunset Road,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20251/915,32.314325,-111.045633,http://maps.google.com/maps?t=m&q=loc:32.314325+-111.045633,Eastbound
+Arizona,I-10,916,Exit 252,EXIT 252,North Frontage Road,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20252/916,32.29912,-111.034647,http://maps.google.com/maps?t=m&q=loc:32.29912+-111.034647,Eastbound
+Arizona,I-10,917,Exit 254,EXIT 254,Prince Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20254/917,32.275068,-111.013464,http://maps.google.com/maps?t=m&q=loc:32.275068+-111.013464,Eastbound
+Arizona,I-10,918,Exit 255,EXIT 255,Arizona 77 N; Miracle Mile,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20255/918,32.263912,-111.006451,http://maps.google.com/maps?t=m&q=loc:32.263912+-111.006451,Eastbound
+Arizona,I-10,919,Exit 256,EXIT 256,Grant Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20256/919,32.255471,-110.997036,http://maps.google.com/maps?t=m&q=loc:32.255471+-110.997036,Eastbound
+Arizona,I-10,920,Exit 257,EXIT 257,St Marys Road; Speedway Blvd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20257/920,32.241801,-110.986413,http://maps.google.com/maps?t=m&q=loc:32.241801+-110.986413,Eastbound
+Arizona,I-10,921,Exit 258,EXIT 258,Broadway Blvd; Congress Street,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20258/921,32.226508,-110.981531,http://maps.google.com/maps?t=m&q=loc:32.226508+-110.981531,Eastbound
+Arizona,I-10,922,Exit 259,EXIT 259,22nd St; 29th St; Starr Pass Blvd; Silverlake Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20259/922,32.213312,-110.979738,http://maps.google.com/maps?t=m&q=loc:32.213312+-110.979738,Eastbound
+Arizona,I-10,924,Exit 261,EXIT 261,6th Ave; 4th Ave,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20261/924,32.188592,-110.973093,http://maps.google.com/maps?t=m&q=loc:32.188592+-110.973093,Eastbound
+Arizona,I-10,925,Exit 262,EXIT 262,Benson Highway; Park Avenue,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20262/925,32.18644,-110.966048,http://maps.google.com/maps?t=m&q=loc:32.18644+-110.966048,Eastbound
+Arizona,I-10,926,Exit 263A,EXIT 263A,Kino Pkwy S; Tucson International,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20263A/926,32.179977,-110.949595,http://maps.google.com/maps?t=m&q=loc:32.179977+-110.949595,Eastbound
+Arizona,I-10,927,Exit 263B,EXIT 263B,Kino Pkwy N; Ajo Way,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20263B/927,32.176795,-110.943982,http://maps.google.com/maps?t=m&q=loc:32.176795+-110.943982,Eastbound
+Arizona,I-10,928,Exit 264A,EXIT 264A,Palo Verde Road S,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20264A/928,32.163009,-110.91946,http://maps.google.com/maps?t=m&q=loc:32.163009+-110.91946,Eastbound
+Arizona,I-10,929,Exit 264B,EXIT 264B,S Palo Verde Rd; Rd N; Irvington Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20264B/929,32.161585,-110.916942,http://maps.google.com/maps?t=m&q=loc:32.161585+-110.916942,Eastbound
+Arizona,I-10,930,Exit 265,EXIT 265,Alvernon Way,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20265/930,32.160701,-110.915361,http://maps.google.com/maps?t=m&q=loc:32.160701+-110.915361,Eastbound
+Arizona,I-10,931,Exit 267,EXIT 267,Valencia Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20267/931,32.138586,-110.890076,http://maps.google.com/maps?t=m&q=loc:32.138586+-110.890076,Eastbound
+Arizona,I-10,932,Exit 268,EXIT 268,Craycroft Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20268/932,32.1285,-110.880636,http://maps.google.com/maps?t=m&q=loc:32.1285+-110.880636,Eastbound
+Arizona,I-10,933,Exit 269,EXIT 269,Wilmot Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20269/933,32.118393,-110.864421,http://maps.google.com/maps?t=m&q=loc:32.118393+-110.864421,Eastbound
+Arizona,I-10,934,Exit 270,EXIT 270,Kolb Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20270/934,32.107609,-110.847202,http://maps.google.com/maps?t=m&q=loc:32.107609+-110.847202,Eastbound
+Arizona,I-10,935,Exit 273,EXIT 273,Rita Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20273/935,32.08353,-110.808837,http://maps.google.com/maps?t=m&q=loc:32.08353+-110.808837,Eastbound
+Arizona,I-10,936,Exit 275,EXIT 275,Houghton Rd,"Tucson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20275/936,32.063765,-110.777438,http://maps.google.com/maps?t=m&q=loc:32.063765+-110.777438,Eastbound
+Arizona,I-10,937,Exit 279,EXIT 279,Wentworth Rd; Vail Rd,"Vail, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20279/937,32.029165,-110.723858,http://maps.google.com/maps?t=m&q=loc:32.029165+-110.723858,Eastbound
+Arizona,I-10,47753,Exit 281,EXIT 281,AZ-83 S; Sonoita; Patagonia,"Vail, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20281/47753,32.009086,-110.693742,http://maps.google.com/maps?t=m&q=loc:32.009086+-110.693742,Eastbound
+Arizona,I-10,939,Exit 291,EXIT 291,Marsh Station Road,"Vail, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20291/939,31.982477,-110.541552,http://maps.google.com/maps?t=m&q=loc:31.982477+-110.541552,Eastbound
+Arizona,I-10,940,Exit 292,EXIT 292,Empirita Rd,"Vail, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20292/940,31.976508,-110.511847,http://maps.google.com/maps?t=m&q=loc:31.976508+-110.511847,Eastbound
+Arizona,I-10,941,Exit 297,EXIT 297,J-Six Ranch Rd; Mescal Rd,"Benson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20297/941,31.962745,-110.438973,http://maps.google.com/maps?t=m&q=loc:31.962745+-110.438973,Eastbound
+Arizona,I-10,47754,Exit 302,EXIT 302,AZ-90 S; Ft Huachuca; Sierra Vista,"Benson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20302/47754,31.963123,-110.356731,http://maps.google.com/maps?t=m&q=loc:31.963123+-110.356731,Eastbound
+Arizona,I-10,47755,Exit 303,EXIT 303,AZ-80; AZ-10; Benson; Douglas,"Benson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20303/47755,31.969684,-110.330189,http://maps.google.com/maps?t=m&q=loc:31.969684+-110.330189,Eastbound
+Arizona,I-10,945,Exit 304,EXIT 304,Ocotillo St,"Benson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20304/945,31.977787,-110.311844,http://maps.google.com/maps?t=m&q=loc:31.977787+-110.311844,Eastbound
+Arizona,I-10,946,Exit 306,EXIT 306,Pomerene Rd; Benson,"Benson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20306/946,31.967877,-110.278048,http://maps.google.com/maps?t=m&q=loc:31.967877+-110.278048,Eastbound
+Arizona,I-10,947,Exit 312,EXIT 312,Sibyl Rd,"Benson, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20312/947,31.991008,-110.180124,http://maps.google.com/maps?t=m&q=loc:31.991008+-110.180124,Eastbound
+Arizona,I-10,948,Exit 318,EXIT 318,Dragoon Rd,"Dragoon, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20318/948,32.039746,-110.09697,http://maps.google.com/maps?t=m&q=loc:32.039746+-110.09697,Eastbound
+Arizona,I-10,47756,Texas Canyon Rest Area,REST AREA,"Texas Canyon Rest Area
+          (MM: 320.0)","Dragoon, Arizona",https://www.iexitapp.com/Arizona/I-10/Rest%20Area/47756,32.056388,-110.080686,http://maps.google.com/maps?t=m&q=loc:32.056388+-110.080686,Eastbound
+Arizona,I-10,949,Exit 322,EXIT 322,Johnson Rd,"Dragoon, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20322/949,32.079172,-110.056581,http://maps.google.com/maps?t=m&q=loc:32.079172+-110.056581,Eastbound
+Arizona,I-10,950,Exit 331,EXIT 331,US-191 S; Sunsites; Dougles,"Dragoon, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20331/950,32.174619,-109.95219,http://maps.google.com/maps?t=m&q=loc:32.174619+-109.95219,Eastbound
+Arizona,I-10,951,Exit 336,EXIT 336,I-10; Willcox,"Willcox, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20336/951,32.21549,-109.883889,http://maps.google.com/maps?t=m&q=loc:32.21549+-109.883889,Eastbound
+Arizona,I-10,952,Exit 340,EXIT 340,Fort Grant Rd,"Willcox, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20340/952,32.262143,-109.847037,http://maps.google.com/maps?t=m&q=loc:32.262143+-109.847037,Eastbound
+Arizona,I-10,953,Exit 344,EXIT 344,I-10; Willcox,"Willcox, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20344/953,32.307216,-109.796926,http://maps.google.com/maps?t=m&q=loc:32.307216+-109.796926,Eastbound
+Arizona,I-10,954,Exit 352,EXIT 352,US-191 N; Safford,"Willcox, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20352/954,32.358003,-109.687477,http://maps.google.com/maps?t=m&q=loc:32.358003+-109.687477,Eastbound
+Arizona,I-10,955,Exit 355,EXIT 355,US-191 N; Safford,"Willcox, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20355/955,32.362542,-109.626098,http://maps.google.com/maps?t=m&q=loc:32.362542+-109.626098,Eastbound
+Arizona,I-10,956,Exit 362,EXIT 362,I-10; Bowie,"Bowie, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20362/956,32.332108,-109.519217,http://maps.google.com/maps?t=m&q=loc:32.332108+-109.519217,Eastbound
+Arizona,I-10,957,Exit 366,EXIT 366,I-10; Bowie,"Bowie, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20366/957,32.317228,-109.448747,http://maps.google.com/maps?t=m&q=loc:32.317228+-109.448747,Eastbound
+Arizona,I-10,958,Exit 378,EXIT 378,I-10 BUS; San Simon,"San Simon, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20378/958,32.274582,-109.256259,http://maps.google.com/maps?t=m&q=loc:32.274582+-109.256259,Eastbound
+Arizona,I-10,959,Exit 382,EXIT 382,I-10; Portal Rd; San Simon,"San Simon, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20382/959,32.257161,-109.193843,http://maps.google.com/maps?t=m&q=loc:32.257161+-109.193843,Eastbound
+Arizona,I-10,47757,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 383.0)","San Simon, Arizona",https://www.iexitapp.com/Arizona/I-10/Weigh%20Station/47757,32.257242,-109.18313,http://maps.google.com/maps?t=m&q=loc:32.257242+-109.18313,Eastbound
+Arizona,I-10,47758,San Simon Rest Area,REST AREA,"San Simon Rest Area
+          (MM: 380.0)","San Simon, Arizona",https://www.iexitapp.com/Arizona/I-10/Rest%20Area/47758,32.237845,-109.094256,http://maps.google.com/maps?t=m&q=loc:32.237845+-109.094256,Eastbound
+Arizona,I-10,960,Exit 390,EXIT 390,Cavot Rd,"San Simon, Arizona",https://www.iexitapp.com/Arizona/I-10/Exit%20390/960,32.230002,-109.059695,http://maps.google.com/maps?t=m&q=loc:32.230002+-109.059695,Eastbound

@@ -1,0 +1,89 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Ohio,I-70,8872,Exit 225,EXIT 225,OH-7; Bridgeport,"Bridgeport, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20225/8872,40.071609,-80.742085,http://maps.google.com/maps?t=m&q=loc:40.071609+-80.742085,Westbound
+Ohio,I-70,8873,Exit 220,EXIT 220,US-40 W; National Rd; Co Rd 214,"Bridgeport, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20220/8873,40.065878,-80.831157,http://maps.google.com/maps?t=m&q=loc:40.065878+-80.831157,Westbound
+Ohio,I-70,8875,Exit 218,EXIT 218,Mall Rd; Banfield Rd,"St Clairsville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20218/8875,40.072643,-80.867233,http://maps.google.com/maps?t=m&q=loc:40.072643+-80.867233,Westbound
+Ohio,I-70,8876,Exit 216,EXIT 216,OH-9; St Clairsville,"St. Clairsville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20216/8876,40.067793,-80.896663,http://maps.google.com/maps?t=m&q=loc:40.067793+-80.896663,Westbound
+Ohio,I-70,8877,Exit 215,EXIT 215,US-40; National Rd,"St Clairsville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20215/8877,40.075211,-80.92339,http://maps.google.com/maps?t=m&q=loc:40.075211+-80.92339,Westbound
+Ohio,I-70,8878,Exit 213,EXIT 213,OH-331; Flushing,"Belmont, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20213/8878,40.076522,-80.962945,http://maps.google.com/maps?t=m&q=loc:40.076522+-80.962945,Westbound
+Ohio,I-70,8879,Ohio Welcome Center,WELCOME CENTER,"Ohio Welcome Center
+          (MM: 210.0)","Belmont, Ohio",https://www.iexitapp.com/Ohio/I-70/Welcome%20Center/8879,40.063804,-81.006991,http://maps.google.com/maps?t=m&q=loc:40.063804+-81.006991,Westbound
+Ohio,I-70,8880,Exit 208,EXIT 208,Ohio 149; Belmont; Morristown,"Bethesda, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20208/8880,40.061511,-81.04871,http://maps.google.com/maps?t=m&q=loc:40.061511+-81.04871,Westbound
+Ohio,I-70,8881,Exit 202,EXIT 202,OH-800; Barnesville; Dennsion,"Barnesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20202/8881,40.058006,-81.151793,http://maps.google.com/maps?t=m&q=loc:40.058006+-81.151793,Westbound
+Ohio,I-70,8882,Exit 198,EXIT 198,County Rd 114; Fairview,"Quaker City, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20198/8882,40.055943,-81.223395,http://maps.google.com/maps?t=m&q=loc:40.055943+-81.223395,Westbound
+Ohio,I-70,8883,Exit 193,EXIT 193,OH-513; Quaker City,"Salesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20193/8883,40.05399,-81.321585,http://maps.google.com/maps?t=m&q=loc:40.05399+-81.321585,Westbound
+Ohio,I-70,8884,Exit 186,EXIT 186,OH-285; US-40; Senecaville; Old Washington,"Lore City, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20186/8884,40.033601,-81.443121,http://maps.google.com/maps?t=m&q=loc:40.033601+-81.443121,Westbound
+Ohio,I-70,8886,Exit 178,EXIT 178,Ohio 209; Cambridge,"Cambridge, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20178/8886,39.998132,-81.573478,http://maps.google.com/maps?t=m&q=loc:39.998132+-81.573478,Westbound
+Ohio,I-70,8887,Exit 176,EXIT 176,US-22; US-40; Cambridge,"Cambridge, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20176/8887,40.008554,-81.616951,http://maps.google.com/maps?t=m&q=loc:40.008554+-81.616951,Westbound
+Ohio,I-70,8888,Weigh Station,WEIGH STATION,Weigh Station,"Cambridge, Ohio",https://www.iexitapp.com/Ohio/I-70/Weigh%20Station/8888,39.997374,-81.667214,http://maps.google.com/maps?t=m&q=loc:39.997374+-81.667214,Westbound
+Ohio,I-70,8889,Exit 169,EXIT 169,OH-83; New Concord; Cumberland,"New Concord, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20169/8889,39.982119,-81.725221,http://maps.google.com/maps?t=m&q=loc:39.982119+-81.725221,Westbound
+Ohio,I-70,51531,Exit 164,EXIT 164,US-22; US-40; Norwich,"Norwich, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20164/51531,39.972284,-81.826206,http://maps.google.com/maps?t=m&q=loc:39.972284+-81.826206,Westbound
+Ohio,I-70,8891,Muskingum Rest Area,REST AREA,"Muskingum Rest Area
+          (MM: 162.0)","Zanesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Rest%20Area/8891,39.973964,-81.85554,http://maps.google.com/maps?t=m&q=loc:39.973964+-81.85554,Westbound
+Ohio,I-70,8892,Exit 160,EXIT 160,Sonora Rd; Airport Rd,"Zanesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20160/8892,39.968424,-81.894492,http://maps.google.com/maps?t=m&q=loc:39.968424+-81.894492,Westbound
+Ohio,I-70,8893,Exit 157,EXIT 157,Adamsville; OH-93; Zanesville,"Zanesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20157/8893,39.950521,-81.954805,http://maps.google.com/maps?t=m&q=loc:39.950521+-81.954805,Westbound
+Ohio,I-70,8894,Exit 155,EXIT 155,OH-60; OH-146; Underwood St,"Zanesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20155/8894,39.943952,-81.99512,http://maps.google.com/maps?t=m&q=loc:39.943952+-81.99512,Westbound
+Ohio,I-70,51532,Exit 153B,EXIT 153B,Maple Avenue,"Zanesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20153B/51532,39.946364,-82.010058,http://maps.google.com/maps?t=m&q=loc:39.946364+-82.010058,Westbound
+Ohio,I-70,8896,Exit 153A,EXIT 153A,State St; O U Zanesville; Zane State College; Dillion State Park,"Zanesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20153A/8896,39.947545,-82.014658,http://maps.google.com/maps?t=m&q=loc:39.947545+-82.014658,Westbound
+Ohio,I-70,8897,Exit 152,EXIT 152,US-40; National Rd,"Zanesville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20152/8897,39.948263,-82.041877,http://maps.google.com/maps?t=m&q=loc:39.948263+-82.041877,Westbound
+Ohio,I-70,8898,Exit 142,EXIT 142,US-40; Gratiot,"Heath, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20142/8898,39.948668,-82.217689,http://maps.google.com/maps?t=m&q=loc:39.948668+-82.217689,Westbound
+Ohio,I-70,8899,Exit 132,EXIT 132,OH-13; Thornville; Newark,"Thornville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20132/8899,39.943608,-82.403539,http://maps.google.com/maps?t=m&q=loc:39.943608+-82.403539,Westbound
+Ohio,I-70,8900,Licking Rest Area,REST AREA,"Licking Rest Area
+          (MM: 130.5)","Hebron, Ohio",https://www.iexitapp.com/Ohio/I-70/Rest%20Area/8900,39.94644,-82.447183,http://maps.google.com/maps?t=m&q=loc:39.94644+-82.447183,Westbound
+Ohio,I-70,8901,Exit 129,EXIT 129,OH-79 N; Newark,"Hebron, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20129/8901,39.945901,-82.473979,http://maps.google.com/maps?t=m&q=loc:39.945901+-82.473979,Westbound
+Ohio,I-70,8903,Exit 126,EXIT 126,OH-37; Lancaster; Granville,"Hebron, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20126/8903,39.942336,-82.531541,http://maps.google.com/maps?t=m&q=loc:39.942336+-82.531541,Westbound
+Ohio,I-70,8904,Exit 122,EXIT 122,OH-158; Kirkersville; Baltomore,"Millersport, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20122/8904,39.945,-82.595813,http://maps.google.com/maps?t=m&q=loc:39.945+-82.595813,Westbound
+Ohio,I-70,8905,Exit 118,EXIT 118,OH-310; Pataskala,"Pataskala, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20118/8905,39.948742,-82.678705,http://maps.google.com/maps?t=m&q=loc:39.948742+-82.678705,Westbound
+Ohio,I-70,8906,Exit 112,EXIT 112,OH-256; Pickerington; Reynoldsburg,"Reynoldsburg, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20112/8906,39.935155,-82.783761,http://maps.google.com/maps?t=m&q=loc:39.935155+-82.783761,Westbound
+Ohio,I-70,8907,Exit 110,EXIT 110,Brice Rd; Reynoldsburg,"Reynoldsburg, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20110/8907,39.932622,-82.825127,http://maps.google.com/maps?t=m&q=loc:39.932622+-82.825127,Westbound
+Ohio,I-70,51533,Exit 108AB,EXIT 108AB,"I 270;I 270
+          (MM: 108.0)","Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20108AB/51533,39.934228,-82.852229,http://maps.google.com/maps?t=m&q=loc:39.934228+-82.852229,Westbound
+Ohio,I-70,51534,Exit 108A,EXIT 108A,I-270 N; Cleveland,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20108A/51534,39.949251,-82.845079,http://maps.google.com/maps?t=m&q=loc:39.949251+-82.845079,Westbound
+Ohio,I-70,8909,Exit 107,EXIT 107,OH-317; Hamilton Rd; Whitehall,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20107/8909,39.937231,-82.873723,http://maps.google.com/maps?t=m&q=loc:39.937231+-82.873723,Westbound
+Ohio,I-70,8910,Exit 105B,EXIT 105B,S James Rd; Bexley,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20105B/8910,39.931752,-82.911325,http://maps.google.com/maps?t=m&q=loc:39.931752+-82.911325,Westbound
+Ohio,I-70,8911,Exit 105A,EXIT 105A,US-33; Lancaster,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20105A/8911,39.931794,-82.914599,http://maps.google.com/maps?t=m&q=loc:39.931794+-82.914599,Westbound
+Ohio,I-70,8912,Exit 103B,EXIT 103B,US-33; Livingston Ave,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20103B/8912,39.944204,-82.941733,http://maps.google.com/maps?t=m&q=loc:39.944204+-82.941733,Westbound
+Ohio,I-70,8913,Exit 102,EXIT 102,Kelton Ave; Miller Ave,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20102/8913,39.953392,-82.954179,http://maps.google.com/maps?t=m&q=loc:39.953392+-82.954179,Westbound
+Ohio,I-70,51537,Exit 101B,EXIT 101B,Hospital; Downtown,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20101B/51537,39.955174,-82.979316,http://maps.google.com/maps?t=m&q=loc:39.955174+-82.979316,Westbound
+Ohio,I-70,8916,Exit 99A;99B,EXIT 99A;99B,"I 70
+          (MM: 99.0)","Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2099A;99B/8916,39.9528,-83.010734,http://maps.google.com/maps?t=m&q=loc:39.9528+-83.010734,Westbound
+Ohio,I-70,51539,Exit 99C,EXIT 99C,"SR 315
+          (MM: 99.0)","Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2099C/51539,39.952004,-83.013738,http://maps.google.com/maps?t=m&q=loc:39.952004+-83.013738,Westbound
+Ohio,I-70,8917,Exit 98B,EXIT 98B,Mound Street,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2098B/8917,39.949008,-83.027587,http://maps.google.com/maps?t=m&q=loc:39.949008+-83.027587,Westbound
+Ohio,I-70,8918,Exit 98A,EXIT 98A,US-62; OH-3; Central Ave; Sullivant Ave,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2098A/8918,39.948935,-83.037767,http://maps.google.com/maps?t=m&q=loc:39.948935+-83.037767,Westbound
+Ohio,I-70,8919,Exit 97,EXIT 97,US 40; Broad Street W; Interstate 71; Ohio 315,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2097/8919,39.95401,-83.042092,http://maps.google.com/maps?t=m&q=loc:39.95401+-83.042092,Westbound
+Ohio,I-70,8921,Exit 95,EXIT 95,Hague Ave,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2095/8921,39.973427,-83.081968,http://maps.google.com/maps?t=m&q=loc:39.973427+-83.081968,Westbound
+Ohio,I-70,8922,Exit 94,EXIT 94,Wilson Rd,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2094/8922,39.974356,-83.094952,http://maps.google.com/maps?t=m&q=loc:39.974356+-83.094952,Westbound
+Ohio,I-70,8924,Exit 91B,EXIT 91B,Hilliard Rome Road N,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2091B/8924,39.977291,-83.146241,http://maps.google.com/maps?t=m&q=loc:39.977291+-83.146241,Westbound
+Ohio,I-70,8925,Exit 91A,EXIT 91A,Hilliard-Rome Rd S,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2091A/8925,39.977389,-83.149838,http://maps.google.com/maps?t=m&q=loc:39.977389+-83.149838,Westbound
+Ohio,I-70,8926,Exit 85,EXIT 85,OH-142; W Jefferson; Plain City,"West Jefferson, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2085/8926,39.979475,-83.255264,http://maps.google.com/maps?t=m&q=loc:39.979475+-83.255264,Westbound
+Ohio,I-70,8927,Exit 80,EXIT 80,OH-29; Mechanicsburg; Urbana,"West Jefferson, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2080/8927,39.959917,-83.340098,http://maps.google.com/maps?t=m&q=loc:39.959917+-83.340098,Westbound
+Ohio,I-70,8928,Exit 79,EXIT 79,US-42; London,"London, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2079/8928,39.957025,-83.366608,http://maps.google.com/maps?t=m&q=loc:39.957025+-83.366608,Westbound
+Ohio,I-70,8929,Exit 72,EXIT 72,OH-56; London,"London, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2072/8929,39.942406,-83.495567,http://maps.google.com/maps?t=m&q=loc:39.942406+-83.495567,Westbound
+Ohio,I-70,8930,Temporarily Closed - Madison Rest Area,REST AREA,"Temporarily Closed - Madison Rest Area
+          (MM: 71.0)","London, Ohio",https://www.iexitapp.com/Ohio/I-70/Rest%20Area/8930,39.941249,-83.528448,http://maps.google.com/maps?t=m&q=loc:39.941249+-83.528448,Westbound
+Ohio,I-70,8931,Exit 66,EXIT 66,OH-54; S Vienna; Catawba,"South Vienna, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2066/8931,39.93269,-83.607618,http://maps.google.com/maps?t=m&q=loc:39.93269+-83.607618,Westbound
+Ohio,I-70,8932,Exit 62,EXIT 62,US-40; Springfield,"Springfield, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2062/8932,39.926839,-83.68518,http://maps.google.com/maps?t=m&q=loc:39.926839+-83.68518,Westbound
+Ohio,I-70,8933,Exit 59,EXIT 59,OH-41; S Charleston,"Springfield, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2059/8933,39.899599,-83.720342,http://maps.google.com/maps?t=m&q=loc:39.899599+-83.720342,Westbound
+Ohio,I-70,8934,Exit 54,EXIT 54,OH-72; Cedarville; Springfield,"Springfield, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2054/8934,39.891416,-83.806228,http://maps.google.com/maps?t=m&q=loc:39.891416+-83.806228,Westbound
+Ohio,I-70,8935,Exit 52B,EXIT 52B,"US 68
+          (MM: 52.0)","Springfield, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2052B/8935,39.895533,-83.847789,http://maps.google.com/maps?t=m&q=loc:39.895533+-83.847789,Westbound
+Ohio,I-70,51544,Exit 52A,EXIT 52A,"US 68
+          (MM: 52.0)","Springfield, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2052A/51544,39.895514,-83.854171,http://maps.google.com/maps?t=m&q=loc:39.895514+-83.854171,Westbound
+Ohio,I-70,8936,Exit 48,EXIT 48,Enon; Donneisville; I-70,"Springfield, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2048/8936,39.889797,-83.930962,http://maps.google.com/maps?t=m&q=loc:39.889797+-83.930962,Westbound
+Ohio,I-70,51546,Exit 44,EXIT 44,"I 675;CR 335
+          (MM: 44.0)","Medway, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2044/51546,39.867521,-83.988253,http://maps.google.com/maps?t=m&q=loc:39.867521+-83.988253,Westbound
+Ohio,I-70,51548,Exit 41,EXIT 41,OH-235 N; New Carlisle,"Dayton, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2041/51548,39.865268,-84.048577,http://maps.google.com/maps?t=m&q=loc:39.865268+-84.048577,Westbound
+Ohio,I-70,51549,Exit 41,EXIT 41,OH-235 S; OH-4; Dayton,"Dayton, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2041/51549,39.867429,-84.053753,http://maps.google.com/maps?t=m&q=loc:39.867429+-84.053753,Westbound
+Ohio,I-70,8940,Exit 38,EXIT 38,OH-201; Huber Heights,"Dayton, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2038/8940,39.867514,-84.095052,http://maps.google.com/maps?t=m&q=loc:39.867514+-84.095052,Westbound
+Ohio,I-70,8941,Exit 36,EXIT 36,OH-202; Huber Hts,"Dayton, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2036/8941,39.869702,-84.132651,http://maps.google.com/maps?t=m&q=loc:39.869702+-84.132651,Westbound
+Ohio,I-70,51551,Exit 32,EXIT 32,"CR 705
+          (MM: 32.0)","Dayton, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2032/51551,39.864649,-84.217511,http://maps.google.com/maps?t=m&q=loc:39.864649+-84.217511,Westbound
+Ohio,I-70,8944,Exit 29,EXIT 29,OH-48; Dayton; Englewood,"Englewood, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2029/8944,39.859865,-84.276136,http://maps.google.com/maps?t=m&q=loc:39.859865+-84.276136,Westbound
+Ohio,I-70,8945,Exit 26,EXIT 26,Hoke Rd; Trotwood; OH-49 S,"Clayton, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2026/8945,39.855233,-84.323484,http://maps.google.com/maps?t=m&q=loc:39.855233+-84.323484,Westbound
+Ohio,I-70,51553,Exit 24,EXIT 24,OH-49 N; Greenville; Clayton,"Brookville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2024/51553,39.854661,-84.366016,http://maps.google.com/maps?t=m&q=loc:39.854661+-84.366016,Westbound
+Ohio,I-70,8947,Exit 21,EXIT 21,Co Rd 553; Brookville,"Brookville, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2021/8947,39.851497,-84.421748,http://maps.google.com/maps?t=m&q=loc:39.851497+-84.421748,Westbound
+Ohio,I-70,8948,Exit 14,EXIT 14,OH-503; W Alexandria; Lewisburg,"Lewisburg, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2014/8948,39.837532,-84.534423,http://maps.google.com/maps?t=m&q=loc:39.837532+-84.534423,Westbound
+Ohio,I-70,8949,Exit 10,EXIT 10,US-127; Eaton; Greenville,"Eaton, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%2010/8949,39.8357,-84.623336,http://maps.google.com/maps?t=m&q=loc:39.8357+-84.623336,Westbound
+Ohio,I-70,8950,Temporarily Closed - Preble Rest Area,REST AREA,"Temporarily Closed - Preble Rest Area
+          (MM: 3.0)","Eaton, Ohio",https://www.iexitapp.com/Ohio/I-70/Rest%20Area/8950,39.828788,-84.753425,http://maps.google.com/maps?t=m&q=loc:39.828788+-84.753425,Westbound
+Ohio,I-70,8951,Exit 156B,EXIT 156B,US-40 E; Lewisburg Oh.,"New Paris, Ohio",https://www.iexitapp.com/Ohio/I-70/Exit%20156B/8951,39.830565,-84.813198,http://maps.google.com/maps?t=m&q=loc:39.830565+-84.813198,Westbound

@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-590,37208,Exit 11,EXIT 11,Ridge Road,"Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%2011/37208,43.206498,-77.548842,http://maps.google.com/maps?t=m&q=loc:43.206498+-77.548842,Westbound
+New York,I-590,37209,Exit 8,EXIT 8,"NY 404 – Webster, Empire Boulevard","Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%208/37209,43.179658,-77.543051,http://maps.google.com/maps?t=m&q=loc:43.179658+-77.543051,Westbound
+New York,I-590,37210,Exit 7,EXIT 7,NY 286 – Browncroft Boulevard,"Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%207/37210,43.160358,-77.539453,http://maps.google.com/maps?t=m&q=loc:43.160358+-77.539453,Westbound
+New York,I-590,37211,Exit 6,EXIT 6,Blossom Road,"Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%206/37211,43.151486,-77.538984,http://maps.google.com/maps?t=m&q=loc:43.151486+-77.538984,Westbound
+New York,I-590,37213,Exit 3,EXIT 3,Elmwood Avenue,"Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%203/37213,43.129046,-77.553424,http://maps.google.com/maps?t=m&q=loc:43.129046+-77.553424,Westbound
+New York,I-590,37214,Exit 2A,EXIT 2A,NY 31 (Monroe Avenue) – Pittsford,"Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%202A/37214,43.121505,-77.553814,http://maps.google.com/maps?t=m&q=loc:43.121505+-77.553814,Westbound
+New York,I-590,37215,Exit 2B,EXIT 2B,NY 31 (Monroe Avenue) – Pittsford,"Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%202B/37215,43.114685,-77.552109,http://maps.google.com/maps?t=m&q=loc:43.114685+-77.552109,Westbound
+New York,I-590,37216,Exit 1,EXIT 1,Winton Road,"Rochester, New York",https://www.iexitapp.com/New%20York/I-590/Exit%201/37216,43.108051,-77.571555,http://maps.google.com/maps?t=m&q=loc:43.108051+-77.571555,Westbound

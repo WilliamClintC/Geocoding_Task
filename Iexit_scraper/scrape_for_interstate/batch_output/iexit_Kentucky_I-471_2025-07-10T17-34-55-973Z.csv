@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kentucky,I-471,34787,Exit 5,EXIT 5,KY 8 (Fairfield Avenue) / Park Avenue,"Bellevue, Kentucky",https://www.iexitapp.com/Kentucky/I-471/Exit%205/34787,39.099384,-84.492698,http://maps.google.com/maps?t=m&q=loc:39.099384+-84.492698,Southbound
+Kentucky,I-471,34788,Exit 4,EXIT 4,KY 1120 (East 10th Street),"Newport, Kentucky",https://www.iexitapp.com/Kentucky/I-471/Exit%204/34788,39.095212,-84.48137,http://maps.google.com/maps?t=m&q=loc:39.095212+-84.48137,Southbound
+Kentucky,I-471,34789,Exit 3,EXIT 3,KY 1892 (North Grand Avenue),"Newport, Kentucky",https://www.iexitapp.com/Kentucky/I-471/Exit%203/34789,39.088147,-84.474838,http://maps.google.com/maps?t=m&q=loc:39.088147+-84.474838,Southbound
+Kentucky,I-471,34790,Exit 2,EXIT 2,US 27 (Alexandria Pike),"Newport, Kentucky",https://www.iexitapp.com/Kentucky/I-471/Exit%202/34790,39.072776,-84.464233,http://maps.google.com/maps?t=m&q=loc:39.072776+-84.464233,Southbound

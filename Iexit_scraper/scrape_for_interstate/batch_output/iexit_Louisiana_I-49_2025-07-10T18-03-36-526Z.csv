@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Louisiana,I-49,58484,Exit 221,EXIT 221,State Rte 173,"Shreveport, Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20221/58484,32.670627,-93.848242,http://maps.google.com/maps?t=m&q=loc:32.670627+-93.848242,Northbound
+Louisiana,I-49,58485,Exit 223,EXIT 223,Dixie-Mooringsport Road,"Shreveport, Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20223/58485,32.697057,-93.859121,http://maps.google.com/maps?t=m&q=loc:32.697057+-93.859121,Northbound
+Louisiana,I-49,58486,Exit 228,EXIT 228,Belcher Oil City Road,"Belcher, Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20228/58486,32.762338,-93.886573,http://maps.google.com/maps?t=m&q=loc:32.762338+-93.886573,Northbound
+Louisiana,I-49,58487,Exit 231,EXIT 231,Gilliam-Vivian Road,"Vivian, Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20231/58487,32.809811,-93.88446,http://maps.google.com/maps?t=m&q=loc:32.809811+-93.88446,Northbound
+Louisiana,I-49,58488,Exit 234,EXIT 234,US-71 S,", Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20234/58488,32.847181,-93.866568,http://maps.google.com/maps?t=m&q=loc:32.847181+-93.866568,Northbound
+Louisiana,I-49,58489,Exit 237,EXIT 237,State Route 2,"Hosston, Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20237/58489,32.890451,-93.859959,http://maps.google.com/maps?t=m&q=loc:32.890451+-93.859959,Northbound
+Louisiana,I-49,58490,Exit 241,EXIT 241,Mira Myrtis Rd,"Ida, Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20241/58490,32.93791,-93.89701,http://maps.google.com/maps?t=m&q=loc:32.93791+-93.89701,Northbound
+Louisiana,I-49,58491,Exit 245,EXIT 245,LA-168 E,"Ida, Louisiana",https://www.iexitapp.com/Louisiana/I-49/Exit%20245/58491,32.991418,-93.910315,http://maps.google.com/maps?t=m&q=loc:32.991418+-93.910315,Northbound

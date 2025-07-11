@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-255,33685,Exit 1B,EXIT 1B,US-61 S; US-67 S,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-255/Exit%201B/33685,38.502433,-90.329239,http://maps.google.com/maps?t=m&q=loc:38.502433+-90.329239,Northbound
+Missouri,I-255,33686,Exit 2,EXIT 2,MO-231 N,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-255/Exit%202/33686,38.49708,-90.307449,http://maps.google.com/maps?t=m&q=loc:38.49708+-90.307449,Northbound
+Missouri,I-255,33687,Exit 3,EXIT 3,Koch Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-255/Exit%203/33687,38.490274,-90.288368,http://maps.google.com/maps?t=m&q=loc:38.490274+-90.288368,Northbound

@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Delaware,I-295,356,Landers Ln,EXIT,Landers Ln,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-295/Exit%20/356,39.696276,-75.567882,http://maps.google.com/maps?t=m&q=loc:39.696276+-75.567882,Northbound
+Delaware,I-295,357,DE-9,EXIT,DE-9,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-295/Exit%20/357,39.695967,-75.558869,http://maps.google.com/maps?t=m&q=loc:39.695967+-75.558869,Northbound
+Delaware,I-295,47682,DE-9 S,EXIT,DE-9 S,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-295/Exit%20/47682,39.696699,-75.553597,http://maps.google.com/maps?t=m&q=loc:39.696699+-75.553597,Southbound
+Delaware,I-295,474,US-13 N,EXIT,US-13 N,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-295/Exit%20/474,39.696453,-75.565602,http://maps.google.com/maps?t=m&q=loc:39.696453+-75.565602,Southbound
+Delaware,I-295,47683,US-13 S,EXIT,US-13 S,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-295/Exit%20/47683,39.697171,-75.570725,http://maps.google.com/maps?t=m&q=loc:39.697171+-75.570725,Southbound
+Delaware,I-295,47684,Exit 5,EXIT 5,"DE 141
+          (MM: 5.0)","New Castle, Delaware",https://www.iexitapp.com/Delaware/I-295/Exit%205/47684,39.706962,-75.596536,http://maps.google.com/maps?t=m&q=loc:39.706962+-75.596536,Southbound

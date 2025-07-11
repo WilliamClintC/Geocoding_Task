@@ -1,0 +1,82 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-70,8508,Exit 2,EXIT 2,Packers Ave,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%202/8508,38.644621,-90.156708,http://maps.google.com/maps?t=m&q=loc:38.644621+-90.156708,Eastbound
+Illinois,I-70,8511,Exit 4,EXIT 4,Granite City,"Stites, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%204/8511,38.640141,-90.134088,http://maps.google.com/maps?t=m&q=loc:38.640141+-90.134088,Eastbound
+Illinois,I-70,51431,Exit 4,EXIT 4,Granite City,"Fairmont City, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%204/51431,38.641662,-90.132167,http://maps.google.com/maps?t=m&q=loc:38.641662+-90.132167,Eastbound
+Illinois,I-70,8512,Exit 6,EXIT 6,IL-111; Wood River; Washington Park,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%206/8512,38.662685,-90.098243,http://maps.google.com/maps?t=m&q=loc:38.662685+-90.098243,Eastbound
+Illinois,I-70,8513,Exit 9,EXIT 9,Black Ln,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%209/8513,38.666829,-90.050878,http://maps.google.com/maps?t=m&q=loc:38.666829+-90.050878,Eastbound
+Illinois,I-70,8515,Exit 11,EXIT 11,IL-157; Collinsville; Edwardsville,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2011/8515,38.678093,-90.014782,http://maps.google.com/maps?t=m&q=loc:38.678093+-90.014782,Eastbound
+Illinois,I-70,8516,Exit 15A,EXIT 15A,IL-159 S; Vandalia St; Collinsville,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2015A/8516,38.707449,-89.962459,http://maps.google.com/maps?t=m&q=loc:38.707449+-89.962459,Eastbound
+Illinois,I-70,8517,Exit 15B,EXIT 15B,IL-159 N; Maryville,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2015B/8517,38.708088,-89.958289,http://maps.google.com/maps?t=m&q=loc:38.708088+-89.958289,Eastbound
+Illinois,I-70,8518,Exit 17,EXIT 17,US-40 E; St Jacob Highland,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2017/8518,38.715361,-89.924556,http://maps.google.com/maps?t=m&q=loc:38.715361+-89.924556,Eastbound
+Illinois,I-70,8519,Exit 18,EXIT 18,Illinois 162; Troy,"Troy, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2018/8519,38.728547,-89.913524,http://maps.google.com/maps?t=m&q=loc:38.728547+-89.913524,Eastbound
+Illinois,I-70,8522,Exit 21,EXIT 21,IL-4; Lebanon; Staunton,"Edwardsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2021/8522,38.761838,-89.806737,http://maps.google.com/maps?t=m&q=loc:38.761838+-89.806737,Eastbound
+Illinois,I-70,8523,Exit 24,EXIT 24,Illinois 143; Marine Highland,"Marine, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2024/8523,38.772731,-89.746459,http://maps.google.com/maps?t=m&q=loc:38.772731+-89.746459,Eastbound
+Illinois,I-70,8524,Silver Lake Rest Area,REST AREA,"Silver Lake Rest Area
+          (MM: 27.0)","Highland, Illinois",https://www.iexitapp.com/Illinois/I-70/Rest%20Area/8524,38.785835,-89.707077,http://maps.google.com/maps?t=m&q=loc:38.785835+-89.707077,Eastbound
+Illinois,I-70,8525,Exit 30,EXIT 30,IL-143; Pierron,"Highland, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2030/8525,38.786157,-89.63663,http://maps.google.com/maps?t=m&q=loc:38.786157+-89.63663,Eastbound
+Illinois,I-70,8526,Exit 36,EXIT 36,US-40 E; Pocahontas,"Pocahontas, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2036/8526,38.829048,-89.54996,http://maps.google.com/maps?t=m&q=loc:38.829048+-89.54996,Eastbound
+Illinois,I-70,8527,Exit 41,EXIT 41,Greenville,"Pocahontas, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2041/8527,38.851865,-89.457037,http://maps.google.com/maps?t=m&q=loc:38.851865+-89.457037,Eastbound
+Illinois,I-70,8528,Exit 45,EXIT 45,IL-127; Greenville; Carlyle,"Greenville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2045/8528,38.871261,-89.3847,http://maps.google.com/maps?t=m&q=loc:38.871261+-89.3847,Eastbound
+Illinois,I-70,8529,Exit 52,EXIT 52,Mulberry Grove; Keyesport,"Mulberry Grove, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2052/8529,38.913738,-89.274702,http://maps.google.com/maps?t=m&q=loc:38.913738+-89.274702,Eastbound
+Illinois,I-70,8530,Exit 61,EXIT 61,US-40; Vandalia,"Mulberry Grove, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2061/8530,38.968045,-89.137052,http://maps.google.com/maps?t=m&q=loc:38.968045+-89.137052,Eastbound
+Illinois,I-70,8531,Exit 63,EXIT 63,US-51; Vandalla; Pana,"Vandalia, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2063/8531,38.979122,-89.101972,http://maps.google.com/maps?t=m&q=loc:38.979122+-89.101972,Eastbound
+Illinois,I-70,8532,Exit 68,EXIT 68,US-40 E; Brownstown,"Brownstown, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2068/8532,38.974359,-89.009695,http://maps.google.com/maps?t=m&q=loc:38.974359+-89.009695,Eastbound
+Illinois,I-70,8533,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 72.0)","Brownstown, Illinois",https://www.iexitapp.com/Illinois/I-70/Weigh%20Station/8533,38.98522,-88.947116,http://maps.google.com/maps?t=m&q=loc:38.98522+-88.947116,Eastbound
+Illinois,I-70,8534,Exit 76,EXIT 76,Saint Elmo,"St Elmo, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2076/8534,39.009604,-88.863001,http://maps.google.com/maps?t=m&q=loc:39.009604+-88.863001,Eastbound
+Illinois,I-70,8535,Exit 82,EXIT 82,IL-128; Altamont,"Altamont, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2082/8535,39.043958,-88.747784,http://maps.google.com/maps?t=m&q=loc:39.043958+-88.747784,Eastbound
+Illinois,I-70,8536,Temporarily Closed - National Trail Rest Area,REST AREA,"Temporarily Closed - National Trail Rest Area
+          (MM: 86.0)","Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Rest%20Area/8536,39.064068,-88.680141,http://maps.google.com/maps?t=m&q=loc:39.064068+-88.680141,Eastbound
+Illinois,I-70,8538,Exit 159,EXIT 159,Effingham,"Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20159/8538,39.117572,-88.569314,http://maps.google.com/maps?t=m&q=loc:39.117572+-88.569314,Eastbound
+Illinois,I-70,8539,Exit 160,EXIT 160,IL-32; IL-33,"Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20160/8539,39.129334,-88.565689,http://maps.google.com/maps?t=m&q=loc:39.129334+-88.565689,Eastbound
+Illinois,I-70,8540,Exit 162,EXIT 162,US-45; Sigel,"Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20162/8540,39.145089,-88.532698,http://maps.google.com/maps?t=m&q=loc:39.145089+-88.532698,Eastbound
+Illinois,I-70,8542,Exit 105,EXIT 105,CR 23,"Teutopolis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20105/8542,39.168308,-88.383774,http://maps.google.com/maps?t=m&q=loc:39.168308+-88.383774,Eastbound
+Illinois,I-70,8543,Exit 119,EXIT 119,Illinois 130; Greenup; Charleston,"Greenup, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20119/8543,39.254848,-88.159233,http://maps.google.com/maps?t=m&q=loc:39.254848+-88.159233,Eastbound
+Illinois,I-70,8544,Exit 129,EXIT 129,Illinois 49; Casey; Kansas,"Casey, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20129/8544,39.319083,-87.990232,http://maps.google.com/maps?t=m&q=loc:39.319083+-87.990232,Eastbound
+Illinois,I-70,8545,Exit 136,EXIT 136,Martinsville,"Casey, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20136/8545,39.356818,-87.888079,http://maps.google.com/maps?t=m&q=loc:39.356818+-87.888079,Eastbound
+Illinois,I-70,8546,Exit 147,EXIT 147,IL-1; Marshall; Paris,"Marshall, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20147/8546,39.420403,-87.700467,http://maps.google.com/maps?t=m&q=loc:39.420403+-87.700467,Eastbound
+Illinois,I-70,8547,Exit 154,EXIT 154,US-40 E; W Terre Haute; Terre Haute,"Marshall, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20154/8547,39.429272,-87.567993,http://maps.google.com/maps?t=m&q=loc:39.429272+-87.567993,Eastbound
+Illinois,I-70,51436,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 155.0)","Dennison, Illinois",https://www.iexitapp.com/Illinois/I-70/Weigh%20Station/51436,39.434182,-87.538356,http://maps.google.com/maps?t=m&q=loc:39.434182+-87.538356,Eastbound
+Illinois,I-70,8997,Exit 154,EXIT 154,U.S. 40 W,"Marshall, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20154/8997,39.426801,-87.552792,http://maps.google.com/maps?t=m&q=loc:39.426801+-87.552792,Westbound
+Illinois,I-70,8998,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 152.0)","Marshall, Illinois",https://www.iexitapp.com/Illinois/I-70/Weigh%20Station/8998,39.425641,-87.609399,http://maps.google.com/maps?t=m&q=loc:39.425641+-87.609399,Westbound
+Illinois,I-70,8999,Cumberland Road Rest Area,REST AREA,"Cumberland Road Rest Area
+          (MM: 149.0)","Marshall, Illinois",https://www.iexitapp.com/Illinois/I-70/Rest%20Area/8999,39.42195,-87.654789,http://maps.google.com/maps?t=m&q=loc:39.42195+-87.654789,Westbound
+Illinois,I-70,9000,Exit 147,EXIT 147,IL-1; Paris; Marshall,"Marshall, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20147/9000,39.422607,-87.686493,http://maps.google.com/maps?t=m&q=loc:39.422607+-87.686493,Westbound
+Illinois,I-70,9001,Exit 136,EXIT 136,Martinsville,"Casey, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20136/9001,39.360637,-87.876208,http://maps.google.com/maps?t=m&q=loc:39.360637+-87.876208,Westbound
+Illinois,I-70,9002,Exit 129,EXIT 129,IL-49,"Casey, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20129/9002,39.323111,-87.977903,http://maps.google.com/maps?t=m&q=loc:39.323111+-87.977903,Westbound
+Illinois,I-70,9003,Exit 119,EXIT 119,IL-130; Greenup; Charleston,"Greenup, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20119/9003,39.256203,-88.148189,http://maps.google.com/maps?t=m&q=loc:39.256203+-88.148189,Westbound
+Illinois,I-70,9004,Exit 105,EXIT 105,CR 23,"Teutopolis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20105/9004,39.169898,-88.374987,http://maps.google.com/maps?t=m&q=loc:39.169898+-88.374987,Westbound
+Illinois,I-70,57632,Exit 162,EXIT 162,U.S. 45 S; Effingham,"Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20162/57632,39.146539,-88.525262,http://maps.google.com/maps?t=m&q=loc:39.146539+-88.525262,Westbound
+Illinois,I-70,9007,Exit 160,EXIT 160,IL-32; IL-33,"Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20160/9007,39.138145,-88.559332,http://maps.google.com/maps?t=m&q=loc:39.138145+-88.559332,Westbound
+Illinois,I-70,9008,Exit 159,EXIT 159,Fayette Ave,"Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%20159/9008,39.123964,-88.567714,http://maps.google.com/maps?t=m&q=loc:39.123964+-88.567714,Westbound
+Illinois,I-70,9010,National Trail Rest Area,REST AREA,"National Trail Rest Area
+          (MM: 86.0)","Effingham, Illinois",https://www.iexitapp.com/Illinois/I-70/Rest%20Area/9010,39.069152,-88.665097,http://maps.google.com/maps?t=m&q=loc:39.069152+-88.665097,Westbound
+Illinois,I-70,9011,Exit 82,EXIT 82,IL-128; Altamont,"Altamont, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2082/9011,39.045973,-88.741367,http://maps.google.com/maps?t=m&q=loc:39.045973+-88.741367,Westbound
+Illinois,I-70,9012,Exit 76,EXIT 76,St Elma,"St Elmo, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2076/9012,39.012727,-88.85313,http://maps.google.com/maps?t=m&q=loc:39.012727+-88.85313,Westbound
+Illinois,I-70,9013,Exit 68,EXIT 68,US-40; Brownstown; Bluff City,"Brownstown, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2068/9013,38.9742,-88.996875,http://maps.google.com/maps?t=m&q=loc:38.9742+-88.996875,Westbound
+Illinois,I-70,9014,Exit 63,EXIT 63,US-51; Vandalia; Pana,"Vandalia, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2063/9014,38.977457,-89.091581,http://maps.google.com/maps?t=m&q=loc:38.977457+-89.091581,Westbound
+Illinois,I-70,9015,Exit 61,EXIT 61,US-40; Vandalia,"Mulberry Grove, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2061/9015,38.971703,-89.128781,http://maps.google.com/maps?t=m&q=loc:38.971703+-89.128781,Westbound
+Illinois,I-70,9016,Exit 52,EXIT 52,Keyesport,"Mulberry Grove, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2052/9016,38.915562,-89.264117,http://maps.google.com/maps?t=m&q=loc:38.915562+-89.264117,Westbound
+Illinois,I-70,9017,Exit 45,EXIT 45,IL-127; Greenville; Carlyle,"Greenville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2045/9017,38.873413,-89.379534,http://maps.google.com/maps?t=m&q=loc:38.873413+-89.379534,Westbound
+Illinois,I-70,9018,Exit 41,EXIT 41,Greenville,"Pocahontas, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2041/9018,38.853803,-89.451268,http://maps.google.com/maps?t=m&q=loc:38.853803+-89.451268,Westbound
+Illinois,I-70,9019,Exit 36,EXIT 36,Pocahontas,"Pocahontas, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2036/9019,38.833383,-89.540323,http://maps.google.com/maps?t=m&q=loc:38.833383+-89.540323,Westbound
+Illinois,I-70,58366,Exit 30,EXIT 30,IL-143; Pierron,"Highland, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2030/58366,38.787191,-89.625349,http://maps.google.com/maps?t=m&q=loc:38.787191+-89.625349,Westbound
+Illinois,I-70,58367,Silver Lake Rest Area,REST AREA,"Silver Lake Rest Area
+          (MM: 27.0)","Highland, Illinois",https://www.iexitapp.com/Illinois/I-70/Rest%20Area/58367,38.787409,-89.683188,http://maps.google.com/maps?t=m&q=loc:38.787409+-89.683188,Westbound
+Illinois,I-70,9022,Exit 24,EXIT 24,IL-143; Marine; Highland,"Marine, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2024/9022,38.780082,-89.739415,http://maps.google.com/maps?t=m&q=loc:38.780082+-89.739415,Westbound
+Illinois,I-70,9023,Exit 21,EXIT 21,IL-4; Lebanon; Staunton,"Edwardsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2021/9023,38.76228,-89.795279,http://maps.google.com/maps?t=m&q=loc:38.76228+-89.795279,Westbound
+Illinois,I-70,9026,Exit 18,EXIT 18,Illinois 162; Troy,"Troy, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2018/9026,38.736172,-89.91166,http://maps.google.com/maps?t=m&q=loc:38.736172+-89.91166,Westbound
+Illinois,I-70,9027,Exit 17,EXIT 17,US-40 E; St Jacob Highland,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2017/9027,38.719204,-89.917225,http://maps.google.com/maps?t=m&q=loc:38.719204+-89.917225,Westbound
+Illinois,I-70,57633,Exit 15B,EXIT 15B,IL-159 N; Maryville,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2015B/57633,38.708682,-89.955543,http://maps.google.com/maps?t=m&q=loc:38.708682+-89.955543,Westbound
+Illinois,I-70,57634,Exit 15A,EXIT 15A,IL-159 S; Collinsville,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2015A/57634,38.7081,-89.959343,http://maps.google.com/maps?t=m&q=loc:38.7081+-89.959343,Westbound
+Illinois,I-70,51570,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 14.0)","Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Weigh%20Station/51570,38.705478,-89.972397,http://maps.google.com/maps?t=m&q=loc:38.705478+-89.972397,Westbound
+Illinois,I-70,9030,Exit 11,EXIT 11,IL-157; Collinsville; Edwardsville,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%2011/9030,38.680618,-90.012035,http://maps.google.com/maps?t=m&q=loc:38.680618+-90.012035,Westbound
+Illinois,I-70,9032,Exit 6,EXIT 6,IL-111; Wood River; Washington Park,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%206/9032,38.662863,-90.088989,http://maps.google.com/maps?t=m&q=loc:38.662863+-90.088989,Westbound
+Illinois,I-70,9033,Exit 4B,EXIT 4B,IL-203 N; Granite City,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%204B/9033,38.648109,-90.124567,http://maps.google.com/maps?t=m&q=loc:38.648109+-90.124567,Westbound
+Illinois,I-70,9034,Exit 4A,EXIT 4A,IL-203 S; Collinsville Rd,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%204A/9034,38.645073,-90.128944,http://maps.google.com/maps?t=m&q=loc:38.645073+-90.128944,Westbound
+Illinois,I-70,51573,Exit 3B,EXIT 3B,"I 55;US 40
+          (MM: 3.0)","East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%203B/51573,38.636114,-90.137747,http://maps.google.com/maps?t=m&q=loc:38.636114+-90.137747,Westbound
+Illinois,I-70,51574,Exit 3A,EXIT 3A,Exchange Avenue,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-70/Exit%203A/51574,38.635354,-90.138704,http://maps.google.com/maps?t=m&q=loc:38.635354+-90.138704,Westbound

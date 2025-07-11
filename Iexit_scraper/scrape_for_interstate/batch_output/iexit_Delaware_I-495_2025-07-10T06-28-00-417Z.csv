@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Delaware,I-495,487,Exit 9,EXIT 9,DE 92,"Claymont, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%209/487,39.817914,-75.451767,http://maps.google.com/maps?t=m&q=loc:39.817914+-75.451767,Southbound
+Delaware,I-495,488,Exit 5,EXIT 5,US 13,"Claymont, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%205/488,39.808717,-75.453383,http://maps.google.com/maps?t=m&q=loc:39.808717+-75.453383,Southbound
+Delaware,I-495,489,Exit 4A,EXIT 4A,U.S. 13; Gov Printz Blvd; Delaware 3; N. Edgemoor Rd,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%204A/489,39.755105,-75.497341,http://maps.google.com/maps?t=m&q=loc:39.755105+-75.497341,Southbound
+Delaware,I-495,490,Exit 4B,EXIT 4B,DE-3; Edgemoor Rd S; Edgemoor Ind. Park,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%204B/490,39.750643,-75.504497,http://maps.google.com/maps?t=m&q=loc:39.750643+-75.504497,Southbound
+Delaware,I-495,491,Exit 3,EXIT 3,12th Street,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%203/491,39.738586,-75.519121,http://maps.google.com/maps?t=m&q=loc:39.738586+-75.519121,Southbound
+Delaware,I-495,492,Exit 2,EXIT 2,Delaware 9A; Terminal Avenue; Port of Wilm,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%202/492,39.721538,-75.538546,http://maps.google.com/maps?t=m&q=loc:39.721538+-75.538546,Southbound
+Delaware,I-495,493,Exit 1,EXIT 1,US-13 S; US-40 S; US-13 N; Wilmington; Dover,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%201/493,39.717208,-75.554675,http://maps.google.com/maps?t=m&q=loc:39.717208+-75.554675,Southbound
+Delaware,I-495,48086,I-295 N,EXIT,I-295 N,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%20/48086,39.696405,-75.579996,http://maps.google.com/maps?t=m&q=loc:39.696405+-75.579996,Southbound

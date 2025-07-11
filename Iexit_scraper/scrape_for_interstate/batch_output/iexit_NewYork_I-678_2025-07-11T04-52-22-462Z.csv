@@ -1,0 +1,28 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-678,331,Exit 18,EXIT 18,Ferry Point Park; Local Streets,"Bronx, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2018/331,40.819283,-73.836326,http://maps.google.com/maps?t=m&q=loc:40.819283+-73.836326,Southbound
+New York,I-678,47214,14th Avenue,EXIT,14th Avenue,"Whitestone, New York",https://www.iexitapp.com/New%20York/I-678/Exit%20/47214,40.793944,-73.824651,http://maps.google.com/maps?t=m&q=loc:40.793944+-73.824651,Southbound
+New York,I-678,47215,Exit 16,EXIT 16,"CIP
+          (MM: 16.0)","Whitestone, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2016/47215,40.791422,-73.823483,http://maps.google.com/maps?t=m&q=loc:40.791422+-73.823483,Southbound
+New York,I-678,47216,Exit 15,EXIT 15,20 Ave,"Flushing, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2015/47216,40.784788,-73.824642,http://maps.google.com/maps?t=m&q=loc:40.784788+-73.824642,Southbound
+New York,I-678,335,Exit 14,EXIT 14,Linden Place,"Flushing, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2014/335,40.776119,-73.828462,http://maps.google.com/maps?t=m&q=loc:40.776119+-73.828462,Southbound
+New York,I-678,336,Exit 13A-C,EXIT 13A-C,"Whitestone Expressway
+          (MM: 13.0)","Flushing, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2013A-C/336,40.765349,-73.839644,http://maps.google.com/maps?t=m&q=loc:40.765349+-73.839644,Southbound
+New York,I-678,47255,Exit 12A,EXIT 12A,College Point Blvd; Interstate 495,"Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2012A/47255,40.750849,-73.835559,http://maps.google.com/maps?t=m&q=loc:40.750849+-73.835559,Southbound
+New York,I-678,47256,Exit 11,EXIT 11,Flushing Meadows Corona Rd; 69 Rd; Jewel Ave; Harry Ave Arsdale Junior Avenue,"Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2011/47256,40.738972,-73.836928,http://maps.google.com/maps?t=m&q=loc:40.738972+-73.836928,Southbound
+New York,I-678,47219,Exit 11,EXIT 11,Flushing Meadows Corona Rd; 69 Rd; Jewel Ave; Harry Ave Arsdale Junior Avenue,"Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2011/47219,40.731513,-73.835035,http://maps.google.com/maps?t=m&q=loc:40.731513+-73.835035,Southbound
+New York,I-678,340,Exit 8,EXIT 8,Union Tpke W,"Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%208/340,40.719194,-73.826288,http://maps.google.com/maps?t=m&q=loc:40.719194+-73.826288,Southbound
+New York,I-678,341,Exit 7,EXIT 7,"Jackie Robinson Parkway
+          (MM: 7.0)","Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%207/341,40.717476,-73.826532,http://maps.google.com/maps?t=m&q=loc:40.717476+-73.826532,Southbound
+New York,I-678,342,Exit 6,EXIT 6,Hillside Ave; Jamaica Ave,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%206/342,40.709043,-73.820057,http://maps.google.com/maps?t=m&q=loc:40.709043+-73.820057,Southbound
+New York,I-678,343,Exit 5,EXIT 5,Atlantic Ave,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%205/343,40.701054,-73.815817,http://maps.google.com/maps?t=m&q=loc:40.701054+-73.815817,Southbound
+New York,I-678,344,Exit 4,EXIT 4,Liberty Ave,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%204/344,40.693966,-73.811893,http://maps.google.com/maps?t=m&q=loc:40.693966+-73.811893,Southbound
+New York,I-678,345,Exit 3,EXIT 3,Linden Blvd,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%203/345,40.686471,-73.807603,http://maps.google.com/maps?t=m&q=loc:40.686471+-73.807603,Southbound
+New York,I-678,47257,Exit 2,EXIT 2,Rockaway Blvd,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%202/47257,40.677762,-73.803389,http://maps.google.com/maps?t=m&q=loc:40.677762+-73.803389,Southbound
+New York,I-678,347,Exit 1W,EXIT 1W,Belt Pkwy W,"South Ozone Park, New York",https://www.iexitapp.com/New%20York/I-678/Exit%201W/347,40.673459,-73.801458,http://maps.google.com/maps?t=m&q=loc:40.673459+-73.801458,Southbound
+New York,I-678,348,Exit 1&amp;amp;1E,EXIT 1&amp;1E,"NY 878;BP
+          (MM: 1.0)","Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%201&amp;1E/348,40.665038,-73.802225,http://maps.google.com/maps?t=m&q=loc:40.665038+-73.802225,Southbound
+New York,I-678,47221,Exit 1E,EXIT 1E,Belt Pkwy E; NY-27 E,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%201E/47221,40.662964,-73.799252,http://maps.google.com/maps?t=m&q=loc:40.662964+-73.799252,Southbound
+New York,I-678,349,Exit D,EXIT D,I-678 S; Kennedy Airport,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%20D/349,40.663034,-73.803671,http://maps.google.com/maps?t=m&q=loc:40.663034+-73.803671,Southbound
+New York,I-678,47258,Exit C,EXIT C,Long Term Parking; Rental Car Return; All Cargo Areas,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%20C/47258,40.661204,-73.805313,http://maps.google.com/maps?t=m&q=loc:40.661204+-73.805313,Southbound
+New York,I-678,352,Exit B,EXIT B,130th Place,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%20B/352,40.655216,-73.807502,http://maps.google.com/maps?t=m&q=loc:40.655216+-73.807502,Southbound
+New York,I-678,47259,Exit A,EXIT A,Terminal 7,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%20A/47259,40.6463,-73.801199,http://maps.google.com/maps?t=m&q=loc:40.6463+-73.801199,Southbound

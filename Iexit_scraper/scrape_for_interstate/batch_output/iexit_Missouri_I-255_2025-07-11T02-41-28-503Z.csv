@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-255,33719,Exit 3,EXIT 3,Koch Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-255/Exit%203/33719,38.48855,-90.281489,http://maps.google.com/maps?t=m&q=loc:38.48855+-90.281489,Southbound
+Missouri,I-255,33720,Exit 2,EXIT 2,MO-231 S,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-255/Exit%202/33720,38.493015,-90.296594,http://maps.google.com/maps?t=m&q=loc:38.493015+-90.296594,Southbound
+Missouri,I-255,33721,Exit 1C,EXIT 1C,US 50;Barracksview Road;South Lindbergh Boulevard,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-255/Exit%201C/33721,38.501651,-90.317729,http://maps.google.com/maps?t=m&q=loc:38.501651+-90.317729,Southbound

@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Arizona,I-15,51909,Exit 27,EXIT 27,Black Rock Road,"Littlefield, Arizona",https://www.iexitapp.com/Arizona/I-15/Exit%2027/51909,36.98455,-113.641536,http://maps.google.com/maps?t=m&q=loc:36.98455+-113.641536,Southbound
+Arizona,I-15,10812,Exit 18,EXIT 18,Cedar; Pocket,"Littlefield, Arizona",https://www.iexitapp.com/Arizona/I-15/Exit%2018/10812,36.956296,-113.791755,http://maps.google.com/maps?t=m&q=loc:36.956296+-113.791755,Southbound
+Arizona,I-15,10813,Exit 9,EXIT 9,E Anasazi Dr,"Littlefield, Arizona",https://www.iexitapp.com/Arizona/I-15/Exit%209/10813,36.899298,-113.904956,http://maps.google.com/maps?t=m&q=loc:36.899298+-113.904956,Southbound
+Arizona,I-15,10814,Exit 8,EXIT 8,Beaver Dam; Littlefield,"Littlefield, Arizona",https://www.iexitapp.com/Arizona/I-15/Exit%208/10814,36.893282,-113.924716,http://maps.google.com/maps?t=m&q=loc:36.893282+-113.924716,Southbound

@@ -1,0 +1,140 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-75,46742,Joseph O. Striska Florida Welcome Center,WELCOME CENTER,"Joseph O. Striska Florida Welcome Center
+          (MM: 477.0)","Jennings, Florida",https://www.iexitapp.com/Florida/I-75/Welcome%20Center/46742,30.615168,-83.149699,http://maps.google.com/maps?t=m&q=loc:30.615168+-83.149699,Southbound
+Florida,I-75,46743,Exit 467,EXIT 467,FL-143; Jennings,"Jennings, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20467/46743,30.596949,-83.12251,http://maps.google.com/maps?t=m&q=loc:30.596949+-83.12251,Southbound
+Florida,I-75,46744,Exit 460,EXIT 460,FL-6; Jasper Madision,"Jasper, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20460/46744,30.519831,-83.061288,http://maps.google.com/maps?t=m&q=loc:30.519831+-83.061288,Southbound
+Florida,I-75,46745,Exit 451,EXIT 451,Jasper,"Jasper, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20451/46745,30.447934,-82.931941,http://maps.google.com/maps?t=m&q=loc:30.447934+-82.931941,Southbound
+Florida,I-75,46746,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 450.0)","Jasper, Florida",https://www.iexitapp.com/Florida/I-75/Weigh%20Station/46746,30.430628,-82.909742,http://maps.google.com/maps?t=m&q=loc:30.430628+-82.909742,Southbound
+Florida,I-75,46747,Inspection Station,INSPECTION STATION,"Inspection Station
+          (MM: 449.0)","Jasper, Florida",https://www.iexitapp.com/Florida/I-75/Inspection%20Station/46747,30.385715,-82.872948,http://maps.google.com/maps?t=m&q=loc:30.385715+-82.872948,Southbound
+Florida,I-75,46748,Exit 439,EXIT 439,FL-136; White Springs; Live Oak,"White Springs, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20439/46748,30.317129,-82.807138,http://maps.google.com/maps?t=m&q=loc:30.317129+-82.807138,Southbound
+Florida,I-75,46752,Exit 427,EXIT 427,US-90 W; W US Hwy 90,"Lake City, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20427/46752,30.182815,-82.690249,http://maps.google.com/maps?t=m&q=loc:30.182815+-82.690249,Southbound
+Florida,I-75,46753,Exit 423,EXIT 423,FL-47; Ft White; Lake City,"Lake City, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20423/46753,30.119965,-82.657274,http://maps.google.com/maps?t=m&q=loc:30.119965+-82.657274,Southbound
+Florida,I-75,46754,Exit 414,EXIT 414,US-41; US-441; Lake City; High Springs,"Lake City, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20414/46754,30.001343,-82.600812,http://maps.google.com/maps?t=m&q=loc:30.001343+-82.600812,Southbound
+Florida,I-75,46755,Columbia County Rest Area,REST AREA,"Columbia County Rest Area
+          (MM: 413.0)","Lake City, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46755,29.981425,-82.579959,http://maps.google.com/maps?t=m&q=loc:29.981425+-82.579959,Southbound
+Florida,I-75,46756,Exit 404,EXIT 404,County Rd 236; High Springs; Lake Butler,"Alachua, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20404/46756,29.873047,-82.542439,http://maps.google.com/maps?t=m&q=loc:29.873047+-82.542439,Southbound
+Florida,I-75,46757,Exit 399,EXIT 399,US-441; Alachua; High Springs,"Alachua, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20399/46757,29.805782,-82.513505,http://maps.google.com/maps?t=m&q=loc:29.805782+-82.513505,Southbound
+Florida,I-75,46758,Exit 390,EXIT 390,FL-222; Gainesville,"Gainesville, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20390/46758,29.692287,-82.450038,http://maps.google.com/maps?t=m&q=loc:29.692287+-82.450038,Southbound
+Florida,I-75,46759,Exit 387,EXIT 387,Gainesville,"Gainesville, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20387/46759,29.659297,-82.418815,http://maps.google.com/maps?t=m&q=loc:29.659297+-82.418815,Southbound
+Florida,I-75,46760,Exit 384,EXIT 384,FL-24; Gainesville; Archer,"Gainesville, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20384/46760,29.62287,-82.390157,http://maps.google.com/maps?t=m&q=loc:29.62287+-82.390157,Southbound
+Florida,I-75,46761,Exit 382,EXIT 382,FL-121 S; Williston,"Gainesville, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20382/46761,29.604466,-82.375593,http://maps.google.com/maps?t=m&q=loc:29.604466+-82.375593,Southbound
+Florida,I-75,46762,Rest Area,REST AREA,"Rest Area
+          (MM: 381.0)","Gainesville, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46762,29.591897,-82.364353,http://maps.google.com/maps?t=m&q=loc:29.591897+-82.364353,Southbound
+Florida,I-75,46763,Exit 374,EXIT 374,Micanopy,"Micanopy, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20374/46763,29.501176,-82.296811,http://maps.google.com/maps?t=m&q=loc:29.501176+-82.296811,Southbound
+Florida,I-75,46764,Exit 368,EXIT 368,County Rd 318; Irvine; Orange Lake,"Reddick, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20368/46764,29.410083,-82.250118,http://maps.google.com/maps?t=m&q=loc:29.410083+-82.250118,Southbound
+Florida,I-75,46765,Exit 358,EXIT 358,FL-326,"Ocala, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20358/46765,29.273358,-82.195547,http://maps.google.com/maps?t=m&q=loc:29.273358+-82.195547,Southbound
+Florida,I-75,46766,Exit 354,EXIT 354,US-27 N; NW Blitchton Rd; Old Blitchton Rd,"Ocala, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20354/46766,29.211832,-82.184644,http://maps.google.com/maps?t=m&q=loc:29.211832+-82.184644,Southbound
+Florida,I-75,46767,Exit 352,EXIT 352,FL-40; Ocala; Sliver Springs,"Ocala, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20352/46767,29.190578,-82.184825,http://maps.google.com/maps?t=m&q=loc:29.190578+-82.184825,Southbound
+Florida,I-75,46768,Exit 350,EXIT 350,FL-200 E,"Ocala, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20350/46768,29.15527,-82.185132,http://maps.google.com/maps?t=m&q=loc:29.15527+-82.185132,Southbound
+Florida,I-75,46769,Rest Area,REST AREA,"Rest Area
+          (MM: 346.0)","Ocala, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46769,29.09894,-82.185065,http://maps.google.com/maps?t=m&q=loc:29.09894+-82.185065,Southbound
+Florida,I-75,46770,Exit 341,EXIT 341,Belleview,"Ocala, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20341/46770,29.029539,-82.158896,http://maps.google.com/maps?t=m&q=loc:29.029539+-82.158896,Southbound
+Florida,I-75,46771,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 338.0)","Summerfield, Florida",https://www.iexitapp.com/Florida/I-75/Weigh%20Station/46771,29.002594,-82.149268,http://maps.google.com/maps?t=m&q=loc:29.002594+-82.149268,Southbound
+Florida,I-75,46772,Exit 329,EXIT 329,FL-44; Inverness; Wildwood,"Wildwood, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20329/46772,28.879666,-82.093022,http://maps.google.com/maps?t=m&q=loc:28.879666+-82.093022,Southbound
+Florida,I-75,46773,Exit 328,EXIT 328,"Florida&#39;s Turnpike
+          (MM: 328.0)","Wildwood, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20328/46773,28.861753,-82.091849,http://maps.google.com/maps?t=m&q=loc:28.861753+-82.091849,Southbound
+Florida,I-75,46774,Exit 321,EXIT 321,Sumter 470; Sumterville,"Bushnell, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20321/46774,28.758276,-82.098303,http://maps.google.com/maps?t=m&q=loc:28.758276+-82.098303,Southbound
+Florida,I-75,46775,Exit 314,EXIT 314,FL-48; Bushnell,"Bushnell, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20314/46775,28.672977,-82.140081,http://maps.google.com/maps?t=m&q=loc:28.672977+-82.140081,Southbound
+Florida,I-75,46776,Exit 309,EXIT 309,Webster; Sumter 470,"Bushnell, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20309/46776,28.605141,-82.20161,http://maps.google.com/maps?t=m&q=loc:28.605141+-82.20161,Southbound
+Florida,I-75,46777,Rest Area,REST AREA,"Rest Area
+          (MM: 308.0)","Bushnell, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46777,28.589102,-82.209542,http://maps.google.com/maps?t=m&q=loc:28.589102+-82.209542,Southbound
+Florida,I-75,46778,Exit 301,EXIT 301,US-98 N; FL-50 W; Brooksville,"Brooksville, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20301/46778,28.526707,-82.237202,http://maps.google.com/maps?t=m&q=loc:28.526707+-82.237202,Southbound
+Florida,I-75,46779,Exit 293,EXIT 293,Dade City,"Dade City, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20293/46779,28.4191,-82.29139,http://maps.google.com/maps?t=m&q=loc:28.4191+-82.29139,Southbound
+Florida,I-75,46780,Exit 285,EXIT 285,FL-52 E; Dade City,"San Antonio, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20285/46780,28.327577,-82.324555,http://maps.google.com/maps?t=m&q=loc:28.327577+-82.324555,Southbound
+Florida,I-75,46781,Exit 279,EXIT 279,FL-54; Zephyrhills; Wesley Chapel; County Rd,"Wesley Chapel, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20279/46781,28.240956,-82.351554,http://maps.google.com/maps?t=m&q=loc:28.240956+-82.351554,Southbound
+Florida,I-75,46782,Rest Area,REST AREA,"Rest Area
+          (MM: 278.0)","Lutz, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46782,28.215698,-82.370605,http://maps.google.com/maps?t=m&q=loc:28.215698+-82.370605,Southbound
+Florida,I-75,46783,Exit 275,EXIT 275,FL-56; Land O Lakes; Tarpon Springs,"Lutz, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20275/46783,28.201249,-82.380382,http://maps.google.com/maps?t=m&q=loc:28.201249+-82.380382,Southbound
+Florida,I-75,46784,Exit 274,EXIT 274,"I 275
+          (MM: 274.0)","Tampa, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20274/46784,28.177149,-82.391544,http://maps.google.com/maps?t=m&q=loc:28.177149+-82.391544,Southbound
+Florida,I-75,46785,Exit 270,EXIT 270,Hillsborough 581; Bruce B Downs Blvd,"Tampa, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20270/46785,28.126796,-82.37613,http://maps.google.com/maps?t=m&q=loc:28.126796+-82.37613,Southbound
+Florida,I-75,46786,Exit 266,EXIT 266,Hillsborough 582A; Fletcher Ave,"Tampa, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20266/46786,28.07637,-82.353977,http://maps.google.com/maps?t=m&q=loc:28.07637+-82.353977,Southbound
+Florida,I-75,46787,Exit 265,EXIT 265,FL-582 W; E Fowler Ave; Temple Terrace,"Tampa, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20265/46787,28.060991,-82.354115,http://maps.google.com/maps?t=m&q=loc:28.060991+-82.354115,Southbound
+Florida,I-75,46788,Exit 265,EXIT 265,FL-582 E; E Fowler Ave,"Tampa, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20265/46788,28.057447,-82.354388,http://maps.google.com/maps?t=m&q=loc:28.057447+-82.354388,Southbound
+Florida,I-75,54335,Exit 260,EXIT 260,FL-574 E,"Tampa, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20260/54335,27.987078,-82.326578,http://maps.google.com/maps?t=m&q=loc:27.987078+-82.326578,Southbound
+Florida,I-75,46793,Exit 257,EXIT 257,Brandon,"Tampa, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20257/46793,27.947168,-82.328813,http://maps.google.com/maps?t=m&q=loc:27.947168+-82.328813,Southbound
+Florida,I-75,46794,Exit 256,EXIT 256,"FL 618 Toll
+          (MM: 256.0)","Riverview, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20256/46794,27.936236,-82.330348,http://maps.google.com/maps?t=m&q=loc:27.936236+-82.330348,Southbound
+Florida,I-75,46795,Exit 254,EXIT 254,US-301 N,"Riverview, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20254/46795,27.931673,-82.331022,http://maps.google.com/maps?t=m&q=loc:27.931673+-82.331022,Southbound
+Florida,I-75,54336,Exit 254,EXIT 254,US-301 S,"Riverview, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20254/54336,27.90963,-82.340945,http://maps.google.com/maps?t=m&q=loc:27.90963+-82.340945,Southbound
+Florida,I-75,46797,Exit 250,EXIT 250,Gibsonton; Riverview,"Riverview, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20250/46797,27.855856,-82.346887,http://maps.google.com/maps?t=m&q=loc:27.855856+-82.346887,Southbound
+Florida,I-75,46798,Exit 250,EXIT 250,Gibsonton; Riverview,"Riverview, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20250/46798,27.853596,-82.347712,http://maps.google.com/maps?t=m&q=loc:27.853596+-82.347712,Southbound
+Florida,I-75,46799,Exit 246,EXIT 246,County Rd 672; Apollo Beach,"Sun City Center, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20246/46799,27.790717,-82.357198,http://maps.google.com/maps?t=m&q=loc:27.790717+-82.357198,Southbound
+Florida,I-75,46800,Exit 240B,EXIT 240B,FL-674 W; College Ave; Ruskin,"Ruskin, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20240B/46800,27.717371,-82.383559,http://maps.google.com/maps?t=m&q=loc:27.717371+-82.383559,Southbound
+Florida,I-75,46801,Exit 240A,EXIT 240A,FL-674 E; College Ave; Sun City Center,"Ruskin, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20240A/46801,27.711584,-82.385489,http://maps.google.com/maps?t=m&q=loc:27.711584+-82.385489,Southbound
+Florida,I-75,46802,Rest Area,REST AREA,"Rest Area
+          (MM: 238.0)","Ruskin, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46802,27.69038,-82.417603,http://maps.google.com/maps?t=m&q=loc:27.69038+-82.417603,Southbound
+Florida,I-75,46803,Exit 229,EXIT 229,Parrish,"Palmetto, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20229/46803,27.605481,-82.499209,http://maps.google.com/maps?t=m&q=loc:27.605481+-82.499209,Southbound
+Florida,I-75,46804,Exit 228,EXIT 228,"I 275
+          (MM: 228.0)","Palmetto, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20228/46804,27.591909,-82.510776,http://maps.google.com/maps?t=m&q=loc:27.591909+-82.510776,Southbound
+Florida,I-75,46806,Exit 224,EXIT 224,U.S. 301; Ellenton; Palmetto,"Ellenton, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20224/46806,27.535059,-82.510377,http://maps.google.com/maps?t=m&q=loc:27.535059+-82.510377,Southbound
+Florida,I-75,46807,Exit 220,EXIT 220,FL-64; Bradenton; Wauchula; Zolfo Springs,"Bradenton, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20220/46807,27.495912,-82.47459,http://maps.google.com/maps?t=m&q=loc:27.495912+-82.47459,Southbound
+Florida,I-75,46808,Exit 217,EXIT 217,Arcadia,"Bradenton, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20217/46808,27.446898,-82.459508,http://maps.google.com/maps?t=m&q=loc:27.446898+-82.459508,Southbound
+Florida,I-75,46809,Exit 213,EXIT 213,University Pkwy; Sarasota,"Sarasota, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20213/46809,27.394136,-82.450531,http://maps.google.com/maps?t=m&q=loc:27.394136+-82.450531,Southbound
+Florida,I-75,46810,Exit 210,EXIT 210,FL-780; Sarasota; St Armands,"Sarasota, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20210/46810,27.344515,-82.446833,http://maps.google.com/maps?t=m&q=loc:27.344515+-82.446833,Southbound
+Florida,I-75,46811,Exit 207,EXIT 207,FL-758 W; Sarasota,"Sarasota, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20207/46811,27.303947,-82.448206,http://maps.google.com/maps?t=m&q=loc:27.303947+-82.448206,Southbound
+Florida,I-75,46812,Exit 205,EXIT 205,FL-72 E,"Sarasota, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20205/46812,27.274516,-82.449102,http://maps.google.com/maps?t=m&q=loc:27.274516+-82.449102,Southbound
+Florida,I-75,46813,Exit 200,EXIT 200,"681
+          (MM: 200.0)","Nokomis, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20200/46813,27.193866,-82.439818,http://maps.google.com/maps?t=m&q=loc:27.193866+-82.439818,Southbound
+Florida,I-75,46814,Exit 195,EXIT 195,Country Road 762; Laurel Rd; Venice; Laurel,"Nokomis, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20195/46814,27.14214,-82.414068,http://maps.google.com/maps?t=m&q=loc:27.14214+-82.414068,Southbound
+Florida,I-75,46815,Exit 193,EXIT 193,Jacaranda Blvd; Englewood; Venice; Sarasota County,"Venice, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20193/46815,27.113639,-82.388553,http://maps.google.com/maps?t=m&q=loc:27.113639+-82.388553,Southbound
+Florida,I-75,46816,Exit 191,EXIT 191,Englewood; N Port,"Venice, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20191/46816,27.10948,-82.352874,http://maps.google.com/maps?t=m&q=loc:27.10948+-82.352874,Southbound
+Florida,I-75,46817,Exit 182,EXIT 182,Sumter Blvd; N Port; Sarasota County,"North Port, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20182/46817,27.099185,-82.208483,http://maps.google.com/maps?t=m&q=loc:27.099185+-82.208483,Southbound
+Florida,I-75,46818,Exit 179,EXIT 179,Toledo Blade Blvd; N Port; Port Charlotte; Sarasota County,"North Port, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20179/46818,27.098665,-82.162662,http://maps.google.com/maps?t=m&q=loc:27.098665+-82.162662,Southbound
+Florida,I-75,46819,Exit 170,EXIT 170,Kings Hwy; Charlotte County; Arcadia; Port Charlotte,"Punta Gorda, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20170/46819,27.024407,-82.051189,http://maps.google.com/maps?t=m&q=loc:27.024407+-82.051189,Southbound
+Florida,I-75,46820,Exit 167,EXIT 167,Charlotte County 776; Port Charlotte; Charlotte Harbor,"Punta Gorda, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20167/46820,26.984163,-82.026558,http://maps.google.com/maps?t=m&q=loc:26.984163+-82.026558,Southbound
+Florida,I-75,46821,Exit 164,EXIT 164,US-17; Punta Gorda; Arcadia,"Punta Gorda, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20164/46821,26.940106,-82.019067,http://maps.google.com/maps?t=m&q=loc:26.940106+-82.019067,Southbound
+Florida,I-75,46822,Exit 161,EXIT 161,Charlotte County 768; Punta Gorda; Charlotte Co Airport,"Punta Gorda, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20161/46822,26.899008,-82.006334,http://maps.google.com/maps?t=m&q=loc:26.899008+-82.006334,Southbound
+Florida,I-75,46823,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 159.0)","Punta Gorda, Florida",https://www.iexitapp.com/Florida/I-75/Weigh%20Station/46823,26.885418,-81.992113,http://maps.google.com/maps?t=m&q=loc:26.885418+-81.992113,Southbound
+Florida,I-75,46824,Exit 158,EXIT 158,Charlotte County 762; Cape Coral; N Ft Myers,"Punta Gorda, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20158/46824,26.863632,-81.972392,http://maps.google.com/maps?t=m&q=loc:26.863632+-81.972392,Southbound
+Florida,I-75,46825,Exit 143,EXIT 143,FL-78; N Ft Myers; Cape Coral,"North Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20143/46825,26.718398,-81.814638,http://maps.google.com/maps?t=m&q=loc:26.718398+-81.814638,Southbound
+Florida,I-75,46826,Exit 141,EXIT 141,FL-80 E; La Belle,"Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20141/46826,26.68923,-81.798948,http://maps.google.com/maps?t=m&q=loc:26.68923+-81.798948,Southbound
+Florida,I-75,46827,Exit 139,EXIT 139,Luckett Rd; Ft Myers; Lee County,"Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20139/46827,26.661008,-81.799761,http://maps.google.com/maps?t=m&q=loc:26.661008+-81.799761,Southbound
+Florida,I-75,46828,Exit 138,EXIT 138,Florida 82; Fort Myers; Immokalee; Martin Luther King Boulevard,"Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20138/46828,26.640173,-81.801473,http://maps.google.com/maps?t=m&q=loc:26.640173+-81.801473,Southbound
+Florida,I-75,46829,Exit 136,EXIT 136,FL-884 E; Lehigh Acres,"Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20136/46829,26.617666,-81.804813,http://maps.google.com/maps?t=m&q=loc:26.617666+-81.804813,Southbound
+Florida,I-75,46830,Exit 131,EXIT 131,S w Florida International Airport; Cape Coral,"Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20131/46830,26.55247,-81.795226,http://maps.google.com/maps?t=m&q=loc:26.55247+-81.795226,Southbound
+Florida,I-75,46831,Exit 129,EXIT 129,Exit,"Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20129/46831,26.535045,-81.795018,http://maps.google.com/maps?t=m&q=loc:26.535045+-81.795018,Southbound
+Florida,I-75,46832,Exit 128,EXIT 128,CR 840,"Fort Myers, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20128/46832,26.515543,-81.795199,http://maps.google.com/maps?t=m&q=loc:26.515543+-81.795199,Southbound
+Florida,I-75,46833,Exit 123,EXIT 123,Estero,"Estero, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20123/46833,26.43718,-81.779805,http://maps.google.com/maps?t=m&q=loc:26.43718+-81.779805,Southbound
+Florida,I-75,46834,Exit 116,EXIT 116,County Rd 865; Bonita Springs; Gulf Beaches,"Bonita Springs, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20116/46834,26.336713,-81.751441,http://maps.google.com/maps?t=m&q=loc:26.336713+-81.751441,Southbound
+Florida,I-75,46835,Exit 111,EXIT 111,Naples Park,"Naples, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20111/46835,26.277645,-81.742906,http://maps.google.com/maps?t=m&q=loc:26.277645+-81.742906,Southbound
+Florida,I-75,46836,Exit 107,EXIT 107,Naples; Golden Gate,"Naples, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20107/46836,26.217767,-81.736389,http://maps.google.com/maps?t=m&q=loc:26.217767+-81.736389,Southbound
+Florida,I-75,46837,Exit 105,EXIT 105,County Rd 886; Golden Gate Pkwy; Golden Gate; Naples,"Naples, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20105/46837,26.182081,-81.735734,http://maps.google.com/maps?t=m&q=loc:26.182081+-81.735734,Southbound
+Florida,I-75,46838,Exit 101,EXIT 101,County Rd 951; FL-84; Naples; Marco Island,"Naples, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20101/46838,26.161598,-81.691934,http://maps.google.com/maps?t=m&q=loc:26.161598+-81.691934,Southbound
+Florida,I-75,46839,Exit 80,EXIT 80,FL-29; Everglades City; Immokalee,"Immokalee, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2080/46839,26.154475,-81.351107,http://maps.google.com/maps?t=m&q=loc:26.154475+-81.351107,Southbound
+Florida,I-75,46840,Big Cypress National Preserve Access Area,PARKING AREA,"Big Cypress National Preserve Access Area
+          (MM: 70.5)","Immokalee, Florida",https://www.iexitapp.com/Florida/I-75/Parking%20Area/46840,26.166866,-81.200611,http://maps.google.com/maps?t=m&q=loc:26.166866+-81.200611,Southbound
+Florida,I-75,46841,Rest Area,REST AREA,"Rest Area
+          (MM: 57.0)","Immokalee, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46841,26.168202,-81.086471,http://maps.google.com/maps?t=m&q=loc:26.168202+-81.086471,Southbound
+Florida,I-75,46842,Exit 49,EXIT 49,Snake Rd,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2049/46842,26.171444,-80.862027,http://maps.google.com/maps?t=m&q=loc:26.171444+-80.862027,Southbound
+Florida,I-75,58356,Private Exit,EXIT,Private Exit,"Ochopee, Florida",https://www.iexitapp.com/Florida/I-75/Exit%20/58356,26.166878,-80.832628,http://maps.google.com/maps?t=m&q=loc:26.166878+-80.832628,Southbound
+Florida,I-75,46843,Recreational Area,PARKING AREA,Recreational Area,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Parking%20Area/46843,26.14991,-80.723051,http://maps.google.com/maps?t=m&q=loc:26.14991+-80.723051,Southbound
+Florida,I-75,46844,Rest Area,REST AREA,Rest Area,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Rest%20Area/46844,26.146232,-80.632212,http://maps.google.com/maps?t=m&q=loc:26.146232+-80.632212,Southbound
+Florida,I-75,46845,Recreational Area,PARKING AREA,Recreational Area,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Parking%20Area/46845,26.146147,-80.584565,http://maps.google.com/maps?t=m&q=loc:26.146147+-80.584565,Southbound
+Florida,I-75,46846,Exit 23,EXIT 23,US-27 S; Hialeah,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2023/46846,26.145704,-80.450695,http://maps.google.com/maps?t=m&q=loc:26.145704+-80.450695,Southbound
+Florida,I-75,46847,Exit 23,EXIT 23,US-27 S; Hialeah,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2023/46847,26.144864,-80.447222,http://maps.google.com/maps?t=m&q=loc:26.144864+-80.447222,Southbound
+Florida,I-75,46848,Exit 22,EXIT 22,Glades Pkwy,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2022/46848,26.141562,-80.426697,http://maps.google.com/maps?t=m&q=loc:26.141562+-80.426697,Southbound
+Florida,I-75,46849,Exit 19,EXIT 19,"I 595
+          (MM: 19.0)","Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2019/46849,26.126364,-80.364498,http://maps.google.com/maps?t=m&q=loc:26.126364+-80.364498,Southbound
+Florida,I-75,46852,Exit 15,EXIT 15,Royal Palm Blvd W,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2015/46852,26.093749,-80.363669,http://maps.google.com/maps?t=m&q=loc:26.093749+-80.363669,Southbound
+Florida,I-75,46853,Exit 13B,EXIT 13B,Griffin Rd W,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2013B/46853,26.068489,-80.356867,http://maps.google.com/maps?t=m&q=loc:26.068489+-80.356867,Southbound
+Florida,I-75,46854,Exit 13A,EXIT 13A,Griffin Rd E,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2013A/46854,26.062174,-80.35412,http://maps.google.com/maps?t=m&q=loc:26.062174+-80.35412,Southbound
+Florida,I-75,46855,Exit 11B,EXIT 11B,W Sheridan St,"Fort Lauderdale, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2011B/46855,26.036868,-80.35294,http://maps.google.com/maps?t=m&q=loc:26.036868+-80.35294,Southbound
+Florida,I-75,46856,Exit 11A,EXIT 11A,E Sheridan St,"Pembroke Pines, Florida",https://www.iexitapp.com/Florida/I-75/Exit%2011A/46856,26.02945,-80.352105,http://maps.google.com/maps?t=m&q=loc:26.02945+-80.352105,Southbound
+Florida,I-75,46857,Exit 9B,EXIT 9B,FL-820 W; Pines Blvd,"Hollywood, Florida",https://www.iexitapp.com/Florida/I-75/Exit%209B/46857,26.012561,-80.34314,http://maps.google.com/maps?t=m&q=loc:26.012561+-80.34314,Southbound
+Florida,I-75,46858,Exit 9A,EXIT 9A,Pines Blvd; FL-820 E,"Hollywood, Florida",https://www.iexitapp.com/Florida/I-75/Exit%209A/46858,26.007076,-80.340479,http://maps.google.com/maps?t=m&q=loc:26.007076+-80.340479,Southbound
+Florida,I-75,46859,Exit 7B,EXIT 7B,W Miramar Pkwy,"Hollywood, Florida",https://www.iexitapp.com/Florida/I-75/Exit%207B/46859,25.984585,-80.347839,http://maps.google.com/maps?t=m&q=loc:25.984585+-80.347839,Southbound
+Florida,I-75,46860,Exit 7A,EXIT 7A,E Miramar Pkwy,"Hollywood, Florida",https://www.iexitapp.com/Florida/I-75/Exit%207A/46860,25.977633,-80.352397,http://maps.google.com/maps?t=m&q=loc:25.977633+-80.352397,Southbound
+Florida,I-75,46861,Exit 5,EXIT 5,"Homestead Extension of Florida&#39;s Turnpike
+          (MM: 5.0)","Hialeah, Florida",https://www.iexitapp.com/Florida/I-75/Exit%205/46861,25.954768,-80.351962,http://maps.google.com/maps?t=m&q=loc:25.954768+-80.351962,Southbound
+Florida,I-75,46862,Exit 4,EXIT 4,FL-860; NW 186 St; Miami Garden Dr,"Hialeah, Florida",https://www.iexitapp.com/Florida/I-75/Exit%204/46862,25.947932,-80.351675,http://maps.google.com/maps?t=m&q=loc:25.947932+-80.351675,Southbound
+Florida,I-75,46863,Exit 2,EXIT 2,NW 138th St; Graham Dairy Rd,"Hialeah, Florida",https://www.iexitapp.com/Florida/I-75/Exit%202/46863,25.905088,-80.349729,http://maps.google.com/maps?t=m&q=loc:25.905088+-80.349729,Southbound
+Florida,I-75,46864,Exit 1B,EXIT 1B,"FL 826
+          (MM: 1.0)","Hialeah, Florida",https://www.iexitapp.com/Florida/I-75/Exit%201B/46864,25.89805,-80.333896,http://maps.google.com/maps?t=m&q=loc:25.89805+-80.333896,Southbound
+Florida,I-75,46865,Exit 1A,EXIT 1A,"924 Toll;924 Toll;FL 826
+          (MM: 1.0)","Hialeah, Florida",https://www.iexitapp.com/Florida/I-75/Exit%201A/46865,25.898318,-80.330514,http://maps.google.com/maps?t=m&q=loc:25.898318+-80.330514,Southbound
+Florida,I-75,46866,Exit 1A,EXIT 1A,FL-826 N,"Hialeah, Florida",https://www.iexitapp.com/Florida/I-75/Exit%201A/46866,25.898318,-80.330514,http://maps.google.com/maps?t=m&q=loc:25.898318+-80.330514,Southbound

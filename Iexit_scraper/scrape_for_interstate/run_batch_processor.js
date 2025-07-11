@@ -9,6 +9,7 @@ async function main() {
     console.log('Features:');
     console.log('✅ Batch processing (10 entries per batch)');
     console.log('✅ Progress tracking and resume capability');
+    console.log('✅ Redundancy processing (reprocesses 2 previous entries for safety)');
     console.log('✅ Session expiration handling');
     console.log('🔔 Sound notifications for session expiration');
     console.log('✅ Combined CSV output');
@@ -37,6 +38,7 @@ async function main() {
         console.log('Selecting "y" will:');
         console.log('✅ Start batch processing immediately');
         console.log('✅ Process all 539 entries automatically');
+        console.log('✅ Apply redundancy (reprocess 2 previous entries for safety)');
         console.log('✅ Save results to combined CSV file');
         console.log('✅ Handle session expiration automatically');
         console.log('');

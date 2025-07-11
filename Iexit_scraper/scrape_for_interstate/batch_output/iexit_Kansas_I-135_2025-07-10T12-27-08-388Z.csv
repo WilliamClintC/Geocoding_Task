@@ -1,0 +1,52 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-135,32955,Exit 93,EXIT 93,KS-140; State St,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2093/32955,38.844974,-97.647715,http://maps.google.com/maps?t=m&q=loc:38.844974+-97.647715,Southbound
+Kansas,I-135,32956,Exit 92,EXIT 92,Crawford St,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2092/32956,38.83032,-97.641256,http://maps.google.com/maps?t=m&q=loc:38.83032+-97.641256,Southbound
+Kansas,I-135,32957,Exit 90,EXIT 90,Magnolia Rd,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2090/32957,38.802048,-97.621591,http://maps.google.com/maps?t=m&q=loc:38.802048+-97.621591,Southbound
+Kansas,I-135,32958,Exit 89,EXIT 89,Schilling Rd,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2089/32958,38.787102,-97.617021,http://maps.google.com/maps?t=m&q=loc:38.787102+-97.617021,Southbound
+Kansas,I-135,32959,Exit 88,EXIT 88,Water Well Rd,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2088/32959,38.771807,-97.618126,http://maps.google.com/maps?t=m&q=loc:38.771807+-97.618126,Southbound
+Kansas,I-135,32960,Exit 86,EXIT 86,West Smolan Road;KS 104,"Assaria, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2086/32960,38.743351,-97.618303,http://maps.google.com/maps?t=m&q=loc:38.743351+-97.618303,Southbound
+Kansas,I-135,32961,Exit 82,EXIT 82,Falun Rd; KS-4 E; Assaria Rd,"Assaria, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2082/32961,38.68484,-97.621862,http://maps.google.com/maps?t=m&q=loc:38.68484+-97.621862,Southbound
+Kansas,I-135,32962,Exit 78,EXIT 78,US-81 BUS; KS-4; Bridgeport; Lindsborg,"Assaria, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2078/32962,38.627452,-97.621613,http://maps.google.com/maps?t=m&q=loc:38.627452+-97.621613,Southbound
+Kansas,I-135,32963,Exit 72,EXIT 72,Lindsborg; Roxbury,"Lindsborg, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2072/32963,38.553479,-97.621151,http://maps.google.com/maps?t=m&q=loc:38.553479+-97.621151,Southbound
+Kansas,I-135,32964,Rest Area,REST AREA,"Rest Area
+          (MM: 68.0)","McPherson, Kansas",https://www.iexitapp.com/Kansas/I-135/Rest%20Area/32964,38.48885,-97.621101,http://maps.google.com/maps?t=m&q=loc:38.48885+-97.621101,Southbound
+Kansas,I-135,32965,Exit 65,EXIT 65,Pawnee Rd,"McPherson, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2065/32965,38.451804,-97.621078,http://maps.google.com/maps?t=m&q=loc:38.451804+-97.621078,Southbound
+Kansas,I-135,32966,Exit 60,EXIT 60,US-56; US-81 BUS; McPherson; Marion,"McPherson, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2060/32966,38.373822,-97.62079,http://maps.google.com/maps?t=m&q=loc:38.373822+-97.62079,Southbound
+Kansas,I-135,32967,Exit 58,EXIT 58,"US 81 Business;KS 61
+          (MM: 58.0)","McPherson, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2058/32967,38.343094,-97.621371,http://maps.google.com/maps?t=m&q=loc:38.343094+-97.621371,Southbound
+Kansas,I-135,32968,Exit 54,EXIT 54,Elyrla,"McPherson, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2054/32968,38.29599,-97.595817,http://maps.google.com/maps?t=m&q=loc:38.29599+-97.595817,Southbound
+Kansas,I-135,32969,Exit 48,EXIT 48,KS-260 E; Moundridge,"Moundridge, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2048/32969,38.232452,-97.522202,http://maps.google.com/maps?t=m&q=loc:38.232452+-97.522202,Southbound
+Kansas,I-135,32970,Exit 46,EXIT 46,KS-260 W; Moundridge,"Moundridge, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2046/32970,38.20603,-97.490459,http://maps.google.com/maps?t=m&q=loc:38.20603+-97.490459,Southbound
+Kansas,I-135,32971,Exit 40,EXIT 40,Lincoln Blvd,"Hesston, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2040/32971,38.147658,-97.421144,http://maps.google.com/maps?t=m&q=loc:38.147658+-97.421144,Southbound
+Kansas,I-135,32972,Exit 34,EXIT 34,KS 15,"Newton, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2034/32972,38.086001,-97.350043,http://maps.google.com/maps?t=m&q=loc:38.086001+-97.350043,Southbound
+Kansas,I-135,32973,Exit 31,EXIT 31,Braodway St; First St,"Newton, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2031/32973,38.054391,-97.322651,http://maps.google.com/maps?t=m&q=loc:38.054391+-97.322651,Southbound
+Kansas,I-135,32974,Exit 30,EXIT 30,"US 50;KS 15
+          (MM: 30.0)","Newton, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2030/32974,38.029723,-97.328911,http://maps.google.com/maps?t=m&q=loc:38.029723+-97.328911,Southbound
+Kansas,I-135,32975,Exit 28,EXIT 28,Southeast 36th Street,"Newton, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2028/32975,38.002077,-97.328282,http://maps.google.com/maps?t=m&q=loc:38.002077+-97.328282,Southbound
+Kansas,I-135,32976,Exit 25,EXIT 25,KS-196; White Water; Eldorado,"Newton, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2025/32976,37.959412,-97.327734,http://maps.google.com/maps?t=m&q=loc:37.959412+-97.327734,Southbound
+Kansas,I-135,32977,Rest Area,REST AREA,"Rest Area
+          (MM: 23.0)","Newton, Kansas",https://www.iexitapp.com/Kansas/I-135/Rest%20Area/32977,37.935078,-97.328353,http://maps.google.com/maps?t=m&q=loc:37.935078+-97.328353,Southbound
+Kansas,I-135,32978,Exit 22,EXIT 22,125th St,"Sedgwick, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2022/32978,37.914971,-97.327019,http://maps.google.com/maps?t=m&q=loc:37.914971+-97.327019,Southbound
+Kansas,I-135,32979,Exit 19,EXIT 19,101st St,"Valley Center, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2019/32979,37.871926,-97.326612,http://maps.google.com/maps?t=m&q=loc:37.871926+-97.326612,Southbound
+Kansas,I-135,32980,Exit 17,EXIT 17,85th Street,"Valley Center, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2017/32980,37.842302,-97.327643,http://maps.google.com/maps?t=m&q=loc:37.842302+-97.327643,Southbound
+Kansas,I-135,32981,Exit 16,EXIT 16,77th St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2016/32981,37.830074,-97.326809,http://maps.google.com/maps?t=m&q=loc:37.830074+-97.326809,Southbound
+Kansas,I-135,32982,Exit 14,EXIT 14,61st Street,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2014/32982,37.798791,-97.32864,http://maps.google.com/maps?t=m&q=loc:37.798791+-97.32864,Southbound
+Kansas,I-135,32983,Exit 13,EXIT 13,53rd St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2013/32983,37.784658,-97.325759,http://maps.google.com/maps?t=m&q=loc:37.784658+-97.325759,Southbound
+Kansas,I-135,32984,Exit 11A,EXIT 11A,"KS 254
+          (MM: 11.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2011A/32984,37.767323,-97.323775,http://maps.google.com/maps?t=m&q=loc:37.767323+-97.323775,Southbound
+Kansas,I-135,56679,Exit 10,EXIT 10,"KS 96
+          (MM: 10.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2010/56679,37.751066,-97.319752,http://maps.google.com/maps?t=m&q=loc:37.751066+-97.319752,Southbound
+Kansas,I-135,56680,Exit 10,EXIT 10,29th St E; Hydraulic,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%2010/56680,37.751066,-97.319752,http://maps.google.com/maps?t=m&q=loc:37.751066+-97.319752,Southbound
+Kansas,I-135,32986,Exit 9,EXIT 9,21st Street,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%209/32986,37.725771,-97.317915,http://maps.google.com/maps?t=m&q=loc:37.725771+-97.317915,Southbound
+Kansas,I-135,32987,Exit 8,EXIT 8,13th St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%208/32987,37.711415,-97.321369,http://maps.google.com/maps?t=m&q=loc:37.711415+-97.321369,Southbound
+Kansas,I-135,32988,Exit 7B,EXIT 7B,8th St; 9th St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%207B/32988,37.703344,-97.318833,http://maps.google.com/maps?t=m&q=loc:37.703344+-97.318833,Southbound
+Kansas,I-135,32989,Exit 7A,EXIT 7A,Central Avenue,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%207A/32989,37.696916,-97.316817,http://maps.google.com/maps?t=m&q=loc:37.696916+-97.316817,Southbound
+Kansas,I-135,32990,Exit 6C,EXIT 6C,2nd St; 1st St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%206C/32990,37.693038,-97.315562,http://maps.google.com/maps?t=m&q=loc:37.693038+-97.315562,Southbound
+Kansas,I-135,32991,Exit 6A,EXIT 6A,"US 54;US 400;US 54;US 400
+          (MM: 6.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%206A/32991,37.683593,-97.312965,http://maps.google.com/maps?t=m&q=loc:37.683593+-97.312965,Southbound
+Kansas,I-135,32992,Exit 5A,EXIT 5A,Lincoln St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%205A/32992,37.670997,-97.312845,http://maps.google.com/maps?t=m&q=loc:37.670997+-97.312845,Southbound
+Kansas,I-135,32993,Exit 4,EXIT 4,Harry St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%204/32993,37.663884,-97.312799,http://maps.google.com/maps?t=m&q=loc:37.663884+-97.312799,Southbound
+Kansas,I-135,32994,Exit 3B,EXIT 3B,Pawnee,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%203B/32994,37.652673,-97.311437,http://maps.google.com/maps?t=m&q=loc:37.652673+-97.311437,Southbound
+Kansas,I-135,32995,Exit 3A,EXIT 3A,KS-15 S; Southeast Blvd,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%203A/32995,37.643993,-97.308694,http://maps.google.com/maps?t=m&q=loc:37.643993+-97.308694,Southbound
+Kansas,I-135,32996,Exit 2,EXIT 2,Hydraulic,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%202/32996,37.631984,-97.313739,http://maps.google.com/maps?t=m&q=loc:37.631984+-97.313739,Southbound
+Kansas,I-135,32998,Exit 1A,EXIT 1A,47th St East E; U.S. 81 S; 47th St West W,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-135/Exit%201A/32998,37.611668,-97.327202,http://maps.google.com/maps?t=m&q=loc:37.611668+-97.327202,Southbound

@@ -1,0 +1,10 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Indiana,I-164,33815,Exit 0,EXIT 0,US-41 S; Henderson Ky,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%200/33815,37.945569,-87.554035,http://maps.google.com/maps?t=m&q=loc:37.945569+-87.554035,Eastbound
+Indiana,I-164,33816,Exit 3,EXIT 3,Green River Rd,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%203/33816,37.939128,-87.494849,http://maps.google.com/maps?t=m&q=loc:37.939128+-87.494849,Eastbound
+Indiana,I-164,33817,Exit 5,EXIT 5,Covert Ave,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%205/33817,37.950827,-87.453226,http://maps.google.com/maps?t=m&q=loc:37.950827+-87.453226,Eastbound
+Indiana,I-164,33818,Exit 7A,EXIT 7A,IN-66; Lloyd Expressway,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%207A/33818,37.97211,-87.449533,http://maps.google.com/maps?t=m&q=loc:37.97211+-87.449533,Eastbound
+Indiana,I-164,33819,Exit 7B,EXIT 7B,East Lloyd Expressway; IN-66,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%207B/33819,37.977126,-87.451855,http://maps.google.com/maps?t=m&q=loc:37.977126+-87.451855,Eastbound
+Indiana,I-164,33820,Exit 9,EXIT 9,IN-62; Morgan Avenue,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%209/33820,37.997477,-87.465948,http://maps.google.com/maps?t=m&q=loc:37.997477+-87.465948,Eastbound
+Indiana,I-164,33821,Exit 10,EXIT 10,Lynch Road,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%2010/33821,38.012557,-87.468934,http://maps.google.com/maps?t=m&q=loc:38.012557+-87.468934,Eastbound
+Indiana,I-164,33822,Exit 15,EXIT 15,Boonville New Harmony Rd,"Evansville, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%2015/33822,38.083858,-87.476538,http://maps.google.com/maps?t=m&q=loc:38.083858+-87.476538,Eastbound
+Indiana,I-164,33823,Exit 18,EXIT 18,State Highway 57 S,"Elberfeld, Indiana",https://www.iexitapp.com/Indiana/I-164/Exit%2018/33823,38.127237,-87.475789,http://maps.google.com/maps?t=m&q=loc:38.127237+-87.475789,Eastbound

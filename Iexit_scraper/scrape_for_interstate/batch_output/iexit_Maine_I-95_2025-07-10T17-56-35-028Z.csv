@@ -1,0 +1,80 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Maine,I-95,5810,Exit 1,EXIT 1,Navy Yard; ME-103,"Kittery, Maine",https://www.iexitapp.com/Maine/I-95/Exit%201/5810,43.098667,-70.755621,http://maps.google.com/maps?t=m&q=loc:43.098667+-70.755621,Northbound
+Maine,I-95,5811,Exit 2,EXIT 2,ME-236 S; Traffic Cir; Downtown; US-1,"Kittery, Maine",https://www.iexitapp.com/Maine/I-95/Exit%202/5811,43.101724,-70.751116,http://maps.google.com/maps?t=m&q=loc:43.101724+-70.751116,Northbound
+Maine,I-95,5812,Exit 3,EXIT 3,ME-236 N; S Berwick,"Kittery, Maine",https://www.iexitapp.com/Maine/I-95/Exit%203/5812,43.104538,-70.747503,http://maps.google.com/maps?t=m&q=loc:43.104538+-70.747503,Northbound
+Maine,I-95,47442,Exit 3,EXIT 3,US-1 N; Coastal Route; Kittery,"Kittery, Maine",https://www.iexitapp.com/Maine/I-95/Exit%203/47442,43.105762,-70.745497,http://maps.google.com/maps?t=m&q=loc:43.105762+-70.745497,Northbound
+Maine,I-95,47639,Maine Information Center,WELCOME CENTER,"Maine Information Center
+          (MM: 3.0)","Kittery, Maine",https://www.iexitapp.com/Maine/I-95/Welcome%20Center/47639,43.126862,-70.720432,http://maps.google.com/maps?t=m&q=loc:43.126862+-70.720432,Northbound
+Maine,I-95,5813,Weigh Station,WEIGH STATION,Weigh Station,"York, Maine",https://www.iexitapp.com/Maine/I-95/Weigh%20Station/5813,43.144567,-70.690958,http://maps.google.com/maps?t=m&q=loc:43.144567+-70.690958,Northbound
+Maine,I-95,5814,Exit 7,EXIT 7,Maine 91; U.S. 1; The Yorks; Ogunquit,"York, Maine",https://www.iexitapp.com/Maine/I-95/Exit%207/5814,43.15417,-70.670646,http://maps.google.com/maps?t=m&q=loc:43.15417+-70.670646,Northbound
+Maine,I-95,5815,Exit 19,EXIT 19,ME-9; ME-109; Wells; Sanford,"Wells, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2019/5815,43.325345,-70.606843,http://maps.google.com/maps?t=m&q=loc:43.325345+-70.606843,Northbound
+Maine,I-95,5816,Exit 25,EXIT 25,Maine 35; Kennebunk; Kennebunkport,"Kennebunk, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2025/5816,43.40663,-70.561578,http://maps.google.com/maps?t=m&q=loc:43.40663+-70.561578,Northbound
+Maine,I-95,47640,Exit 25,SERVICE PLAZA,"North Kennebunk Service Plaza
+          (MM: 25.0)","Kennebunk, Maine",https://www.iexitapp.com/Maine/I-95/HMSHost%20Service%20Plaza/47640,43.40663,-70.561578,http://maps.google.com/maps?t=m&q=loc:43.40663+-70.561578,Northbound
+Maine,I-95,5817,Exit 32,EXIT 32,ME 111;Precourt Street,"Biddeford, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2032/5817,43.477697,-70.502028,http://maps.google.com/maps?t=m&q=loc:43.477697+-70.502028,Northbound
+Maine,I-95,5819,Exit 36,EXIT 36,"I 195
+          (MM: 36.0)","Saco, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2036/5819,43.523443,-70.457681,http://maps.google.com/maps?t=m&q=loc:43.523443+-70.457681,Northbound
+Maine,I-95,5820,Exit 42,EXIT 42,US-1; Scarborough,"Scarborough, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2042/5820,43.601843,-70.375615,http://maps.google.com/maps?t=m&q=loc:43.601843+-70.375615,Northbound
+Maine,I-95,5821,Exit 44,EXIT 44,"I 295
+          (MM: 44.0)","Scarborough, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2044/5821,43.623317,-70.353237,http://maps.google.com/maps?t=m&q=loc:43.623317+-70.353237,Northbound
+Maine,I-95,5822,Exit 45,EXIT 45,"Maine Turnpike Approach Road
+          (MM: 45.0)","Scarborough, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2045/5822,43.628652,-70.347711,http://maps.google.com/maps?t=m&q=loc:43.628652+-70.347711,Northbound
+Maine,I-95,5823,Exit 46,EXIT 46,ME-22; ME-9; Jetport; Congress St,"Portland, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2046/5823,43.644642,-70.332393,http://maps.google.com/maps?t=m&q=loc:43.644642+-70.332393,Northbound
+Maine,I-95,5824,Exit 47,EXIT 47,Rand Rd; ME-25; Westbrook Arterial,"Portland, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2047/5824,43.661937,-70.332033,http://maps.google.com/maps?t=m&q=loc:43.661937+-70.332033,Northbound
+Maine,I-95,5825,Exit 48,EXIT 48,Larrabee Rd; ME-25; US-302; Riverside St,"Portland, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2048/5825,43.677471,-70.326538,http://maps.google.com/maps?t=m&q=loc:43.677471+-70.326538,Northbound
+Maine,I-95,5826,Exit 52,EXIT 52,"Falmouth Spur
+          (MM: 52.0)","Portland, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2052/5826,43.718546,-70.305467,http://maps.google.com/maps?t=m&q=loc:43.718546+-70.305467,Northbound
+Maine,I-95,47447,Gray Service Plaza,SERVICE PLAZA,"Gray Service Plaza
+          (MM: 57.0)","Cumberland Center, Maine",https://www.iexitapp.com/Maine/I-95/Service%20Plaza/47447,43.821612,-70.319994,http://maps.google.com/maps?t=m&q=loc:43.821612+-70.319994,Northbound
+Maine,I-95,5830,Exit 80,EXIT 80,ME-196; Lewiston,"Lewiston, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2080/5830,44.07228,-70.188553,http://maps.google.com/maps?t=m&q=loc:44.07228+-70.188553,Northbound
+Maine,I-95,5831,Exit 86,EXIT 86,ME-9; Sabattus; Lisbon,"Sabattus, Maine",https://www.iexitapp.com/Maine/I-95/Exit%2086/5831,44.097771,-70.0911,http://maps.google.com/maps?t=m&q=loc:44.097771+-70.0911,Northbound
+Maine,I-95,47448,Exit 102,EXIT 102,West Gardiner Service Plaza,"Gardiner, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20102/47448,44.209552,-69.831544,http://maps.google.com/maps?t=m&q=loc:44.209552+-69.831544,Northbound
+Maine,I-95,5834,Exit 109,EXIT 109,US-202; State Route 11; ME-17; ME-100,"Augusta, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20109/5834,44.310503,-69.808615,http://maps.google.com/maps?t=m&q=loc:44.310503+-69.808615,Northbound
+Maine,I-95,47449,Exit 112A,EXIT 112A,ME-11 S; ME-27 S; ME-8 S; Civic Center Dr; New Belgrade Rd; Augusta,"Augusta, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20112A/47449,44.343853,-69.798562,http://maps.google.com/maps?t=m&q=loc:44.343853+-69.798562,Northbound
+Maine,I-95,5836,Exit 112B,EXIT 112B,ME-8 N; ME-11 N; ME-27 N; Augusta; Belgrade,"Augusta, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20112B/5836,44.346459,-69.793664,http://maps.google.com/maps?t=m&q=loc:44.346459+-69.793664,Northbound
+Maine,I-95,47450,Exit 113,EXIT 113,ME-3; Augusta; Belfast,"Augusta, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20113/47450,44.351443,-69.784396,http://maps.google.com/maps?t=m&q=loc:44.351443+-69.784396,Northbound
+Maine,I-95,5838,Exit 120,EXIT 120,Lyons Rd; Sidney,"Augusta, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20120/5838,44.453525,-69.715359,http://maps.google.com/maps?t=m&q=loc:44.453525+-69.715359,Northbound
+Maine,I-95,5839,Exit 127,EXIT 127,Maine 11; Maine 137; Oakland; Waterville,"Waterville, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20127/5839,44.542938,-69.680909,http://maps.google.com/maps?t=m&q=loc:44.542938+-69.680909,Northbound
+Maine,I-95,5840,Exit 130,EXIT 130,ME-104; Main St; Waterville,"Waterville, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20130/5840,44.571507,-69.645806,http://maps.google.com/maps?t=m&q=loc:44.571507+-69.645806,Northbound
+Maine,I-95,5841,Exit 132,EXIT 132,Maine 139,"Fairfield, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20132/5841,44.591493,-69.617705,http://maps.google.com/maps?t=m&q=loc:44.591493+-69.617705,Northbound
+Maine,I-95,5842,Exit 133,EXIT 133,US-201 N,"Fairfield, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20133/5842,44.601714,-69.598268,http://maps.google.com/maps?t=m&q=loc:44.601714+-69.598268,Northbound
+Maine,I-95,5843,Exit 138,EXIT 138,Hinckley Road; Clinton; Burnham,"Clinton, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20138/5843,44.635964,-69.531267,http://maps.google.com/maps?t=m&q=loc:44.635964+-69.531267,Northbound
+Maine,I-95,5844,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 141.0)","Pittsfield, Maine",https://www.iexitapp.com/Maine/I-95/Weigh%20Station/5844,44.743252,-69.427052,http://maps.google.com/maps?t=m&q=loc:44.743252+-69.427052,Northbound
+Maine,I-95,5845,Exit 150,EXIT 150,Somerset Avenue; Pittsfield; Hartland,"Pittsfield, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20150/5845,44.782425,-69.404833,http://maps.google.com/maps?t=m&q=loc:44.782425+-69.404833,Northbound
+Maine,I-95,5846,Exit 157,EXIT 157,Maine 11; Maine 100,"Palmyra, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20157/5846,44.835591,-69.297933,http://maps.google.com/maps?t=m&q=loc:44.835591+-69.297933,Northbound
+Maine,I-95,5847,Exit 161,EXIT 161,Maine 7; East Newport; Plymouth,"Plymouth, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20161/5847,44.804746,-69.224709,http://maps.google.com/maps?t=m&q=loc:44.804746+-69.224709,Northbound
+Maine,I-95,5848,Exit 167,EXIT 167,Maine 69; Maine 143; Etna; Dixmont,"Etna, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20167/5848,44.78427,-69.104096,http://maps.google.com/maps?t=m&q=loc:44.78427+-69.104096,Northbound
+Maine,I-95,5849,Exit 174,EXIT 174,Maine 69; Carmel; Winterport,"Carmel, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20174/5849,44.75901,-68.97892,http://maps.google.com/maps?t=m&q=loc:44.75901+-68.97892,Northbound
+Maine,I-95,47451,Rest Area,REST AREA,"Rest Area
+          (MM: 176.0)","Hampden, Maine",https://www.iexitapp.com/Maine/I-95/Rest%20Area/47451,44.766076,-68.940224,http://maps.google.com/maps?t=m&q=loc:44.766076+-68.940224,Northbound
+Maine,I-95,5850,Exit 180,EXIT 180,Coldbrook Road; Hermon; Hampden,"Hampden, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20180/5850,44.771925,-68.864192,http://maps.google.com/maps?t=m&q=loc:44.771925+-68.864192,Northbound
+Maine,I-95,5851,Exit 182A,EXIT 182A,"I 395;ME 15
+          (MM: 182.0)","Bangor, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20182A/5851,44.783959,-68.810691,http://maps.google.com/maps?t=m&q=loc:44.783959+-68.810691,Northbound
+Maine,I-95,47453,Exit 182B,EXIT 182B,"I 395
+          (MM: 182.0)","Bangor, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20182B/47453,44.787694,-68.80766,http://maps.google.com/maps?t=m&q=loc:44.787694+-68.80766,Northbound
+Maine,I-95,5852,Exit 183,EXIT 183,Maine 100; Hammond St; US 2; Airport,"Bangor, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20183/5852,44.795164,-68.802993,http://maps.google.com/maps?t=m&q=loc:44.795164+-68.802993,Northbound
+Maine,I-95,5853,Exit 184,EXIT 184,Maine 222; Union St Airport,"Bangor, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20184/5853,44.806299,-68.795788,http://maps.google.com/maps?t=m&q=loc:44.806299+-68.795788,Northbound
+Maine,I-95,5854,Exit 185,EXIT 185,ME-15 N; Broadway,"Bangor, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20185/5854,44.81923,-68.775201,http://maps.google.com/maps?t=m&q=loc:44.81923+-68.775201,Northbound
+Maine,I-95,5855,Exit 186,EXIT 186,Stillwater Avenue,"Bangor, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20186/5855,44.823654,-68.758828,http://maps.google.com/maps?t=m&q=loc:44.823654+-68.758828,Northbound
+Maine,I-95,5856,Exit 187,EXIT 187,Hogan Rd; Bangor; Veazie,"Bangor, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20187/5856,44.829059,-68.74513,http://maps.google.com/maps?t=m&q=loc:44.829059+-68.74513,Northbound
+Maine,I-95,5857,Exit 191,EXIT 191,Kelly Rd; Orono,"Orono, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20191/5857,44.870197,-68.704559,http://maps.google.com/maps?t=m&q=loc:44.870197+-68.704559,Northbound
+Maine,I-95,5858,Exit 193,EXIT 193,Stillwater Ave; Stillwater; Old Town,"Orono, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20193/5858,44.900806,-68.690939,http://maps.google.com/maps?t=m&q=loc:44.900806+-68.690939,Northbound
+Maine,I-95,47455,Exit 197,EXIT 197,Maine 43; Old Town; Hudson,"Old Town, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20197/47455,44.955549,-68.707422,http://maps.google.com/maps?t=m&q=loc:44.955549+-68.707422,Northbound
+Maine,I-95,47456,Weigh Station,WEIGH STATION,Weigh Station,"Old Town, Maine",https://www.iexitapp.com/Maine/I-95/Weigh%20Station/47456,44.985735,-68.703059,http://maps.google.com/maps?t=m&q=loc:44.985735+-68.703059,Northbound
+Maine,I-95,5860,Exit 199,EXIT 199,Maine 16; Alton; LaGrange; Milo,"Old Town, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20199/5860,44.990503,-68.70237,http://maps.google.com/maps?t=m&q=loc:44.990503+-68.70237,Northbound
+Maine,I-95,5861,Exit 217,EXIT 217,Maine 6; Maine 155; Howland; Lagrange,"Howland, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20217/5861,45.232817,-68.676259,http://maps.google.com/maps?t=m&q=loc:45.232817+-68.676259,Northbound
+Maine,I-95,5862,Exit 227,EXIT 227,US 2; Maine 6; Maine 116; Lincoln; Mattawamkeag,"Millinocket, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20227/5862,45.371578,-68.604715,http://maps.google.com/maps?t=m&q=loc:45.371578+-68.604715,Northbound
+Maine,I-95,5863,Rest Area,REST AREA,"Rest Area
+          (MM: 237.0)","Millinocket, Maine",https://www.iexitapp.com/Maine/I-95/Rest%20Area/5863,45.59382,-68.539074,http://maps.google.com/maps?t=m&q=loc:45.59382+-68.539074,Northbound
+Maine,I-95,5864,Exit 244,EXIT 244,ME-157; Medway; Millinocket,"Millinocket, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20244/5864,45.604035,-68.52593,http://maps.google.com/maps?t=m&q=loc:45.604035+-68.52593,Northbound
+Maine,I-95,5865,Mt Katahdin Scenic Overlook,SCENIC AREA,"Mt Katahdin Scenic Overlook
+          (MM: 245.0)","Millinocket, Maine",https://www.iexitapp.com/Maine/I-95/Scenic%20Area/5865,45.708059,-68.476879,http://maps.google.com/maps?t=m&q=loc:45.708059+-68.476879,Northbound
+Maine,I-95,5866,Exit 259,EXIT 259,Casey Road,"Stacyville, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20259/5866,45.795394,-68.427454,http://maps.google.com/maps?t=m&q=loc:45.795394+-68.427454,Northbound
+Maine,I-95,5867,Exit 264,EXIT 264,Maine 158; Maine 11,"Sherman, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20264/5867,45.868871,-68.414965,http://maps.google.com/maps?t=m&q=loc:45.868871+-68.414965,Northbound
+Maine,I-95,5868,Exit 276,EXIT 276,Maine 159; Island Falls,"Island Falls, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20276/5868,46.003548,-68.281761,http://maps.google.com/maps?t=m&q=loc:46.003548+-68.281761,Northbound
+Maine,I-95,5869,Exit 286,EXIT 286,Oakfield Road; Oakfield; Smyrna Mills,"Oakfield, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20286/5869,46.107885,-68.165621,http://maps.google.com/maps?t=m&q=loc:46.107885+-68.165621,Northbound
+Maine,I-95,5870,Exit 291,EXIT 291,US 2 E,"Oakfield, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20291/5870,46.142481,-68.064952,http://maps.google.com/maps?t=m&q=loc:46.142481+-68.064952,Northbound
+Maine,I-95,5871,Exit 302,EXIT 302,U.S. 1; Houlton; Presque Isle,"Houlton, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20302/5871,46.138139,-67.845445,http://maps.google.com/maps?t=m&q=loc:46.138139+-67.845445,Northbound
+Maine,I-95,5872,Exit 305,EXIT 305,US 2; Houlton International Airport; Industrial Park,"Houlton, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20305/5872,46.132365,-67.787691,http://maps.google.com/maps?t=m&q=loc:46.132365+-67.787691,Northbound
+Maine,I-95,47457,NB 95,EXIT,NB 95,"Houlton, Maine",https://www.iexitapp.com/Maine/I-95/Exit%20/47457,46.134849,-67.781242,http://maps.google.com/maps?t=m&q=loc:46.134849+-67.781242,Northbound

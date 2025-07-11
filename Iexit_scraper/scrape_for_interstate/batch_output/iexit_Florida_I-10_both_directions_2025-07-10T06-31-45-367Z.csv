@@ -1,0 +1,179 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-10,1507,Agriculture Inspection Station,INSPECTION STATION,"Agriculture Inspection Station
+          (MM: 3.0)","Cantonment, Florida",https://www.iexitapp.com/Florida/I-10/Inspection%20Station/1507,30.570336,-87.402049,http://maps.google.com/maps?t=m&q=loc:30.570336+-87.402049,Eastbound
+Florida,I-10,1508,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 3.5)","Cantonment, Florida",https://www.iexitapp.com/Florida/I-10/Weigh%20Station/1508,30.560383,-87.372685,http://maps.google.com/maps?t=m&q=loc:30.560383+-87.372685,Eastbound
+Florida,I-10,1509,Florida Welcome Station,WELCOME CENTER,"Florida Welcome Station
+          (MM: 4.0)","Cantonment, Florida",https://www.iexitapp.com/Florida/I-10/Welcome%20Center/1509,30.547259,-87.353418,http://maps.google.com/maps?t=m&q=loc:30.547259+-87.353418,Eastbound
+Florida,I-10,1510,Exit 5,EXIT 5,US-90 Alt W,"Cantonment, Florida",https://www.iexitapp.com/Florida/I-10/Exit%205/1510,30.536363,-87.337418,http://maps.google.com/maps?t=m&q=loc:30.536363+-87.337418,Eastbound
+Florida,I-10,1511,Exit 7A,EXIT 7A,Pine Forest Rd; FL-297 S; Pensacola N.A.S.,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%207A/1511,30.522723,-87.316355,http://maps.google.com/maps?t=m&q=loc:30.522723+-87.316355,Eastbound
+Florida,I-10,1512,Exit 7B,EXIT 7B,FL-297 N; Pine Forest Rd,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%207B/1512,30.520803,-87.312705,http://maps.google.com/maps?t=m&q=loc:30.520803+-87.312705,Eastbound
+Florida,I-10,1513,Exit 10A,EXIT 10A,US 29,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2010A/1513,30.502763,-87.268454,http://maps.google.com/maps?t=m&q=loc:30.502763+-87.268454,Eastbound
+Florida,I-10,1514,Exit 10B,EXIT 10B,US-29 N; Pensacola Blvd; Cantonment,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2010B/1514,30.5023,-87.265449,http://maps.google.com/maps?t=m&q=loc:30.5023+-87.265449,Eastbound
+Florida,I-10,1516,Exit 13,EXIT 13,FL-291 N; FL-291 S; Davis Hwy,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2013/1516,30.503433,-87.233882,http://maps.google.com/maps?t=m&q=loc:30.503433+-87.233882,Eastbound
+Florida,I-10,1517,Exit 17,EXIT 17,US-90 E,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2017/1517,30.503655,-87.166861,http://maps.google.com/maps?t=m&q=loc:30.503655+-87.166861,Eastbound
+Florida,I-10,1518,Exit 22,EXIT 22,FL-281,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2022/1518,30.53387,-87.092595,http://maps.google.com/maps?t=m&q=loc:30.53387+-87.092595,Eastbound
+Florida,I-10,1519,Exit 26,EXIT 26,Milton; Bagdad,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2026/1519,30.566645,-87.035486,http://maps.google.com/maps?t=m&q=loc:30.566645+-87.035486,Eastbound
+Florida,I-10,1520,Exit 28,EXIT 28,Milton,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2028/1520,30.588655,-87.00689,http://maps.google.com/maps?t=m&q=loc:30.588655+-87.00689,Eastbound
+Florida,I-10,47859,Rest Area,REST AREA,"Rest Area
+          (MM: 29.0)","Milton, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/47859,30.607955,-86.98182,http://maps.google.com/maps?t=m&q=loc:30.607955+-86.98182,Eastbound
+Florida,I-10,1522,Exit 31,EXIT 31,Navarre,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2031/1522,30.61673,-86.969194,http://maps.google.com/maps?t=m&q=loc:30.61673+-86.969194,Eastbound
+Florida,I-10,1523,Exit 45,EXIT 45,Holt,"Holt, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2045/1523,30.696755,-86.755982,http://maps.google.com/maps?t=m&q=loc:30.696755+-86.755982,Eastbound
+Florida,I-10,1524,Exit 56,EXIT 56,Niceville,"Crestview, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2056/1524,30.725442,-86.57371,http://maps.google.com/maps?t=m&q=loc:30.725442+-86.57371,Eastbound
+Florida,I-10,1525,Rest Area,REST AREA,"Rest Area
+          (MM: 58.0)","Crestview, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1525,30.726784,-86.509764,http://maps.google.com/maps?t=m&q=loc:30.726784+-86.509764,Eastbound
+Florida,I-10,1526,Exit 70,EXIT 70,FL-285 S,"Defuniak Springs, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2070/1526,30.732552,-86.357079,http://maps.google.com/maps?t=m&q=loc:30.732552+-86.357079,Eastbound
+Florida,I-10,47860,Exit 85,EXIT 85,US-331; De Funiak Springs; Freeport,"Defuniak Springs, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2085/47860,30.692472,-86.128408,http://maps.google.com/maps?t=m&q=loc:30.692472+-86.128408,Eastbound
+Florida,I-10,1528,Exit 96,EXIT 96,FL-81; Ponce De Leon,"Ponce de Leon, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2096/1528,30.711352,-85.940394,http://maps.google.com/maps?t=m&q=loc:30.711352+-85.940394,Eastbound
+Florida,I-10,1529,Exit 104,EXIT 104,County Route; Caryville,"Caryville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20104/1529,30.757329,-85.81747,http://maps.google.com/maps?t=m&q=loc:30.757329+-85.81747,Eastbound
+Florida,I-10,1530,Exit 112,EXIT 112,Bonifay,"Bonifay, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20112/1530,30.762772,-85.690095,http://maps.google.com/maps?t=m&q=loc:30.762772+-85.690095,Eastbound
+Florida,I-10,1531,Exit 120,EXIT 120,FL-77; Panama City,"Chipley, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20120/1531,30.749225,-85.558857,http://maps.google.com/maps?t=m&q=loc:30.749225+-85.558857,Eastbound
+Florida,I-10,1532,Exit 130,EXIT 130,US-231; Cottondale; Panama City,"Cottondale, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20130/1532,30.752919,-85.381441,http://maps.google.com/maps?t=m&q=loc:30.752919+-85.381441,Eastbound
+Florida,I-10,47861,Jackson County Rest Area,REST AREA,"Jackson County Rest Area 
+          (MM: 133.0)","Cottondale, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/47861,30.75762,-85.336328,http://maps.google.com/maps?t=m&q=loc:30.75762+-85.336328,Eastbound
+Florida,I-10,1533,Exit 136,EXIT 136,FL-276; Marianna,"Marianna, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20136/1533,30.754987,-85.276642,http://maps.google.com/maps?t=m&q=loc:30.754987+-85.276642,Eastbound
+Florida,I-10,1534,Exit 142,EXIT 142,FL-71; Marianna; Blountstown,"Marianna, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20142/1534,30.722571,-85.191838,http://maps.google.com/maps?t=m&q=loc:30.722571+-85.191838,Eastbound
+Florida,I-10,1535,Exit 152,EXIT 152,FL-69; Grand Ridge; Blountstown,"Marianna, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20152/1535,30.660127,-85.043936,http://maps.google.com/maps?t=m&q=loc:30.660127+-85.043936,Eastbound
+Florida,I-10,1536,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 154.0)","Grand Ridge, Florida",https://www.iexitapp.com/Florida/I-10/Weigh%20Station/1536,30.63928,-84.996009,http://maps.google.com/maps?t=m&q=loc:30.63928+-84.996009,Eastbound
+Florida,I-10,1537,Exit 158,EXIT 158,Sneads,"Grand Ridge, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20158/1537,30.636467,-84.95168,http://maps.google.com/maps?t=m&q=loc:30.636467+-84.95168,Eastbound
+Florida,I-10,47862,Rest Area,REST AREA,"Rest Area
+          (MM: 162.0)","Chattahoochee, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/47862,30.63052,-84.897023,http://maps.google.com/maps?t=m&q=loc:30.63052+-84.897023,Eastbound
+Florida,I-10,1538,Exit 166,EXIT 166,Chattahoochee,"Chattahoochee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20166/1538,30.617799,-84.827493,http://maps.google.com/maps?t=m&q=loc:30.617799+-84.827493,Eastbound
+Florida,I-10,1539,Exit 174,EXIT 174,FL-12; Greensboro; Quincy,"Quincy, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20174/1539,30.579795,-84.705546,http://maps.google.com/maps?t=m&q=loc:30.579795+-84.705546,Eastbound
+Florida,I-10,1540,Exit 181,EXIT 181,FL-267; Ouincy,"Quincy, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20181/1540,30.540112,-84.601215,http://maps.google.com/maps?t=m&q=loc:30.540112+-84.601215,Eastbound
+Florida,I-10,1541,Exit 192,EXIT 192,US-90; Midway,"Midway, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20192/1541,30.491604,-84.431723,http://maps.google.com/maps?t=m&q=loc:30.491604+-84.431723,Eastbound
+Florida,I-10,1542,Leon County Rest Area,REST AREA,"Leon County Rest Area
+          (MM: 194.0)","Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1542,30.484637,-84.390905,http://maps.google.com/maps?t=m&q=loc:30.484637+-84.390905,Eastbound
+Florida,I-10,1543,Exit 196,EXIT 196,Regional Airport,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20196/1543,30.480669,-84.368566,http://maps.google.com/maps?t=m&q=loc:30.480669+-84.368566,Eastbound
+Florida,I-10,1544,Exit 199,EXIT 199,US-27; Havana; Tallahassee; State Capitol,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20199/1544,30.481231,-84.314375,http://maps.google.com/maps?t=m&q=loc:30.481231+-84.314375,Eastbound
+Florida,I-10,1545,Exit 203,EXIT 203,US 319; FL 61; Thomasville Rd; Capital Circle NE,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20203/1545,30.500199,-84.261138,http://maps.google.com/maps?t=m&q=loc:30.500199+-84.261138,Eastbound
+Florida,I-10,1546,Exit 209A,EXIT 209A,US-90 W; Mahan Dr; Tallahassee,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20209A/1546,30.488428,-84.163582,http://maps.google.com/maps?t=m&q=loc:30.488428+-84.163582,Eastbound
+Florida,I-10,1547,Exit 209B,EXIT 209B,US-90 E; Monticello,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20209B/1547,30.484884,-84.158138,http://maps.google.com/maps?t=m&q=loc:30.484884+-84.158138,Eastbound
+Florida,I-10,1548,Exit 217,EXIT 217,FL-59,"Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20217/1548,30.486161,-84.031159,http://maps.google.com/maps?t=m&q=loc:30.486161+-84.031159,Eastbound
+Florida,I-10,1549,Exit 225,EXIT 225,US-19; Monticello; Perry,"Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20225/1549,30.476499,-83.89545,http://maps.google.com/maps?t=m&q=loc:30.476499+-83.89545,Eastbound
+Florida,I-10,1550,Exit 233,EXIT 233,Jefferson County 257,"Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20233/1550,30.456799,-83.767774,http://maps.google.com/maps?t=m&q=loc:30.456799+-83.767774,Eastbound
+Florida,I-10,47863,Jefferson County Rest Area,REST AREA,"Jefferson County Rest Area
+          (MM: 233.0)","Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/47863,30.445501,-83.73681,http://maps.google.com/maps?t=m&q=loc:30.445501+-83.73681,Eastbound
+Florida,I-10,1551,Exit 241,EXIT 241,US-221 S,"Greenville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20241/1551,30.434155,-83.631954,http://maps.google.com/maps?t=m&q=loc:30.434155+-83.631954,Eastbound
+Florida,I-10,1552,Exit 251,EXIT 251,FL-14; Madison Perry,"Madison, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20251/1552,30.433245,-83.460939,http://maps.google.com/maps?t=m&q=loc:30.433245+-83.460939,Eastbound
+Florida,I-10,1553,Exit 258,EXIT 258,FL-53; Madison,"Madison, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20258/1553,30.396241,-83.361525,http://maps.google.com/maps?t=m&q=loc:30.396241+-83.361525,Eastbound
+Florida,I-10,1554,Exit 262,EXIT 262,Madison County 255; Lee,"Lee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20262/1554,30.38085,-83.303191,http://maps.google.com/maps?t=m&q=loc:30.38085+-83.303191,Eastbound
+Florida,I-10,1555,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 264.0)","Lee, Florida",https://www.iexitapp.com/Florida/I-10/Weigh%20Station/1555,30.376902,-83.28549,http://maps.google.com/maps?t=m&q=loc:30.376902+-83.28549,Eastbound
+Florida,I-10,1556,Rest Area,REST AREA,"Rest Area
+          (MM: 265.0)","Lee, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1556,30.369173,-83.252239,http://maps.google.com/maps?t=m&q=loc:30.369173+-83.252239,Eastbound
+Florida,I-10,1557,Agriculture Inspection Station,INSPECTION STATION,"Agriculture Inspection Station
+          (MM: 266.0)","Live Oak, Florida",https://www.iexitapp.com/Florida/I-10/Inspection%20Station/1557,30.350826,-83.160277,http://maps.google.com/maps?t=m&q=loc:30.350826+-83.160277,Eastbound
+Florida,I-10,1558,Exit 275,EXIT 275,US-90; Live Oak; Lee,"Live Oak, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20275/1558,30.339876,-83.096498,http://maps.google.com/maps?t=m&q=loc:30.339876+-83.096498,Eastbound
+Florida,I-10,1559,Exit 283,EXIT 283,US-129; Live Oak; Jasper,"Live Oak, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20283/1559,30.333347,-82.966525,http://maps.google.com/maps?t=m&q=loc:30.333347+-82.966525,Eastbound
+Florida,I-10,1560,Exit 292,EXIT 292,County Route 137; Wellborn,"Wellborn, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20292/1560,30.280112,-82.819329,http://maps.google.com/maps?t=m&q=loc:30.280112+-82.819329,Eastbound
+Florida,I-10,1561,Suwannee County Rest Area,REST AREA,"Suwannee County Rest Area 
+          (MM: 294.0)","Wellborn, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1561,30.275284,-82.80334,http://maps.google.com/maps?t=m&q=loc:30.275284+-82.80334,Eastbound
+Florida,I-10,1563,Exit 301,EXIT 301,US-41 N; White Springs,"Lake City, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20301/1563,30.244911,-82.678438,http://maps.google.com/maps?t=m&q=loc:30.244911+-82.678438,Eastbound
+Florida,I-10,1564,Exit 303,EXIT 303,US-441; Lakecity; Fargo,"Lake City, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20303/1564,30.241686,-82.643182,http://maps.google.com/maps?t=m&q=loc:30.241686+-82.643182,Eastbound
+Florida,I-10,1565,Rest Area,REST AREA,"Rest Area
+          (MM: 318.0)","Sanderson, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1565,30.253903,-82.408211,http://maps.google.com/maps?t=m&q=loc:30.253903+-82.408211,Eastbound
+Florida,I-10,1566,Exit 324,EXIT 324,US-90; Sanderson; Olustee,"Glen St Mary, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20324/1566,30.238676,-82.303638,http://maps.google.com/maps?t=m&q=loc:30.238676+-82.303638,Eastbound
+Florida,I-10,1567,Exit 327,EXIT 327,Sanderson; Raiford,"Glen St Mary, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20327/1567,30.23985,-82.259481,http://maps.google.com/maps?t=m&q=loc:30.23985+-82.259481,Eastbound
+Florida,I-10,1568,Exit 333,EXIT 333,County Road 125 N,"Macclenny, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20333/1568,30.261481,-82.165826,http://maps.google.com/maps?t=m&q=loc:30.261481+-82.165826,Eastbound
+Florida,I-10,1569,Exit 335,EXIT 335,FL-121 N,"Macclenny, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20335/1569,30.258707,-82.122807,http://maps.google.com/maps?t=m&q=loc:30.258707+-82.122807,Eastbound
+Florida,I-10,1570,Exit 336,EXIT 336,FL-228 W; Macclenny,"Macclenny, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20336/1570,30.261203,-82.108059,http://maps.google.com/maps?t=m&q=loc:30.261203+-82.108059,Eastbound
+Florida,I-10,1571,Exit 343,EXIT 343,US 301; Baldwin; Starke,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20343/1571,30.288299,-81.990027,http://maps.google.com/maps?t=m&q=loc:30.288299+-81.990027,Eastbound
+Florida,I-10,1572,Exit 350,EXIT 350,"FL 23
+          (MM: 350.0)","Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20350/1572,30.305366,-81.889178,http://maps.google.com/maps?t=m&q=loc:30.305366+-81.889178,Eastbound
+Florida,I-10,1573,Exit 351,EXIT 351,Chaffee Rd,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20351/1573,30.309089,-81.848041,http://maps.google.com/maps?t=m&q=loc:30.309089+-81.848041,Eastbound
+Florida,I-10,47870,Exit 352A,EXIT 352A,Myrtle Avenue;Forest Street,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20352A/47870,30.32052,-81.682677,http://maps.google.com/maps?t=m&q=loc:30.32052+-81.682677,Eastbound
+Florida,I-10,47871,Exit 352B,EXIT 352B,West Forsyth Street,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20352B/47871,30.327852,-81.677577,http://maps.google.com/maps?t=m&q=loc:30.327852+-81.677577,Eastbound
+Florida,I-10,47872,Exit 352C,EXIT 352C,Monroe Street West,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20352C/47872,30.330238,-81.674534,http://maps.google.com/maps?t=m&q=loc:30.330238+-81.674534,Eastbound
+Florida,I-10,1574,Exit 355,EXIT 355,Marietta,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20355/1574,30.314931,-81.780201,http://maps.google.com/maps?t=m&q=loc:30.314931+-81.780201,Eastbound
+Florida,I-10,1576,Exit 357,EXIT 357,FL-103; Lane Ave,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20357/1576,30.315288,-81.756547,http://maps.google.com/maps?t=m&q=loc:30.315288+-81.756547,Eastbound
+Florida,I-10,1577,Exit 358,EXIT 358,Florida 111; Cassat Ave; Edgewood Ave,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20358/1577,30.317125,-81.734203,http://maps.google.com/maps?t=m&q=loc:30.317125+-81.734203,Eastbound
+Florida,I-10,1578,Exit 360,EXIT 360,McDuff Ave,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20360/1578,30.320804,-81.709414,http://maps.google.com/maps?t=m&q=loc:30.320804+-81.709414,Eastbound
+Florida,I-10,1580,Exit 362,EXIT 362,Stockton Street; Riverside,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20362/1580,30.32039,-81.690624,http://maps.google.com/maps?t=m&q=loc:30.32039+-81.690624,Eastbound
+Florida,I-10,47874,Exit 361,EXIT 361,"US 17;228
+          (MM: 361.0)","Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20361/47874,30.321879,-81.697301,http://maps.google.com/maps?t=m&q=loc:30.321879+-81.697301,Westbound
+Florida,I-10,1583,Exit 360,EXIT 360,McDuff Ave,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20360/1583,30.321282,-81.701117,http://maps.google.com/maps?t=m&q=loc:30.321282+-81.701117,Westbound
+Florida,I-10,1584,Exit 359,EXIT 359,Luna Street; Lenox Ave; Edgewood Ave,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20359/1584,30.32089,-81.716561,http://maps.google.com/maps?t=m&q=loc:30.32089+-81.716561,Westbound
+Florida,I-10,1585,Exit 358,EXIT 358,Cassat Ave; Florida 111; Edgewood Ave,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20358/1585,30.3181,-81.727885,http://maps.google.com/maps?t=m&q=loc:30.3181+-81.727885,Westbound
+Florida,I-10,1586,Exit 357,EXIT 357,Florida 103; Lane Ave,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20357/1586,30.315647,-81.748341,http://maps.google.com/maps?t=m&q=loc:30.315647+-81.748341,Westbound
+Florida,I-10,1588,Exit 355,EXIT 355,Marietta,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20355/1588,30.315193,-81.778268,http://maps.google.com/maps?t=m&q=loc:30.315193+-81.778268,Westbound
+Florida,I-10,1589,Exit 351,EXIT 351,Whitehouse,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20351/1589,30.309258,-81.848844,http://maps.google.com/maps?t=m&q=loc:30.309258+-81.848844,Westbound
+Florida,I-10,1590,Exit 350,EXIT 350,"FL 23
+          (MM: 350.0)","Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20350/1590,30.307864,-81.867282,http://maps.google.com/maps?t=m&q=loc:30.307864+-81.867282,Westbound
+Florida,I-10,1591,Exit 343,EXIT 343,US-301; Baldwin; Starke,"Jacksonville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20343/1591,30.289035,-81.983482,http://maps.google.com/maps?t=m&q=loc:30.289035+-81.983482,Westbound
+Florida,I-10,1592,Exit 336,EXIT 336,FL-228; Macclenny; Maxville,"Macclenny, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20336/1592,30.264694,-82.100579,http://maps.google.com/maps?t=m&q=loc:30.264694+-82.100579,Westbound
+Florida,I-10,1593,Exit 335,EXIT 335,FL-121; Macclenny; Lake Butler,"Macclenny, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20335/1593,30.258972,-82.123049,http://maps.google.com/maps?t=m&q=loc:30.258972+-82.123049,Westbound
+Florida,I-10,1594,Exit 333,EXIT 333,Glen St Mary; Baker County 125,"Macclenny, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20333/1594,30.261518,-82.159114,http://maps.google.com/maps?t=m&q=loc:30.261518+-82.159114,Westbound
+Florida,I-10,1595,Exit 327,EXIT 327,Baker County 229; Sanderson; Raiford,"Glen St Mary, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20327/1595,30.239844,-82.260548,http://maps.google.com/maps?t=m&q=loc:30.239844+-82.260548,Westbound
+Florida,I-10,1596,Exit 324,EXIT 324,US-90; Sanderson; Olustee,"Glen St Mary, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20324/1596,30.23636,-82.299182,http://maps.google.com/maps?t=m&q=loc:30.23636+-82.299182,Westbound
+Florida,I-10,1597,Rest Area,REST AREA,"Rest Area
+          (MM: 318.0)","Sanderson, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1597,30.254314,-82.394933,http://maps.google.com/maps?t=m&q=loc:30.254314+-82.394933,Westbound
+Florida,I-10,1598,Exit 303,EXIT 303,US-441; Lake City; Fargo,"Lake City, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20303/1598,30.241638,-82.633517,http://maps.google.com/maps?t=m&q=loc:30.241638+-82.633517,Westbound
+Florida,I-10,1599,Exit 301,EXIT 301,US 41; Lake City; White City,"Lake City, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20301/1599,30.245223,-82.675137,http://maps.google.com/maps?t=m&q=loc:30.245223+-82.675137,Westbound
+Florida,I-10,1601,Rest Area,REST AREA,"Rest Area
+          (MM: 294.0)","Lake City, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1601,30.272294,-82.780282,http://maps.google.com/maps?t=m&q=loc:30.272294+-82.780282,Westbound
+Florida,I-10,1602,Exit 292,EXIT 292,County Route 137; Wellborn,"Wellborn, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20292/1602,30.277888,-82.812101,http://maps.google.com/maps?t=m&q=loc:30.277888+-82.812101,Westbound
+Florida,I-10,1603,Exit 283,EXIT 283,US-129; Live Oak; Jasper,"Live Oak, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20283/1603,30.327889,-82.958418,http://maps.google.com/maps?t=m&q=loc:30.327889+-82.958418,Westbound
+Florida,I-10,1604,Exit 275,EXIT 275,US-90; Live Oak; Lee,"Live Oak, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20275/1604,30.343024,-83.091401,http://maps.google.com/maps?t=m&q=loc:30.343024+-83.091401,Westbound
+Florida,I-10,1605,Agriculture Inspection Station,INSPECTION STATION,"Agriculture Inspection Station
+          (MM: 266.0)","Live Oak, Florida",https://www.iexitapp.com/Florida/I-10/Inspection%20Station/1605,30.348102,-83.14913,http://maps.google.com/maps?t=m&q=loc:30.348102+-83.14913,Westbound
+Florida,I-10,1606,Rest Area,REST AREA,"Rest Area
+          (MM: 265.0)","Lee, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1606,30.367131,-83.240553,http://maps.google.com/maps?t=m&q=loc:30.367131+-83.240553,Westbound
+Florida,I-10,1607,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 264.0)","Lee, Florida",https://www.iexitapp.com/Florida/I-10/Weigh%20Station/1607,30.37154,-83.260366,http://maps.google.com/maps?t=m&q=loc:30.37154+-83.260366,Westbound
+Florida,I-10,1608,Exit 262,EXIT 262,Madison County 255; Lee,"Lee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20262/1608,30.378681,-83.292375,http://maps.google.com/maps?t=m&q=loc:30.378681+-83.292375,Westbound
+Florida,I-10,1609,Exit 258,EXIT 258,FL-53; Madison,"Madison, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20258/1609,30.394893,-83.350547,http://maps.google.com/maps?t=m&q=loc:30.394893+-83.350547,Westbound
+Florida,I-10,1610,Exit 251,EXIT 251,FL-14; Madison Perry,"Madison, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20251/1610,30.428838,-83.451568,http://maps.google.com/maps?t=m&q=loc:30.428838+-83.451568,Westbound
+Florida,I-10,1611,Exit 241,EXIT 241,US-221; Greenville; Perry,"Greenville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20241/1611,30.433059,-83.621859,http://maps.google.com/maps?t=m&q=loc:30.433059+-83.621859,Westbound
+Florida,I-10,47881,Rest Area,REST AREA,"Rest Area
+          (MM: 234.0)","Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/47881,30.445564,-83.727164,http://maps.google.com/maps?t=m&q=loc:30.445564+-83.727164,Westbound
+Florida,I-10,1612,Exit 233,EXIT 233,County Rd 257,"Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20233/1612,30.453185,-83.757445,http://maps.google.com/maps?t=m&q=loc:30.453185+-83.757445,Westbound
+Florida,I-10,1613,Exit 225,EXIT 225,US-19; FL-Ga Pkwy; Monticello; Thomasville,"Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20225/1613,30.474495,-83.883626,http://maps.google.com/maps?t=m&q=loc:30.474495+-83.883626,Westbound
+Florida,I-10,1614,Exit 217,EXIT 217,FL-59,"Monticello, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20217/1614,30.489115,-84.019934,http://maps.google.com/maps?t=m&q=loc:30.489115+-84.019934,Westbound
+Florida,I-10,1615,Exit 209B,EXIT 209B,US-90 E; Monticello,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20209B/1615,30.482066,-84.153302,http://maps.google.com/maps?t=m&q=loc:30.482066+-84.153302,Westbound
+Florida,I-10,1616,Exit 209A,EXIT 209A,US-90 W; Mahan Dr; Tallahassee,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20209A/1616,30.485646,-84.158834,http://maps.google.com/maps?t=m&q=loc:30.485646+-84.158834,Westbound
+Florida,I-10,1617,Exit 203,EXIT 203,U.S. 319; Capital Circle NE; Thomasville Rd,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20203/1617,30.501855,-84.242197,http://maps.google.com/maps?t=m&q=loc:30.501855+-84.242197,Westbound
+Florida,I-10,47882,Exit 203,EXIT 203,U.S. 319; Capital Circle NE; Thomasville Rd,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20203/47882,30.502087,-84.245276,http://maps.google.com/maps?t=m&q=loc:30.502087+-84.245276,Westbound
+Florida,I-10,1618,Exit 199,EXIT 199,US-27; Havana; Tallahassee; State Capitol,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20199/1618,30.483986,-84.303998,http://maps.google.com/maps?t=m&q=loc:30.483986+-84.303998,Westbound
+Florida,I-10,1619,Exit 196,EXIT 196,Florida 263; Capital Circle Northwest; Regional Airport,"Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20196/1619,30.478708,-84.357739,http://maps.google.com/maps?t=m&q=loc:30.478708+-84.357739,Westbound
+Florida,I-10,1620,Rest Area,REST AREA,"Rest Area
+          (MM: 194.0)","Tallahassee, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1620,30.484067,-84.382877,http://maps.google.com/maps?t=m&q=loc:30.484067+-84.382877,Westbound
+Florida,I-10,1621,Exit 192,EXIT 192,US-90; Midway Quincy,"Midway, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20192/1621,30.487949,-84.419205,http://maps.google.com/maps?t=m&q=loc:30.487949+-84.419205,Westbound
+Florida,I-10,1622,Exit 181,EXIT 181,FL-267 S,"Quincy, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20181/1622,30.536921,-84.589647,http://maps.google.com/maps?t=m&q=loc:30.536921+-84.589647,Westbound
+Florida,I-10,1623,Exit 174,EXIT 174,FL-12; Gretna; Greensboro,"Quincy, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20174/1623,30.576887,-84.694785,http://maps.google.com/maps?t=m&q=loc:30.576887+-84.694785,Westbound
+Florida,I-10,1624,Exit 166,EXIT 166,Chattahoochee,"Chattahoochee, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20166/1624,30.618337,-84.816986,http://maps.google.com/maps?t=m&q=loc:30.618337+-84.816986,Westbound
+Florida,I-10,47883,Rest Area,REST AREA,Rest Area,"Chattahoochee, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/47883,30.63323,-84.885495,http://maps.google.com/maps?t=m&q=loc:30.63323+-84.885495,Westbound
+Florida,I-10,1625,Exit 158,EXIT 158,Sneads; Jackson County 286,"Grand Ridge, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20158/1625,30.636157,-84.937489,http://maps.google.com/maps?t=m&q=loc:30.636157+-84.937489,Westbound
+Florida,I-10,1626,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 154.0)","Grand Ridge, Florida",https://www.iexitapp.com/Florida/I-10/Weigh%20Station/1626,30.640826,-84.970579,http://maps.google.com/maps?t=m&q=loc:30.640826+-84.970579,Westbound
+Florida,I-10,1627,Exit 152,EXIT 152,FL-69; Grand Ridge; Blountstown,"Marianna, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20152/1627,30.654338,-85.032736,http://maps.google.com/maps?t=m&q=loc:30.654338+-85.032736,Westbound
+Florida,I-10,1628,Exit 142,EXIT 142,FL-71; Marianna; Blountstown,"Marianna, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20142/1628,30.720335,-85.180128,http://maps.google.com/maps?t=m&q=loc:30.720335+-85.180128,Westbound
+Florida,I-10,1629,Exit 136,EXIT 136,FL-276; Marianna,"Marianna, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20136/1629,30.750638,-85.267192,http://maps.google.com/maps?t=m&q=loc:30.750638+-85.267192,Westbound
+Florida,I-10,1630,Rest Area,REST AREA,"Rest Area
+          (MM: 133.0)","Marianna, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1630,30.757544,-85.318751,http://maps.google.com/maps?t=m&q=loc:30.757544+-85.318751,Westbound
+Florida,I-10,1631,Exit 130,EXIT 130,US-231; Cottondale; Panama City,"Cottondale, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20130/1631,30.754319,-85.374533,http://maps.google.com/maps?t=m&q=loc:30.754319+-85.374533,Westbound
+Florida,I-10,1632,Exit 120,EXIT 120,FL-77; Panama City; Chipley,"Chipley, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20120/1632,30.747058,-85.546485,http://maps.google.com/maps?t=m&q=loc:30.747058+-85.546485,Westbound
+Florida,I-10,1633,Exit 112,EXIT 112,FL-79; Bonifay; Panama City Beach,"Bonifay, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20112/1633,30.762657,-85.67812,http://maps.google.com/maps?t=m&q=loc:30.762657+-85.67812,Westbound
+Florida,I-10,1634,Exit 104,EXIT 104,County Route; Caryville,"Caryville, Florida",https://www.iexitapp.com/Florida/I-10/Exit%20104/1634,30.759042,-85.807487,http://maps.google.com/maps?t=m&q=loc:30.759042+-85.807487,Westbound
+Florida,I-10,1635,Exit 96,EXIT 96,FL-81; Ponce De Leon,"Ponce de Leon, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2096/1635,30.71628,-85.929523,http://maps.google.com/maps?t=m&q=loc:30.71628+-85.929523,Westbound
+Florida,I-10,47884,Exit 85,EXIT 85,US-331; De Funiak Springs; Freeport,"Defuniak Springs, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2085/47884,30.691861,-86.117047,http://maps.google.com/maps?t=m&q=loc:30.691861+-86.117047,Westbound
+Florida,I-10,1637,Exit 70,EXIT 70,FL-285; Nicevilie; Eglin AFB; Hurlburt,"Defuniak Springs, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2070/1637,30.7327,-86.345598,http://maps.google.com/maps?t=m&q=loc:30.7327+-86.345598,Westbound
+Florida,I-10,1638,Rest Area,REST AREA,"Rest Area
+          (MM: 58.0)","Crestview, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/1638,30.726985,-86.50466,http://maps.google.com/maps?t=m&q=loc:30.726985+-86.50466,Westbound
+Florida,I-10,1639,Exit 56,EXIT 56,FL-85; Crestview; Niceville,"Crestview, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2056/1639,30.725979,-86.563873,http://maps.google.com/maps?t=m&q=loc:30.725979+-86.563873,Westbound
+Florida,I-10,1640,Exit 45,EXIT 45,Holt,"Holt, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2045/1640,30.700552,-86.746768,http://maps.google.com/maps?t=m&q=loc:30.700552+-86.746768,Westbound
+Florida,I-10,1641,Exit 31,EXIT 31,FL-87; Milton; Navarre,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2031/1641,30.620964,-86.95708,http://maps.google.com/maps?t=m&q=loc:30.620964+-86.95708,Westbound
+Florida,I-10,47885,Rest Area,REST AREA,"Rest Area
+          (MM: 29.0)","Milton, Florida",https://www.iexitapp.com/Florida/I-10/Rest%20Area/47885,30.614653,-86.973563,http://maps.google.com/maps?t=m&q=loc:30.614653+-86.973563,Westbound
+Florida,I-10,1643,Exit 28,EXIT 28,Milton,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2028/1643,30.593227,-87.001387,http://maps.google.com/maps?t=m&q=loc:30.593227+-87.001387,Westbound
+Florida,I-10,1644,Exit 26,EXIT 26,County Rd 191; Milton; Bagdad,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2026/1644,30.574132,-87.026172,http://maps.google.com/maps?t=m&q=loc:30.574132+-87.026172,Westbound
+Florida,I-10,1645,Exit 22,EXIT 22,FL-281 N; Milton; Gulf Breeze,"Milton, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2022/1645,30.534084,-87.081764,http://maps.google.com/maps?t=m&q=loc:30.534084+-87.081764,Westbound
+Florida,I-10,1646,Exit 17,EXIT 17,US-90; Pensacola; Pace,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2017/1646,30.506453,-87.163311,http://maps.google.com/maps?t=m&q=loc:30.506453+-87.163311,Westbound
+Florida,I-10,1647,Exit 13,EXIT 13,FL-291; Davis Hwy,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2013/1647,30.503453,-87.216285,http://maps.google.com/maps?t=m&q=loc:30.503453+-87.216285,Westbound
+Florida,I-10,1649,Exit 10B,EXIT 10B,US-29 N; Pensacola Blvd; Cantonment,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2010B/1649,30.504313,-87.263696,http://maps.google.com/maps?t=m&q=loc:30.504313+-87.263696,Westbound
+Florida,I-10,1650,Exit 10A,EXIT 10A,US-29 S; Pensacola,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%2010A/1650,30.504812,-87.267666,http://maps.google.com/maps?t=m&q=loc:30.504812+-87.267666,Westbound
+Florida,I-10,1651,Exit 7,EXIT 7,Pine Forest Rd; Perdido Key; Pensacola N.A.S.; 297,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-10/Exit%207/1651,30.520059,-87.310721,http://maps.google.com/maps?t=m&q=loc:30.520059+-87.310721,Westbound
+Florida,I-10,1652,Exit 5,EXIT 5,US-90 ALT E,"Cantonment, Florida",https://www.iexitapp.com/Florida/I-10/Exit%205/1652,30.532521,-87.331231,http://maps.google.com/maps?t=m&q=loc:30.532521+-87.331231,Westbound
+Florida,I-10,1653,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 3.5)","Cantonment, Florida",https://www.iexitapp.com/Florida/I-10/Weigh%20Station/1653,30.547178,-87.3528,http://maps.google.com/maps?t=m&q=loc:30.547178+-87.3528,Westbound

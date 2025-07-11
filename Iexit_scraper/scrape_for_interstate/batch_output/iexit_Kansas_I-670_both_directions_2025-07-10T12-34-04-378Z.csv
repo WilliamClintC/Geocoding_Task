@@ -1,0 +1,3 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-670,34685,Exit 1B,EXIT 1B,"Genesee Street, Wyoming Street - Kemper Arena","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-670/Exit%201B/34685,39.098813,-94.61049,http://maps.google.com/maps?t=m&q=loc:39.098813+-94.61049,Eastbound
+Kansas,I-670,34701,Exit 1A,EXIT 1A,Central Avenue,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-670/Exit%201A/34701,39.099033,-94.613882,http://maps.google.com/maps?t=m&q=loc:39.099033+-94.613882,Westbound

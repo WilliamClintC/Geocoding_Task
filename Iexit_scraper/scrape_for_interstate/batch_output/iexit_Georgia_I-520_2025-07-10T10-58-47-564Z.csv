@@ -1,0 +1,12 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Georgia,I-520,56523,Exit 16,EXIT 16,Georgia 28; Sand Bar Ferry Road; Laney-Walker Boulevard,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%2016/56523,33.459817,-81.92741,http://maps.google.com/maps?t=m&q=loc:33.459817+-81.92741,Westbound
+Georgia,I-520,56524,Exit 10,EXIT 10,GA-56 Spur; Doug Barnard Pkwy; Bush Field,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%2010/56524,33.407677,-81.983711,http://maps.google.com/maps?t=m&q=loc:33.407677+-81.983711,Westbound
+Georgia,I-520,56525,Exit 9,EXIT 9,State Highway 56 S,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%209/56525,33.402808,-81.998899,http://maps.google.com/maps?t=m&q=loc:33.402808+-81.998899,Westbound
+Georgia,I-520,56526,Exit 7,EXIT 7,U.S. 25; Peach Orchard Road; Windsor Spring Road,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%207/56526,33.405694,-82.022262,http://maps.google.com/maps?t=m&q=loc:33.405694+-82.022262,Westbound
+Georgia,I-520,56527,Exit 5,EXIT 5,US-1 N; Deans Br Rd; Augusta,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%205/56527,33.419782,-82.054647,http://maps.google.com/maps?t=m&q=loc:33.419782+-82.054647,Westbound
+Georgia,I-520,56528,Exit 3,EXIT 3,U.S. 78 E; U.S. 278 E; Gordon Highway,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%203/56528,33.446755,-82.072873,http://maps.google.com/maps?t=m&q=loc:33.446755+-82.072873,Westbound
+Georgia,I-520,56529,Exit 2,EXIT 2,Wrightsboro Rd; Daniel Field,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%202/56529,33.463285,-82.081779,http://maps.google.com/maps?t=m&q=loc:33.463285+-82.081779,Westbound
+Georgia,I-520,56530,Exit,EXIT,Exit,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%20/56530,33.470245,-82.084741,http://maps.google.com/maps?t=m&q=loc:33.470245+-82.084741,Westbound
+Georgia,I-520,56531,Exit 1C,EXIT 1C,Marks Church Road; Wheeler Road,"Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%201C/56531,33.477239,-82.085898,http://maps.google.com/maps?t=m&q=loc:33.477239+-82.085898,Westbound
+Georgia,I-520,56532,Exit 1A-B,EXIT 1A-B,"GA 232
+          (MM: 1.0)","Augusta, Georgia",https://www.iexitapp.com/Georgia/I-520/Exit%201A-B/56532,33.481793,-82.084446,http://maps.google.com/maps?t=m&q=loc:33.481793+-82.084446,Westbound

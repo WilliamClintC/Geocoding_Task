@@ -1,0 +1,13 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-170,36456,Exit 9A,EXIT 9A,Airport Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%209A/36456,38.753771,-90.339231,http://maps.google.com/maps?t=m&q=loc:38.753771+-90.339231,Southbound
+Missouri,I-170,36457,Exit 8,EXIT 8,Scudder Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%208/36457,38.741114,-90.3361,http://maps.google.com/maps?t=m&q=loc:38.741114+-90.3361,Southbound
+Missouri,I-170,36459,Exit 6,EXIT 6,115,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%206/36459,38.719261,-90.332303,http://maps.google.com/maps?t=m&q=loc:38.719261+-90.332303,Southbound
+Missouri,I-170,36460,Exit 5,EXIT 5,180,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%205/36460,38.706706,-90.337344,http://maps.google.com/maps?t=m&q=loc:38.706706+-90.337344,Southbound
+Missouri,I-170,36461,Exit 4,EXIT 4,Page Ave; Missouri D,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%204/36461,38.688763,-90.353407,http://maps.google.com/maps?t=m&q=loc:38.688763+-90.353407,Southbound
+Missouri,I-170,36462,Exit 3,EXIT 3,340,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%203/36462,38.676901,-90.361203,http://maps.google.com/maps?t=m&q=loc:38.676901+-90.361203,Southbound
+Missouri,I-170,36463,Exit 2,EXIT 2,Delmar Blvd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%202/36463,38.662739,-90.358768,http://maps.google.com/maps?t=m&q=loc:38.662739+-90.358768,Southbound
+Missouri,I-170,36464,Exit 1F,EXIT 1F,Ladue Road,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%201F/36464,38.653221,-90.353947,http://maps.google.com/maps?t=m&q=loc:38.653221+-90.353947,Southbound
+Missouri,I-170,36465,Exit 1E,EXIT 1E,"Forest Park Parkway
+          (MM: 1.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%201E/36465,38.648461,-90.350016,http://maps.google.com/maps?t=m&q=loc:38.648461+-90.350016,Southbound
+Missouri,I-170,36466,Exit 1D,EXIT 1D,Brentwood Blvd S,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%201D/36466,38.643187,-90.346955,http://maps.google.com/maps?t=m&q=loc:38.643187+-90.346955,Southbound
+Missouri,I-170,57555,Exit 1C,EXIT 1C,Eager Rd; Brentwood Blvd N,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%201C/57555,38.635208,-90.343768,http://maps.google.com/maps?t=m&q=loc:38.635208+-90.343768,Southbound

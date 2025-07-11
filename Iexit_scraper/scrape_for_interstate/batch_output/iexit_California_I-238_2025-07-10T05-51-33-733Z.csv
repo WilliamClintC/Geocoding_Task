@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+California,I-238,33352,Exit 15,EXIT 15,California 185; E 14th St,"San Lorenzo, California",https://www.iexitapp.com/California/I-238/Exit%2015/33352,37.689328,-122.105284,http://maps.google.com/maps?t=m&q=loc:37.689328+-122.105284,Westbound
+California,I-238,33353,Exit 16A/17B,EXIT 16A/17B,"I 880
+          (MM: 16.0)","San Lorenzo, California",https://www.iexitapp.com/California/I-238/Exit%2016A%2F17B/33353,37.690186,-122.122661,http://maps.google.com/maps?t=m&q=loc:37.690186+-122.122661,Westbound
+California,I-238,33354,Exit 16B,EXIT 16B,I-880 N; Oakland; Hesperian Blvd; San Lorenzo,"San Lorenzo, California",https://www.iexitapp.com/California/I-238/Exit%2016B/33354,37.690912,-122.129028,http://maps.google.com/maps?t=m&q=loc:37.690912+-122.129028,Westbound
+California,I-238,33355,Exit 17A,EXIT 17A,Washington Avenue,"San Leandro, California",https://www.iexitapp.com/California/I-238/Exit%2017A/33355,37.690458,-122.136146,http://maps.google.com/maps?t=m&q=loc:37.690458+-122.136146,Westbound

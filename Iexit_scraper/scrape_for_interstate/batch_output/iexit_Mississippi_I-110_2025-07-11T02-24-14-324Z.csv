@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Mississippi,I-110,31817,Exit 2,EXIT 2,D'Lberville,"D'Iberville, Mississippi",https://www.iexitapp.com/Mississippi/I-110/Exit%202/31817,30.433461,-88.894989,http://maps.google.com/maps?t=m&q=loc:30.433461+-88.894989,Westbound
+Mississippi,I-110,31818,Exit 1D,EXIT 1D,Bayview Ave,"Biloxi, Mississippi",https://www.iexitapp.com/Mississippi/I-110/Exit%201D/31818,30.416023,-88.894137,http://maps.google.com/maps?t=m&q=loc:30.416023+-88.894137,Westbound
+Mississippi,I-110,31819,Exit 1C,EXIT 1C,Division St,"Biloxi, Mississippi",https://www.iexitapp.com/Mississippi/I-110/Exit%201C/31819,30.408228,-88.894249,http://maps.google.com/maps?t=m&q=loc:30.408228+-88.894249,Westbound
+Mississippi,I-110,31820,Exit 1B,EXIT 1B,US 90,"Biloxi, Mississippi",https://www.iexitapp.com/Mississippi/I-110/Exit%201B/31820,30.400807,-88.895002,http://maps.google.com/maps?t=m&q=loc:30.400807+-88.895002,Westbound
+Mississippi,I-110,56253,Exit 1A,EXIT 1A,US-90 E; Beach Blvd; Ocean Springs,"Biloxi, Mississippi",https://www.iexitapp.com/Mississippi/I-110/Exit%201A/56253,30.400807,-88.895002,http://maps.google.com/maps?t=m&q=loc:30.400807+-88.895002,Westbound

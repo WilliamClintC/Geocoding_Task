@@ -1,0 +1,21 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-435,33199,Exit 18,EXIT 18,5 N,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2018/33199,39.182249,-94.795883,http://maps.google.com/maps?t=m&q=loc:39.182249+-94.795883,Unknown
+Kansas,I-435,33200,Exit 16,EXIT 16,Donahoo Rd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2016/33200,39.16108,-94.81783,http://maps.google.com/maps?t=m&q=loc:39.16108+-94.81783,Unknown
+Kansas,I-435,33201,Exit 15B,EXIT 15B,Exit 15B; Leavenworth Rd W,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2015B/33201,39.147426,-94.820661,http://maps.google.com/maps?t=m&q=loc:39.147426+-94.820661,Unknown
+Kansas,I-435,33202,Exit 15A,EXIT 15A,KS-5 S; Leavenworth Rd E,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2015A/33202,39.142198,-94.820171,http://maps.google.com/maps?t=m&q=loc:39.142198+-94.820171,Unknown
+Kansas,I-435,33203,Exit 14B,EXIT 14B,Parallel Pkwy W,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2014B/33203,39.132517,-94.818426,http://maps.google.com/maps?t=m&q=loc:39.132517+-94.818426,Unknown
+Kansas,I-435,33204,Exit 14A,EXIT 14A,Parallel Pkwy,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2014A/33204,39.128286,-94.816653,http://maps.google.com/maps?t=m&q=loc:39.128286+-94.816653,Unknown
+Kansas,I-435,33205,Exit 13,EXIT 13,State Ave; US-24; US-40; US-73,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2013/33205,39.121498,-94.81334,http://maps.google.com/maps?t=m&q=loc:39.121498+-94.81334,Unknown
+Kansas,I-435,33207,Exit 11,EXIT 11,Kansas Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2011/33207,39.091021,-94.805483,http://maps.google.com/maps?t=m&q=loc:39.091021+-94.805483,Unknown
+Kansas,I-435,33208,Exit 9,EXIT 9,State Hwy 32; Bonner Springs,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%209/33208,39.068811,-94.79447,http://maps.google.com/maps?t=m&q=loc:39.068811+-94.79447,Unknown
+Kansas,I-435,33209,Exit 8B,EXIT 8B,Woodend Rd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%208B/33209,39.055266,-94.790741,http://maps.google.com/maps?t=m&q=loc:39.055266+-94.790741,Unknown
+Kansas,I-435,33210,Exit 8A,EXIT 8A,Holliday Dr; Kansas City Corp Lim,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%208A/33210,39.041272,-94.789419,http://maps.google.com/maps?t=m&q=loc:39.041272+-94.789419,Unknown
+Kansas,I-435,33211,Exit 6C,EXIT 6C,Johnson Dr,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%206C/33211,39.026824,-94.786861,http://maps.google.com/maps?t=m&q=loc:39.026824+-94.786861,Unknown
+Kansas,I-435,33212,Exit 6B,EXIT 6B,Shawnee Mission Pkwy W,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%206B/33212,39.016976,-94.785513,http://maps.google.com/maps?t=m&q=loc:39.016976+-94.785513,Unknown
+Kansas,I-435,56761,Exit 6A,EXIT 6A,Shawnee Mission Pkwy E,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%206A/56761,39.01331,-94.787313,http://maps.google.com/maps?t=m&q=loc:39.01331+-94.787313,Unknown
+Kansas,I-435,33213,Exit 5,EXIT 5,Midland Dr,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%205/33213,39.004903,-94.784367,http://maps.google.com/maps?t=m&q=loc:39.004903+-94.784367,Unknown
+Kansas,I-435,33214,Exit 3,EXIT 3,87th St,"Lenexa, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%203/33214,38.973886,-94.776541,http://maps.google.com/maps?t=m&q=loc:38.973886+-94.776541,Unknown
+Kansas,I-435,33215,Exit 2,EXIT 2,Renner Boulevard,"Lenexa, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%202/33215,38.962797,-94.776197,http://maps.google.com/maps?t=m&q=loc:38.962797+-94.776197,Unknown
+Kansas,I-435,33216,Exit 1B,EXIT 1B,"KS 10
+          (MM: 1.0)","Lenexa, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%201B/33216,38.952236,-94.774358,http://maps.google.com/maps?t=m&q=loc:38.952236+-94.774358,Unknown
+Kansas,I-435,56763,Exit 83,EXIT 83,Lackman Road,"Lenexa, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2083/56763,38.947377,-94.77335,http://maps.google.com/maps?t=m&q=loc:38.947377+-94.77335,Unknown

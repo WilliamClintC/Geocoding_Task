@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-195,38120,Exit 2B,EXIT 2B,US 1 (Biscayne Boulevard / SR 5),"Miami, Florida",https://www.iexitapp.com/Florida/I-195/Exit%202B/38120,25.810842,-80.181721,http://maps.google.com/maps?t=m&q=loc:25.810842+-80.181721,Southbound

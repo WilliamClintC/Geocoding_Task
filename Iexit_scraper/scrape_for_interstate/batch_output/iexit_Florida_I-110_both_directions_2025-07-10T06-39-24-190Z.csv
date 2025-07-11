@@ -1,0 +1,10 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-110,31822,Exit 4,EXIT 4,Fairfield Dr,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%204/31822,30.448749,-87.219002,http://maps.google.com/maps?t=m&q=loc:30.448749+-87.219002,Eastbound
+Florida,I-110,31823,Exit 5,EXIT 5,Brent Lane; Florida 296; Airport Boulevard,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%205/31823,30.467653,-87.226991,http://maps.google.com/maps?t=m&q=loc:30.467653+-87.226991,Eastbound
+Florida,I-110,56254,Exit 6,EXIT 6,FL-291 N; FL-291 S; Davis Hwy,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%206/56254,30.497695,-87.229966,http://maps.google.com/maps?t=m&q=loc:30.497695+-87.229966,Eastbound
+Florida,I-110,31825,Exit 5,EXIT 5,Airport Blvd,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%205/31825,30.489598,-87.230429,http://maps.google.com/maps?t=m&q=loc:30.489598+-87.230429,Westbound
+Florida,I-110,56257,Exit 5,EXIT 5,Brent Lane; Florida 296 E,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%205/56257,30.486393,-87.230673,http://maps.google.com/maps?t=m&q=loc:30.486393+-87.230673,Westbound
+Florida,I-110,31826,Exit 4,EXIT 4,Florida 295; Fairfield Drive,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%204/31826,30.457147,-87.224397,http://maps.google.com/maps?t=m&q=loc:30.457147+-87.224397,Westbound
+Florida,I-110,56258,Exit 3,EXIT 3,North Hayne Street,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%203/56258,30.439285,-87.216348,http://maps.google.com/maps?t=m&q=loc:30.439285+-87.216348,Westbound
+Florida,I-110,31828,Exit 2,EXIT 2,US-90; Cervantes St,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%202/31828,30.427535,-87.215625,http://maps.google.com/maps?t=m&q=loc:30.427535+-87.215625,Westbound
+Florida,I-110,56259,Exit 1C,EXIT 1C,US-98 W; Garden St,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%201C/56259,30.420342,-87.213915,http://maps.google.com/maps?t=m&q=loc:30.420342+-87.213915,Westbound

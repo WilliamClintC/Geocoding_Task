@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Minnesota,I-535,33220,Garfield Ave,EXIT,Garfield Ave,"Duluth, Minnesota",https://www.iexitapp.com/Minnesota/I-535/Exit%20/33220,46.755923,-92.105844,http://maps.google.com/maps?t=m&q=loc:46.755923+-92.105844,Northbound

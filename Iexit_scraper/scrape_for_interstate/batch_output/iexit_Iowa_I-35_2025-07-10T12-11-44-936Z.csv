@@ -1,0 +1,76 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Iowa,I-35,3518,Exit 4,EXIT 4,US-69; Lamoni; Davis City,"Lamoni, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%204/3518,40.61964,-93.893355,http://maps.google.com/maps?t=m&q=loc:40.61964+-93.893355,Northbound
+Iowa,I-35,49374,Rest Area,REST AREA,"Rest Area
+          (MM: 7.0)","Davis City, Iowa",https://www.iexitapp.com/Iowa/I-35/Rest%20Area/49374,40.650478,-93.861734,http://maps.google.com/maps?t=m&q=loc:40.650478+-93.861734,Northbound
+Iowa,I-35,3519,Exit 12,EXIT 12,IA-2; Leon; Mt Ayr,"Decatur, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2012/3519,40.733885,-93.842996,http://maps.google.com/maps?t=m&q=loc:40.733885+-93.842996,Northbound
+Iowa,I-35,3520,Exit 18,EXIT 18,County Rd J20; Grand River; Garden Cross,"Van Wert, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2018/3520,40.807725,-93.82884,http://maps.google.com/maps?t=m&q=loc:40.807725+-93.82884,Northbound
+Iowa,I-35,3521,Exit 22,EXIT 22,Van Wert,"Van Wert, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2022/3521,40.866094,-93.802618,http://maps.google.com/maps?t=m&q=loc:40.866094+-93.802618,Northbound
+Iowa,I-35,3522,Exit 29,EXIT 29,CR H45,"Osceola, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2029/3522,40.96733,-93.79722,http://maps.google.com/maps?t=m&q=loc:40.96733+-93.79722,Northbound
+Iowa,I-35,3523,Weigh Station,WEIGH STATION,Weigh Station,"Osceola, Iowa",https://www.iexitapp.com/Iowa/I-35/Weigh%20Station/3523,40.985302,-93.797512,http://maps.google.com/maps?t=m&q=loc:40.985302+-93.797512,Northbound
+Iowa,I-35,49375,Rest Area,REST AREA,"Rest Area
+          (MM: 33.0)","Osceola, Iowa",https://www.iexitapp.com/Iowa/I-35/Rest%20Area/49375,41.010381,-93.796766,http://maps.google.com/maps?t=m&q=loc:41.010381+-93.796766,Northbound
+Iowa,I-35,3524,Exit 33,EXIT 33,US-34; Osceola; Creston,"Osceola, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2033/3524,41.023057,-93.794071,http://maps.google.com/maps?t=m&q=loc:41.023057+-93.794071,Northbound
+Iowa,I-35,3525,Exit 34,EXIT 34,Clay St; Osceola,"Osceola, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2034/3525,41.041654,-93.790605,http://maps.google.com/maps?t=m&q=loc:41.041654+-93.790605,Northbound
+Iowa,I-35,3526,Exit 36,EXIT 36,IA-152,"Osceola, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2036/3526,41.066282,-93.781188,http://maps.google.com/maps?t=m&q=loc:41.066282+-93.781188,Northbound
+Iowa,I-35,3527,Exit 43,EXIT 43,New Verginia,"New Virginia, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2043/3527,41.173726,-93.783926,http://maps.google.com/maps?t=m&q=loc:41.173726+-93.783926,Northbound
+Iowa,I-35,3528,Exit 47,EXIT 47,Truro,"New Virginia, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2047/3528,41.224273,-93.782016,http://maps.google.com/maps?t=m&q=loc:41.224273+-93.782016,Northbound
+Iowa,I-35,3529,Exit 52,EXIT 52,CR G50,"St Charles, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2052/3529,41.290192,-93.779761,http://maps.google.com/maps?t=m&q=loc:41.290192+-93.779761,Northbound
+Iowa,I-35,3530,Parking Area,PARKING AREA,Parking Area,"St Charles, Iowa",https://www.iexitapp.com/Iowa/I-35/Parking%20Area/3530,41.309521,-93.778492,http://maps.google.com/maps?t=m&q=loc:41.309521+-93.778492,Northbound
+Iowa,I-35,3531,Exit 56,EXIT 56,IA-92; Indianola; Winterset,"St Charles, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2056/3531,41.35874,-93.779884,http://maps.google.com/maps?t=m&q=loc:41.35874+-93.779884,Northbound
+Iowa,I-35,49376,Exit 65,EXIT 65,County Road G14; Cumming; Norwalk,"Cumming, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2065/49376,41.476848,-93.780026,http://maps.google.com/maps?t=m&q=loc:41.476848+-93.780026,Northbound
+Iowa,I-35,3533,Exit 68,EXIT 68,"IA 5
+          (MM: 68.0)","Cumming, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2068/3533,41.519085,-93.775104,http://maps.google.com/maps?t=m&q=loc:41.519085+-93.775104,Northbound
+Iowa,I-35,49378,Exit 69,EXIT 69,Grand Avenue E; W Des Moines,"West Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2069/49378,41.536139,-93.774402,http://maps.google.com/maps?t=m&q=loc:41.536139+-93.774402,Northbound
+Iowa,I-35,3536,Exit 70,EXIT 70,Mills Civic Pkwy,"West Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2070/3536,41.55413,-93.776286,http://maps.google.com/maps?t=m&q=loc:41.55413+-93.776286,Northbound
+Iowa,I-35,3538,Exit 72C,EXIT 72C,University Ave; Clive,"West Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2072C/3538,41.59414,-93.777049,http://maps.google.com/maps?t=m&q=loc:41.59414+-93.777049,Northbound
+Iowa,I-35,3539,Exit 125,EXIT 125,US-6; Hickman Rd,"Clive, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20125/3539,41.610721,-93.77672,http://maps.google.com/maps?t=m&q=loc:41.610721+-93.77672,Northbound
+Iowa,I-35,49381,Exit 126,EXIT 126,Douglas Ave; Urbandale,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20126/49381,41.622673,-93.776697,http://maps.google.com/maps?t=m&q=loc:41.622673+-93.776697,Northbound
+Iowa,I-35,3541,Exit 127,EXIT 127,IA-141 W; Urbandale; Grimes,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20127/3541,41.649455,-93.772999,http://maps.google.com/maps?t=m&q=loc:41.649455+-93.772999,Northbound
+Iowa,I-35,3542,Exit 129,EXIT 129,NW 86th St; Camp Dodge,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20129/3542,41.651808,-93.745279,http://maps.google.com/maps?t=m&q=loc:41.651808+-93.745279,Northbound
+Iowa,I-35,3543,Exit 131,EXIT 131,IA-28 S; Merle Hay Rd; Saylorville Lake,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20131/3543,41.652369,-93.706233,http://maps.google.com/maps?t=m&q=loc:41.652369+-93.706233,Northbound
+Iowa,I-35,3544,Exit 135,EXIT 135,IA-415; 2nd Ave; Polk City,"Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20135/3544,41.649391,-93.626991,http://maps.google.com/maps?t=m&q=loc:41.649391+-93.626991,Northbound
+Iowa,I-35,3545,Exit 136,EXIT 136,US-69; East 14th Street; Ankeny,"Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20136/3545,41.649382,-93.609191,http://maps.google.com/maps?t=m&q=loc:41.649382+-93.609191,Northbound
+Iowa,I-35,3549,Exit 89,EXIT 89,Corporate Woods Dr,"Ankeny, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2089/3549,41.67238,-93.577781,http://maps.google.com/maps?t=m&q=loc:41.67238+-93.577781,Northbound
+Iowa,I-35,3550,Exit 90,EXIT 90,IA-160 W; Oralabor Rd; Bondurant,"Ankeny, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2090/3550,41.696883,-93.575877,http://maps.google.com/maps?t=m&q=loc:41.696883+-93.575877,Northbound
+Iowa,I-35,3551,Exit 92,EXIT 92,1st St,"Ankeny, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2092/3551,41.72669,-93.576548,http://maps.google.com/maps?t=m&q=loc:41.72669+-93.576548,Northbound
+Iowa,I-35,3552,Exit 94,EXIT 94,36th Street,"Ankeny, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2094/3552,41.754648,-93.571565,http://maps.google.com/maps?t=m&q=loc:41.754648+-93.571565,Northbound
+Iowa,I-35,3553,Exit 96,EXIT 96,Elkhart; Polk City,"Ankeny, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%2096/3553,41.786226,-93.570411,http://maps.google.com/maps?t=m&q=loc:41.786226+-93.570411,Northbound
+Iowa,I-35,49383,Rest Area,REST AREA,"Rest Area
+          (MM: 100.0)","Elkhart, Iowa",https://www.iexitapp.com/Iowa/I-35/Rest%20Area/49383,41.822612,-93.570735,http://maps.google.com/maps?t=m&q=loc:41.822612+-93.570735,Northbound
+Iowa,I-35,3554,Exit 102,EXIT 102,IA-210; Huxley; Maxwell,"Huxley, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20102/3554,41.873062,-93.571079,http://maps.google.com/maps?t=m&q=loc:41.873062+-93.571079,Northbound
+Iowa,I-35,49384,Parking Area,PARKING AREA,Parking Area,"Cambridge, Iowa",https://www.iexitapp.com/Iowa/I-35/Parking%20Area/49384,41.919834,-93.570042,http://maps.google.com/maps?t=m&q=loc:41.919834+-93.570042,Northbound
+Iowa,I-35,3555,Exit 111A,EXIT 111A,US 30,"Ames, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20111A/3555,42.002141,-93.57091,http://maps.google.com/maps?t=m&q=loc:42.002141+-93.57091,Northbound
+Iowa,I-35,49386,Exit 111B,EXIT 111B,"I 35 Bus;US 30
+          (MM: 111.0)","Ames, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20111B/49386,42.008161,-93.57099,http://maps.google.com/maps?t=m&q=loc:42.008161+-93.57099,Northbound
+Iowa,I-35,3556,Exit 113,EXIT 113,13th Street,"Ames, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20113/3556,42.030101,-93.570752,http://maps.google.com/maps?t=m&q=loc:42.030101+-93.570752,Northbound
+Iowa,I-35,3557,Exit 116,EXIT 116,190th St,"Ames, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20116/3557,42.073166,-93.567336,http://maps.google.com/maps?t=m&q=loc:42.073166+-93.567336,Northbound
+Iowa,I-35,49388,Rest Area,REST AREA,"Rest Area
+          (MM: 120.0)","Ames, Iowa",https://www.iexitapp.com/Iowa/I-35/Rest%20Area/49388,42.123234,-93.552853,http://maps.google.com/maps?t=m&q=loc:42.123234+-93.552853,Northbound
+Iowa,I-35,3559,Exit 123,EXIT 123,Roland; Mc Callsburg,"Story City, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20123/3559,42.161016,-93.570132,http://maps.google.com/maps?t=m&q=loc:42.161016+-93.570132,Northbound
+Iowa,I-35,3560,Exit 124,EXIT 124,Story St,"Story City, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20124/3560,42.182103,-93.570554,http://maps.google.com/maps?t=m&q=loc:42.182103+-93.570554,Northbound
+Iowa,I-35,3561,Exit 128,EXIT 128,Randall; Stanhope,"Story City, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20128/3561,42.232883,-93.571046,http://maps.google.com/maps?t=m&q=loc:42.232883+-93.571046,Northbound
+Iowa,I-35,3562,Exit 133,EXIT 133,IA-175; Jewell; Eldora,"Ellsworth, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20133/3562,42.30521,-93.569491,http://maps.google.com/maps?t=m&q=loc:42.30521+-93.569491,Northbound
+Iowa,I-35,3563,Exit 139,EXIT 139,Kamrar,"Ellsworth, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20139/3563,42.393573,-93.570362,http://maps.google.com/maps?t=m&q=loc:42.393573+-93.570362,Northbound
+Iowa,I-35,3564,Exit 142A,EXIT 142A,"US 20
+          (MM: 142.0)","Williams, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20142A/3564,42.442316,-93.569343,http://maps.google.com/maps?t=m&q=loc:42.442316+-93.569343,Northbound
+Iowa,I-35,3565,Exit 144,EXIT 144,220th St,"Williams, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20144/3565,42.465329,-93.5687,http://maps.google.com/maps?t=m&q=loc:42.465329+-93.5687,Northbound
+Iowa,I-35,3566,Exit 147,EXIT 147,CR D20,"Williams, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20147/3566,42.509334,-93.567819,http://maps.google.com/maps?t=m&q=loc:42.509334+-93.567819,Northbound
+Iowa,I-35,3567,Exit 151,EXIT 151,Woolstock,"Dows, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20151/3567,42.567898,-93.554108,http://maps.google.com/maps?t=m&q=loc:42.567898+-93.554108,Northbound
+Iowa,I-35,3568,Exit 159,EXIT 159,County Highway 47; Dows,"Dows, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20159/3568,42.668484,-93.459067,http://maps.google.com/maps?t=m&q=loc:42.668484+-93.459067,Northbound
+Iowa,I-35,3569,Exit 165,EXIT 165,IA-3; Hampton; Clarion,"Dows, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20165/3569,42.74117,-93.401682,http://maps.google.com/maps?t=m&q=loc:42.74117+-93.401682,Northbound
+Iowa,I-35,49391,Exit 170,EXIT 170,Alexander,"Latimer, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20170/49391,42.798007,-93.363403,http://maps.google.com/maps?t=m&q=loc:42.798007+-93.363403,Northbound
+Iowa,I-35,49392,Exit 176,EXIT 176,County Hwy C13; Sheffield; Belmond,"Sheffield, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20176/49392,42.886841,-93.3505,http://maps.google.com/maps?t=m&q=loc:42.886841+-93.3505,Northbound
+Iowa,I-35,3572,Exit 180,EXIT 180,125th St,"Thornton, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20180/3572,42.937922,-93.350577,http://maps.google.com/maps?t=m&q=loc:42.937922+-93.350577,Northbound
+Iowa,I-35,3573,Exit 182,EXIT 182,Swaledale; Rockwell,"Swaledale, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20182/3573,42.974667,-93.347238,http://maps.google.com/maps?t=m&q=loc:42.974667+-93.347238,Northbound
+Iowa,I-35,49393,Exit 188,EXIT 188,210th St,"Clear Lake, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20188/49393,43.061393,-93.342493,http://maps.google.com/maps?t=m&q=loc:43.061393+-93.342493,Northbound
+Iowa,I-35,3575,Exit 190,EXIT 190,"US 18;IA 27
+          (MM: 190.0)","Clear Lake, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20190/3575,43.087653,-93.34259,http://maps.google.com/maps?t=m&q=loc:43.087653+-93.34259,Northbound
+Iowa,I-35,3576,Exit 193,EXIT 193,I-35 BUS; Mason City; Clear Lake,"Clear Lake, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20193/3576,43.129324,-93.355988,http://maps.google.com/maps?t=m&q=loc:43.129324+-93.355988,Northbound
+Iowa,I-35,3577,Exit 194,EXIT 194,IA-122 E; US-18 W; Clear Lake; Mason City,"Clear Lake, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20194/3577,43.142172,-93.355746,http://maps.google.com/maps?t=m&q=loc:43.142172+-93.355746,Northbound
+Iowa,I-35,3578,Parking Area,PARKING AREA,"Parking Area
+          (MM: 195.0)","Clear Lake, Iowa",https://www.iexitapp.com/Iowa/I-35/Parking%20Area/3578,43.170617,-93.35562,http://maps.google.com/maps?t=m&q=loc:43.170617+-93.35562,Northbound
+Iowa,I-35,3579,Exit 197,EXIT 197,CR B20,"Clear Lake, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20197/3579,43.193654,-93.351739,http://maps.google.com/maps?t=m&q=loc:43.193654+-93.351739,Northbound
+Iowa,I-35,3580,Exit 203,EXIT 203,Lowa 9; Manly; F,"Hanlontown, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20203/3580,43.279393,-93.349811,http://maps.google.com/maps?t=m&q=loc:43.279393+-93.349811,Northbound
+Iowa,I-35,3581,Exit 208,EXIT 208,410th St,"Kensett, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20208/3581,43.35283,-93.3487,http://maps.google.com/maps?t=m&q=loc:43.35283+-93.3487,Northbound
+Iowa,I-35,3582,Parking Area,PARKING AREA,Parking Area,"Northwood, Iowa",https://www.iexitapp.com/Iowa/I-35/Parking%20Area/3582,43.399189,-93.349362,http://maps.google.com/maps?t=m&q=loc:43.399189+-93.349362,Northbound
+Iowa,I-35,3583,Exit 214,EXIT 214,Lake Mills; Northwood,"Northwood, Iowa",https://www.iexitapp.com/Iowa/I-35/Exit%20214/3583,43.439439,-93.349321,http://maps.google.com/maps?t=m&q=loc:43.439439+-93.349321,Northbound

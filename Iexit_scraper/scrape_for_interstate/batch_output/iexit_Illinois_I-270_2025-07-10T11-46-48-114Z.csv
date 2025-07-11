@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-270,57410,Exit 3A,EXIT 3A,Illi S,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%203A/57410,38.765874,-90.128331,http://maps.google.com/maps?t=m&q=loc:38.765874+-90.128331,Eastbound
+Illinois,I-270,34450,Exit 3B,EXIT 3B,IL-3 N; Alton,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%203B/34450,38.766057,-90.123292,http://maps.google.com/maps?t=m&q=loc:38.766057+-90.123292,Eastbound
+Illinois,I-270,34451,Exit 4,EXIT 4,IL-203; Granite City,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%204/34451,38.762303,-90.102077,http://maps.google.com/maps?t=m&q=loc:38.762303+-90.102077,Eastbound
+Illinois,I-270,34452,Exit 6A,EXIT 6A,IL-111 S; Pontoon Beach,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%206A/34452,38.757509,-90.072562,http://maps.google.com/maps?t=m&q=loc:38.757509+-90.072562,Eastbound
+Illinois,I-270,34453,Exit 6B,EXIT 6B,IL-111; Wood River; Washington Park,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%206B/34453,38.757388,-90.066153,http://maps.google.com/maps?t=m&q=loc:38.757388+-90.066153,Eastbound
+Illinois,I-270,34455,Exit 9,EXIT 9,IL-157; Collinsville; Edwardsville,"Glen Carbon, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%209/34455,38.756543,-90.014552,http://maps.google.com/maps?t=m&q=loc:38.756543+-90.014552,Eastbound
+Illinois,I-270,34456,Exit 12,EXIT 12,IL-159; Collinsville; Edwardville,"Glen Carbon, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%2012/34456,38.756707,-89.961403,http://maps.google.com/maps?t=m&q=loc:38.756707+-89.961403,Eastbound

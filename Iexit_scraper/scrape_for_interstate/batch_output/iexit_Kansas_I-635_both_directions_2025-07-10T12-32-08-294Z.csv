@@ -1,0 +1,21 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-635,57023,Exit 1B,EXIT 1B,Merriam Dr; Merriam Ln,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%201B/57023,39.044309,-94.676264,http://maps.google.com/maps?t=m&q=loc:39.044309+-94.676264,Northbound
+Kansas,I-635,57024,Exit 1C,EXIT 1C,Shawnee Dr,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%201C/57024,39.050759,-94.679023,http://maps.google.com/maps?t=m&q=loc:39.050759+-94.679023,Northbound
+Kansas,I-635,33230,Exit 2A,EXIT 2A,Metropolitan Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%202A/33230,39.070227,-94.680098,http://maps.google.com/maps?t=m&q=loc:39.070227+-94.680098,Northbound
+Kansas,I-635,33231,Exit 3,EXIT 3,KS-32; Kansas Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%203/33231,39.09063,-94.680452,http://maps.google.com/maps?t=m&q=loc:39.09063+-94.680452,Northbound
+Kansas,I-635,33233,Exit 5,EXIT 5,State Ave; US-24,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%205/33233,39.112464,-94.682354,http://maps.google.com/maps?t=m&q=loc:39.112464+-94.682354,Northbound
+Kansas,I-635,33234,Exit 6,EXIT 6,Parallel Pkwy,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%206/33234,39.125704,-94.677125,http://maps.google.com/maps?t=m&q=loc:39.125704+-94.677125,Northbound
+Kansas,I-635,33235,Exit 7,EXIT 7,38th St; Leavenworth Rd; KS-5 W,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%207/33235,39.138867,-94.675327,http://maps.google.com/maps?t=m&q=loc:39.138867+-94.675327,Northbound
+Kansas,I-635,33236,Exit 8,EXIT 8,"KS 5
+          (MM: 8.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%208/33236,39.146796,-94.663475,http://maps.google.com/maps?t=m&q=loc:39.146796+-94.663475,Northbound
+Kansas,I-635,33246,Exit 8,EXIT 8,"KS 5
+          (MM: 8.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%208/33246,39.149699,-94.654274,http://maps.google.com/maps?t=m&q=loc:39.149699+-94.654274,Southbound
+Kansas,I-635,57038,Exit 8,EXIT 8,18th St; KS-5,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%208/57038,39.149699,-94.654274,http://maps.google.com/maps?t=m&q=loc:39.149699+-94.654274,Southbound
+Kansas,I-635,33247,Exit 7,EXIT 7,Kansas 5 N; Leavenworth Rd; 38th St,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%207/33247,39.144794,-94.669137,http://maps.google.com/maps?t=m&q=loc:39.144794+-94.669137,Southbound
+Kansas,I-635,33248,Exit 6,EXIT 6,Parallel Pkwy,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%206/33248,39.13334,-94.676439,http://maps.google.com/maps?t=m&q=loc:39.13334+-94.676439,Southbound
+Kansas,I-635,33249,Exit 5,EXIT 5,State Avenue,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%205/33249,39.120511,-94.679634,http://maps.google.com/maps?t=m&q=loc:39.120511+-94.679634,Southbound
+Kansas,I-635,33251,Exit 3,EXIT 3,Kansas Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%203/33251,39.094243,-94.680753,http://maps.google.com/maps?t=m&q=loc:39.094243+-94.680753,Southbound
+Kansas,I-635,33252,Exit 2B,EXIT 2B,Swartz Road,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%202B/33252,39.081528,-94.680639,http://maps.google.com/maps?t=m&q=loc:39.081528+-94.680639,Southbound
+Kansas,I-635,33253,Exit 2A,EXIT 2A,Metropolitan Avenue,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%202A/33253,39.076059,-94.680595,http://maps.google.com/maps?t=m&q=loc:39.076059+-94.680595,Southbound
+Kansas,I-635,57043,Exit 1C,EXIT 1C,Shawnee Drive,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%201C/57043,39.05551,-94.679555,http://maps.google.com/maps?t=m&q=loc:39.05551+-94.679555,Southbound
+Kansas,I-635,33255,Exit 1B,EXIT 1B,Merriam Dr; Merriam Ln,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%201B/33255,39.047402,-94.678811,http://maps.google.com/maps?t=m&q=loc:39.047402+-94.678811,Southbound

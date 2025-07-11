@@ -1,0 +1,10 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Hawaii,H-2,31176,Exit 5A,EXIT 5A,Mililani; Mauka,"Mililani Town, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%205A/31176,21.462463,-157.998317,http://maps.google.com/maps?t=m&q=loc:21.462463+-157.998317,Northbound
+Hawaii,H-2,31177,Exit 5B,EXIT 5B,Meheula Parkway,"Mililani Town, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%205B/31177,21.464348,-158.002514,http://maps.google.com/maps?t=m&q=loc:21.464348+-158.002514,Northbound
+Hawaii,H-2,31178,Exit 8,EXIT 8,Wahiawa,"Wahiawa, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%208/31178,21.487694,-158.02598,http://maps.google.com/maps?t=m&q=loc:21.487694+-158.02598,Northbound
+Hawaii,H-2,55691,Exit,EXIT,Exit,"Wahiawa, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%20/55691,21.490183,-158.032975,http://maps.google.com/maps?t=m&q=loc:21.490183+-158.032975,Northbound
+Hawaii,H-2,55692,HI 80;HI-99,EXIT,HI 80;HI-99,"Wahiawa, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%20/55692,21.489824,-158.033725,http://maps.google.com/maps?t=m&q=loc:21.489824+-158.033725,Southbound
+Hawaii,H-2,31180,Exit 8,EXIT 8,HI-99,"Wahiawa, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%208/31180,21.485474,-158.025551,http://maps.google.com/maps?t=m&q=loc:21.485474+-158.025551,Southbound
+Hawaii,H-2,31181,Exit 5,EXIT 5,Mililani,"Mililani Town, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%205/31181,21.470558,-158.008588,http://maps.google.com/maps?t=m&q=loc:21.470558+-158.008588,Southbound
+Hawaii,H-2,31182,Exit 2,EXIT 2,Ka Uka Blvd,"Mililani Town, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%202/31182,21.435268,-157.995789,http://maps.google.com/maps?t=m&q=loc:21.435268+-157.995789,Southbound
+Hawaii,H-2,31183,Exit 1B,EXIT 1B,Waipahu Street,"Waipahu, Hawaii",https://www.iexitapp.com/Hawaii/H-2/Exit%201B/31183,21.408422,-157.989553,http://maps.google.com/maps?t=m&q=loc:21.408422+-157.989553,Southbound

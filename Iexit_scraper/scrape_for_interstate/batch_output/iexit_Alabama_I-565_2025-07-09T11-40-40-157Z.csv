@@ -1,0 +1,21 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Alabama,I-565,34341,Exit 2,EXIT 2,Mooresville Rd,"Madison, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%202/34341,34.631479,-86.885492,http://maps.google.com/maps?t=m&q=loc:34.631479+-86.885492,Eastbound
+Alabama,I-565,34342,Exit 3,EXIT 3,Greenbrier Rd,"Madison, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%203/34342,34.639095,-86.848811,http://maps.google.com/maps?t=m&q=loc:34.639095+-86.848811,Eastbound
+Alabama,I-565,34343,Exit 7,EXIT 7,County Line Rd; Madison Blvd,"Madison, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%207/34343,34.655652,-86.804952,http://maps.google.com/maps?t=m&q=loc:34.655652+-86.804952,Eastbound
+Alabama,I-565,34344,Exit 8,EXIT 8,"Glenn Hearn Boulevard
+          (MM: 8.0)","Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%208/34344,34.665754,-86.776246,http://maps.google.com/maps?t=m&q=loc:34.665754+-86.776246,Eastbound
+Alabama,I-565,34345,Exit 9,EXIT 9,Wall Triana Highway; Madison Blvd,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%209/34345,34.671066,-86.757761,http://maps.google.com/maps?t=m&q=loc:34.671066+-86.757761,Eastbound
+Alabama,I-565,34346,Exit 14A,EXIT 14A,Redstone Arsenal Gate 9,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2014A/34346,34.70343,-86.682854,http://maps.google.com/maps?t=m&q=loc:34.70343+-86.682854,Eastbound
+Alabama,I-565,76603,Exit 14B,EXIT 14B,AL 255; Research Park Blvd,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2014B/76603,34.703617,-86.682431,http://maps.google.com/maps?t=m&q=loc:34.703617+-86.682431,Eastbound
+Alabama,I-565,76604,Exit 15,EXIT 15,Madison Pike; Sparkman Dr; Bob Wallace Ave,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2015/76604,34.713105,-86.652209,http://maps.google.com/maps?t=m&q=loc:34.713105+-86.652209,Eastbound
+Alabama,I-565,34348,Exit 17A,EXIT 17A,AL-53 N; Jordan Lane; US-72,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2017A/34348,34.718466,-86.632809,http://maps.google.com/maps?t=m&q=loc:34.718466+-86.632809,Eastbound
+Alabama,I-565,34349,Exit 17B,EXIT 17B,AL-53 S; Governors Dr,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2017B/34349,34.719181,-86.62806,http://maps.google.com/maps?t=m&q=loc:34.719181+-86.62806,Eastbound
+Alabama,I-565,34350,Exit 19A,EXIT 19A,"US 231;US 431
+          (MM: 19.0)","Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019A/34350,34.728587,-86.602351,http://maps.google.com/maps?t=m&q=loc:34.728587+-86.602351,Eastbound
+Alabama,I-565,57522,Exit 19B,EXIT 19B,"US 231;US 431
+          (MM: 19.0)","Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019B/57522,34.73073,-86.600071,http://maps.google.com/maps?t=m&q=loc:34.73073+-86.600071,Eastbound
+Alabama,I-565,57523,Exit 19B,EXIT 19B,U.S. 231 N; U.S. 431 N; Memorial Parkway,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019B/57523,34.73073,-86.600071,http://maps.google.com/maps?t=m&q=loc:34.73073+-86.600071,Eastbound
+Alabama,I-565,34351,Exit 19C,EXIT 19C,Jefferson St; Downtown,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019C/34351,34.73512,-86.594326,http://maps.google.com/maps?t=m&q=loc:34.73512+-86.594326,Eastbound
+Alabama,I-565,34352,Exit 20,EXIT 20,Oakwood Avenue,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2020/34352,34.74568,-86.579355,http://maps.google.com/maps?t=m&q=loc:34.74568+-86.579355,Eastbound
+Alabama,I-565,34353,Exit 21,EXIT 21,US-72 W,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2021/34353,34.760078,-86.562838,http://maps.google.com/maps?t=m&q=loc:34.760078+-86.562838,Eastbound
+Alabama,I-565,34354,US 72,EXIT,US 72,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%20/34354,34.762271,-86.559542,http://maps.google.com/maps?t=m&q=loc:34.762271+-86.559542,Eastbound

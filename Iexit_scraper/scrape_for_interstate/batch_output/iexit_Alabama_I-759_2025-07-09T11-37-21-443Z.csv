@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Alabama,I-759,43353,Exit 2,EXIT 2,Black Creek Pkwy,"Gadsden, Alabama",https://www.iexitapp.com/Alabama/I-759/Exit%202/43353,33.992038,-86.042229,http://maps.google.com/maps?t=m&q=loc:33.992038+-86.042229,Eastbound
+Alabama,I-759,43354,Exit 4A,EXIT 4A,US 411,"Gadsden, Alabama",https://www.iexitapp.com/Alabama/I-759/Exit%204A/43354,33.991499,-86.009928,http://maps.google.com/maps?t=m&q=loc:33.991499+-86.009928,Eastbound
+Alabama,I-759,43355,Exit 4B,EXIT 4B,"AL 759
+          (MM: 4.0)","Gadsden, Alabama",https://www.iexitapp.com/Alabama/I-759/Exit%204B/43355,33.992753,-86.003856,http://maps.google.com/maps?t=m&q=loc:33.992753+-86.003856,Eastbound
+Alabama,I-759,57307,Exit 4B,EXIT 4B,US-411 N; Rainbow Dr,"Gadsden, Alabama",https://www.iexitapp.com/Alabama/I-759/Exit%204B/57307,33.992753,-86.003856,http://maps.google.com/maps?t=m&q=loc:33.992753+-86.003856,Eastbound

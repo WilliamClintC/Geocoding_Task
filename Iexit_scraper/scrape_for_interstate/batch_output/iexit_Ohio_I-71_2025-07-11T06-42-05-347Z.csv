@@ -1,0 +1,100 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Ohio,I-71,37521,Exit 1A,EXIT 1A,Second St W,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%201A/37521,39.097005,-84.520536,http://maps.google.com/maps?t=m&q=loc:39.097005+-84.520536,Northbound
+Ohio,I-71,37522,US 50,EXIT,US 50,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20/37522,39.098596,-84.509609,http://maps.google.com/maps?t=m&q=loc:39.098596+-84.509609,Northbound
+Ohio,I-71,37524,Exit 2,EXIT 2,US-42 N; Reading Rd; Eden Park Dr,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%202/37524,39.11329,-84.500478,http://maps.google.com/maps?t=m&q=loc:39.11329+-84.500478,Northbound
+Ohio,I-71,76563,Exit 3,EXIT 3,Martin Luther King Dr,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%203/76563,39.134455,-84.493252,http://maps.google.com/maps?t=m&q=loc:39.134455+-84.493252,Northbound
+Ohio,I-71,37525,Exit 5,EXIT 5,Dana Ave; Montqomery Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%205/37525,39.143282,-84.472153,http://maps.google.com/maps?t=m&q=loc:39.143282+-84.472153,Northbound
+Ohio,I-71,37526,Exit 6,EXIT 6,OH-561; Smith Rd; Edwards Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%206/37526,39.148701,-84.448287,http://maps.google.com/maps?t=m&q=loc:39.148701+-84.448287,Northbound
+Ohio,I-71,37527,Exit 8A,EXIT 8A,Ridge Ave,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%208A/37527,39.162897,-84.434825,http://maps.google.com/maps?t=m&q=loc:39.162897+-84.434825,Northbound
+Ohio,I-71,37528,Exit 8B,EXIT 8B,"SR 562
+          (MM: 8.0)","Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%208B/37528,39.163609,-84.433495,http://maps.google.com/maps?t=m&q=loc:39.163609+-84.433495,Northbound
+Ohio,I-71,37529,Exit 8C,EXIT 8C,Ridge Ave N,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%208C/37529,39.166584,-84.424278,http://maps.google.com/maps?t=m&q=loc:39.166584+-84.424278,Northbound
+Ohio,I-71,37530,Exit 9,EXIT 9,"Red Bank Expressway
+          (MM: 9.0)","Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%209/37530,39.170872,-84.403407,http://maps.google.com/maps?t=m&q=loc:39.170872+-84.403407,Northbound
+Ohio,I-71,37531,Exit 10,EXIT 10,Stewart Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2010/37531,39.183319,-84.395589,http://maps.google.com/maps?t=m&q=loc:39.183319+-84.395589,Northbound
+Ohio,I-71,37532,Exit 11,EXIT 11,Kenwood Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2011/37532,39.192888,-84.385781,http://maps.google.com/maps?t=m&q=loc:39.192888+-84.385781,Northbound
+Ohio,I-71,37533,Exit 12,EXIT 12,US-22; OH-3; Montgomery Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2012/37533,39.198658,-84.375156,http://maps.google.com/maps?t=m&q=loc:39.198658+-84.375156,Northbound
+Ohio,I-71,37534,Exit 14,EXIT 14,OH-126; Ronald Reagan Hwy,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2014/37534,39.220458,-84.368384,http://maps.google.com/maps?t=m&q=loc:39.220458+-84.368384,Northbound
+Ohio,I-71,37535,Exit 15,EXIT 15,Pfeiffer Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2015/37535,39.246127,-84.365757,http://maps.google.com/maps?t=m&q=loc:39.246127+-84.365757,Northbound
+Ohio,I-71,37536,Exit 17,EXIT 17,"I 275;I 275
+          (MM: 17.0)","Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2017/37536,39.26624,-84.356458,http://maps.google.com/maps?t=m&q=loc:39.26624+-84.356458,Northbound
+Ohio,I-71,37537,Exit 19,EXIT 19,Mason Montgomery Rd; Fields Ertel Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2019/37537,39.289534,-84.320926,http://maps.google.com/maps?t=m&q=loc:39.289534+-84.320926,Northbound
+Ohio,I-71,54171,Exit 19,EXIT 19,Mason Montgomery Rd; Fields Ertel Rd,"Cincinnati, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2019/54171,39.290217,-84.319938,http://maps.google.com/maps?t=m&q=loc:39.290217+-84.319938,Northbound
+Ohio,I-71,37538,Exit 24,EXIT 24,Western Row Rd; Kings Island Dr,"Mason, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2024/37538,39.326032,-84.285924,http://maps.google.com/maps?t=m&q=loc:39.326032+-84.285924,Northbound
+Ohio,I-71,37539,Exit 25,EXIT 25,Kings Mills Rd; OH-741 N; Mason,"Mason, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2025/37539,39.35438,-84.266342,http://maps.google.com/maps?t=m&q=loc:39.35438+-84.266342,Northbound
+Ohio,I-71,37540,Exit 28,EXIT 28,OH-48; Lebanon; S Lebanon,"Lebanon, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2028/37540,39.383445,-84.220399,http://maps.google.com/maps?t=m&q=loc:39.383445+-84.220399,Northbound
+Ohio,I-71,37541,Exit 32,EXIT 32,OH-123; Lebanon; Morrow,"Lebanon, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2032/37541,39.412423,-84.158344,http://maps.google.com/maps?t=m&q=loc:39.412423+-84.158344,Northbound
+Ohio,I-71,58404,Warren Rest Area,REST AREA,"Warren Rest Area
+          (MM: 33.5)","Oregonia, Ohio",https://www.iexitapp.com/Ohio/I-71/Rest%20Area/58404,39.414405,-84.128596,http://maps.google.com/maps?t=m&q=loc:39.414405+-84.128596,Northbound
+Ohio,I-71,37542,Exit 36,EXIT 36,Wilmington Rd,"Oregonia, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2036/37542,39.427305,-84.083133,http://maps.google.com/maps?t=m&q=loc:39.427305+-84.083133,Northbound
+Ohio,I-71,37543,Exit 45,EXIT 45,OH-73; Waynesville; Wilmington,"Wilmington, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2045/37543,39.484777,-83.944534,http://maps.google.com/maps?t=m&q=loc:39.484777+-83.944534,Northbound
+Ohio,I-71,37544,Exit 50,EXIT 50,US-68; Xenia,"Wilmington, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2050/37544,39.517582,-83.849955,http://maps.google.com/maps?t=m&q=loc:39.517582+-83.849955,Northbound
+Ohio,I-71,37545,Exit 58,EXIT 58,OH-72; Jamestown; Sabina,"Sabina, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2058/37545,39.555205,-83.7237,http://maps.google.com/maps?t=m&q=loc:39.555205+-83.7237,Northbound
+Ohio,I-71,37546,Exit 65,EXIT 65,US-35; OH-435; Washington C H,"Jeffersonville, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2065/37546,39.617055,-83.612027,http://maps.google.com/maps?t=m&q=loc:39.617055+-83.612027,Northbound
+Ohio,I-71,37547,Fayette Rest Area,REST AREA,"Fayette Rest Area
+          (MM: 68.0)","Jeffersonville, Ohio",https://www.iexitapp.com/Ohio/I-71/Rest%20Area/37547,39.636277,-83.57274,http://maps.google.com/maps?t=m&q=loc:39.636277+-83.57274,Northbound
+Ohio,I-71,37548,Exit 69,EXIT 69,Ohio 41; Ohio 734; Jeffersonville; South Solon,"Jeffersonville, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2069/37548,39.647452,-83.544199,http://maps.google.com/maps?t=m&q=loc:39.647452+-83.544199,Northbound
+Ohio,I-71,37549,Exit 75,EXIT 75,OH-38; Bloomingburg; Midway,"Bloomingburg, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2075/37549,39.694455,-83.460358,http://maps.google.com/maps?t=m&q=loc:39.694455+-83.460358,Northbound
+Ohio,I-71,37550,Exit 84,EXIT 84,OH-56; London; Mt Sterling,"Mt Sterling, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2084/37550,39.756189,-83.306695,http://maps.google.com/maps?t=m&q=loc:39.756189+-83.306695,Northbound
+Ohio,I-71,37551,Exit 94,EXIT 94,US-62; OH-3; Harrisburg; Grove City,"Grove City, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2094/37551,39.824649,-83.14077,http://maps.google.com/maps?t=m&q=loc:39.824649+-83.14077,Northbound
+Ohio,I-71,37552,Exit 97,EXIT 97,Ohio 665; London-Groveport Rd,"Grove City, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%2097/37552,39.837227,-83.093339,http://maps.google.com/maps?t=m&q=loc:39.837227+-83.093339,Northbound
+Ohio,I-71,37553,Exit 100,EXIT 100,Stringtown Rd; Grove City,"Grove City, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20100/37553,39.874332,-83.052191,http://maps.google.com/maps?t=m&q=loc:39.874332+-83.052191,Northbound
+Ohio,I-71,54172,Exit 101,EXIT 101,"I 270;I 270
+          (MM: 101.0)","Grove City, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20101/54172,39.887775,-83.042657,http://maps.google.com/maps?t=m&q=loc:39.887775+-83.042657,Northbound
+Ohio,I-71,37555,Exit 104,EXIT 104,OH-104; Frank Rd,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20104/37555,39.913598,-83.017301,http://maps.google.com/maps?t=m&q=loc:39.913598+-83.017301,Northbound
+Ohio,I-71,37556,Exit 105,EXIT 105,Greenlawn Ave,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20105/37556,39.935877,-83.009568,http://maps.google.com/maps?t=m&q=loc:39.935877+-83.009568,Northbound
+Ohio,I-71,37557,Exit 106A;106B,EXIT 106A;106B,"SR 315
+          (MM: 106.0)","Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20106A;106B/37557,39.945748,-83.013696,http://maps.google.com/maps?t=m&q=loc:39.945748+-83.013696,Northbound
+Ohio,I-71,37558,Exit 100A,EXIT 100A,US-23 S; Front St; High St,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20100A/37558,39.953353,-83.004211,http://maps.google.com/maps?t=m&q=loc:39.953353+-83.004211,Northbound
+Ohio,I-71,37559,Exit 100B,EXIT 100B,U.S. 23 N N; Livingston Ave; US-33 N; Fourth St,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20100B/37559,39.952971,-83.000728,http://maps.google.com/maps?t=m&q=loc:39.952971+-83.000728,Northbound
+Ohio,I-71,37561,Exit 108B,EXIT 108B,US-40; Broad St,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20108B/37561,39.96168,-82.98247,http://maps.google.com/maps?t=m&q=loc:39.96168+-82.98247,Northbound
+Ohio,I-71,37562,Exit 109A,EXIT 109A,"I 670;North Innerbelt
+          (MM: 109.0)","Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20109A/37562,39.962565,-82.982583,http://maps.google.com/maps?t=m&q=loc:39.962565+-82.982583,Northbound
+Ohio,I-71,54177,Exit 109A,EXIT 109A,Interstate 670 W,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20109A/54177,39.962565,-82.982583,http://maps.google.com/maps?t=m&q=loc:39.962565+-82.982583,Northbound
+Ohio,I-71,37563,Exit 110B,EXIT 110B,11th Ave,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20110B/37563,39.991911,-82.985207,http://maps.google.com/maps?t=m&q=loc:39.991911+-82.985207,Northbound
+Ohio,I-71,37564,Exit 111,EXIT 111,17th Ave,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20111/37564,39.99759,-82.984654,http://maps.google.com/maps?t=m&q=loc:39.99759+-82.984654,Northbound
+Ohio,I-71,37565,Exit 112,EXIT 112,Hudson St,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20112/37565,40.012036,-82.99151,http://maps.google.com/maps?t=m&q=loc:40.012036+-82.99151,Northbound
+Ohio,I-71,37566,Exit 113,EXIT 113,Weber Rd,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20113/37566,40.020261,-82.995025,http://maps.google.com/maps?t=m&q=loc:40.020261+-82.995025,Northbound
+Ohio,I-71,37567,Exit 114,EXIT 114,N Broadway,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20114/37567,40.027716,-82.994125,http://maps.google.com/maps?t=m&q=loc:40.027716+-82.994125,Northbound
+Ohio,I-71,37568,Exit 115,EXIT 115,Cooke Rd,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20115/37568,40.042531,-82.996994,http://maps.google.com/maps?t=m&q=loc:40.042531+-82.996994,Northbound
+Ohio,I-71,37569,Exit 116,EXIT 116,Morse Rd; Sinclair Rd,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20116/37569,40.057492,-82.998069,http://maps.google.com/maps?t=m&q=loc:40.057492+-82.998069,Northbound
+Ohio,I-71,37570,Exit 117,EXIT 117,OH-161 E; Dublin-Granville Rd; Ohio 161 W,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20117/37570,40.084303,-82.987356,http://maps.google.com/maps?t=m&q=loc:40.084303+-82.987356,Northbound
+Ohio,I-71,37572,Exit 121,EXIT 121,Gemini Place; Polaris Parkway; Ohio 750,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20121/37572,40.133497,-82.971457,http://maps.google.com/maps?t=m&q=loc:40.133497+-82.971457,Northbound
+Ohio,I-71,54182,Exit 121,EXIT 121,Gemini Place; Polaris Parkway; Ohio 750,"Columbus, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20121/54182,40.137939,-82.970921,http://maps.google.com/maps?t=m&q=loc:40.137939+-82.970921,Northbound
+Ohio,I-71,37573,Delaware Rest Area,REST AREA,"Delaware Rest Area
+          (MM: 127.0)","Galena, Ohio",https://www.iexitapp.com/Ohio/I-71/Rest%20Area/37573,40.217998,-82.929622,http://maps.google.com/maps?t=m&q=loc:40.217998+-82.929622,Northbound
+Ohio,I-71,37574,Exit 131,EXIT 131,US-36; OH-37; Delaware; Sunbury,"Galena, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20131/37574,40.262564,-82.927541,http://maps.google.com/maps?t=m&q=loc:40.262564+-82.927541,Northbound
+Ohio,I-71,37575,Exit 140,EXIT 140,Mt Gllead; Cardington,"Marengo, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20140/37575,40.370389,-82.834159,http://maps.google.com/maps?t=m&q=loc:40.370389+-82.834159,Northbound
+Ohio,I-71,58408,Truck Parking,PARKING AREA,"Truck Parking
+          (MM: 149.0)","Mount Gilead, Ohio",https://www.iexitapp.com/Ohio/I-71/Parking%20Area/58408,40.479361,-82.743648,http://maps.google.com/maps?t=m&q=loc:40.479361+-82.743648,Northbound
+Ohio,I-71,37576,Exit 151,EXIT 151,OH-95; Mt Gilead; Fredericktown,"Mt Gilead, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20151/37576,40.494146,-82.722073,http://maps.google.com/maps?t=m&q=loc:40.494146+-82.722073,Northbound
+Ohio,I-71,37577,Exit 165,EXIT 165,OH-97; Lexington; Bellville,"Bellville, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20165/37577,40.64701,-82.546481,http://maps.google.com/maps?t=m&q=loc:40.64701+-82.546481,Northbound
+Ohio,I-71,37578,Exit 169,EXIT 169,OH-13; Mansfield; Bellville,"Mansfield, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20169/37578,40.690353,-82.518106,http://maps.google.com/maps?t=m&q=loc:40.690353+-82.518106,Northbound
+Ohio,I-71,37579,Exit 173,EXIT 173,Route 39; Mansfield; Lucas,"Mansfield, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20173/37579,40.735717,-82.462958,http://maps.google.com/maps?t=m&q=loc:40.735717+-82.462958,Northbound
+Ohio,I-71,37580,Exit 176,EXIT 176,US-30; Mansfield; Wooster,"Mansfield, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20176/37580,40.779305,-82.414495,http://maps.google.com/maps?t=m&q=loc:40.779305+-82.414495,Northbound
+Ohio,I-71,37581,Exit 186,EXIT 186,US-250; Ashland; Wooster,"Ashland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20186/37581,40.855178,-82.259483,http://maps.google.com/maps?t=m&q=loc:40.855178+-82.259483,Northbound
+Ohio,I-71,37582,Exit 196,EXIT 196,OH-301; W Salem,"West Salem, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20196/37582,40.932348,-82.115278,http://maps.google.com/maps?t=m&q=loc:40.932348+-82.115278,Northbound
+Ohio,I-71,58405,Wayne Rest Area,REST AREA,"Wayne Rest Area
+          (MM: 197.0)","West Salem, Ohio",https://www.iexitapp.com/Ohio/I-71/Rest%20Area/58405,40.935967,-82.107697,http://maps.google.com/maps?t=m&q=loc:40.935967+-82.107697,Northbound
+Ohio,I-71,37583,Exit 198,EXIT 198,Ohio 539; W Salem; Congress,"West Salem, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20198/37583,40.945375,-82.085875,http://maps.google.com/maps?t=m&q=loc:40.945375+-82.085875,Northbound
+Ohio,I-71,37584,Exit 204,EXIT 204,OH-83; Lodi; Wooster,"Burbank, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20204/37584,40.997193,-82.000666,http://maps.google.com/maps?t=m&q=loc:40.997193+-82.000666,Northbound
+Ohio,I-71,37586,Exit 218,EXIT 218,OH-18; Medina; Akron,"Medina, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20218/37586,41.133261,-81.795591,http://maps.google.com/maps?t=m&q=loc:41.133261+-81.795591,Northbound
+Ohio,I-71,37587,Exit 220,EXIT 220,"I 271
+          (MM: 220.0)","Medina, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20220/37587,41.157227,-81.785943,http://maps.google.com/maps?t=m&q=loc:41.157227+-81.785943,Northbound
+Ohio,I-71,37588,Exit 222,EXIT 222,OH-3; Medina; Hinckley,"Medina, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20222/37588,41.189039,-81.789659,http://maps.google.com/maps?t=m&q=loc:41.189039+-81.789659,Northbound
+Ohio,I-71,37589,Medina Rest Area,REST AREA,"Medina Rest Area
+          (MM: 224.0)","Brunswick, Ohio",https://www.iexitapp.com/Ohio/I-71/Rest%20Area/37589,41.218389,-81.793376,http://maps.google.com/maps?t=m&q=loc:41.218389+-81.793376,Northbound
+Ohio,I-71,37590,Exit 226,EXIT 226,OH-303; Brunswick; Hinckley,"Brunswick, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20226/37590,41.234021,-81.7966,http://maps.google.com/maps?t=m&q=loc:41.234021+-81.7966,Northbound
+Ohio,I-71,37591,Exit 231,EXIT 231,State Route 82; Royalton Rd,"Strongsville, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20231/37591,41.309487,-81.809706,http://maps.google.com/maps?t=m&q=loc:41.309487+-81.809706,Northbound
+Ohio,I-71,37593,Exit 234,EXIT 234,US-42; Pearl Rd,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20234/37593,41.352093,-81.818096,http://maps.google.com/maps?t=m&q=loc:41.352093+-81.818096,Northbound
+Ohio,I-71,37594,Exit 235,EXIT 235,Bagley Rd,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20235/37594,41.368237,-81.821509,http://maps.google.com/maps?t=m&q=loc:41.368237+-81.821509,Northbound
+Ohio,I-71,37595,Exit 237,EXIT 237,Snow Rd; Airport,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20237/37595,41.399317,-81.816674,http://maps.google.com/maps?t=m&q=loc:41.399317+-81.816674,Northbound
+Ohio,I-71,37596,Exit 238,EXIT 238,"I 480
+          (MM: 238.0)","Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20238/37596,41.412884,-81.817724,http://maps.google.com/maps?t=m&q=loc:41.412884+-81.817724,Northbound
+Ohio,I-71,37598,Exit 240,EXIT 240,West 150th Street,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20240/37598,41.438515,-81.806527,http://maps.google.com/maps?t=m&q=loc:41.438515+-81.806527,Northbound
+Ohio,I-71,37599,Exit 242B,EXIT 242B,Bellaire Rd,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20242B/37599,41.443739,-81.782547,http://maps.google.com/maps?t=m&q=loc:41.443739+-81.782547,Northbound
+Ohio,I-71,37600,Exit 242A,EXIT 242A,W 130th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20242A/37600,41.444993,-81.77435,http://maps.google.com/maps?t=m&q=loc:41.444993+-81.77435,Northbound
+Ohio,I-71,37601,Exit 244,EXIT 244,Denison Ave; W 65th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20244/37601,41.447519,-81.745953,http://maps.google.com/maps?t=m&q=loc:41.447519+-81.745953,Northbound
+Ohio,I-71,37602,Exit 245,EXIT 245,US 42; Pearl Rd; Fulton Rd; W 25th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20245/37602,41.452235,-81.724246,http://maps.google.com/maps?t=m&q=loc:41.452235+-81.724246,Northbound
+Ohio,I-71,54187,Exit 245,EXIT 245,US 42; W 25th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20245/54187,41.453563,-81.718968,http://maps.google.com/maps?t=m&q=loc:41.453563+-81.718968,Northbound
+Ohio,I-71,54188,Exit 247A,EXIT 247A,W 14th St; Clark Ave; Steelyard Dr,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-71/Exit%20247A/54188,41.462704,-81.693745,http://maps.google.com/maps?t=m&q=loc:41.462704+-81.693745,Northbound

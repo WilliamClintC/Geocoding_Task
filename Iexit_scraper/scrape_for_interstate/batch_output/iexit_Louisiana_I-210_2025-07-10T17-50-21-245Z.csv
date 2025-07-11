@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Louisiana,I-210,32000,Exit 11,EXIT 11,US-90,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%2011/32000,30.239897,-93.164347,http://maps.google.com/maps?t=m&q=loc:30.239897+-93.164347,Westbound
+Louisiana,I-210,32001,Exit 10A,EXIT 10A,Legion St,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%2010A/32001,30.220911,-93.16942,http://maps.google.com/maps?t=m&q=loc:30.220911+-93.16942,Westbound
+Louisiana,I-210,32002,Exit 8,EXIT 8,LA-14; Cameron,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%208/32002,30.198156,-93.173802,http://maps.google.com/maps?t=m&q=loc:30.198156+-93.173802,Westbound
+Louisiana,I-210,32003,Exit 7,EXIT 7,Enterprise Boulevad,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%207/32003,30.196994,-93.200612,http://maps.google.com/maps?t=m&q=loc:30.196994+-93.200612,Westbound
+Louisiana,I-210,32004,Exit 6A,EXIT 6A,LA-385; Ryan St,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%206A/32004,30.197145,-93.215348,http://maps.google.com/maps?t=m&q=loc:30.197145+-93.215348,Westbound
+Louisiana,I-210,32005,Exit 5,EXIT 5,Lake St,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%205/32005,30.197096,-93.228428,http://maps.google.com/maps?t=m&q=loc:30.197096+-93.228428,Westbound
+Louisiana,I-210,32006,Exit 4,EXIT 4,Louisiana 1138-2; Nelson Rd,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%204/32006,30.196926,-93.245329,http://maps.google.com/maps?t=m&q=loc:30.196926+-93.245329,Westbound
+Louisiana,I-210,32008,Exit 1A,EXIT 1A,East Sulphur,"Sulphur, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%201A/32008,30.22479,-93.299548,http://maps.google.com/maps?t=m&q=loc:30.22479+-93.299548,Westbound

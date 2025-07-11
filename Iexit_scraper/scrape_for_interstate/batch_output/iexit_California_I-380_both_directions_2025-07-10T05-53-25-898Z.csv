@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+California,I-380,37485,"Exit 5A,5B","EXIT 5A,5B",I-280 (Junipero Serra Freeway) – San Francisco (north); San Jose (south),"San Bruno, California","https://www.iexitapp.com/California/I-380/Exit%205A,5B/37485",37.629761,-122.427336,http://maps.google.com/maps?t=m&q=loc:37.629761+-122.427336,Eastbound
+California,I-380,37479,Exit 5,EXIT 5,SR 82 (El Camino Real),"San Bruno, California",https://www.iexitapp.com/California/I-380/Exit%205/37479,37.630139,-122.424901,http://maps.google.com/maps?t=m&q=loc:37.630139+-122.424901,Eastbound
+California,I-380,37481,Exit 7,EXIT 7,South Airport Boulevard,"San Francisco, California",https://www.iexitapp.com/California/I-380/Exit%207/37481,37.635842,-122.403719,http://maps.google.com/maps?t=m&q=loc:37.635842+-122.403719,Eastbound
+California,I-380,37483,Exit 5C,EXIT 5C,SR 82 (El Camino Real) – San Bruno,"San Bruno, California",https://www.iexitapp.com/California/I-380/Exit%205C/37483,37.634363,-122.413373,http://maps.google.com/maps?t=m&q=loc:37.634363+-122.413373,Westbound

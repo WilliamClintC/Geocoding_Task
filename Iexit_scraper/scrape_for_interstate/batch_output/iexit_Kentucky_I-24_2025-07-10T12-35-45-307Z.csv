@@ -1,0 +1,24 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kentucky,I-24,18688,Exit 3,EXIT 3,Ky 305 W,"Paducah, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%203/18688,37.101092,-88.689587,http://maps.google.com/maps?t=m&q=loc:37.101092+-88.689587,Eastbound
+Kentucky,I-24,18689,Exit 4,EXIT 4,US-60; I-24; Paducah; Wickliffe,"Paducah, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%204/18689,37.080813,-88.682315,http://maps.google.com/maps?t=m&q=loc:37.080813+-88.682315,Eastbound
+Kentucky,I-24,18690,Exit 7,EXIT 7,US-62; US-45; Bardwell; Mayfield,"Paducah, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%207/18690,37.060154,-88.658874,http://maps.google.com/maps?t=m&q=loc:37.060154+-88.658874,Eastbound
+Kentucky,I-24,18691,Exit 11,EXIT 11,I-24 BUS; Husband Rd; Paducah; KY-1954,"Paducah, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2011/18691,37.016257,-88.597327,http://maps.google.com/maps?t=m&q=loc:37.016257+-88.597327,Eastbound
+Kentucky,I-24,18692,Exit 16,EXIT 16,US-68; Paducah,"Paducah, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2016/18692,36.994213,-88.511919,http://maps.google.com/maps?t=m&q=loc:36.994213+-88.511919,Eastbound
+Kentucky,I-24,18693,Exit 25A,EXIT 25A,"Purchase Parkway
+          (MM: 25.0)","Calvert City, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2025A/18693,36.989795,-88.35417,http://maps.google.com/maps?t=m&q=loc:36.989795+-88.35417,Eastbound
+Kentucky,I-24,43450,Exit 25B,EXIT 25B,"Purchase Parkway
+          (MM: 25.0)","Calvert City, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2025B/43450,36.990583,-88.346779,http://maps.google.com/maps?t=m&q=loc:36.990583+-88.346779,Eastbound
+Kentucky,I-24,18694,Exit 27,EXIT 27,US-62; Kentucky Dam,"Calvert City, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2027/18694,36.999483,-88.327766,http://maps.google.com/maps?t=m&q=loc:36.999483+-88.327766,Eastbound
+Kentucky,I-24,18695,Exit 31,EXIT 31,KY-453; Smithland; Grand Rivers,"Grand Rivers, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2031/18695,37.038127,-88.271637,http://maps.google.com/maps?t=m&q=loc:37.038127+-88.271637,Eastbound
+Kentucky,I-24,18696,Weigh Station,WEIGH STATION,Weigh Station,"Kuttawa, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Weigh%20Station/18696,37.062467,-88.190911,http://maps.google.com/maps?t=m&q=loc:37.062467+-88.190911,Eastbound
+Kentucky,I-24,18697,Exit 40,EXIT 40,US-62; US-641; Eddyville; Kuttawa,"Kuttawa, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2040/18697,37.075482,-88.128234,http://maps.google.com/maps?t=m&q=loc:37.075482+-88.128234,Eastbound
+Kentucky,I-24,18698,Exit 42,EXIT 42,"I 69
+          (MM: 42.0)","Eddyville, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2042/18698,37.072101,-88.093999,http://maps.google.com/maps?t=m&q=loc:37.072101+-88.093999,Eastbound
+Kentucky,I-24,18699,Exit 45,EXIT 45,KY-293; Princeton,"Eddyville, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2045/18699,37.060049,-88.038743,http://maps.google.com/maps?t=m&q=loc:37.060049+-88.038743,Eastbound
+Kentucky,I-24,18700,Exit 56,EXIT 56,KY-139; Princeton; Cadiz,"Princeton, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2056/18700,36.968564,-87.879796,http://maps.google.com/maps?t=m&q=loc:36.968564+-87.879796,Eastbound
+Kentucky,I-24,18701,Exit 65,EXIT 65,US-68; KY-80; Cadiz; Hopkinsville,"Cadiz, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2065/18701,36.884497,-87.739436,http://maps.google.com/maps?t=m&q=loc:36.884497+-87.739436,Eastbound
+Kentucky,I-24,18702,Exit 73,EXIT 73,KY-117; Newstead; Gracey,"Hopkinsville, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2073/18702,36.816924,-87.638868,http://maps.google.com/maps?t=m&q=loc:36.816924+-87.638868,Eastbound
+Kentucky,I-24,18703,Exit 81,EXIT 81,"Pennyrile Parkway
+          (MM: 81.0)","Oak Grove, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2081/18703,36.742746,-87.50925,http://maps.google.com/maps?t=m&q=loc:36.742746+-87.50925,Eastbound
+Kentucky,I-24,18704,Exit 86,EXIT 86,US-41; Hopkinsville; Ft Campbell,"Oak Grove, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2086/18704,36.705105,-87.461374,http://maps.google.com/maps?t=m&q=loc:36.705105+-87.461374,Eastbound
+Kentucky,I-24,18705,Exit 89,EXIT 89,KY-115; Pembroke Oak Grove,"Oak Grove, Kentucky",https://www.iexitapp.com/Kentucky/I-24/Exit%2089/18705,36.684279,-87.409905,http://maps.google.com/maps?t=m&q=loc:36.684279+-87.409905,Eastbound

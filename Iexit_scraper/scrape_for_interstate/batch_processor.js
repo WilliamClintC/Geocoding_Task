@@ -27,6 +27,35 @@ class BatchProcessor {
         this.browserConfig = null; // Store browser configuration
     }
 
+    // Function to play system sound/bell
+    playNotificationSound() {
+        try {
+            // System bell character - works on most systems
+            process.stdout.write('\x07');
+            
+            // For Windows, we can also try to play a system sound
+            if (process.platform === 'win32') {
+                try {
+                    const { exec } = require('child_process');
+                    // Play Windows system sound asynchronously
+                    exec('powershell -c "[console]::beep(800,300)"', (error) => {
+                        if (error) {
+                            console.log('🔔 Bell notification sent (PowerShell beep failed)');
+                        } else {
+                            console.log('🔔 Sound notification played');
+                        }
+                    });
+                } catch (error) {
+                    console.log('🔔 Bell notification sent (system sound unavailable)');
+                }
+            } else {
+                console.log('🔔 Bell notification sent');
+            }
+        } catch (error) {
+            console.log('🔔 Notification attempted');
+        }
+    }
+
     // Get initial curl command from user
     async getInitialCurlCommand() {
         console.log('\n🔧 CURL COMMAND SETUP');
@@ -98,6 +127,7 @@ class BatchProcessor {
         console.log(`📊 Total entries to process: ${this.stateData.length}`);
         console.log(`📊 Already processed: ${this.progress.processedCount}`);
         console.log(`📊 Remaining: ${this.stateData.length - this.progress.processedCount}`);
+        console.log(`🔄 Redundancy overlap: ${BATCH_CONFIG.REDUNDANCY_OVERLAP || 0} entries`);
     }
 
     // Load states data from CSV
@@ -213,15 +243,27 @@ class BatchProcessor {
 
     // Enhanced session expiration check with comprehensive detection
     async checkSessionExpiry() {
-        const sessionAge = Date.now() - this.progress.sessionStartTime;
-        const timeSinceLastRequest = Date.now() - this.progress.lastSuccessfulRequest;
+        // Note: Time-based expiration removed - only checking page content now
         
-        // Check for time-based expiration
-        if (sessionAge > BATCH_CONFIG.SESSION_TIMEOUT || timeSinceLastRequest > BATCH_CONFIG.SESSION_TIMEOUT) {
-            this.sessionExpired = true;
-            console.log('⏰ Session expired based on time');
-            return true;
+        // Check if browser/page is available before attempting session check
+        if (!this.scraper || !this.scraper.page || !this.scraper.browser) {
+            console.log('🔍 Skipping session check - browser not initialized');
+            return false;
         }
+        
+        // Check if page is still attached/valid
+        try {
+            // Try a simple operation to test if page is responsive
+            await this.scraper.page.evaluate(() => true);
+        } catch (error) {
+            if (error.message.includes('detached') || error.message.includes('closed')) {
+                console.log('🔍 Skipping session check - browser page is detached/closed');
+                return false;
+            }
+            // If it's a different error, continue with session check
+        }
+        
+        console.log('🔍 Checking for session expiration...');
         
         // Check for page-based expiration if scraper exists
         if (this.scraper && this.scraper.page) {
@@ -272,6 +314,8 @@ class BatchProcessor {
                     this.playNotificationSound();
                     
                     return true;
+                } else {
+                    console.log('✅ Session is valid');
                 }
             } catch (error) {
                 console.log('⚠️  Could not check page for session expiration:', error.message);
@@ -286,7 +330,7 @@ class BatchProcessor {
         // Play notification sound to alert user
         this.playNotificationSound();
         
-        console.log('\n� 🚨 SESSION REFRESH REQUIRED 🚨 🔔');
+        console.log('\n🚨🔔 SESSION REFRESH REQUIRED 🔔🚨');
         console.log('='.repeat(50));
         console.log('🎵 SOUND NOTIFICATION: New cURL command needed!');
         console.log('The session has expired and needs to be refreshed.');
@@ -376,7 +420,7 @@ class BatchProcessor {
     }
 
     // Process a single batch
-    async processBatch(batchIndex) {
+    async processBatch(batchIndex, adjustedProcessedCount = null) {
         const batchStart = batchIndex * BATCH_CONFIG.BATCH_SIZE;
         const batchEnd = Math.min(batchStart + BATCH_CONFIG.BATCH_SIZE, this.stateData.length);
         const batchData = this.stateData.slice(batchStart, batchEnd);
@@ -385,15 +429,6 @@ class BatchProcessor {
         console.log(`📊 Items ${batchStart + 1} to ${batchEnd} of ${this.stateData.length}`);
         console.log(`🎯 Batch contains ${batchData.length} entries`);
         
-        // Check session expiry
-        if (this.checkSessionExpiry()) {
-            const refreshResult = await this.requestSessionRefresh();
-            if (refreshResult === false) {
-                console.log('🛑 User stopped the process');
-                return false;
-            }
-        }
-
         // Initialize scraper with browser configuration (reuse if exists)
         try {
             if (!this.scraper) {
@@ -412,18 +447,35 @@ class BatchProcessor {
             return false;
         }
 
+        // Check session expiry AFTER browser is initialized
+        if (await this.checkSessionExpiry()) {
+            const refreshResult = await this.requestSessionRefresh();
+            if (refreshResult === false) {
+                console.log('🛑 User stopped the process');
+                return false;
+            }
+        }
+
         // Process each entry in the batch
         for (let i = 0; i < batchData.length; i++) {
             const entry = batchData[i];
             const globalIndex = batchStart + i;
             
-            // Skip if already processed
-            if (globalIndex < this.progress.processedCount) {
+            // Use adjustedProcessedCount if provided, otherwise use the original logic
+            const skipThreshold = adjustedProcessedCount !== null ? adjustedProcessedCount : this.progress.processedCount;
+            
+            // Skip if already processed (but allow redundancy if adjustedProcessedCount is provided)
+            if (globalIndex < skipThreshold) {
                 console.log(`⏭️  Skipping already processed item ${globalIndex + 1}: ${entry.State} - ${entry.Highway}`);
                 continue;
             }
             
-            console.log(`\n🔄 Processing item ${globalIndex + 1}/${this.stateData.length}: ${entry.State} - ${entry.Highway}`);
+            // Check if this is a redundant entry (being reprocessed for safety)
+            if (adjustedProcessedCount !== null && globalIndex < this.progress.processedCount) {
+                console.log(`🔄 Reprocessing item ${globalIndex + 1}/${this.stateData.length} for redundancy: ${entry.State} - ${entry.Highway}`);
+            } else {
+                console.log(`\n🔄 Processing item ${globalIndex + 1}/${this.stateData.length}: ${entry.State} - ${entry.Highway}`);
+            }
             
             // Check for session expiration before processing each entry
             if (await this.checkSessionExpiry()) {
@@ -452,16 +504,28 @@ class BatchProcessor {
             const result = await this.processEntryWithDirectionHandling(entry, globalIndex);
             
             if (result) {
-                this.progress.processedCount++;
+                // Only increment progress count if we're processing beyond the original processed count
+                // This prevents double counting during redundancy reprocessing
+                if (globalIndex >= this.progress.processedCount) {
+                    this.progress.processedCount++;
+                }
                 this.progress.lastSuccessfulRequest = Date.now();
             } else {
-                this.progress.failedUrls.push({
-                    index: globalIndex,
-                    state: entry.State,
-                    highway: entry.Highway,
-                    url: entry.Exit_Link,
-                    timestamp: new Date().toISOString()
-                });
+                // Check if this URL is already in failed list to prevent duplicates
+                const alreadyFailed = this.progress.failedUrls.some(failed => failed.url === entry.Exit_Link);
+                
+                if (!alreadyFailed) {
+                    this.progress.failedUrls.push({
+                        index: globalIndex,
+                        state: entry.State,
+                        highway: entry.Highway,
+                        url: entry.Exit_Link,
+                        timestamp: new Date().toISOString()
+                    });
+                    console.log(`➕ Added to failed URLs list: ${entry.State} - ${entry.Highway}`);
+                } else {
+                    console.log(`⚠️  Already in failed URLs list: ${entry.State} - ${entry.Highway}`);
+                }
             }
             
             // Save progress after each entry
@@ -791,15 +855,36 @@ class BatchProcessor {
         console.log('='.repeat(60));
         
         const totalBatches = Math.ceil(this.stateData.length / BATCH_CONFIG.BATCH_SIZE);
-        const startBatch = Math.floor(this.progress.processedCount / BATCH_CONFIG.BATCH_SIZE);
+        
+        // Add redundancy: start from N entries before the last processed entry
+        // This ensures we have overlap to catch any potentially missed entries
+        const REDUNDANCY_OVERLAP = BATCH_CONFIG.REDUNDANCY_OVERLAP || 2;
+        let adjustedProcessedCount = Math.max(0, this.progress.processedCount - REDUNDANCY_OVERLAP);
+        
+        // Store the original processed count for comparison
+        const originalProcessedCount = this.progress.processedCount;
+        
+        // If we have processed entries, apply redundancy
+        if (this.progress.processedCount > 0 && REDUNDANCY_OVERLAP > 0) {
+            console.log(`🔄 Applying redundancy (${REDUNDANCY_OVERLAP} entries overlap):`);
+            console.log(`   Starting from entry ${adjustedProcessedCount + 1} instead of ${originalProcessedCount + 1}`);
+            console.log(`   This will reprocess ${originalProcessedCount - adjustedProcessedCount} entries for safety`);
+        } else if (this.progress.processedCount > 0 && REDUNDANCY_OVERLAP === 0) {
+            console.log(`➡️  No redundancy configured - continuing from entry ${originalProcessedCount + 1}`);
+        } else {
+            console.log(`🚀 Starting fresh from entry 1`);
+        }
+        
+        const startBatch = Math.floor(adjustedProcessedCount / BATCH_CONFIG.BATCH_SIZE);
         
         console.log(`📊 Total batches: ${totalBatches}`);
         console.log(`📊 Starting from batch: ${startBatch + 1}`);
+        console.log(`📊 Entries to process: ${this.stateData.length - adjustedProcessedCount}`);
         
         for (let batchIndex = startBatch; batchIndex < totalBatches; batchIndex++) {
             console.log(`\n📦 Starting Batch ${batchIndex + 1}/${totalBatches}`);
             
-            const batchResult = await this.processBatch(batchIndex);
+            const batchResult = await this.processBatch(batchIndex, adjustedProcessedCount);
             
             if (!batchResult) {
                 console.log('🛑 Batch processing stopped');
@@ -815,8 +900,173 @@ class BatchProcessor {
             }
         }
         
+        // Retry failed URLs if any exist
+        if (this.progress.failedUrls.length > 0) {
+            console.log(`\n🔄 RETRY PHASE AVAILABLE`);
+            console.log('='.repeat(40));
+            console.log(`Found ${this.progress.failedUrls.length} failed URLs that could be retried.`);
+            console.log('These URLs failed during the initial processing and might succeed with fresh attempts.');
+            console.log('');
+            
+            const rl = readline.createInterface({
+                input: process.stdin,
+                output: process.stdout
+            });
+            
+            const retryAnswer = await new Promise((resolve) => {
+                rl.question('Do you want to retry the failed URLs? (y/n): ', resolve);
+            });
+            
+            rl.close();
+            
+            if (retryAnswer.toLowerCase() === 'y' || retryAnswer.toLowerCase() === 'yes') {
+                console.log('\n🔄 Starting retry phase...');
+                await this.retryFailedEntries();
+            } else {
+                console.log('⏭️  Skipping retry phase');
+            }
+        }
+        
         // Final summary
         this.generateFinalSummary();
+    }
+
+    // Retry failed entries with enhanced error handling
+    async retryFailedEntries() {
+        if (this.progress.failedUrls.length === 0) {
+            console.log('✅ No failed URLs to retry');
+            return;
+        }
+        
+        // Remove duplicates from failed URLs (based on URL)
+        const uniqueFailedUrls = this.progress.failedUrls.filter((url, index, self) => 
+            index === self.findIndex(u => u.url === url.url)
+        );
+        
+        if (uniqueFailedUrls.length < this.progress.failedUrls.length) {
+            console.log(`🔄 Removed ${this.progress.failedUrls.length - uniqueFailedUrls.length} duplicate failed URLs`);
+            this.progress.failedUrls = uniqueFailedUrls;
+        }
+        
+        console.log(`🔄 Retrying ${this.progress.failedUrls.length} failed URLs...`);
+        console.log('Each failed URL will be attempted up to 3 times with fresh browser sessions');
+        console.log('');
+        
+        const maxRetryAttempts = 3;
+        const successfulRetries = [];
+        const permanentFailures = [];
+        
+        for (let i = 0; i < this.progress.failedUrls.length; i++) {
+            const failedEntry = this.progress.failedUrls[i];
+            console.log(`\n🔄 Retry ${i + 1}/${this.progress.failedUrls.length}: ${failedEntry.state} - ${failedEntry.highway}`);
+            console.log(`🌐 URL: ${failedEntry.url}`);
+            
+            let retrySuccess = false;
+            
+            for (let attempt = 1; attempt <= maxRetryAttempts; attempt++) {
+                console.log(`   🎯 Attempt ${attempt}/${maxRetryAttempts}`);
+                
+                try {
+                    // Initialize fresh browser for retry
+                    if (!this.scraper) {
+                        this.scraper = new CoordinateScraper(this.browserConfig);
+                    }
+                    
+                    // Always use fresh browser for retries
+                    if (this.scraper.browser) {
+                        await this.scraper.browser.close();
+                    }
+                    await this.scraper.initBrowser();
+                    
+                    // Check session before retry
+                    if (await this.checkSessionExpiry()) {
+                        console.log('🚨 Session expired during retry, requesting refresh...');
+                        const refreshResult = await this.requestSessionRefresh();
+                        if (!refreshResult) {
+                            console.log('❌ Session refresh cancelled. Stopping retries.');
+                            return;
+                        }
+                        this.scraper.browserConfig = refreshResult;
+                        await this.scraper.browser.close();
+                        await this.scraper.initBrowser();
+                    }
+                    
+                    // Attempt to process the entry
+                    const stateInfo = {
+                        state: failedEntry.state,
+                        highway: failedEntry.highway
+                    };
+                    
+                    const result = await this.scraper.scrapeExitCoordinates(failedEntry.url, stateInfo);
+                    
+                    if (result && result.exitData && result.exitData.length > 0) {
+                        console.log(`   ✅ Retry successful! Found ${result.exitData.length} exits`);
+                        
+                        // Add to combined CSV
+                        const batchId = Math.floor(failedEntry.index / BATCH_CONFIG.BATCH_SIZE) + 1;
+                        this.appendToCombinedCsv(result.exitData, {
+                            batchId,
+                            processingTimestamp: new Date().toISOString(),
+                            state: failedEntry.state,
+                            highway: failedEntry.highway,
+                            sourceUrl: failedEntry.url,
+                            status: 'RETRY_SUCCESS'
+                        });
+                        
+                        successfulRetries.push(failedEntry);
+                        retrySuccess = true;
+                        this.progress.processedCount++;
+                        this.progress.lastSuccessfulRequest = Date.now();
+                        break; // Success, exit retry loop
+                        
+                    } else {
+                        console.log(`   ⚠️  Attempt ${attempt} returned no data`);
+                    }
+                    
+                } catch (error) {
+                    console.log(`   ❌ Attempt ${attempt} failed: ${error.message}`);
+                    
+                    if (attempt < maxRetryAttempts) {
+                        console.log(`   ⏱️  Waiting 5 seconds before next attempt...`);
+                        await this.sleep(5000);
+                    }
+                }
+            }
+            
+            if (!retrySuccess) {
+                console.log(`   💀 All ${maxRetryAttempts} retry attempts failed`);
+                permanentFailures.push(failedEntry);
+            }
+            
+            // Small delay between different URLs
+            if (i < this.progress.failedUrls.length - 1) {
+                console.log(`⏱️  Waiting 3 seconds before next retry...`);
+                await this.sleep(3000);
+            }
+        }
+        
+        // Update failed URLs list to only include permanent failures
+        this.progress.failedUrls = permanentFailures;
+        
+        // Close browser after retries
+        if (this.scraper && this.scraper.browser) {
+            await this.scraper.browser.close();
+        }
+        
+        console.log('\n🔄 RETRY PHASE COMPLETE');
+        console.log('='.repeat(40));
+        console.log(`✅ Successful retries: ${successfulRetries.length}`);
+        console.log(`❌ Permanent failures: ${permanentFailures.length}`);
+        
+        if (successfulRetries.length > 0) {
+            console.log('\n✅ Successfully retried:');
+            successfulRetries.forEach((entry, index) => {
+                console.log(`  ${index + 1}. ${entry.state} - ${entry.highway}`);
+            });
+        }
+        
+        // Save updated progress
+        this.saveProgress();
     }
 
     // Generate final summary
@@ -849,35 +1099,6 @@ class BatchProcessor {
         fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2));
         console.log(`📄 Final summary saved to: ${summaryPath}`);
         console.log(`📄 Combined results saved to: ${path.join(BATCH_CONFIG.OUTPUT_DIR, BATCH_CONFIG.COMBINED_OUTPUT_FILE)}`);
-    }
-
-    // Function to play system sound/bell
-    playNotificationSound() {
-        try {
-            // System bell character - works on most systems
-            process.stdout.write('\x07');
-            
-            // For Windows, we can also try to play a system sound
-            if (process.platform === 'win32') {
-                try {
-                    const { exec } = require('child_process');
-                    // Play Windows system sound asynchronously
-                    exec('powershell -c "[console]::beep(800,300)"', (error) => {
-                        if (error) {
-                            console.log('🔔 Bell notification sent (PowerShell beep failed)');
-                        } else {
-                            console.log('🔔 Sound notification played');
-                        }
-                    });
-                } catch (error) {
-                    console.log('🔔 Bell notification sent (system sound unavailable)');
-                }
-            } else {
-                console.log('🔔 Bell notification sent');
-            }
-        } catch (error) {
-            console.log('🔔 Notification attempted');
-        }
     }
 
     // Utility sleep function

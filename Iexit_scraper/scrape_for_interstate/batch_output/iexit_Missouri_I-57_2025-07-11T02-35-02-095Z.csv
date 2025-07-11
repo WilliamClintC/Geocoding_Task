@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-57,23931,Weigh Station,WEIGH STATION,Weigh Station,"Charleston, Missouri",https://www.iexitapp.com/Missouri/I-57/Weigh%20Station/23931,36.983582,-89.246737,http://maps.google.com/maps?t=m&q=loc:36.983582+-89.246737,Southbound
+Missouri,I-57,23932,Exit 12,EXIT 12,US-62; MO-77; I-57; Charleston; Wyatt,"Charleston, Missouri",https://www.iexitapp.com/Missouri/I-57/Exit%2012/23932,36.92402,-89.315292,http://maps.google.com/maps?t=m&q=loc:36.92402+-89.315292,Southbound
+Missouri,I-57,23933,Exit 10,EXIT 10,Missouri 105; Charleston; East Prairie,"Charleston, Missouri",https://www.iexitapp.com/Missouri/I-57/Exit%2010/23933,36.906017,-89.347973,http://maps.google.com/maps?t=m&q=loc:36.906017+-89.347973,Southbound
+Missouri,I-57,23934,Exit 4,EXIT 4,State Highway B; Bertrand,"Bertrand, Missouri",https://www.iexitapp.com/Missouri/I-57/Exit%204/23934,36.902365,-89.45228,http://maps.google.com/maps?t=m&q=loc:36.902365+-89.45228,Southbound

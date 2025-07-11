@@ -1,0 +1,3 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Maryland,I-795,40823,Exit 7,EXIT 7,Franklin Boulevard,"Reisterstown, Maryland",https://www.iexitapp.com/Maryland/I-795/Exit%207/40823,39.446612,-76.827747,http://maps.google.com/maps?t=m&q=loc:39.446612+-76.827747,Southbound
+Maryland,I-795,40824,"Exit 4A,B","EXIT 4A,B",Owings Mills Boulevard,"Owings Mills, Maryland","https://www.iexitapp.com/Maryland/I-795/Exit%204A,B/40824",39.417865,-76.798012,http://maps.google.com/maps?t=m&q=loc:39.417865+-76.798012,Southbound

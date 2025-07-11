@@ -1,0 +1,58 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-29,20088,Weigh Station,WEIGH STATION,Weigh Station,"Rock Port, Missouri",https://www.iexitapp.com/Missouri/I-29/Weigh%20Station/20088,40.552493,-95.629849,http://maps.google.com/maps?t=m&q=loc:40.552493+-95.629849,Southbound
+Missouri,I-29,20089,Exit 116,EXIT 116,MO A,"Rock Port, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%20116/20089,40.47975,-95.593787,http://maps.google.com/maps?t=m&q=loc:40.47975+-95.593787,Southbound
+Missouri,I-29,20090,Exit 110,EXIT 110,US-136; Rock Port; Brownville NE,"Rock Port, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%20110/20090,40.412238,-95.558351,http://maps.google.com/maps?t=m&q=loc:40.412238+-95.558351,Southbound
+Missouri,I-29,20091,Missouri Welcome Center,WELCOME CENTER,Missouri Welcome Center,"Rock Port, Missouri",https://www.iexitapp.com/Missouri/I-29/Welcome%20Center/20091,40.397482,-95.550236,http://maps.google.com/maps?t=m&q=loc:40.397482+-95.550236,Southbound
+Missouri,I-29,20092,Exit 107,EXIT 107,Missouri 111; Rock Port; Langdon,"Rock Port, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%20107/20092,40.372459,-95.536474,http://maps.google.com/maps?t=m&q=loc:40.372459+-95.536474,Southbound
+Missouri,I-29,20093,Exit 99,EXIT 99,Missouri W; Corning,"Craig, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2099/20093,40.26672,-95.459682,http://maps.google.com/maps?t=m&q=loc:40.26672+-95.459682,Southbound
+Missouri,I-29,20094,Exit 92,EXIT 92,U.S. 59; Craig; Fairfax,"Craig, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2092/20094,40.197393,-95.364429,http://maps.google.com/maps?t=m&q=loc:40.197393+-95.364429,Southbound
+Missouri,I-29,20095,Exit 84,EXIT 84,MO-118; Mound City,"Mound City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2084/20095,40.135181,-95.239037,http://maps.google.com/maps?t=m&q=loc:40.135181+-95.239037,Southbound
+Missouri,I-29,20096,Rest Area,PARKING AREA,Rest Area,"Mound City, Missouri",https://www.iexitapp.com/Missouri/I-29/Parking%20Area/20096,40.106134,-95.216174,http://maps.google.com/maps?t=m&q=loc:40.106134+-95.216174,Southbound
+Missouri,I-29,20097,Exit 79,EXIT 79,US-159; Rulo NE,"Mound City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2079/20097,40.075644,-95.196327,http://maps.google.com/maps?t=m&q=loc:40.075644+-95.196327,Southbound
+Missouri,I-29,20098,Exit 75,EXIT 75,US-59; Oregon,"Oregon, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2075/20098,40.04671,-95.141778,http://maps.google.com/maps?t=m&q=loc:40.04671+-95.141778,Southbound
+Missouri,I-29,20099,Exit 67,EXIT 67,US-59; Oregon,"Oregon, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2067/20099,39.975596,-95.019412,http://maps.google.com/maps?t=m&q=loc:39.975596+-95.019412,Southbound
+Missouri,I-29,20100,Exit 65,EXIT 65,US-59; Missouri Ra; Savannah; Fillmore,"Amazonia, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2065/20100,39.968852,-94.979056,http://maps.google.com/maps?t=m&q=loc:39.968852+-94.979056,Southbound
+Missouri,I-29,20101,Exit 60,EXIT 60,Missouri K; Missouri CC; Amazonia,"Amazonia, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2060/20101,39.913693,-94.901249,http://maps.google.com/maps?t=m&q=loc:39.913693+-94.901249,Southbound
+Missouri,I-29,53462,Exit 56A,EXIT 56A,"I 229
+          (MM: 56.0)","Savannah, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2056A/53462,39.883424,-94.854224,http://maps.google.com/maps?t=m&q=loc:39.883424+-94.854224,Southbound
+Missouri,I-29,20103,Exit 53,EXIT 53,US-71 BUS; I-29 BUS; US-59; Savannah; St Joseph,"Savannah, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2053/20103,39.860223,-94.814362,http://maps.google.com/maps?t=m&q=loc:39.860223+-94.814362,Southbound
+Missouri,I-29,20104,Exit 50,EXIT 50,US-169; King City; St Joseph,"St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2050/20104,39.818552,-94.804979,http://maps.google.com/maps?t=m&q=loc:39.818552+-94.804979,Southbound
+Missouri,I-29,20105,Exit 47,EXIT 47,MO-6; Clarksdale; Frederick Blvd,"St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2047/20105,39.78109,-94.79443,http://maps.google.com/maps?t=m&q=loc:39.78109+-94.79443,Southbound
+Missouri,I-29,20106,Exit 46B,EXIT 46B,"US 36
+          (MM: 46.0)","St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2046B/20106,39.753345,-94.790306,http://maps.google.com/maps?t=m&q=loc:39.753345+-94.790306,Southbound
+Missouri,I-29,53465,Exit 46A,EXIT 46A,"US 36
+          (MM: 46.0)","St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2046A/53465,39.749014,-94.789705,http://maps.google.com/maps?t=m&q=loc:39.749014+-94.789705,Southbound
+Missouri,I-29,20107,Exit 44,EXIT 44,US-169; I-29 BUS; Gower; St Joseph,"St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2044/20107,39.726448,-94.788756,http://maps.google.com/maps?t=m&q=loc:39.726448+-94.788756,Southbound
+Missouri,I-29,20109,Exit 35,EXIT 35,Missouri DD; Faucett,"Faucett, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2035/20109,39.602038,-94.788751,http://maps.google.com/maps?t=m&q=loc:39.602038+-94.788751,Southbound
+Missouri,I-29,20110,Exit 30,EXIT 30,County Rd Z; County Rd H; Dearborn; New Market,"Dearborn, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2030/20110,39.518443,-94.786924,http://maps.google.com/maps?t=m&q=loc:39.518443+-94.786924,Southbound
+Missouri,I-29,20111,Rest Area,REST AREA,Rest Area,"Dearborn, Missouri",https://www.iexitapp.com/Missouri/I-29/Rest%20Area/20111,39.479137,-94.787233,http://maps.google.com/maps?t=m&q=loc:39.479137+-94.787233,Southbound
+Missouri,I-29,20112,Exit 25,EXIT 25,County Rd U; Camden Point; Platte County E,"Platte City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2025/20112,39.453457,-94.788641,http://maps.google.com/maps?t=m&q=loc:39.453457+-94.788641,Southbound
+Missouri,I-29,20113,Truck Turnout,TURN OUT,Truck Turnout,"Platte City, Missouri",https://www.iexitapp.com/Missouri/I-29/Truck%20Turnout/20113,39.432947,-94.789779,http://maps.google.com/maps?t=m&q=loc:39.432947+-94.789779,Southbound
+Missouri,I-29,53469,Exit 20,EXIT 20,MO-273 N; Tracy; Weston,"Platte City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2020/53469,39.38767,-94.78965,http://maps.google.com/maps?t=m&q=loc:39.38767+-94.78965,Southbound
+Missouri,I-29,53470,Exit 19,EXIT 19,Main St; Missouri HH,"Platte City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2019/53470,39.376114,-94.778145,http://maps.google.com/maps?t=m&q=loc:39.376114+-94.778145,Southbound
+Missouri,I-29,53471,Exit 18,EXIT 18,Missouri 92; Smithville; Platte City,"Platte City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2018/53471,39.355939,-94.76471,http://maps.google.com/maps?t=m&q=loc:39.355939+-94.76471,Southbound
+Missouri,I-29,53474,Exit 15,EXIT 15,Mexico City Avenue,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2015/53474,39.331536,-94.716987,http://maps.google.com/maps?t=m&q=loc:39.331536+-94.716987,Southbound
+Missouri,I-29,20120,Exit 13,EXIT 13,KCI Airport,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2013/20120,39.313946,-94.689994,http://maps.google.com/maps?t=m&q=loc:39.313946+-94.689994,Southbound
+Missouri,I-29,20121,Exit 12,EXIT 12,NW 112th St,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2012/20121,39.299479,-94.686208,http://maps.google.com/maps?t=m&q=loc:39.299479+-94.686208,Southbound
+Missouri,I-29,20122,Exit 10,EXIT 10,Tiffany Springs Pkwy,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%2010/20122,39.276059,-94.671479,http://maps.google.com/maps?t=m&q=loc:39.276059+-94.671479,Southbound
+Missouri,I-29,20123,Exit 9B,EXIT 9B,"MO 152
+          (MM: 9.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%209B/20123,39.259776,-94.659815,http://maps.google.com/maps?t=m&q=loc:39.259776+-94.659815,Southbound
+Missouri,I-29,53476,Exit 9A,EXIT 9A,"MO 152
+          (MM: 9.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%209A/53476,39.253962,-94.658464,http://maps.google.com/maps?t=m&q=loc:39.253962+-94.658464,Southbound
+Missouri,I-29,20124,Exit 8,EXIT 8,MO-9; NW Barry Rd; Parkville,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%208/20124,39.252651,-94.658445,http://maps.google.com/maps?t=m&q=loc:39.252651+-94.658445,Southbound
+Missouri,I-29,57818,Exit 6,EXIT 6,NW 72nd St; Platte Woods,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%206/57818,39.22835,-94.652035,http://maps.google.com/maps?t=m&q=loc:39.22835+-94.652035,Southbound
+Missouri,I-29,20126,Exit 5,EXIT 5,Missouri 45 N; NW 64th St,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%205/20126,39.213149,-94.641097,http://maps.google.com/maps?t=m&q=loc:39.213149+-94.641097,Southbound
+Missouri,I-29,20128,Exit 3C,EXIT 3C,NW Gateway; Riverside,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%203C/20128,39.191394,-94.616027,http://maps.google.com/maps?t=m&q=loc:39.191394+-94.616027,Southbound
+Missouri,I-29,20129,Exit 2B,EXIT 2B,"US 169
+          (MM: 2.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%202B/20129,39.185176,-94.596978,http://maps.google.com/maps?t=m&q=loc:39.185176+-94.596978,Southbound
+Missouri,I-29,53480,Exit 2A,EXIT 2A,"US 169
+          (MM: 2.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%202A/53480,39.181648,-94.589452,http://maps.google.com/maps?t=m&q=loc:39.181648+-94.589452,Southbound
+Missouri,I-29,20130,Exit 1E,EXIT 1E,U.S. 69 S,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%201E/20130,39.179959,-94.585578,http://maps.google.com/maps?t=m&q=loc:39.179959+-94.585578,Southbound
+Missouri,I-29,20131,Exit 1D,EXIT 1D,Missouri 283 S; Oak Trfwy,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%201D/20131,39.179447,-94.581194,http://maps.google.com/maps?t=m&q=loc:39.179447+-94.581194,Southbound
+Missouri,I-29,20132,Exit 1C,EXIT 1C,N Oak Trfwy,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%201C/20132,39.179413,-94.575032,http://maps.google.com/maps?t=m&q=loc:39.179413+-94.575032,Southbound
+Missouri,I-29,20134,Exit 1A,EXIT 1A,Davidson Rd,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%201A/20134,39.176095,-94.561857,http://maps.google.com/maps?t=m&q=loc:39.176095+-94.561857,Southbound
+Missouri,I-29,20136,Exit 8A,EXIT 8A,Parvin Rd,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%208A/20136,39.166065,-94.559193,http://maps.google.com/maps?t=m&q=loc:39.166065+-94.559193,Southbound
+Missouri,I-29,20137,Exit 6,EXIT 6,Missouri 210; Armour Road,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%206/20137,39.14848,-94.559828,http://maps.google.com/maps?t=m&q=loc:39.14848+-94.559828,Southbound
+Missouri,I-29,20138,Exit 5,EXIT 5,Levee Road,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%205/20138,39.130353,-94.568078,http://maps.google.com/maps?t=m&q=loc:39.130353+-94.568078,Southbound
+Missouri,I-29,20139,Exit 4B,EXIT 4B,Front Street; Grand Boulevard,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%204B/20139,39.121445,-94.565085,http://maps.google.com/maps?t=m&q=loc:39.121445+-94.565085,Southbound
+Missouri,I-29,20140,Exit 4A,EXIT 4A,The Paseo; US 24,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-29/Exit%204A/20140,39.112022,-94.56486,http://maps.google.com/maps?t=m&q=loc:39.112022+-94.56486,Southbound

@@ -1,0 +1,176 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-4,16574,Exit 1,EXIT 1,FL-585; 22nd St; 21st St,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%201/16574,27.964759,-82.443644,http://maps.google.com/maps?t=m&q=loc:27.964759+-82.443644,Eastbound
+Florida,I-4,16575,Exit 2,EXIT 2,"618 Toll
+          (MM: 2.0)","Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%202/16575,27.964674,-82.434284,http://maps.google.com/maps?t=m&q=loc:27.964674+-82.434284,Eastbound
+Florida,I-4,16576,Exit 3,EXIT 3,East Columbus Drive,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%203/16576,27.96461,-82.412295,http://maps.google.com/maps?t=m&q=loc:27.96461+-82.412295,Eastbound
+Florida,I-4,16577,Exit 5,EXIT 5,FL-574 W,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%205/16577,27.977659,-82.388807,http://maps.google.com/maps?t=m&q=loc:27.977659+-82.388807,Eastbound
+Florida,I-4,16578,Exit 6,EXIT 6,Orient Rd,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%206/16578,27.986431,-82.37734,http://maps.google.com/maps?t=m&q=loc:27.986431+-82.37734,Eastbound
+Florida,I-4,16579,Exit 7,EXIT 7,"US 92
+          (MM: 7.0)","Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%207/16579,27.992068,-82.370096,http://maps.google.com/maps?t=m&q=loc:27.992068+-82.370096,Eastbound
+Florida,I-4,48454,Exit 7,EXIT 7,US-92 E; US-301 E; Riverview; Zephyrhills,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%207/48454,27.992068,-82.370096,http://maps.google.com/maps?t=m&q=loc:27.992068+-82.370096,Eastbound
+Florida,I-4,16581,Exit 10,EXIT 10,Thonotosassa,"Seffner, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2010/16581,28.004917,-82.307976,http://maps.google.com/maps?t=m&q=loc:28.004917+-82.307976,Eastbound
+Florida,I-4,16582,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 12.0)","Seffner, Florida",https://www.iexitapp.com/Florida/I-4/Weigh%20Station/16582,28.011313,-82.27966,http://maps.google.com/maps?t=m&q=loc:28.011313+-82.27966,Eastbound
+Florida,I-4,16583,Exit 14,EXIT 14,McIntosh Rd,"Dover, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2014/16583,28.0216,-82.250883,http://maps.google.com/maps?t=m&q=loc:28.0216+-82.250883,Eastbound
+Florida,I-4,16584,Exit 17,EXIT 17,Branch Forbes Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2017/16584,28.026858,-82.193316,http://maps.google.com/maps?t=m&q=loc:28.026858+-82.193316,Eastbound
+Florida,I-4,16585,Exit 19,EXIT 19,FL-566; Thonotosassa Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2019/16585,28.026927,-82.160417,http://maps.google.com/maps?t=m&q=loc:28.026927+-82.160417,Eastbound
+Florida,I-4,16586,Exit 21,EXIT 21,FL-39; Alexander St; Buchman Hwy,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2021/16586,28.029715,-82.140496,http://maps.google.com/maps?t=m&q=loc:28.029715+-82.140496,Eastbound
+Florida,I-4,16587,Exit 22,EXIT 22,Park Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2022/16587,28.036647,-82.11188,http://maps.google.com/maps?t=m&q=loc:28.036647+-82.11188,Eastbound
+Florida,I-4,16588,Exit 25,EXIT 25,County Line Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2025/16588,28.036601,-82.063463,http://maps.google.com/maps?t=m&q=loc:28.036601+-82.063463,Eastbound
+Florida,I-4,16589,Exit 27,EXIT 27,"570 Toll
+          (MM: 27.0)","Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2027/16589,28.036465,-82.045833,http://maps.google.com/maps?t=m&q=loc:28.036465+-82.045833,Eastbound
+Florida,I-4,16590,Exit 28,EXIT 28,US-92; Lakeland,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2028/16590,28.048427,-82.019638,http://maps.google.com/maps?t=m&q=loc:28.048427+-82.019638,Eastbound
+Florida,I-4,16591,Exit 31,EXIT 31,FL-539; Kathleen; Lakeland,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2031/16591,28.068345,-81.992547,http://maps.google.com/maps?t=m&q=loc:28.068345+-81.992547,Eastbound
+Florida,I-4,16592,Exit 32,EXIT 32,US-98; Lakeland,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2032/16592,28.079791,-81.97729,http://maps.google.com/maps?t=m&q=loc:28.079791+-81.97729,Eastbound
+Florida,I-4,16593,Exit 33,EXIT 33,FL-33 S,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2033/16593,28.102849,-81.947379,http://maps.google.com/maps?t=m&q=loc:28.102849+-81.947379,Eastbound
+Florida,I-4,16594,Exit 38,EXIT 38,FL-33 N,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2038/16594,28.138533,-81.904183,http://maps.google.com/maps?t=m&q=loc:28.138533+-81.904183,Eastbound
+Florida,I-4,16595,Exit 41,EXIT 41,"570 Toll
+          (MM: 41.0)","Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2041/16595,28.152307,-81.853791,http://maps.google.com/maps?t=m&q=loc:28.152307+-81.853791,Eastbound
+Florida,I-4,16596,Exit 44,EXIT 44,FL-559; Polk City; Auburndale,"Polk City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2044/16596,28.157392,-81.807486,http://maps.google.com/maps?t=m&q=loc:28.157392+-81.807486,Eastbound
+Florida,I-4,16597,Rest Area,REST AREA,"Rest Area
+          (MM: 46.0)","Polk City, Florida",https://www.iexitapp.com/Florida/I-4/Rest%20Area/16597,28.166653,-81.775034,http://maps.google.com/maps?t=m&q=loc:28.166653+-81.775034,Eastbound
+Florida,I-4,16598,Exit 48,EXIT 48,County Rd 557; Lake Alfred; Winter Haven,"Davenport, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2048/16598,28.182208,-81.743123,http://maps.google.com/maps?t=m&q=loc:28.182208+-81.743123,Eastbound
+Florida,I-4,48460,Exit 55,EXIT 55,US-27; Haines City; Clermont,"Davenport, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2055/48460,28.231667,-81.650499,http://maps.google.com/maps?t=m&q=loc:28.231667+-81.650499,Eastbound
+Florida,I-4,16600,Exit 58,EXIT 58,Kissimmee; Poinciana,"Davenport, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2058/16600,28.257524,-81.616103,http://maps.google.com/maps?t=m&q=loc:28.257524+-81.616103,Eastbound
+Florida,I-4,48461,Exit 60,EXIT 60,"FL 429 Toll
+          (MM: 60.0)","Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2060/48461,28.275442,-81.599145,http://maps.google.com/maps?t=m&q=loc:28.275442+-81.599145,Eastbound
+Florida,I-4,48463,Exit 62,EXIT 62,"FL 417 Toll
+          (MM: 62.0)","Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2062/48463,28.305991,-81.569907,http://maps.google.com/maps?t=m&q=loc:28.305991+-81.569907,Eastbound
+Florida,I-4,48464,Exit 62,EXIT 62,Disney World,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2062/48464,28.305991,-81.569907,http://maps.google.com/maps?t=m&q=loc:28.305991+-81.569907,Eastbound
+Florida,I-4,48465,Exit 62,EXIT 62,Florida 417 Toll N; Airport; Disney World Celebration,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2062/48465,28.305991,-81.569907,http://maps.google.com/maps?t=m&q=loc:28.305991+-81.569907,Eastbound
+Florida,I-4,48466,Exit 64,EXIT 64,US 192 East - Kissimmee,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2064/48466,28.325109,-81.55229,http://maps.google.com/maps?t=m&q=loc:28.325109+-81.55229,Eastbound
+Florida,I-4,76623,Exit 64,EXIT 64,US 192 West; Magic Kingdom; Hollywood Studios,"Celebration, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2064/76623,28.328984,-81.548253,http://maps.google.com/maps?t=m&q=loc:28.328984+-81.548253,Eastbound
+Florida,I-4,48467,Exit 65,EXIT 65,Osceola Pkwy; Animal Kingdom,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2065/48467,28.332165,-81.545659,http://maps.google.com/maps?t=m&q=loc:28.332165+-81.545659,Eastbound
+Florida,I-4,48468,Exit 65,EXIT 65,Osceola Pkwy; Animal Kingdom,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2065/48468,28.34643,-81.530137,http://maps.google.com/maps?t=m&q=loc:28.34643+-81.530137,Eastbound
+Florida,I-4,48470,Exit 67,EXIT 67,"FL 536;FL 536
+          (MM: 67.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2067/48470,28.345714,-81.532943,http://maps.google.com/maps?t=m&q=loc:28.345714+-81.532943,Eastbound
+Florida,I-4,48472,Exit 68,EXIT 68,FL-535; Lake Buena Vista,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2068/48472,28.371114,-81.51016,http://maps.google.com/maps?t=m&q=loc:28.371114+-81.51016,Eastbound
+Florida,I-4,48473,Exit 71,EXIT 71,Sea World,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2071/48473,28.405503,-81.479293,http://maps.google.com/maps?t=m&q=loc:28.405503+-81.479293,Eastbound
+Florida,I-4,48474,Exit 72,EXIT 72,"FL 528 Toll
+          (MM: 72.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2072/48474,28.416811,-81.474055,http://maps.google.com/maps?t=m&q=loc:28.416811+-81.474055,Eastbound
+Florida,I-4,48476,Exit 74A,EXIT 74A,FL-482 E; International Dr,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2074A/48476,28.44605,-81.474141,http://maps.google.com/maps?t=m&q=loc:28.44605+-81.474141,Eastbound
+Florida,I-4,16611,Exit 75A,EXIT 75A,FL-435 S; International Dr,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2075A/16611,28.461881,-81.469168,http://maps.google.com/maps?t=m&q=loc:28.461881+-81.469168,Eastbound
+Florida,I-4,16612,Exit 75B,EXIT 75B,435,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2075B/16612,28.465381,-81.464811,http://maps.google.com/maps?t=m&q=loc:28.465381+-81.464811,Eastbound
+Florida,I-4,48477,Exit 77,EXIT 77,"Florida&#39;s Turnpike;Florida&#39;s Turnpike
+          (MM: 77.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2077/48477,28.479193,-81.448629,http://maps.google.com/maps?t=m&q=loc:28.479193+-81.448629,Eastbound
+Florida,I-4,16614,Exit 78,EXIT 78,Conroy Rd,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2078/16614,28.486101,-81.440204,http://maps.google.com/maps?t=m&q=loc:28.486101+-81.440204,Eastbound
+Florida,I-4,16615,Exit 79,EXIT 79,Orange County Road 423; John Young Pkwy,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2079/16615,28.504821,-81.422997,http://maps.google.com/maps?t=m&q=loc:28.504821+-81.422997,Eastbound
+Florida,I-4,16616,Exit 80A,EXIT 80A,US-17 S; US-441 S; US-92 W; Orange Blossom Trail,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2080A/16616,28.509211,-81.402334,http://maps.google.com/maps?t=m&q=loc:28.509211+-81.402334,Eastbound
+Florida,I-4,16617,Exit 80B,EXIT 80B,US-17 N; US-441 N; US-92 E; Orange Blossom Trail,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2080B/16617,28.509461,-81.399264,http://maps.google.com/maps?t=m&q=loc:28.509461+-81.399264,Eastbound
+Florida,I-4,16618,Exit 81,EXIT 81,Kaley Ave,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2081/16618,28.515233,-81.388991,http://maps.google.com/maps?t=m&q=loc:28.515233+-81.388991,Eastbound
+Florida,I-4,76910,Exit 81,EXIT 81,Michigan St; US-441 N; US-17 N; US-92 E,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2081/76910,28.515451,-81.388831,http://maps.google.com/maps?t=m&q=loc:28.515451+-81.388831,Eastbound
+Florida,I-4,16619,Exit 82A,EXIT 82A,"FL 408 Toll
+          (MM: 82.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2082A/16619,28.525708,-81.38612,http://maps.google.com/maps?t=m&q=loc:28.525708+-81.38612,Eastbound
+Florida,I-4,16620,Exit 82B,EXIT 82B,South St,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2082B/16620,28.529308,-81.386137,http://maps.google.com/maps?t=m&q=loc:28.529308+-81.386137,Eastbound
+Florida,I-4,16621,Exit 83A,EXIT 83A,Amelia St; Centroplex; US-17; US-92; FL-50,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2083A/16621,28.545775,-81.382327,http://maps.google.com/maps?t=m&q=loc:28.545775+-81.382327,Eastbound
+Florida,I-4,16623,Exit 85,EXIT 85,Princeton St,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2085/16623,28.568741,-81.375654,http://maps.google.com/maps?t=m&q=loc:28.568741+-81.375654,Eastbound
+Florida,I-4,16624,Exit 86,EXIT 86,Par St,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2086/16624,28.579754,-81.374973,http://maps.google.com/maps?t=m&q=loc:28.579754+-81.374973,Eastbound
+Florida,I-4,16625,Exit 87,EXIT 87,Fairbanks Ave,"Winter Park, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2087/16625,28.591042,-81.379572,http://maps.google.com/maps?t=m&q=loc:28.591042+-81.379572,Eastbound
+Florida,I-4,16626,Exit 88,EXIT 88,FL-423; Lee Rd,"Winter Park, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2088/16626,28.599902,-81.386188,http://maps.google.com/maps?t=m&q=loc:28.599902+-81.386188,Eastbound
+Florida,I-4,16627,Exit 90A,EXIT 90A,FL-414 E; Maitland Blvd,"Maitland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2090A/16627,28.625343,-81.386478,http://maps.google.com/maps?t=m&q=loc:28.625343+-81.386478,Eastbound
+Florida,I-4,16628,Exit 90B,EXIT 90B,Maitland Blvd; FL-414 W,"Maitland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2090B/16628,28.627295,-81.386585,http://maps.google.com/maps?t=m&q=loc:28.627295+-81.386585,Eastbound
+Florida,I-4,16629,Exit 92,EXIT 92,FL-436; Altamonte Springs; Apopka,"Altamonte Springs, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2092/16629,28.658696,-81.38844,http://maps.google.com/maps?t=m&q=loc:28.658696+-81.38844,Eastbound
+Florida,I-4,16630,Exit 94,EXIT 94,FL-434; Longwood; Winter Springs,"Longwood, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2094/16630,28.686906,-81.388593,http://maps.google.com/maps?t=m&q=loc:28.686906+-81.388593,Eastbound
+Florida,I-4,16631,Rest Area,REST AREA,"Rest Area
+          (MM: 96.0)","Longwood, Florida",https://www.iexitapp.com/Florida/I-4/Rest%20Area/16631,28.719873,-81.376079,http://maps.google.com/maps?t=m&q=loc:28.719873+-81.376079,Eastbound
+Florida,I-4,16632,Exit 98,EXIT 98,Lake Mary; Heathrow,"Lake Mary, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2098/16632,28.74793,-81.366088,http://maps.google.com/maps?t=m&q=loc:28.74793+-81.366088,Eastbound
+Florida,I-4,16633,Exit 101A,EXIT 101A,CR 46A,"Lake Mary, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20101A/16633,28.779825,-81.353565,http://maps.google.com/maps?t=m&q=loc:28.779825+-81.353565,Eastbound
+Florida,I-4,16634,Exit 101B,EXIT 101B,"FL 417 Toll
+          (MM: 101.0)","Lake Mary, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20101B/16634,28.785504,-81.350732,http://maps.google.com/maps?t=m&q=loc:28.785504+-81.350732,Eastbound
+Florida,I-4,48481,Exit 101C,EXIT 101C,"FL 46, Mount Dora, Sanford Historic District","Sanford, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20101C/48481,28.785504,-81.350732,http://maps.google.com/maps?t=m&q=loc:28.785504+-81.350732,Eastbound
+Florida,I-4,16635,Exit 104,EXIT 104,US-17 N; US-92 E,"Sanford, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20104/16635,28.825633,-81.328831,http://maps.google.com/maps?t=m&q=loc:28.825633+-81.328831,Eastbound
+Florida,I-4,16636,Exit 108,EXIT 108,Deltona; DeBary,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20108/16636,28.872147,-81.284087,http://maps.google.com/maps?t=m&q=loc:28.872147+-81.284087,Eastbound
+Florida,I-4,16637,Exit 111A,EXIT 111A,Deltona,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20111A/16637,28.908688,-81.272366,http://maps.google.com/maps?t=m&q=loc:28.908688+-81.272366,Eastbound
+Florida,I-4,16638,Exit 111B,EXIT 111B,Orange City,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20111B/16638,28.911843,-81.271369,http://maps.google.com/maps?t=m&q=loc:28.911843+-81.271369,Eastbound
+Florida,I-4,16639,Exit 114,EXIT 114,FL-472; Deltona; Deland,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20114/16639,28.949334,-81.2595,http://maps.google.com/maps?t=m&q=loc:28.949334+-81.2595,Eastbound
+Florida,I-4,16640,Exit 116,EXIT 116,Lake Helen,"Lake Helen, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20116/16640,28.985371,-81.247964,http://maps.google.com/maps?t=m&q=loc:28.985371+-81.247964,Eastbound
+Florida,I-4,16641,Exit 118A-B,EXIT 118A-B,FL 44,"DeLand, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20118A-B/16641,29.012146,-81.236727,http://maps.google.com/maps?t=m&q=loc:29.012146+-81.236727,Eastbound
+Florida,I-4,48483,Exit 118A-B,EXIT 118A-B,FL 44,"DeLand, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20118A-B/48483,29.015388,-81.23339,http://maps.google.com/maps?t=m&q=loc:29.015388+-81.23339,Eastbound
+Florida,I-4,16642,Exit 129,EXIT 129,92 E; Daytona Beach,"Daytona Beach, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20129/16642,29.134329,-81.120941,http://maps.google.com/maps?t=m&q=loc:29.134329+-81.120941,Eastbound
+Florida,I-4,16644,Exit 118B-A,EXIT 118B-A,FL 44,"DeLand, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20118B-A/16644,29.022313,-81.22751,http://maps.google.com/maps?t=m&q=loc:29.022313+-81.22751,Westbound
+Florida,I-4,48485,Exit 118B-A,EXIT 118B-A,FL 44,"DeLand, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20118B-A/48485,29.019281,-81.230638,http://maps.google.com/maps?t=m&q=loc:29.019281+-81.230638,Westbound
+Florida,I-4,16645,Exit 116,EXIT 116,Orange Camp Rd,"Lake Helen, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20116/16645,28.98408,-81.248677,http://maps.google.com/maps?t=m&q=loc:28.98408+-81.248677,Westbound
+Florida,I-4,16646,Exit 114,EXIT 114,FL-472 E; Deltona,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20114/16646,28.957813,-81.256994,http://maps.google.com/maps?t=m&q=loc:28.957813+-81.256994,Westbound
+Florida,I-4,16647,Exit 111A,EXIT 111A,Deltona,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20111A/16647,28.915109,-81.270829,http://maps.google.com/maps?t=m&q=loc:28.915109+-81.270829,Westbound
+Florida,I-4,16648,Exit 111B,EXIT 111B,Orange City,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20111B/16648,28.910097,-81.272443,http://maps.google.com/maps?t=m&q=loc:28.910097+-81.272443,Westbound
+Florida,I-4,16649,Exit 108,EXIT 108,Deltona; DeBary,"Deltona, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20108/16649,28.876845,-81.282722,http://maps.google.com/maps?t=m&q=loc:28.876845+-81.282722,Westbound
+Florida,I-4,16650,Exit 104,EXIT 104,US-17; US-92; Sanford,"Sanford, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20104/16650,28.832824,-81.322405,http://maps.google.com/maps?t=m&q=loc:28.832824+-81.322405,Westbound
+Florida,I-4,16651,Exit 101C,EXIT 101C,FL-46; Mt Dora; Sanford Historic District,"Sanford, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20101C/16651,28.816056,-81.335807,http://maps.google.com/maps?t=m&q=loc:28.816056+-81.335807,Westbound
+Florida,I-4,16652,Exit 101B,EXIT 101B,"FL 417 Toll
+          (MM: 101.0)","Sanford, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20101B/16652,28.81373,-81.336942,http://maps.google.com/maps?t=m&q=loc:28.81373+-81.336942,Westbound
+Florida,I-4,48486,Exit 101A,EXIT 101A,CR 46A,"Sanford, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20101A/48486,28.81373,-81.336942,http://maps.google.com/maps?t=m&q=loc:28.81373+-81.336942,Westbound
+Florida,I-4,16653,Exit 98,EXIT 98,Lake Mary; Heathrow,"Lake Mary, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2098/16653,28.761776,-81.361522,http://maps.google.com/maps?t=m&q=loc:28.761776+-81.361522,Westbound
+Florida,I-4,48488,Rest Area,REST AREA,"Rest Area
+          (MM: 94.0)","Longwood, Florida",https://www.iexitapp.com/Florida/I-4/Rest%20Area/48488,28.705506,-81.381444,http://maps.google.com/maps?t=m&q=loc:28.705506+-81.381444,Westbound
+Florida,I-4,16655,Exit 94,EXIT 94,FL-434; Longwood; Winter Springs,"Longwood, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2094/16655,28.693771,-81.388681,http://maps.google.com/maps?t=m&q=loc:28.693771+-81.388681,Westbound
+Florida,I-4,16656,Exit 92,EXIT 92,FL-436; Altamonte Springs; Apopka,"Altamonte Springs, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2092/16656,28.664759,-81.388734,http://maps.google.com/maps?t=m&q=loc:28.664759+-81.388734,Westbound
+Florida,I-4,16657,Exit 90,EXIT 90,FL-414; Maitland Blvd,"Maitland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2090/16657,28.634995,-81.387683,http://maps.google.com/maps?t=m&q=loc:28.634995+-81.387683,Westbound
+Florida,I-4,16658,Exit 88,EXIT 88,FL-423; Lee Rd,"Winter Park, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2088/16658,28.612103,-81.386716,http://maps.google.com/maps?t=m&q=loc:28.612103+-81.386716,Westbound
+Florida,I-4,16659,Exit 87,EXIT 87,Fairbanks Ave,"Winter Park, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2087/16659,28.594735,-81.384209,http://maps.google.com/maps?t=m&q=loc:28.594735+-81.384209,Westbound
+Florida,I-4,16660,Exit 85,EXIT 85,Princeton St,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2085/16660,28.573895,-81.375876,http://maps.google.com/maps?t=m&q=loc:28.573895+-81.375876,Westbound
+Florida,I-4,16661,Exit 84,EXIT 84,US-17; US-92; FL-50; Ivanhoe Blvd; Colonial Dr,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2084/16661,28.563137,-81.37796,http://maps.google.com/maps?t=m&q=loc:28.563137+-81.37796,Westbound
+Florida,I-4,48489,Exit 84,EXIT 84,US 17 S; US-92,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2084/48489,28.559484,-81.380568,http://maps.google.com/maps?t=m&q=loc:28.559484+-81.380568,Westbound
+Florida,I-4,16663,Exit 82B,EXIT 82B,Anderson Street,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2082B/16663,28.541898,-81.382445,http://maps.google.com/maps?t=m&q=loc:28.541898+-81.382445,Westbound
+Florida,I-4,16664,Exit 82A,EXIT 82A,"FL 408 Toll
+          (MM: 82.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2082A/16664,28.53107,-81.385927,http://maps.google.com/maps?t=m&q=loc:28.53107+-81.385927,Westbound
+Florida,I-4,16666,Exit 81B,EXIT 81B,Kaley Street,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2081B/16666,28.520105,-81.385717,http://maps.google.com/maps?t=m&q=loc:28.520105+-81.385717,Westbound
+Florida,I-4,16667,Exit 81,EXIT 81,Michigan St; US-441 N; US-17 N; US-92 E,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2081/16667,28.520873,-81.386581,http://maps.google.com/maps?t=m&q=loc:28.520873+-81.386581,Westbound
+Florida,I-4,16668,Exit 80,EXIT 80,US-17 S; US-441 S; US-92 W; Orange Blossom Trail,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2080/16668,28.512858,-81.393179,http://maps.google.com/maps?t=m&q=loc:28.512858+-81.393179,Westbound
+Florida,I-4,48491,Exit 79,EXIT 79,Orange County Road 423; John Young Parkway,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2079/48491,28.50963,-81.415232,http://maps.google.com/maps?t=m&q=loc:28.50963+-81.415232,Westbound
+Florida,I-4,16670,Exit 78,EXIT 78,Conroy Rd,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2078/16670,28.498569,-81.429019,http://maps.google.com/maps?t=m&q=loc:28.498569+-81.429019,Westbound
+Florida,I-4,48492,Exit 77,EXIT 77,"Florida&#39;s Turnpike;Florida&#39;s Turnpike
+          (MM: 77.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2077/48492,28.483062,-81.444354,http://maps.google.com/maps?t=m&q=loc:28.483062+-81.444354,Westbound
+Florida,I-4,16672,Exit 75B,EXIT 75B,FL-435 N; S Kirkman Rd,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2075B/16672,28.474276,-81.45506,http://maps.google.com/maps?t=m&q=loc:28.474276+-81.45506,Westbound
+Florida,I-4,16673,Exit 75A,EXIT 75A,FL-435 S; S Kirkman Rd; International Dr,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2075A/16673,28.471221,-81.458768,http://maps.google.com/maps?t=m&q=loc:28.471221+-81.458768,Westbound
+Florida,I-4,16674,Exit 74B,EXIT 74B,Universal,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2074B/16674,28.467086,-81.463806,http://maps.google.com/maps?t=m&q=loc:28.467086+-81.463806,Westbound
+Florida,I-4,16675,Exit 74A,EXIT 74A,FL-482; Sand Lake Rd; International Dr,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2074A/16675,28.463743,-81.467866,http://maps.google.com/maps?t=m&q=loc:28.463743+-81.467866,Westbound
+Florida,I-4,48494,Exit 72,EXIT 72,"FL 528 Toll
+          (MM: 72.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2072/48494,28.424855,-81.474398,http://maps.google.com/maps?t=m&q=loc:28.424855+-81.474398,Westbound
+Florida,I-4,48496,Exit 68,EXIT 68,FL-535; Kissimmee; Lake Buena Vista,"Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2068/48496,28.382285,-81.500557,http://maps.google.com/maps?t=m&q=loc:28.382285+-81.500557,Westbound
+Florida,I-4,48497,Exit 67,EXIT 67,"Epcot Center Drive;FL 536
+          (MM: 67.0)","Orlando, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2067/48497,28.363058,-81.522871,http://maps.google.com/maps?t=m&q=loc:28.363058+-81.522871,Westbound
+Florida,I-4,48499,Exit 65,EXIT 65,Animal Kingdom; Wide World of Sports,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2065/48499,28.357262,-81.522984,http://maps.google.com/maps?t=m&q=loc:28.357262+-81.522984,Westbound
+Florida,I-4,48500,Exit 65,EXIT 65,Osceola Pkwy; Animal Kingdom; Wide World of Sports,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2065/48500,28.348066,-81.531739,http://maps.google.com/maps?t=m&q=loc:28.348066+-81.531739,Westbound
+Florida,I-4,48502,Exit 64,EXIT 64,"US 192 West; Magic Kingdom; Hollywood Studios
+          (MM: 64.0)","Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2064/48502,28.344883,-81.534123,http://maps.google.com/maps?t=m&q=loc:28.344883+-81.534123,Westbound
+Florida,I-4,76624,Exit 64,EXIT 64,US 192 East - Kissimmee,"Osceola County, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2064/76624,28.336953,-81.542281,http://maps.google.com/maps?t=m&q=loc:28.336953+-81.542281,Westbound
+Florida,I-4,48504,Exit 62,EXIT 62,Celebration,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2062/48504,28.310675,-81.566839,http://maps.google.com/maps?t=m&q=loc:28.310675+-81.566839,Westbound
+Florida,I-4,48505,Exit 62,EXIT 62,Disney World,"Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2062/48505,28.306533,-81.570699,http://maps.google.com/maps?t=m&q=loc:28.306533+-81.570699,Westbound
+Florida,I-4,48507,Exit 60,EXIT 60,"FL 429 Toll
+          (MM: 60.0)","Kissimmee, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2060/48507,28.287867,-81.587859,http://maps.google.com/maps?t=m&q=loc:28.287867+-81.587859,Westbound
+Florida,I-4,16683,Exit 58,EXIT 58,Poinciana; Kissimmee,"Davenport, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2058/16683,28.264946,-81.609497,http://maps.google.com/maps?t=m&q=loc:28.264946+-81.609497,Westbound
+Florida,I-4,16684,Exit 55,EXIT 55,US-27; Haines City; Clermont,"Davenport, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2055/16684,28.232931,-81.649766,http://maps.google.com/maps?t=m&q=loc:28.232931+-81.649766,Westbound
+Florida,I-4,16685,Exit 48,EXIT 48,Winter Haven,"Davenport, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2048/16685,28.182097,-81.744143,http://maps.google.com/maps?t=m&q=loc:28.182097+-81.744143,Westbound
+Florida,I-4,16686,Rest Area,REST AREA,"Rest Area
+          (MM: 46.0)","Polk City, Florida",https://www.iexitapp.com/Florida/I-4/Rest%20Area/16686,28.174413,-81.762597,http://maps.google.com/maps?t=m&q=loc:28.174413+-81.762597,Westbound
+Florida,I-4,16687,Exit 44,EXIT 44,DC-559; Polk City; Auburndale,"Polk City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2044/16687,28.157929,-81.796045,http://maps.google.com/maps?t=m&q=loc:28.157929+-81.796045,Westbound
+Florida,I-4,16688,Exit 41,EXIT 41,"570 Toll
+          (MM: 41.0)","Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2041/16688,28.154373,-81.84714,http://maps.google.com/maps?t=m&q=loc:28.154373+-81.84714,Westbound
+Florida,I-4,16689,Exit 38,EXIT 38,FL-33 N,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2038/16689,28.141795,-81.893222,http://maps.google.com/maps?t=m&q=loc:28.141795+-81.893222,Westbound
+Florida,I-4,16690,Exit 33,EXIT 33,FL-33; Lakeland,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2033/16690,28.10543,-81.945913,http://maps.google.com/maps?t=m&q=loc:28.10543+-81.945913,Westbound
+Florida,I-4,16691,Exit 32,EXIT 32,US-98; Lakeland; Dade City,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2032/16691,28.089416,-81.965165,http://maps.google.com/maps?t=m&q=loc:28.089416+-81.965165,Westbound
+Florida,I-4,16692,Exit 31,EXIT 31,FL-539; Kathleen; Lakeland,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2031/16692,28.076284,-81.982464,http://maps.google.com/maps?t=m&q=loc:28.076284+-81.982464,Westbound
+Florida,I-4,16693,Exit 28,EXIT 28,US-92; Lakeland,"Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2028/16693,28.05476,-82.011537,http://maps.google.com/maps?t=m&q=loc:28.05476+-82.011537,Westbound
+Florida,I-4,16694,Exit 27,EXIT 27,"570 Toll
+          (MM: 27.0)","Lakeland, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2027/16694,28.037033,-82.039705,http://maps.google.com/maps?t=m&q=loc:28.037033+-82.039705,Westbound
+Florida,I-4,16695,Exit 25,EXIT 25,County Line Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2025/16695,28.036942,-82.055566,http://maps.google.com/maps?t=m&q=loc:28.036942+-82.055566,Westbound
+Florida,I-4,16696,Exit 22,EXIT 22,Park Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2022/16696,28.03692,-82.097134,http://maps.google.com/maps?t=m&q=loc:28.03692+-82.097134,Westbound
+Florida,I-4,16697,Exit 21,EXIT 21,FL-39; Buchman Hwy,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2021/16697,28.036854,-82.120848,http://maps.google.com/maps?t=m&q=loc:28.036854+-82.120848,Westbound
+Florida,I-4,48511,Exit 21,EXIT 21,Alexander St,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2021/48511,28.034712,-82.128028,http://maps.google.com/maps?t=m&q=loc:28.034712+-82.128028,Westbound
+Florida,I-4,16698,Exit 19,EXIT 19,FL-566; Thonotosassa Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2019/16698,28.028071,-82.146427,http://maps.google.com/maps?t=m&q=loc:28.028071+-82.146427,Westbound
+Florida,I-4,16699,Exit 17,EXIT 17,Branch Forbes Rd,"Plant City, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2017/16699,28.02723,-82.179652,http://maps.google.com/maps?t=m&q=loc:28.02723+-82.179652,Westbound
+Florida,I-4,16700,Exit 14,EXIT 14,McIntosh Rd,"Dover, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2014/16700,28.024298,-82.238892,http://maps.google.com/maps?t=m&q=loc:28.024298+-82.238892,Westbound
+Florida,I-4,16701,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 12.0)","Seffner, Florida",https://www.iexitapp.com/Florida/I-4/Weigh%20Station/16701,28.019344,-82.260196,http://maps.google.com/maps?t=m&q=loc:28.019344+-82.260196,Westbound
+Florida,I-4,16702,Exit 10,EXIT 10,FL-579; Mango; Thonotosassa,"Seffner, Florida",https://www.iexitapp.com/Florida/I-4/Exit%2010/16702,28.007431,-82.296227,http://maps.google.com/maps?t=m&q=loc:28.007431+-82.296227,Westbound
+Florida,I-4,16704,Exit 7,EXIT 7,"US 92
+          (MM: 7.0)","Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%207/16704,27.99796,-82.342707,http://maps.google.com/maps?t=m&q=loc:27.99796+-82.342707,Westbound
+Florida,I-4,16705,Exit 5,EXIT 5,FL-574 E,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%205/16705,27.984332,-82.380811,http://maps.google.com/maps?t=m&q=loc:27.984332+-82.380811,Westbound
+Florida,I-4,16706,Exit 3,EXIT 3,US-41 N,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%203/16706,27.972182,-82.39651,http://maps.google.com/maps?t=m&q=loc:27.972182+-82.39651,Westbound
+Florida,I-4,48514,Exit 2,EXIT 2,"I-4/Selmon Expressway Connector
+          (MM: 2.0)","Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%202/48514,27.96539,-82.419597,http://maps.google.com/maps?t=m&q=loc:27.96539+-82.419597,Westbound
+Florida,I-4,48515,Exit 1,EXIT 1,Florida 585; 22nd St; 21st St,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%201/48515,27.965419,-82.429495,http://maps.google.com/maps?t=m&q=loc:27.965419+-82.429495,Westbound
+Florida,I-4,16709,I 275;I 275,EXIT,I 275;I 275,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20/16709,27.965054,-82.446879,http://maps.google.com/maps?t=m&q=loc:27.965054+-82.446879,Westbound
+Florida,I-4,48517,Interstate 275 S,EXIT,Interstate 275 S,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20/48517,27.965054,-82.446879,http://maps.google.com/maps?t=m&q=loc:27.965054+-82.446879,Westbound
+Florida,I-4,48518,Interstate 275 S,EXIT,Interstate 275 S,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20/48518,27.958904,-82.455655,http://maps.google.com/maps?t=m&q=loc:27.958904+-82.455655,Westbound
+Florida,I-4,48519,Interstate 275 S,EXIT,Interstate 275 S,"Tampa, Florida",https://www.iexitapp.com/Florida/I-4/Exit%20/48519,27.956993,-82.461347,http://maps.google.com/maps?t=m&q=loc:27.956993+-82.461347,Westbound

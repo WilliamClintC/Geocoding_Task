@@ -1,0 +1,20 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Delaware,I-95,4956,EZ Pass Toll Booth,TOLL BOOTH,"EZ Pass Toll Booth
+          (MM: 0.5)","Newark, Delaware",https://www.iexitapp.com/Delaware/I-95/Toll/4956,39.644406,-75.765746,http://maps.google.com/maps?t=m&q=loc:39.644406+-75.765746,Northbound
+Delaware,I-95,4957,Exit 1,EXIT 1,Delaware 896; Newark; Middletown,"Newark, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%201/4957,39.646759,-75.749679,http://maps.google.com/maps?t=m&q=loc:39.646759+-75.749679,Northbound
+Delaware,I-95,4958,Biden Welcome Center,SERVICE PLAZA,"Biden Welcome Center
+          (MM: 2.0)","Newark, Delaware",https://www.iexitapp.com/Delaware/I-95/HMSHost%20Service%20Plaza/4958,39.657473,-75.698088,http://maps.google.com/maps?t=m&q=loc:39.657473+-75.698088,Northbound
+Delaware,I-95,4959,Exit 3A,EXIT 3A,DE-273 E; Dover,"Newark, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%203A/4959,39.669612,-75.679502,http://maps.google.com/maps?t=m&q=loc:39.669612+-75.679502,Northbound
+Delaware,I-95,4960,Exit 3B,EXIT 3B,DE-273 W; Newark,"Newark, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%203B/4960,39.672097,-75.67502,http://maps.google.com/maps?t=m&q=loc:39.672097+-75.67502,Northbound
+Delaware,I-95,4961,Exit 4A,EXIT 4A,DE 1;DE 7; Christiana Mall,"Newark, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%204A/4961,39.681564,-75.661943,http://maps.google.com/maps?t=m&q=loc:39.681564+-75.661943,Northbound
+Delaware,I-95,76591,Exit 4B,EXIT 4B,DE 7; Churchmans Rd,"Newark, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%204B/76591,39.681324,-75.658844,http://maps.google.com/maps?t=m&q=loc:39.681324+-75.658844,Northbound
+Delaware,I-95,4962,Exit 5A,EXIT 5A,DE-141 S; U.S.202 S; New Castle; New Castle County Airport,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%205A/4962,39.694687,-75.62171,http://maps.google.com/maps?t=m&q=loc:39.694687+-75.62171,Northbound
+Delaware,I-95,4963,I 295,EXIT,I 295,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%20/4963,39.697876,-75.6115,http://maps.google.com/maps?t=m&q=loc:39.697876+-75.6115,Northbound
+Delaware,I-95,49800,Exit 6,EXIT 6,DE-4; Maryland Ave; M.L King Jr Blvd,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%206/49800,39.733694,-75.565434,http://maps.google.com/maps?t=m&q=loc:39.733694+-75.565434,Northbound
+Delaware,I-95,4966,Exit 7,EXIT 7,DE-52; Delaware Ave,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%207/4966,39.745458,-75.559124,http://maps.google.com/maps?t=m&q=loc:39.745458+-75.559124,Northbound
+Delaware,I-95,49801,Exit 8,EXIT 8,Concord Pike; Wilmington,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%208/49801,39.7633,-75.54848,http://maps.google.com/maps?t=m&q=loc:39.7633+-75.54848,Northbound
+Delaware,I-95,49802,Exit 8,EXIT 8,US-202 N; Concord Pike; W Chester,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%208/49802,39.763891,-75.547581,http://maps.google.com/maps?t=m&q=loc:39.763891+-75.547581,Northbound
+Delaware,I-95,49803,Exit 8,EXIT 8,US-202 N; Concord Pike; W Chester,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%208/49803,39.775227,-75.54422,http://maps.google.com/maps?t=m&q=loc:39.775227+-75.54422,Northbound
+Delaware,I-95,4968,Exit 9,EXIT 9,DE-3; Marsh Rd,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%209/4968,39.777718,-75.51188,http://maps.google.com/maps?t=m&q=loc:39.777718+-75.51188,Northbound
+Delaware,I-95,4969,Exit 10,EXIT 10,Harvey Rd,"Claymont, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%2010/4969,39.800361,-75.483705,http://maps.google.com/maps?t=m&q=loc:39.800361+-75.483705,Northbound
+Delaware,I-95,49804,Exit 11,EXIT 11,Delaware 92; Naamans Road,"Claymont, Delaware",https://www.iexitapp.com/Delaware/I-95/Exit%2011/49804,39.811917,-75.45716,http://maps.google.com/maps?t=m&q=loc:39.811917+-75.45716,Northbound

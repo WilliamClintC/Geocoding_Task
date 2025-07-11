@@ -1,0 +1,110 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Connecticut,I-95,47354,Exit 2,EXIT 2,Byram; Delavan Ave,"Greenwich, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%202/47354,40.9999,-73.653471,http://maps.google.com/maps?t=m&q=loc:40.9999+-73.653471,Northbound
+Connecticut,I-95,47355,Exit 3,EXIT 3,Arch Street,"Greenwich, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%203/47355,41.019233,-73.629829,http://maps.google.com/maps?t=m&q=loc:41.019233+-73.629829,Northbound
+Connecticut,I-95,5595,Exit 4,EXIT 4,Indian Field Road; Cos Cob,"Greenwich, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%204/5595,41.025648,-73.609167,http://maps.google.com/maps?t=m&q=loc:41.025648+-73.609167,Northbound
+Connecticut,I-95,5596,Exit 5,EXIT 5,US-1; Riverside; Old Greenwich,"Riverside, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%205/5596,41.040824,-73.578561,http://maps.google.com/maps?t=m&q=loc:41.040824+-73.578561,Northbound
+Connecticut,I-95,5597,Exit 6,EXIT 6,Harvard Ave,"Stamford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%206/5597,41.044933,-73.564295,http://maps.google.com/maps?t=m&q=loc:41.044933+-73.564295,Northbound
+Connecticut,I-95,5598,Exit 7,EXIT 7,Greenwich Ave; CT-137 N,"Stamford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%207/5598,41.045096,-73.549915,http://maps.google.com/maps?t=m&q=loc:41.045096+-73.549915,Northbound
+Connecticut,I-95,5599,Exit 8,EXIT 8,Atlantic Street,"Stamford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%208/5599,41.04747,-73.542077,http://maps.google.com/maps?t=m&q=loc:41.04747+-73.542077,Northbound
+Connecticut,I-95,5600,Exit 9,EXIT 9,US-1; CT-106; Glenbrook,"Stamford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%209/5600,41.056689,-73.51469,http://maps.google.com/maps?t=m&q=loc:41.056689+-73.51469,Northbound
+Connecticut,I-95,5601,Exit 10,EXIT 10,Noroton,"Darien, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2010/5601,41.06782,-73.493704,http://maps.google.com/maps?t=m&q=loc:41.06782+-73.493704,Northbound
+Connecticut,I-95,5602,Exit 11,EXIT 11,U.S. 1; Darien,"Darien, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2011/5602,41.071393,-73.480822,http://maps.google.com/maps?t=m&q=loc:41.071393+-73.480822,Northbound
+Connecticut,I-95,5603,Exit 12,EXIT 12,Tokeneke Rd; Rowayton,"Darien, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2012/5603,41.074778,-73.467186,http://maps.google.com/maps?t=m&q=loc:41.074778+-73.467186,Northbound
+Connecticut,I-95,5604,Connecticut Welcome Center,SERVICE PLAZA,"Connecticut Welcome Center
+          (MM: 12.5)","Darien, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Service%20Plaza/5604,41.077933,-73.464058,http://maps.google.com/maps?t=m&q=loc:41.077933+-73.464058,Northbound
+Connecticut,I-95,5605,Exit 13,EXIT 13,US-1; Post Rd,"Darien, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2013/5605,41.086987,-73.458038,http://maps.google.com/maps?t=m&q=loc:41.086987+-73.458038,Northbound
+Connecticut,I-95,5606,Exit 14,EXIT 14,S Norwalk,"Norwalk, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2014/5606,41.104618,-73.428502,http://maps.google.com/maps?t=m&q=loc:41.104618+-73.428502,Northbound
+Connecticut,I-95,5607,Exit 15,EXIT 15,"US 7
+          (MM: 15.0)","Norwalk, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2015/5607,41.105472,-73.425873,http://maps.google.com/maps?t=m&q=loc:41.105472+-73.425873,Northbound
+Connecticut,I-95,5608,Exit 16,EXIT 16,E Norwalk,"Norwalk, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2016/5608,41.107805,-73.409053,http://maps.google.com/maps?t=m&q=loc:41.107805+-73.409053,Northbound
+Connecticut,I-95,5609,Exit 17,EXIT 17,Connecticut 33; Connecticut 136; Westport; Saugatuck,"Westport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2017/5609,41.119377,-73.379414,http://maps.google.com/maps?t=m&q=loc:41.119377+-73.379414,Northbound
+Connecticut,I-95,5610,Exit 18,EXIT 18,Sherwood Island Connector,"Westport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2018/5610,41.122955,-73.336585,http://maps.google.com/maps?t=m&q=loc:41.122955+-73.336585,Northbound
+Connecticut,I-95,5611,Exit 19,EXIT 19,Center St; Southport,"Southport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2019/5611,41.134102,-73.293951,http://maps.google.com/maps?t=m&q=loc:41.134102+-73.293951,Northbound
+Connecticut,I-95,5612,Exit 21,EXIT 21,Mill Plain Rd,"Fairfield, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2021/5612,41.142877,-73.268633,http://maps.google.com/maps?t=m&q=loc:41.142877+-73.268633,Northbound
+Connecticut,I-95,5613,Exit 22,EXIT 22,Round Hill Rd,"Fairfield, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2022/5613,41.145589,-73.260658,http://maps.google.com/maps?t=m&q=loc:41.145589+-73.260658,Northbound
+Connecticut,I-95,58232,Fairfield Service Plaza,SERVICE PLAZA,"Fairfield Service Plaza
+          (MM: 22.0)","Fairfield, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Service%20Plaza/58232,41.14582,-73.259931,http://maps.google.com/maps?t=m&q=loc:41.14582+-73.259931,Northbound
+Connecticut,I-95,47357,Exit 23,EXIT 23,US-1; Kings Hwy,"Fairfield, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2023/47357,41.154063,-73.245413,http://maps.google.com/maps?t=m&q=loc:41.154063+-73.245413,Northbound
+Connecticut,I-95,47358,Exit 24,EXIT 24,Black Rock Turnpike,"Fairfield, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2024/47358,41.163038,-73.23979,http://maps.google.com/maps?t=m&q=loc:41.163038+-73.23979,Northbound
+Connecticut,I-95,47359,Exit 25,EXIT 25,Commerce Dr; State St,"Fairfield, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2025/47359,41.16755,-73.228621,http://maps.google.com/maps?t=m&q=loc:41.16755+-73.228621,Northbound
+Connecticut,I-95,47360,Exit 26,EXIT 26,Wordin Avenue,"Bridgeport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2026/47360,41.166311,-73.209282,http://maps.google.com/maps?t=m&q=loc:41.166311+-73.209282,Northbound
+Connecticut,I-95,5618,Exit 27,EXIT 27,Lafayette Boulevard; Downtown; Bridgeport,"Bridgeport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2027/5618,41.169618,-73.196129,http://maps.google.com/maps?t=m&q=loc:41.169618+-73.196129,Northbound
+Connecticut,I-95,47361,Exit 27A,EXIT 27A,"CT 8;CT 25
+          (MM: 27.0)","Bridgeport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2027A/47361,41.169903,-73.195377,http://maps.google.com/maps?t=m&q=loc:41.169903+-73.195377,Northbound
+Connecticut,I-95,47363,Exit 28,EXIT 28,Connecticut 127; East Main Street,"Bridgeport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2028/47363,41.177676,-73.184906,http://maps.google.com/maps?t=m&q=loc:41.177676+-73.184906,Northbound
+Connecticut,I-95,47364,Exit 29,EXIT 29,Seaview Ave,"Bridgeport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2029/47364,41.178428,-73.176622,http://maps.google.com/maps?t=m&q=loc:41.178428+-73.176622,Northbound
+Connecticut,I-95,47365,Exit 30,EXIT 30,CT-113; Lordship Blvd,"Bridgeport, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2030/47365,41.174895,-73.163463,http://maps.google.com/maps?t=m&q=loc:41.174895+-73.163463,Northbound
+Connecticut,I-95,47366,Exit 32,EXIT 32,32,"Stratford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2032/47366,41.187846,-73.135949,http://maps.google.com/maps?t=m&q=loc:41.187846+-73.135949,Northbound
+Connecticut,I-95,47367,Exit 33,EXIT 33,US-1; CT-130; Ferry Blvd; Devon,"Stratford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2033/47367,41.196538,-73.12197,http://maps.google.com/maps?t=m&q=loc:41.196538+-73.12197,Northbound
+Connecticut,I-95,5626,Exit 34,EXIT 34,US-1; Milford,"Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2034/5626,41.207509,-73.096608,http://maps.google.com/maps?t=m&q=loc:41.207509+-73.096608,Northbound
+Connecticut,I-95,5627,Exit 35,EXIT 35,School House Rd; Bic Drive,"Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2035/5627,41.210863,-73.089933,http://maps.google.com/maps?t=m&q=loc:41.210863+-73.089933,Northbound
+Connecticut,I-95,5628,Exit 36,EXIT 36,Plains Rd,"Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2036/5628,41.220017,-73.079972,http://maps.google.com/maps?t=m&q=loc:41.220017+-73.079972,Northbound
+Connecticut,I-95,5629,Exit 37,EXIT 37,High St,"Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2037/5629,41.230094,-73.07308,http://maps.google.com/maps?t=m&q=loc:41.230094+-73.07308,Northbound
+Connecticut,I-95,5630,Exit 38,EXIT 38,"Milford Parkway
+          (MM: 38.0)","Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2038/5630,41.233507,-73.068812,http://maps.google.com/maps?t=m&q=loc:41.233507+-73.068812,Northbound
+Connecticut,I-95,47369,Exit 39A,EXIT 39A,US-1 S,"Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2039A/47369,41.235332,-73.045995,http://maps.google.com/maps?t=m&q=loc:41.235332+-73.045995,Northbound
+Connecticut,I-95,47370,Exit 39B,EXIT 39B,US-1 N; Boston Post Rd,"Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2039B/47370,41.234076,-73.041647,http://maps.google.com/maps?t=m&q=loc:41.234076+-73.041647,Northbound
+Connecticut,I-95,5633,Exit 40,EXIT 40,Old Gate Ln; Woodmont Rd,"Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2040/5633,41.234249,-73.030874,http://maps.google.com/maps?t=m&q=loc:41.234249+-73.030874,Northbound
+Connecticut,I-95,5634,Milford Service Plaza,SERVICE PLAZA,"Milford Service Plaza
+          (MM: 41.0)","Milford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Service%20Plaza/5634,41.244343,-73.012283,http://maps.google.com/maps?t=m&q=loc:41.244343+-73.012283,Northbound
+Connecticut,I-95,5635,Exit 41,EXIT 41,Marsh Hill Rd; Orange,"Orange, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2041/5635,41.249635,-73.004143,http://maps.google.com/maps?t=m&q=loc:41.249635+-73.004143,Northbound
+Connecticut,I-95,47371,Exit 42,EXIT 42,CT-162; Saw Mill Rd,"West Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2042/47371,41.270599,-72.971863,http://maps.google.com/maps?t=m&q=loc:41.270599+-72.971863,Northbound
+Connecticut,I-95,5637,Exit 43,EXIT 43,Downtown; W Haven,"West Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2043/5637,41.279602,-72.960351,http://maps.google.com/maps?t=m&q=loc:41.279602+-72.960351,Northbound
+Connecticut,I-95,47372,Exit 44,EXIT 44,Kimberly Ave; CT-10,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2044/47372,41.28342,-72.938084,http://maps.google.com/maps?t=m&q=loc:41.28342+-72.938084,Northbound
+Connecticut,I-95,5639,Exit 46,EXIT 46,Long Wharf Dr; Sargent Dr,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2046/5639,41.287174,-72.924795,http://maps.google.com/maps?t=m&q=loc:41.287174+-72.924795,Northbound
+Connecticut,I-95,5640,Exit 47,EXIT 47,"CT 34
+          (MM: 47.0)","New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2047/5640,41.291996,-72.920586,http://maps.google.com/maps?t=m&q=loc:41.291996+-72.920586,Northbound
+Connecticut,I-95,47373,Exit 48,EXIT 48,"Connecticut Turnpike
+          (MM: 48.0)","New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2048/47373,41.296498,-72.916845,http://maps.google.com/maps?t=m&q=loc:41.296498+-72.916845,Northbound
+Connecticut,I-95,47374,I 91,EXIT,I 91,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%20/47374,41.298019,-72.915888,http://maps.google.com/maps?t=m&q=loc:41.298019+-72.915888,Northbound
+Connecticut,I-95,47376,Exit 50,EXIT 50,Port Area,"East Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2050/47376,41.291758,-72.899704,http://maps.google.com/maps?t=m&q=loc:41.291758+-72.899704,Northbound
+Connecticut,I-95,5644,Exit 51,EXIT 51,U.S. 1; Frontage Road; East Haven,"East Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2051/5644,41.288741,-72.890125,http://maps.google.com/maps?t=m&q=loc:41.288741+-72.890125,Northbound
+Connecticut,I-95,5645,Exit 53,EXIT 53,Branford Con; Short Beach,"Branford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2053/5645,41.28455,-72.843472,http://maps.google.com/maps?t=m&q=loc:41.28455+-72.843472,Northbound
+Connecticut,I-95,47377,Branford Service Plaza,SERVICE PLAZA,"Branford Service Plaza
+          (MM: 53.5)","Branford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Service%20Plaza/47377,41.285438,-72.837626,http://maps.google.com/maps?t=m&q=loc:41.285438+-72.837626,Northbound
+Connecticut,I-95,47378,Exit 54,EXIT 54,Cedar St; Branford,"Branford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2054/47378,41.287283,-72.825837,http://maps.google.com/maps?t=m&q=loc:41.287283+-72.825837,Northbound
+Connecticut,I-95,5648,Exit 55,EXIT 55,US-1; E Main St; N Branford,"Branford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2055/5648,41.29379,-72.78236,http://maps.google.com/maps?t=m&q=loc:41.29379+-72.78236,Northbound
+Connecticut,I-95,47379,Exit 56,EXIT 56,Leetes Island Rd; Stony Creek,"Branford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2056/47379,41.29465,-72.769278,http://maps.google.com/maps?t=m&q=loc:41.29465+-72.769278,Northbound
+Connecticut,I-95,47380,Exit 57,EXIT 57,Boston Post Rd,"Guilford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2057/47380,41.297121,-72.708957,http://maps.google.com/maps?t=m&q=loc:41.297121+-72.708957,Northbound
+Connecticut,I-95,47381,Exit 58,EXIT 58,CT-77; Guilford; North Guilford,"Guilford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2058/47381,41.295767,-72.692262,http://maps.google.com/maps?t=m&q=loc:41.295767+-72.692262,Northbound
+Connecticut,I-95,47382,Exit 59,EXIT 59,Goose Ln,"Guilford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2059/47382,41.290076,-72.667503,http://maps.google.com/maps?t=m&q=loc:41.290076+-72.667503,Northbound
+Connecticut,I-95,5652,Exit 61,EXIT 61,CT-79 S,"Madison, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2061/5652,41.287721,-72.60759,http://maps.google.com/maps?t=m&q=loc:41.287721+-72.60759,Northbound
+Connecticut,I-95,47383,Madison Service Plaza,SERVICE PLAZA,"Madison Service Plaza
+          (MM: 61.5)","Madison, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Service%20Plaza/47383,41.290986,-72.58435,http://maps.google.com/maps?t=m&q=loc:41.290986+-72.58435,Northbound
+Connecticut,I-95,5653,Exit 62,EXIT 62,State Park; Hammonasset,"Madison, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2062/5653,41.290783,-72.574756,http://maps.google.com/maps?t=m&q=loc:41.290783+-72.574756,Northbound
+Connecticut,I-95,5654,Exit 63,EXIT 63,CT-81; Clinton; Killingworth,"Clinton, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2063/5654,41.287773,-72.533086,http://maps.google.com/maps?t=m&q=loc:41.287773+-72.533086,Northbound
+Connecticut,I-95,5655,Exit 64,EXIT 64,CT-145,"Westbrook, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2064/5655,41.292665,-72.492543,http://maps.google.com/maps?t=m&q=loc:41.292665+-72.492543,Northbound
+Connecticut,I-95,5656,Exit 65,EXIT 65,CT-153; Westbrook,"Westbrook, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2065/5656,41.291958,-72.448056,http://maps.google.com/maps?t=m&q=loc:41.291958+-72.448056,Northbound
+Connecticut,I-95,5657,Connecticut Welcome Center,REST AREA,"Connecticut Welcome Center
+          (MM: 65.5)","Westbrook, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Rest%20Area/5657,41.291169,-72.435579,http://maps.google.com/maps?t=m&q=loc:41.291169+-72.435579,Northbound
+Connecticut,I-95,5658,Exit 66,EXIT 66,CT 166,"Westbrook, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2066/5658,41.290549,-72.426299,http://maps.google.com/maps?t=m&q=loc:41.290549+-72.426299,Northbound
+Connecticut,I-95,5659,Exit 67,EXIT 67,Connecticut 154; Old Saybrook,"Old Saybrook, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2067/5659,41.304256,-72.382082,http://maps.google.com/maps?t=m&q=loc:41.304256+-72.382082,Northbound
+Connecticut,I-95,5660,Exit 69,EXIT 69,"CT 9
+          (MM: 69.0)","Old Saybrook, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2069/5660,41.315181,-72.360437,http://maps.google.com/maps?t=m&q=loc:41.315181+-72.360437,Northbound
+Connecticut,I-95,5661,Exit 70,EXIT 70,CT-156 E,"Old Lyme, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2070/5661,41.319442,-72.343406,http://maps.google.com/maps?t=m&q=loc:41.319442+-72.343406,Northbound
+Connecticut,I-95,5662,Exit 71,EXIT 71,4 Mile River Road,"Old Lyme, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2071/5662,41.322442,-72.259517,http://maps.google.com/maps?t=m&q=loc:41.322442+-72.259517,Northbound
+Connecticut,I-95,5663,Exit 72,EXIT 72,Rocky Neck Connector,"East Lyme, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2072/5663,41.32455,-72.252247,http://maps.google.com/maps?t=m&q=loc:41.32455+-72.252247,Northbound
+Connecticut,I-95,5664,Exit 73,EXIT 73,Society Rd,"East Lyme, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2073/5664,41.345801,-72.227464,http://maps.google.com/maps?t=m&q=loc:41.345801+-72.227464,Northbound
+Connecticut,I-95,5665,Exit 74,EXIT 74,Flanders Rd,"East Lyme, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2074/5665,41.358642,-72.212263,http://maps.google.com/maps?t=m&q=loc:41.358642+-72.212263,Northbound
+Connecticut,I-95,5666,Exit 75,EXIT 75,US-1; Waterford,"East Lyme, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2075/5666,41.368666,-72.202968,http://maps.google.com/maps?t=m&q=loc:41.368666+-72.202968,Northbound
+Connecticut,I-95,5667,Exit 76,EXIT 76,"I 395
+          (MM: 76.0)","East Lyme, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2076/5667,41.373658,-72.196381,http://maps.google.com/maps?t=m&q=loc:41.373658+-72.196381,Northbound
+Connecticut,I-95,5668,Exit 81,EXIT 81,Cross Rd,"Waterford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2081/5668,41.370167,-72.173046,http://maps.google.com/maps?t=m&q=loc:41.370167+-72.173046,Northbound
+Connecticut,I-95,5669,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 81.0)","Waterford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Weigh%20Station/5669,41.367786,-72.157926,http://maps.google.com/maps?t=m&q=loc:41.367786+-72.157926,Northbound
+Connecticut,I-95,5670,Exit 82,EXIT 82,Broad St; CT-85; Waterford,"Waterford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2082/5670,41.370013,-72.136625,http://maps.google.com/maps?t=m&q=loc:41.370013+-72.136625,Northbound
+Connecticut,I-95,5671,Exit 82A,EXIT 82A,Frontage Rd; New London,"Waterford, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2082A/5671,41.371237,-72.126591,http://maps.google.com/maps?t=m&q=loc:41.371237+-72.126591,Northbound
+Connecticut,I-95,5672,Exit 83,EXIT 83,CT-32 N; Norwich; Downtown; New London,"New London, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2083/5672,41.366792,-72.110507,http://maps.google.com/maps?t=m&q=loc:41.366792+-72.110507,Northbound
+Connecticut,I-95,5673,Exit 85,EXIT 85,US-1 N; Thames St; Downtown Groton,"Groton, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2085/5673,41.364073,-72.081743,http://maps.google.com/maps?t=m&q=loc:41.364073+-72.081743,Northbound
+Connecticut,I-95,47388,Exit 85,EXIT 85,US-1 N,"Groton, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2085/47388,41.363972,-72.078715,http://maps.google.com/maps?t=m&q=loc:41.363972+-72.078715,Northbound
+Connecticut,I-95,5674,Exit 86,EXIT 86,CT 184,"Groton, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2086/5674,41.364479,-72.071891,http://maps.google.com/maps?t=m&q=loc:41.364479+-72.071891,Northbound
+Connecticut,I-95,5675,Exit 87,EXIT 87,"CT 349
+          (MM: 87.0)","Groton, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2087/5675,41.362648,-72.061091,http://maps.google.com/maps?t=m&q=loc:41.362648+-72.061091,Northbound
+Connecticut,I-95,5676,Exit 88,EXIT 88,CT-117; Noank; Groton Long Point,"Groton, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2088/5676,41.360793,-72.032402,http://maps.google.com/maps?t=m&q=loc:41.360793+-72.032402,Northbound
+Connecticut,I-95,5677,Exit 89,EXIT 89,Allyn St,"Mystic, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2089/5677,41.37198,-71.986882,http://maps.google.com/maps?t=m&q=loc:41.37198+-71.986882,Northbound
+Connecticut,I-95,47390,Scenic Overlook,SCENIC AREA,"Scenic Overlook
+          (MM: 89.0)","Mystic, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Scenic%20Area/47390,41.370961,-71.973559,http://maps.google.com/maps?t=m&q=loc:41.370961+-71.973559,Northbound
+Connecticut,I-95,5678,Exit 90,EXIT 90,CT-27 S,"Mystic, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2090/5678,41.373712,-71.963946,http://maps.google.com/maps?t=m&q=loc:41.373712+-71.963946,Northbound
+Connecticut,I-95,5679,Exit 91,EXIT 91,CT-234; No. Main St; Stonington; Borough,"Stonington, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2091/5679,41.376604,-71.909109,http://maps.google.com/maps?t=m&q=loc:41.376604+-71.909109,Northbound
+Connecticut,I-95,5680,Exit 92,EXIT 92,CT-2; CT-49; No. Stonington; Pawcatuck,"Pawcatuck, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2092/5680,41.408239,-71.858083,http://maps.google.com/maps?t=m&q=loc:41.408239+-71.858083,Northbound
+Connecticut,I-95,5681,Exit 93,EXIT 93,CT-216; Clarks Falls Ct; Ashaway R.I,"North Stonington, Connecticut",https://www.iexitapp.com/Connecticut/I-95/Exit%2093/5681,41.438024,-71.80219,http://maps.google.com/maps?t=m&q=loc:41.438024+-71.80219,Northbound

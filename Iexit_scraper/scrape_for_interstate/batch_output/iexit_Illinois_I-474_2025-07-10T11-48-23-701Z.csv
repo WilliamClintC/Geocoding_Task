@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-474,34795,Exit 3A,EXIT 3A,To IL 116 – Farmington,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-474/Exit%203A/34795,40.699248,-89.676019,http://maps.google.com/maps?t=m&q=loc:40.699248+-89.676019,Eastbound
+Illinois,I-474,34796,Exit 5,EXIT 5,Airport Road,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-474/Exit%205/34796,40.673391,-89.670424,http://maps.google.com/maps?t=m&q=loc:40.673391+-89.670424,Eastbound
+Illinois,I-474,34797,Exit 6,EXIT 6,US 24 (Adams Street) – Bartonville,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-474/Exit%206/34797,40.661167,-89.649934,http://maps.google.com/maps?t=m&q=loc:40.661167+-89.649934,Eastbound
+Illinois,I-474,34798,Exit 9,EXIT 9,"IL 29 – Pekin, East Peoria","Creve Coeur, Illinois",https://www.iexitapp.com/Illinois/I-474/Exit%209/34798,40.632006,-89.618924,http://maps.google.com/maps?t=m&q=loc:40.632006+-89.618924,Eastbound

@@ -1,0 +1,13 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-170,36443,Exit 1E,EXIT 1E,"Forest Park Parkway
+          (MM: 1.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%201E/36443,38.643994,-90.347253,http://maps.google.com/maps?t=m&q=loc:38.643994+-90.347253,Northbound
+Missouri,I-170,36444,Exit 1F,EXIT 1F,Ladue Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%201F/36444,38.650616,-90.351778,http://maps.google.com/maps?t=m&q=loc:38.650616+-90.351778,Northbound
+Missouri,I-170,36445,Exit 2,EXIT 2,Delmar Blvd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%202/36445,38.657662,-90.355593,http://maps.google.com/maps?t=m&q=loc:38.657662+-90.355593,Northbound
+Missouri,I-170,36446,Exit 3,EXIT 3,MO-340 W,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%203/36446,38.671616,-90.36194,http://maps.google.com/maps?t=m&q=loc:38.671616+-90.36194,Northbound
+Missouri,I-170,36447,Exit 4,EXIT 4,Page Avenue; D,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%204/36447,38.684254,-90.354172,http://maps.google.com/maps?t=m&q=loc:38.684254+-90.354172,Northbound
+Missouri,I-170,36448,Exit 5,EXIT 5,MO-180 W,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%205/36448,38.703078,-90.342138,http://maps.google.com/maps?t=m&q=loc:38.703078+-90.342138,Northbound
+Missouri,I-170,36449,Exit 6,EXIT 6,MO-115; Natural Bridge Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%206/36449,38.713385,-90.332736,http://maps.google.com/maps?t=m&q=loc:38.713385+-90.332736,Northbound
+Missouri,I-170,57549,Exit 8,EXIT 8,N Hanley Rd; Scudder Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%208/57549,38.741493,-90.335957,http://maps.google.com/maps?t=m&q=loc:38.741493+-90.335957,Northbound
+Missouri,I-170,36452,Exit 9A,EXIT 9A,Airport Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%209A/36452,38.747057,-90.337309,http://maps.google.com/maps?t=m&q=loc:38.747057+-90.337309,Northbound
+Missouri,I-170,36453,Exit 9B,EXIT 9B,Boeing,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%209B/36453,38.750639,-90.337902,http://maps.google.com/maps?t=m&q=loc:38.750639+-90.337902,Northbound
+Missouri,I-170,36454,Exit 9C,EXIT 9C,N Hanley Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-170/Exit%209C/36454,38.758415,-90.338872,http://maps.google.com/maps?t=m&q=loc:38.758415+-90.338872,Northbound

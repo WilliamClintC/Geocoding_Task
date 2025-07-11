@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-175,34812,"I-275 (SR 93) – Bradenton, Tampa",EXIT,"I-275 (SR 93) – Bradenton, Tampa","St Petersburg, Florida",https://www.iexitapp.com/Florida/I-175/Exit%20/34812,27.766202,-82.654556,http://maps.google.com/maps?t=m&q=loc:27.766202+-82.654556,Northbound
+Florida,I-175,34809,M.L. King Jr. Street South / 8th Street South,EXIT,M.L. King Jr. Street South / 8th Street South,"St Petersburg, Florida",https://www.iexitapp.com/Florida/I-175/Exit%20/34809,27.765885,-82.651546,http://maps.google.com/maps?t=m&q=loc:27.765885+-82.651546,Northbound
+Florida,I-175,34810,6th Street South,EXIT,6th Street South,"St Petersburg, Florida",https://www.iexitapp.com/Florida/I-175/Exit%20/34810,27.765936,-82.644677,http://maps.google.com/maps?t=m&q=loc:27.765936+-82.644677,Northbound

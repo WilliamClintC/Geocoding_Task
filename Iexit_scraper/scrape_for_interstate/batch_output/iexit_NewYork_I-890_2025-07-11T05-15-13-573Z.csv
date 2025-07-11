@@ -1,0 +1,11 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-890,37250,Exit 2,EXIT 2,NY 337 (Campbell Road) / Rice Road,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%202/37250,42.815645,-73.984887,http://maps.google.com/maps?t=m&q=loc:42.815645+-73.984887,Eastbound
+New York,I-890,37251,Exit 3,EXIT 3,GE Truck Terminal,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%203/37251,42.814451,-73.979786,http://maps.google.com/maps?t=m&q=loc:42.814451+-73.979786,Eastbound
+New York,I-890,37252,Exit 4A,EXIT 4A,GE Plant,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%204A/37252,42.814377,-73.960842,http://maps.google.com/maps?t=m&q=loc:42.814377+-73.960842,Eastbound
+New York,I-890,37253,Exit 4B,EXIT 4B,Erie Boulevard,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%204B/37253,42.814171,-73.956144,http://maps.google.com/maps?t=m&q=loc:42.814171+-73.956144,Eastbound
+New York,I-890,37254,Exit 5,EXIT 5,Broadway,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%205/37254,42.808449,-73.94978,http://maps.google.com/maps?t=m&q=loc:42.808449+-73.94978,Eastbound
+New York,I-890,37255,Exit 6,EXIT 6,Michigan Avenue,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%206/37255,42.799275,-73.93644,http://maps.google.com/maps?t=m&q=loc:42.799275+-73.93644,Eastbound
+New York,I-890,37256,Exit 7,EXIT 7,NY 7 east – Troy,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%207/37256,42.780919,-73.923579,http://maps.google.com/maps?t=m&q=loc:42.780919+-73.923579,Eastbound
+New York,I-890,37257,Exit 8,EXIT 8,High Bridge Road,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%208/37257,42.774108,-73.926124,http://maps.google.com/maps?t=m&q=loc:42.774108+-73.926124,Eastbound
+New York,I-890,37258,Exit 9A,EXIT 9A,NY 7 west (Curry Road),"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%209A/37258,42.762343,-73.929853,http://maps.google.com/maps?t=m&q=loc:42.762343+-73.929853,Eastbound
+New York,I-890,37259,Exit 9B,EXIT 9B,To NY 146,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-890/Exit%209B/37259,42.760415,-73.931889,http://maps.google.com/maps?t=m&q=loc:42.760415+-73.931889,Eastbound

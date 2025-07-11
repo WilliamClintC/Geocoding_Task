@@ -1,0 +1,48 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Indiana,I-70,8550,Exit 1,EXIT 1,US-40 E; W Terre Haute; Terre Haute,"West Terre Haute, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%201/8550,39.439878,-87.515227,http://maps.google.com/maps?t=m&q=loc:39.439878+-87.515227,Eastbound
+Indiana,I-70,8551,Temporarily Closed - Clear Creek Welcome Center,WELCOME CENTER,"Temporarily Closed - Clear Creek Welcome Center
+          (MM: 2.0)","West Terre Haute, Indiana",https://www.iexitapp.com/Indiana/I-70/Welcome%20Center/8551,39.441933,-87.505586,http://maps.google.com/maps?t=m&q=loc:39.441933+-87.505586,Eastbound
+Indiana,I-70,8552,Exit 3,EXIT 3,Darwin Rd; W Terre Haute,"West Terre Haute, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%203/8552,39.448399,-87.47322,http://maps.google.com/maps?t=m&q=loc:39.448399+-87.47322,Eastbound
+Indiana,I-70,8553,Exit 7,EXIT 7,US-41; US-150; Terre Haute; Evansville,"Terre Haute, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%207/8553,39.430701,-87.418655,http://maps.google.com/maps?t=m&q=loc:39.430701+-87.418655,Eastbound
+Indiana,I-70,8554,Exit 11,EXIT 11,IN 46,"Terre Haute, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2011/8554,39.430557,-87.332305,http://maps.google.com/maps?t=m&q=loc:39.430557+-87.332305,Eastbound
+Indiana,I-70,8555,Exit 23,EXIT 23,IN-59; Brazil; Linton,"Brazil, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2023/8555,39.449402,-87.132356,http://maps.google.com/maps?t=m&q=loc:39.449402+-87.132356,Eastbound
+Indiana,I-70,8556,Exit 37,EXIT 37,IN-243; Putnamville,"Cloverdale, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2037/8556,39.523847,-86.883391,http://maps.google.com/maps?t=m&q=loc:39.523847+-86.883391,Eastbound
+Indiana,I-70,8557,Exit 41,EXIT 41,US-231; Cloverdale; Greencastle,"Cloverdale, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2041/8557,39.532706,-86.809005,http://maps.google.com/maps?t=m&q=loc:39.532706+-86.809005,Eastbound
+Indiana,I-70,8558,Exit 51,EXIT 51,Co. Rd 1100 W,"Stilesville, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2051/8558,39.567599,-86.637027,http://maps.google.com/maps?t=m&q=loc:39.567599+-86.637027,Eastbound
+Indiana,I-70,8559,Exit 59,EXIT 59,Belleville,"Clayton, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2059/8559,39.6116,-86.485611,http://maps.google.com/maps?t=m&q=loc:39.6116+-86.485611,Eastbound
+Indiana,I-70,8560,Plainfield Rest Area,REST AREA,"Plainfield Rest Area
+          (MM: 64.0)","Mooresville, Indiana",https://www.iexitapp.com/Indiana/I-70/Rest%20Area/8560,39.650764,-86.401493,http://maps.google.com/maps?t=m&q=loc:39.650764+-86.401493,Eastbound
+Indiana,I-70,8561,Exit 66,EXIT 66,IN-267; Plainfield; Mooresville,"Plainfield, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2066/8561,39.665489,-86.376889,http://maps.google.com/maps?t=m&q=loc:39.665489+-86.376889,Eastbound
+Indiana,I-70,51437,Exit 68B,EXIT 68B,"Colonel H. Weir Cook Memorial Drive South
+          (MM: 68.0)","Plainfield, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2068B/51437,39.684536,-86.329729,http://maps.google.com/maps?t=m&q=loc:39.684536+-86.329729,Eastbound
+Indiana,I-70,8562,Exit 68,EXIT 68,Ameriplex Pkwy S,"Plainfield, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2068/8562,39.680183,-86.340301,http://maps.google.com/maps?t=m&q=loc:39.680183+-86.340301,Eastbound
+Indiana,I-70,51438,Exit 68,EXIT 68,Ameriplex Pkwy S,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2068/51438,39.681621,-86.336664,http://maps.google.com/maps?t=m&q=loc:39.681621+-86.336664,Eastbound
+Indiana,I-70,8564,Exit 75,EXIT 75,"Sam Jones Expressway
+          (MM: 75.0)","Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2075/8564,39.727635,-86.247203,http://maps.google.com/maps?t=m&q=loc:39.727635+-86.247203,Eastbound
+Indiana,I-70,8565,Exit 77,EXIT 77,Holt Rd,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2077/8565,39.750327,-86.2316,http://maps.google.com/maps?t=m&q=loc:39.750327+-86.2316,Eastbound
+Indiana,I-70,8566,Exit 78,EXIT 78,Harding St,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2078/8566,39.756065,-86.195391,http://maps.google.com/maps?t=m&q=loc:39.756065+-86.195391,Eastbound
+Indiana,I-70,8567,Exit 79A,EXIT 79A,West St,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2079A/8567,39.754154,-86.172814,http://maps.google.com/maps?t=m&q=loc:39.754154+-86.172814,Eastbound
+Indiana,I-70,8568,Exit 79B,EXIT 79B,Meridian Street; Illinois St,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2079B/8568,39.753654,-86.166861,http://maps.google.com/maps?t=m&q=loc:39.753654+-86.166861,Eastbound
+Indiana,I-70,8570,Exit 111,EXIT 111,Washington St,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20111/8570,39.763927,-86.14294,http://maps.google.com/maps?t=m&q=loc:39.763927+-86.14294,Eastbound
+Indiana,I-70,8572,Exit 85A,EXIT 85A,Rural St S,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2085A/8572,39.794913,-86.12116,http://maps.google.com/maps?t=m&q=loc:39.794913+-86.12116,Eastbound
+Indiana,I-70,8573,Exit 85B,EXIT 85B,Keystone Ave N,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2085B/8573,39.797528,-86.116752,http://maps.google.com/maps?t=m&q=loc:39.797528+-86.116752,Eastbound
+Indiana,I-70,8574,Exit 87,EXIT 87,Emerson Ave,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2087/8574,39.801625,-86.090806,http://maps.google.com/maps?t=m&q=loc:39.801625+-86.090806,Eastbound
+Indiana,I-70,51446,Exit 89,EXIT 89,"I 465;US 31;US 36;US 52;US 421;SR 37;SR 67;I 465;US 31;US 36;US 52;US 421;SR 37;SR 67
+          (MM: 89.0)","Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2089/51446,39.801587,-86.051111,http://maps.google.com/maps?t=m&q=loc:39.801587+-86.051111,Eastbound
+Indiana,I-70,8575,Exit 89,EXIT 89,Shadeland Ave,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2089/8575,39.804596,-86.054096,http://maps.google.com/maps?t=m&q=loc:39.804596+-86.054096,Eastbound
+Indiana,I-70,8576,Exit 91,EXIT 91,Post Rd.,"Indianapolis, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2091/8576,39.799904,-86.01944,http://maps.google.com/maps?t=m&q=loc:39.799904+-86.01944,Eastbound
+Indiana,I-70,8577,Exit 96,EXIT 96,Mount Comfort Road,"Greenfield, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%2096/8577,39.816728,-85.922518,http://maps.google.com/maps?t=m&q=loc:39.816728+-85.922518,Eastbound
+Indiana,I-70,8578,Exit 104,EXIT 104,IN-9; Maxwell; Greenfield,"Greenfield, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20104/8578,39.820802,-85.776701,http://maps.google.com/maps?t=m&q=loc:39.820802+-85.776701,Eastbound
+Indiana,I-70,8579,Greenfield Rest Area,REST AREA,"Greenfield Rest Area
+          (MM: 107.0)","Greenfield, Indiana",https://www.iexitapp.com/Indiana/I-70/Rest%20Area/8579,39.824752,-85.71403,http://maps.google.com/maps?t=m&q=loc:39.824752+-85.71403,Eastbound
+Indiana,I-70,8580,Exit 115,EXIT 115,IN-109; Knightstown; Wilkinson,"Knightstown, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20115/8580,39.837784,-85.561084,http://maps.google.com/maps?t=m&q=loc:39.837784+-85.561084,Eastbound
+Indiana,I-70,8581,Exit 123,EXIT 123,IN-3; New Castle; Spiceland,"Spiceland, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20123/8581,39.853386,-85.420445,http://maps.google.com/maps?t=m&q=loc:39.853386+-85.420445,Eastbound
+Indiana,I-70,8582,Exit 131,EXIT 131,Wilbur Wright Rd,"Straughn, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20131/8582,39.851964,-85.269602,http://maps.google.com/maps?t=m&q=loc:39.851964+-85.269602,Eastbound
+Indiana,I-70,8583,Exit 137,EXIT 137,IN-1; Hagerstown; Connersville,"Cambridge City, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20137/8583,39.85304,-85.149683,http://maps.google.com/maps?t=m&q=loc:39.85304+-85.149683,Eastbound
+Indiana,I-70,51449,Exit 145,EXIT 145,Centerville,"Centerville, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20145/51449,39.859411,-85.00092,http://maps.google.com/maps?t=m&q=loc:39.859411+-85.00092,Eastbound
+Indiana,I-70,8585,Exit 149A,EXIT 149A,Williamsburg Pike,"Richmond, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20149A/8585,39.866632,-84.93101,http://maps.google.com/maps?t=m&q=loc:39.866632+-84.93101,Eastbound
+Indiana,I-70,8586,Exit 149B,EXIT 149B,IN-38 W; US-35 N,"Richmond, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20149B/8586,39.867609,-84.923964,http://maps.google.com/maps?t=m&q=loc:39.867609+-84.923964,Eastbound
+Indiana,I-70,8587,Exit 151,EXIT 151,US-27; Chester Blvd,"Richmond, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20151/8587,39.871375,-84.895933,http://maps.google.com/maps?t=m&q=loc:39.871375+-84.895933,Eastbound
+Indiana,I-70,8588,Exit 153,EXIT 153,IN-227; Union City,"Richmond, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20153/8588,39.869337,-84.864717,http://maps.google.com/maps?t=m&q=loc:39.869337+-84.864717,Eastbound
+Indiana,I-70,8589,Exit 156A,EXIT 156A,US-40 W; National Rd,"Richmond, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20156A/8589,39.835199,-84.819279,http://maps.google.com/maps?t=m&q=loc:39.835199+-84.819279,Eastbound
+Indiana,I-70,8590,Exit 156B,EXIT 156B,US-40 E; Lewisburg Oh.,"Richmond, Indiana",https://www.iexitapp.com/Indiana/I-70/Exit%20156B/8590,39.832947,-84.816894,http://maps.google.com/maps?t=m&q=loc:39.832947+-84.816894,Eastbound

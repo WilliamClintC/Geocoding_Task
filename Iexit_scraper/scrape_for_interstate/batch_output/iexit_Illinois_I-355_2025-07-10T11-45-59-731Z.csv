@@ -1,0 +1,20 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-355,33748,Exit 1,EXIT 1,US-6; SW Hwy,"New Lenox, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%201/33748,41.548697,-87.974429,http://maps.google.com/maps?t=m&q=loc:41.548697+-87.974429,Northbound
+Illinois,I-355,33749,Toll,TOLL BOOTH,Toll,"Lockport, Illinois",https://www.iexitapp.com/Illinois/I-355/Toll/33749,41.572624,-87.996517,http://maps.google.com/maps?t=m&q=loc:41.572624+-87.996517,Northbound
+Illinois,I-355,33750,Exit 4,EXIT 4,IL-7; 159th St,"Lockport, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%204/33750,41.59467,-88.009792,http://maps.google.com/maps?t=m&q=loc:41.59467+-88.009792,Northbound
+Illinois,I-355,33751,Exit 7,EXIT 7,Illinois 171,"Lockport, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%207/33751,41.623509,-88.011224,http://maps.google.com/maps?t=m&q=loc:41.623509+-88.011224,Northbound
+Illinois,I-355,33752,Exit 8,EXIT 8,127th St,"Lemont, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%208/33752,41.652962,-88.015599,http://maps.google.com/maps?t=m&q=loc:41.652962+-88.015599,Northbound
+Illinois,I-355,57177,Exit 12B,EXIT 12B,I-55 S,"Bolingbrook, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2012B/57177,41.705306,-88.030779,http://maps.google.com/maps?t=m&q=loc:41.705306+-88.030779,Northbound
+Illinois,I-355,33754,Exit 13,EXIT 13,Boughton Rd,"Bolingbrook, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2013/33754,41.720714,-88.033702,http://maps.google.com/maps?t=m&q=loc:41.720714+-88.033702,Northbound
+Illinois,I-355,57179,Toll,TOLL BOOTH,Toll,"Bolingbrook, Illinois",https://www.iexitapp.com/Illinois/I-355/Toll/57179,41.725305,-88.034334,http://maps.google.com/maps?t=m&q=loc:41.725305+-88.034334,Northbound
+Illinois,I-355,33755,Exit 15,EXIT 15,75th St,"Woodridge, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2015/33755,41.744874,-88.034942,http://maps.google.com/maps?t=m&q=loc:41.744874+-88.034942,Northbound
+Illinois,I-355,33756,Exit 17,EXIT 17,63rd St,"Woodridge, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2017/33756,41.769292,-88.042739,http://maps.google.com/maps?t=m&q=loc:41.769292+-88.042739,Northbound
+Illinois,I-355,33757,Exit 18,EXIT 18,Maple Ave,"Downers Grove, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2018/33757,41.782033,-88.054233,http://maps.google.com/maps?t=m&q=loc:41.782033+-88.054233,Northbound
+Illinois,I-355,33759,Exit 20B,EXIT 20B,US-34; Ogden Ave,"Downers Grove, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2020B/33759,41.7995,-88.056758,http://maps.google.com/maps?t=m&q=loc:41.7995+-88.056758,Northbound
+Illinois,I-355,57181,Exit 22,EXIT 22,IL-56; Butterfield Rd,"Downers Grove, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2022/57181,41.828522,-88.028281,http://maps.google.com/maps?t=m&q=loc:41.828522+-88.028281,Northbound
+Illinois,I-355,33761,Exit 24,EXIT 24,IL-38; Roosevelt Rd,"Lombard, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2024/33761,41.853017,-88.038801,http://maps.google.com/maps?t=m&q=loc:41.853017+-88.038801,Northbound
+Illinois,I-355,33762,Exit 27,EXIT 27,IL-64; North Ave,"Lombard, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2027/33762,41.899016,-88.037649,http://maps.google.com/maps?t=m&q=loc:41.899016+-88.037649,Northbound
+Illinois,I-355,57183,Exit 29,EXIT 29,West Army Trail Road,"Addison, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2029/57183,41.926509,-88.03752,http://maps.google.com/maps?t=m&q=loc:41.926509+-88.03752,Northbound
+Illinois,I-355,33764,Exit 31,EXIT 31,US-20,"Itasca, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2031/33764,41.94504,-88.037325,http://maps.google.com/maps?t=m&q=loc:41.94504+-88.037325,Northbound
+Illinois,I-355,33765,Exit 32,EXIT 32,"I 290
+          (MM: 32.0)","Itasca, Illinois",https://www.iexitapp.com/Illinois/I-355/Exit%2032/33765,41.956092,-88.028152,http://maps.google.com/maps?t=m&q=loc:41.956092+-88.028152,Northbound

@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Nebraska,I-129,32776,Exit 2,EXIT 2,So Sioux City; Dakota City,"South Sioux City, Nebraska",https://www.iexitapp.com/Nebraska/I-129/Exit%202/32776,42.449579,-96.407056,http://maps.google.com/maps?t=m&q=loc:42.449579+-96.407056,Southbound
+Nebraska,I-129,32777,Exit 1B,EXIT 1B,US 77,"South Sioux City, Nebraska",https://www.iexitapp.com/Nebraska/I-129/Exit%201B/32777,42.449275,-96.430324,http://maps.google.com/maps?t=m&q=loc:42.449275+-96.430324,Southbound
+Nebraska,I-129,32778,Exit 1A,EXIT 1A,US 77,"South Sioux City, Nebraska",https://www.iexitapp.com/Nebraska/I-129/Exit%201A/32778,42.449267,-96.436723,http://maps.google.com/maps?t=m&q=loc:42.449267+-96.436723,Southbound
+Nebraska,I-129,56638,US 20,EXIT,US 20,"South Sioux City, Nebraska",https://www.iexitapp.com/Nebraska/I-129/Exit%20/56638,42.449267,-96.441652,http://maps.google.com/maps?t=m&q=loc:42.449267+-96.441652,Southbound

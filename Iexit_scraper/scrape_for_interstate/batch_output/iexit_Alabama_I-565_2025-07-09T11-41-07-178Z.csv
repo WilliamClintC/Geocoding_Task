@@ -1,0 +1,20 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Alabama,I-565,57526,Exit 21,EXIT 21,US-72 W; Athens,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2021/57526,34.761601,-86.560838,http://maps.google.com/maps?t=m&q=loc:34.761601+-86.560838,Westbound
+Alabama,I-565,34356,Exit 20,EXIT 20,Oakwood Ave; Andrew Jackson Way,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2020/34356,34.752091,-86.574008,http://maps.google.com/maps?t=m&q=loc:34.752091+-86.574008,Westbound
+Alabama,I-565,34357,Exit 19B,EXIT 19B,"US 231;US 431;US 231;US 431
+          (MM: 19.0)","Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019B/34357,34.742858,-86.581853,http://maps.google.com/maps?t=m&q=loc:34.742858+-86.581853,Westbound
+Alabama,I-565,57527,Exit 19B,EXIT 19B,U.S. 231; U.S. 431; Pratt Avenue W; Memorial Parkway; Washington Street N,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019B/57527,34.742858,-86.581853,http://maps.google.com/maps?t=m&q=loc:34.742858+-86.581853,Westbound
+Alabama,I-565,57528,Exit 19B,EXIT 19B,U.S. 231 N; U.S. 431 N,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019B/57528,34.74047,-86.585347,http://maps.google.com/maps?t=m&q=loc:34.74047+-86.585347,Westbound
+Alabama,I-565,34358,Exit 19A,EXIT 19A,Jefferson Street; Downtown,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2019A/34358,34.7393,-86.586515,http://maps.google.com/maps?t=m&q=loc:34.7393+-86.586515,Westbound
+Alabama,I-565,34359,Exit 17,EXIT 17,AL-53 N; Jordan Ln,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2017/34359,34.722735,-86.618268,http://maps.google.com/maps?t=m&q=loc:34.722735+-86.618268,Westbound
+Alabama,I-565,34360,Exit 15,EXIT 15,Sparkman Dr,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2015/34360,34.717026,-86.638553,http://maps.google.com/maps?t=m&q=loc:34.717026+-86.638553,Westbound
+Alabama,I-565,34361,Exit 14A,EXIT 14A,Redstone Arsenal Gate 9,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2014A/34361,34.710963,-86.661658,http://maps.google.com/maps?t=m&q=loc:34.710963+-86.661658,Westbound
+Alabama,I-565,34362,Exit 14B,EXIT 14B,SR 255; Research Park Blvd,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2014B/34362,34.708739,-86.666239,http://maps.google.com/maps?t=m&q=loc:34.708739+-86.666239,Westbound
+Alabama,I-565,34363,Exit 13,EXIT 13,Madison Blvd,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%2013/34363,34.704066,-86.682165,http://maps.google.com/maps?t=m&q=loc:34.704066+-86.682165,Westbound
+Alabama,I-565,34364,Exit 9,EXIT 9,Wall Triana Highway; Madison Blvd,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%209/34364,34.676975,-86.743938,http://maps.google.com/maps?t=m&q=loc:34.676975+-86.743938,Westbound
+Alabama,I-565,57532,Exit 9,EXIT 9,Wall Triana Highway; Madison Blvd,"Huntsville, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%209/57532,34.675579,-86.748095,http://maps.google.com/maps?t=m&q=loc:34.675579+-86.748095,Westbound
+Alabama,I-565,34365,Exit 8,EXIT 8,"Glenn Hearn Boulevard
+          (MM: 8.0)","Madison, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%208/34365,34.668826,-86.764056,http://maps.google.com/maps?t=m&q=loc:34.668826+-86.764056,Westbound
+Alabama,I-565,57534,County Line Road;Madison Boulevard,EXIT,County Line Road;Madison Boulevard,"Madison, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%20/57534,34.662073,-86.786196,http://maps.google.com/maps?t=m&q=loc:34.662073+-86.786196,Westbound
+Alabama,I-565,34366,Exit 3,EXIT 3,Greenbrier Rd,"Madison, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%203/34366,34.642975,-86.839135,http://maps.google.com/maps?t=m&q=loc:34.642975+-86.839135,Westbound
+Alabama,I-565,34367,Exit 2,EXIT 2,Mooresville Rd,"Madison, Alabama",https://www.iexitapp.com/Alabama/I-565/Exit%202/34367,34.630971,-86.874456,http://maps.google.com/maps?t=m&q=loc:34.630971+-86.874456,Westbound

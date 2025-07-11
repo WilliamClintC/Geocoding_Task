@@ -1,0 +1,27 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-255,33690,Exit 6,EXIT 6,"IL 3
+          (MM: 6.0)","Columbia, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%206/33690,38.474346,-90.234732,http://maps.google.com/maps?t=m&q=loc:38.474346+-90.234732,Northbound
+Illinois,I-255,33691,Exit 9,EXIT 9,Dupo,"Dupo, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%209/33691,38.504179,-90.208085,http://maps.google.com/maps?t=m&q=loc:38.504179+-90.208085,Northbound
+Illinois,I-255,33692,Exit 10,EXIT 10,The Great River Rd,"Dupo, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2010/33692,38.520271,-90.199507,http://maps.google.com/maps?t=m&q=loc:38.520271+-90.199507,Northbound
+Illinois,I-255,33693,Exit 13,EXIT 13,IL-157; Cahokia,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2013/33693,38.550977,-90.16139,http://maps.google.com/maps?t=m&q=loc:38.550977+-90.16139,Northbound
+Illinois,I-255,33694,Exit 15,EXIT 15,Mousette Ln,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2015/33694,38.562561,-90.134534,http://maps.google.com/maps?t=m&q=loc:38.562561+-90.134534,Northbound
+Illinois,I-255,33695,Exit 17A,EXIT 17A,Illinois 15 E; Belleville,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2017A/33695,38.579823,-90.111258,http://maps.google.com/maps?t=m&q=loc:38.579823+-90.111258,Northbound
+Illinois,I-255,33696,Exit 17B,EXIT 17B,Illinois 15 W; Missouri Avenue; East Saint Louis,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2017B/33696,38.582723,-90.107365,http://maps.google.com/maps?t=m&q=loc:38.582723+-90.107365,Northbound
+Illinois,I-255,33697,Exit 19,EXIT 19,State St; E St Louis,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2019/33697,38.602386,-90.085514,http://maps.google.com/maps?t=m&q=loc:38.602386+-90.085514,Northbound
+Illinois,I-255,33699,Exit 24,EXIT 24,Collinsville Road,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2024/33699,38.6567,-90.031791,http://maps.google.com/maps?t=m&q=loc:38.6567+-90.031791,Northbound
+Illinois,I-255,33701,Exit 26,EXIT 26,Horseshoe Lake Rd,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2026/33701,38.69079,-90.030388,http://maps.google.com/maps?t=m&q=loc:38.69079+-90.030388,Northbound
+Illinois,I-255,33702,Exit 29,EXIT 29,IL-162; Glen Carbon; Granite City,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2029/33702,38.727441,-90.035843,http://maps.google.com/maps?t=m&q=loc:38.727441+-90.035843,Northbound
+Illinois,I-255,33704,Exit 29,EXIT 29,IL-162; Glen Carbon; Granite City,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2029/33704,38.733685,-90.039088,http://maps.google.com/maps?t=m&q=loc:38.733685+-90.039088,Southbound
+Illinois,I-255,33705,Exit 26,EXIT 26,Horseshoe Lake Rd,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2026/33705,38.697709,-90.031091,http://maps.google.com/maps?t=m&q=loc:38.697709+-90.031091,Southbound
+Illinois,I-255,33706,Exit 25B,EXIT 25B,"I 55;I 70;US 40
+          (MM: 25.0)","Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2025B/33706,38.682116,-90.030328,http://maps.google.com/maps?t=m&q=loc:38.682116+-90.030328,Southbound
+Illinois,I-255,33707,Exit 24,EXIT 24,Collinsville Road,"Collinsville, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2024/33707,38.660005,-90.031139,http://maps.google.com/maps?t=m&q=loc:38.660005+-90.031139,Southbound
+Illinois,I-255,33709,Exit 19,EXIT 19,State St,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2019/33709,38.606243,-90.083739,http://maps.google.com/maps?t=m&q=loc:38.606243+-90.083739,Southbound
+Illinois,I-255,33710,Exit 17B,EXIT 17B,IL-15 W; Missouri Ave; E St Louis,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2017B/33710,38.586174,-90.10217,http://maps.google.com/maps?t=m&q=loc:38.586174+-90.10217,Southbound
+Illinois,I-255,33711,Exit 17A,EXIT 17A,IL-15 E; Belleville,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2017A/33711,38.582224,-90.108429,http://maps.google.com/maps?t=m&q=loc:38.582224+-90.108429,Southbound
+Illinois,I-255,33712,Exit 15,EXIT 15,Mousette Ln,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2015/33712,38.569226,-90.125779,http://maps.google.com/maps?t=m&q=loc:38.569226+-90.125779,Southbound
+Illinois,I-255,33713,Exit 13,EXIT 13,IL-157; Cahokia,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2013/33713,38.553244,-90.158662,http://maps.google.com/maps?t=m&q=loc:38.553244+-90.158662,Southbound
+Illinois,I-255,33714,Exit 10,EXIT 10,IL-3 N; Cahokia; E St Louis,"Dupo, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%2010/33714,38.533096,-90.192585,http://maps.google.com/maps?t=m&q=loc:38.533096+-90.192585,Southbound
+Illinois,I-255,33715,Exit 9,EXIT 9,Dupo,"Dupo, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%209/33715,38.510948,-90.20366,http://maps.google.com/maps?t=m&q=loc:38.510948+-90.20366,Southbound
+Illinois,I-255,33716,Exit 6,EXIT 6,"IL 3
+          (MM: 6.0)","Columbia, Illinois",https://www.iexitapp.com/Illinois/I-255/Exit%206/33716,38.478499,-90.224198,http://maps.google.com/maps?t=m&q=loc:38.478499+-90.224198,Southbound

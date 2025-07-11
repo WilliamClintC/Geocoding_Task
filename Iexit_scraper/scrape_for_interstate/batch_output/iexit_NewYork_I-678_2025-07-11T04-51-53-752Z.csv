@@ -1,0 +1,27 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-678,308,Exit A,EXIT A,Return to Terminals,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%20A/308,40.644839,-73.797649,http://maps.google.com/maps?t=m&q=loc:40.644839+-73.797649,Northbound
+New York,I-678,309,Exit C,EXIT C,Federal Circle,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%20C/309,40.655703,-73.807384,http://maps.google.com/maps?t=m&q=loc:40.655703+-73.807384,Northbound
+New York,I-678,310,Exit 1A,EXIT 1A,"NY 878;BP
+          (MM: 1.0)","Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%201A/310,40.661627,-73.804132,http://maps.google.com/maps?t=m&q=loc:40.661627+-73.804132,Northbound
+New York,I-678,47202,Exit 1A,EXIT 1A,Belt Pkwy; Nassau Expy; NY-878 E; Eastern Li,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%201A/47202,40.661627,-73.804132,http://maps.google.com/maps?t=m&q=loc:40.661627+-73.804132,Northbound
+New York,I-678,311,Exit 1B-2,EXIT 1B-2,Belt Pkwy W; Verrazano Bridge,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%201B-2/311,40.666562,-73.801522,http://maps.google.com/maps?t=m&q=loc:40.666562+-73.801522,Northbound
+New York,I-678,47204,Exit 2,EXIT 2,Rockaway Blvd,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%202/47204,40.671273,-73.80085,http://maps.google.com/maps?t=m&q=loc:40.671273+-73.80085,Northbound
+New York,I-678,312,Exit 3,EXIT 3,Linden Blvd,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%203/312,40.680287,-73.804393,http://maps.google.com/maps?t=m&q=loc:40.680287+-73.804393,Northbound
+New York,I-678,313,Exit 4,EXIT 4,Liberty Ave,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%204/313,40.68811,-73.808344,http://maps.google.com/maps?t=m&q=loc:40.68811+-73.808344,Northbound
+New York,I-678,314,Exit 5,EXIT 5,Atlantic Ave,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%205/314,40.69437,-73.811876,http://maps.google.com/maps?t=m&q=loc:40.69437+-73.811876,Northbound
+New York,I-678,315,Exit 6,EXIT 6,Jamaica Ave; Hillside Ave,"Jamaica, New York",https://www.iexitapp.com/New%20York/I-678/Exit%206/315,40.700425,-73.815329,http://maps.google.com/maps?t=m&q=loc:40.700425+-73.815329,Northbound
+New York,I-678,316,Exit 8,EXIT 8,Main St; Union Turnpike,"Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%208/316,40.707431,-73.818879,http://maps.google.com/maps?t=m&q=loc:40.707431+-73.818879,Northbound
+New York,I-678,317,Exit 9,EXIT 9,NY-25; Queens Blvd,"East Atlantic Beach, New York",https://www.iexitapp.com/New%20York/I-678/Exit%209/317,40.710118,-73.820672,http://maps.google.com/maps?t=m&q=loc:40.710118+-73.820672,Northbound
+New York,I-678,318,Exit 10,EXIT 10,"GCP
+          (MM: 10.0)","East Atlantic Beach, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2010/318,40.713234,-73.823968,http://maps.google.com/maps?t=m&q=loc:40.713234+-73.823968,Northbound
+New York,I-678,319,Exit 11,EXIT 11,72nd Avenue;Park Drive East,"Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2011/319,40.72277,-73.827484,http://maps.google.com/maps?t=m&q=loc:40.72277+-73.827484,Northbound
+New York,I-678,320,Exit 12A,EXIT 12A,I-495 E; L I Expy; Eastern L I,"Bellerose Terrace, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2012A/320,40.735037,-73.836289,http://maps.google.com/maps?t=m&q=loc:40.735037+-73.836289,Northbound
+New York,I-678,47206,Exit 12A,EXIT 12A,I-495 E; L I Expy; Eastern L I,"East Atlantic Beach, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2012A/47206,40.731513,-73.835035,http://maps.google.com/maps?t=m&q=loc:40.731513+-73.835035,Northbound
+New York,I-678,47207,Exit 12A,EXIT 12A,I-495 E; L I Expy; Eastern L I,"East Atlantic Beach, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2012A/47207,40.740529,-73.836958,http://maps.google.com/maps?t=m&q=loc:40.740529+-73.836958,Northbound
+New York,I-678,322,Exit 13,EXIT 13,New York 25A; Northern Blvd; Astoria Blvd; Triboro Br,"Corona, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2013/322,40.758349,-73.838813,http://maps.google.com/maps?t=m&q=loc:40.758349+-73.838813,Northbound
+New York,I-678,323,Exit 14,EXIT 14,Linden Pl,"Flushing, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2014/323,40.767144,-73.837875,http://maps.google.com/maps?t=m&q=loc:40.767144+-73.837875,Northbound
+New York,I-678,325,Exit 15,EXIT 15,20 Ave,"Flushing, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2015/325,40.777435,-73.827252,http://maps.google.com/maps?t=m&q=loc:40.777435+-73.827252,Northbound
+New York,I-678,47209,Exit 16,EXIT 16,"CIP
+          (MM: 16.0)","Whitestone, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2016/47209,40.786199,-73.823961,http://maps.google.com/maps?t=m&q=loc:40.786199+-73.823961,Northbound
+New York,I-678,47211,Exit 17,EXIT 17,Whitestone Expy,"Whitestone, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2017/47211,40.793013,-73.82384,http://maps.google.com/maps?t=m&q=loc:40.793013+-73.82384,Northbound
+New York,I-678,328,Exit 18,EXIT 18,Lafayette Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-678/Exit%2018/328,40.820084,-73.83594,http://maps.google.com/maps?t=m&q=loc:40.820084+-73.83594,Northbound

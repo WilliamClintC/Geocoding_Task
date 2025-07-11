@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-990,37276,Exit 4,EXIT 4,North French Road (CR 299),"Getzville, New York",https://www.iexitapp.com/New%20York/I-990/Exit%204/37276,43.038358,-78.759244,http://maps.google.com/maps?t=m&q=loc:43.038358+-78.759244,Westbound
+New York,I-990,37277,Exit 3,EXIT 3,Audubon Parkway – University at Buffalo,"Getzville, New York",https://www.iexitapp.com/New%20York/I-990/Exit%203/37277,43.02592,-78.778097,http://maps.google.com/maps?t=m&q=loc:43.02592+-78.778097,Westbound
+New York,I-990,37278,Exit 2B,EXIT 2B,Sweet Home Road (NY 952T),"Buffalo, New York",https://www.iexitapp.com/New%20York/I-990/Exit%202B/37278,43.020736,-78.796212,http://maps.google.com/maps?t=m&q=loc:43.020736+-78.796212,Westbound
+New York,I-990,37279,Exit 2A,EXIT 2A,Sweet Home Road (NY 952T),"Buffalo, New York",https://www.iexitapp.com/New%20York/I-990/Exit%202A/37279,43.018257,-78.799152,http://maps.google.com/maps?t=m&q=loc:43.018257+-78.799152,Westbound

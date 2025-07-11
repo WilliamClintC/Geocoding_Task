@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Colorado,I-270,34415,Exit 2B,EXIT 2B,CO-2 N; US-6 E; US-85 N; Vasquez Blvd,"Denver, Colorado",https://www.iexitapp.com/Colorado/I-270/Exit%202B/34415,39.798355,-104.930927,http://maps.google.com/maps?t=m&q=loc:39.798355+-104.930927,Westbound
+Colorado,I-270,34416,Exit 2A,EXIT 2A,US-85 S; CO-2 S; Vasquez Blvd,"Denver, Colorado",https://www.iexitapp.com/Colorado/I-270/Exit%202A/34416,39.800533,-104.933638,http://maps.google.com/maps?t=m&q=loc:39.800533+-104.933638,Westbound
+Colorado,I-270,57566,Exit 1,EXIT 1,York St,"Denver, Colorado",https://www.iexitapp.com/Colorado/I-270/Exit%201/57566,39.815466,-104.953209,http://maps.google.com/maps?t=m&q=loc:39.815466+-104.953209,Westbound
+Colorado,I-270,34418,Exit 0,EXIT 0,US 36,"Denver, Colorado",https://www.iexitapp.com/Colorado/I-270/Exit%200/34418,39.827905,-104.978307,http://maps.google.com/maps?t=m&q=loc:39.827905+-104.978307,Westbound

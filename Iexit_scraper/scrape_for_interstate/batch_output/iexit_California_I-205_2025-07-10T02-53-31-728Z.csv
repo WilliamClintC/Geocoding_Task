@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+California,I-205,31245,Exit 9,EXIT 9,Mac Arthur Dr,"Tracy, California",https://www.iexitapp.com/California/I-205/Exit%209/31245,37.764965,-121.4103,http://maps.google.com/maps?t=m&q=loc:37.764965+-121.4103,Southbound
+California,I-205,31246,Exit 8,EXIT 8,Tracy Blvd,"Tracy, California",https://www.iexitapp.com/California/I-205/Exit%208/31246,37.763091,-121.429044,http://maps.google.com/maps?t=m&q=loc:37.763091+-121.429044,Southbound
+California,I-205,31247,Exit 6,EXIT 6,Naglee Rd; Grant Line Rd,"Tracy, California",https://www.iexitapp.com/California/I-205/Exit%206/31247,37.756323,-121.458175,http://maps.google.com/maps?t=m&q=loc:37.756323+-121.458175,Southbound
+California,I-205,31248,Exit 2,EXIT 2,Mountain House Pkwy,"Tracy, California",https://www.iexitapp.com/California/I-205/Exit%202/31248,37.742199,-121.525498,http://maps.google.com/maps?t=m&q=loc:37.742199+-121.525498,Southbound

@@ -1,0 +1,69 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-84,28332,Exit 1,EXIT 1,NJ-23; US-6; Port Jervis; Sussex,"Port Jervis, New York",https://www.iexitapp.com/New%20York/I-84/Exit%201/28332,41.354033,-74.68264,http://maps.google.com/maps?t=m&q=loc:41.354033+-74.68264,Eastbound
+New York,I-84,28333,Parking Area,PARKING AREA,Parking Area,"Port Jervis, New York",https://www.iexitapp.com/New%20York/I-84/Parking%20Area/28333,41.37088,-74.643114,http://maps.google.com/maps?t=m&q=loc:41.37088+-74.643114,Eastbound
+New York,I-84,28334,Exit 4,EXIT 4,Mountain Rd,"Port Jervis, New York",https://www.iexitapp.com/New%20York/I-84/Exit%204/28334,41.373911,-74.612083,http://maps.google.com/maps?t=m&q=loc:41.373911+-74.612083,Eastbound
+New York,I-84,28335,Exit 15E,EXIT 15E,US 6 E; New York 17M E; Goshen,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2015E/28335,41.411925,-74.430837,http://maps.google.com/maps?t=m&q=loc:41.411925+-74.430837,Eastbound
+New York,I-84,28336,Exit 15W,EXIT 15W,US-6 W; New York 17M W; Middletown,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2015W/28336,41.416032,-74.421696,http://maps.google.com/maps?t=m&q=loc:41.416032+-74.421696,Eastbound
+New York,I-84,28337,Rest Area,REST AREA,Rest Area,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Rest%20Area/28337,41.422967,-74.399858,http://maps.google.com/maps?t=m&q=loc:41.422967+-74.399858,Eastbound
+New York,I-84,28338,Exit 19A,EXIT 19A,"NY 17
+          (MM: 19.0)","Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2019A/28338,41.442818,-74.374809,http://maps.google.com/maps?t=m&q=loc:41.442818+-74.374809,Eastbound
+New York,I-84,76590,Exit 19A,EXIT 19A,E Main St; Crystal Run Rd,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2019A/76590,41.443159,-74.374518,http://maps.google.com/maps?t=m&q=loc:41.443159+-74.374518,Eastbound
+New York,I-84,54789,Exit 19B,EXIT 19B,NY 17,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2019B/54789,41.447808,-74.369442,http://maps.google.com/maps?t=m&q=loc:41.447808+-74.369442,Eastbound
+New York,I-84,28339,Exit 28,EXIT 28,New York 208; Maybrook; Walden,"Montgomery, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2028/28339,41.511144,-74.206444,http://maps.google.com/maps?t=m&q=loc:41.511144+-74.206444,Eastbound
+New York,I-84,28340,Exit 32,EXIT 32,NY-747; International Blvd; Stewart Airport,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2032/28340,41.512459,-74.130087,http://maps.google.com/maps?t=m&q=loc:41.512459+-74.130087,Eastbound
+New York,I-84,28341,Exit 34,EXIT 34,New York 17k; Montgomery; Newburgh,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2034/28341,41.517744,-74.114014,http://maps.google.com/maps?t=m&q=loc:41.517744+-74.114014,Eastbound
+New York,I-84,28342,Exit 36A,EXIT 36A,"I-87; New York State Thruway; Albany; New York City
+          (MM: 36.0)","Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2036A/28342,41.514956,-74.07753,http://maps.google.com/maps?t=m&q=loc:41.514956+-74.07753,Eastbound
+New York,I-84,28343,Exit 36B,EXIT 36B,NY-300; Union Ave,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2036B/28343,41.514672,-74.073187,http://maps.google.com/maps?t=m&q=loc:41.514672+-74.073187,Eastbound
+New York,I-84,28344,Exit 37,EXIT 37,New York 52; Walden,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2037/28344,41.513476,-74.054703,http://maps.google.com/maps?t=m&q=loc:41.513476+-74.054703,Eastbound
+New York,I-84,28345,Exit 39,EXIT 39,US 9W S; New York 32 S,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2039/28345,41.519462,-74.024027,http://maps.google.com/maps?t=m&q=loc:41.519462+-74.024027,Eastbound
+New York,I-84,28346,Exit 41,EXIT 41,New York 9D; Beacon; Wappinger Falls,"Beacon, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2041/28346,41.517812,-73.977382,http://maps.google.com/maps?t=m&q=loc:41.517812+-73.977382,Eastbound
+New York,I-84,28347,Exit 44,EXIT 44,New York 52; Fishkill,"Fishkill, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2044/28347,41.528808,-73.919724,http://maps.google.com/maps?t=m&q=loc:41.528808+-73.919724,Eastbound
+New York,I-84,28348,Exit 46,EXIT 46,U.S. 9; Poughkeepsie; Peekskill,"Fishkill, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2046/28348,41.522927,-73.896094,http://maps.google.com/maps?t=m&q=loc:41.522927+-73.896094,Eastbound
+New York,I-84,28349,Exit 50,EXIT 50,Lime Kiln Rd,"Hopewell Junction, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2050/28349,41.529803,-73.809775,http://maps.google.com/maps?t=m&q=loc:41.529803+-73.809775,Eastbound
+New York,I-84,28350,Exit 52A,EXIT 52A,"TSP
+          (MM: 52.0)","Hopewell Junction, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2052A/28350,41.537818,-73.776994,http://maps.google.com/maps?t=m&q=loc:41.537818+-73.776994,Eastbound
+New York,I-84,28351,Exit 52B,EXIT 52B,"TSP Northbound
+          (MM: 52.0)","Hopewell Junction, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2052B/28351,41.538892,-73.770676,http://maps.google.com/maps?t=m&q=loc:41.538892+-73.770676,Eastbound
+New York,I-84,28352,Rest Area,REST AREA,Rest Area,"Stormville, New York",https://www.iexitapp.com/New%20York/I-84/Rest%20Area/28352,41.547738,-73.72995,http://maps.google.com/maps?t=m&q=loc:41.547738+-73.72995,Eastbound
+New York,I-84,28353,Exit 58,EXIT 58,Ludingtonville Rd,"Holmes, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2058/28353,41.513425,-73.683903,http://maps.google.com/maps?t=m&q=loc:41.513425+-73.683903,Eastbound
+New York,I-84,28354,Exit 61,EXIT 61,NY-311; Lake Carmel; Patterson,"Holmes, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2061/28354,41.478014,-73.651858,http://maps.google.com/maps?t=m&q=loc:41.478014+-73.651858,Eastbound
+New York,I-84,28355,Exit 65,EXIT 65,NY-312; Carmel; Brewster,"Brewster, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2065/28355,41.427773,-73.629652,http://maps.google.com/maps?t=m&q=loc:41.427773+-73.629652,Eastbound
+New York,I-84,28356,Exit 68A,EXIT 68A,"I 684
+          (MM: 68.0)","Brewster, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2068A/28356,41.39378,-73.600509,http://maps.google.com/maps?t=m&q=loc:41.39378+-73.600509,Eastbound
+New York,I-84,54795,Exit 68B,EXIT 68B,"I 684
+          (MM: 68.0)","Brewster, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2068B/54795,41.389724,-73.596788,http://maps.google.com/maps?t=m&q=loc:41.389724+-73.596788,Eastbound
+New York,I-84,28357,Exit 1,EXIT 1,Saw Mill Rd,"Brewster, New York",https://www.iexitapp.com/New%20York/I-84/Exit%201/28357,41.388557,-73.544718,http://maps.google.com/maps?t=m&q=loc:41.388557+-73.544718,Eastbound
+New York,I-84,28514,Exit 69,EXIT 69,NY-121; US-202; US-6; N Salem; Brewster,"Brewster, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2069/28514,41.383473,-73.578151,http://maps.google.com/maps?t=m&q=loc:41.383473+-73.578151,Westbound
+New York,I-84,28515,Exit 68,EXIT 68,"I 684;I 684
+          (MM: 68.0)","Brewster, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2068/28515,41.388647,-73.593831,http://maps.google.com/maps?t=m&q=loc:41.388647+-73.593831,Westbound
+New York,I-84,28516,Exit 65,EXIT 65,NY-312; Carmel,"Brewster, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2065/28516,41.424978,-73.626595,http://maps.google.com/maps?t=m&q=loc:41.424978+-73.626595,Westbound
+New York,I-84,28517,Exit 61,EXIT 61,NY-311; Lake Carmel; Patterson,"Holmes, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2061/28517,41.471071,-73.646717,http://maps.google.com/maps?t=m&q=loc:41.471071+-73.646717,Westbound
+New York,I-84,28518,Exit 58,EXIT 58,Ludingtonville Rd,"Holmes, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2058/28518,41.504778,-73.679588,http://maps.google.com/maps?t=m&q=loc:41.504778+-73.679588,Westbound
+New York,I-84,28519,Rest Area,REST AREA,Rest Area,"Stormville, New York",https://www.iexitapp.com/New%20York/I-84/Rest%20Area/28519,41.546004,-73.717566,http://maps.google.com/maps?t=m&q=loc:41.546004+-73.717566,Westbound
+New York,I-84,28520,Exit 52B,EXIT 52B,"TSP
+          (MM: 52.0)","Hopewell Junction, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2052B/28520,41.540249,-73.76473,http://maps.google.com/maps?t=m&q=loc:41.540249+-73.76473,Westbound
+New York,I-84,28521,Exit 52A,EXIT 52A,"TSP
+          (MM: 52.0)","Hopewell Junction, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2052A/28521,41.539158,-73.772273,http://maps.google.com/maps?t=m&q=loc:41.539158+-73.772273,Westbound
+New York,I-84,28522,Exit 50,EXIT 50,Lime Kiln Rd,"Hopewell Junction, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2050/28522,41.53121,-73.802319,http://maps.google.com/maps?t=m&q=loc:41.53121+-73.802319,Westbound
+New York,I-84,28523,Exit 46B,EXIT 46B,U.S. 9 N; Poughkeepsie,"Fishkill, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2046B/28523,41.524917,-73.88404,http://maps.google.com/maps?t=m&q=loc:41.524917+-73.88404,Westbound
+New York,I-84,28524,Exit 46A,EXIT 46A,U.S. 9 S; Peekskill,"Fishkill, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2046A/28524,41.524019,-73.890613,http://maps.google.com/maps?t=m&q=loc:41.524019+-73.890613,Westbound
+New York,I-84,28525,Exit 44,EXIT 44,NY-52 E,"Fishkill, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2044/28525,41.525408,-73.912593,http://maps.google.com/maps?t=m&q=loc:41.525408+-73.912593,Westbound
+New York,I-84,28526,Exit 41,EXIT 41,New York 9D; Wappingers Falls; Beacon,"Beacon, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2041/28526,41.518606,-73.969867,http://maps.google.com/maps?t=m&q=loc:41.518606+-73.969867,Westbound
+New York,I-84,28527,Exit 39B,EXIT 39B,US-9W N; Albany Post Rd; Highland,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2039B/28527,41.519643,-74.016577,http://maps.google.com/maps?t=m&q=loc:41.519643+-74.016577,Westbound
+New York,I-84,28528,Exit 39A,EXIT 39A,NY-32; US-9W S; Newburgh,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2039A/28528,41.519522,-74.020903,http://maps.google.com/maps?t=m&q=loc:41.519522+-74.020903,Westbound
+New York,I-84,28529,Exit 37,EXIT 37,NY 52,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2037/28529,41.514235,-74.046241,http://maps.google.com/maps?t=m&q=loc:41.514235+-74.046241,Westbound
+New York,I-84,28530,Exit 36B,EXIT 36B,NY-300; Union Ave,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2036B/28530,41.514114,-74.06093,http://maps.google.com/maps?t=m&q=loc:41.514114+-74.06093,Westbound
+New York,I-84,28531,Exit 36A,EXIT 36A,"I-87;Thruway;New York;Albany
+          (MM: 36.0)","Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2036A/28531,41.514407,-74.065509,http://maps.google.com/maps?t=m&q=loc:41.514407+-74.065509,Westbound
+New York,I-84,28532,Exit 34,EXIT 34,New York 17K; Montgomery; Newburgh,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2034/28532,41.522145,-74.106346,http://maps.google.com/maps?t=m&q=loc:41.522145+-74.106346,Westbound
+New York,I-84,28533,Exit 32,EXIT 32,NY-747; Stewart Airport; International Blvd,"Newburgh, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2032/28533,41.513927,-74.123587,http://maps.google.com/maps?t=m&q=loc:41.513927+-74.123587,Westbound
+New York,I-84,28534,Exit 28,EXIT 28,NY-208; Maybrook; Walden,"Montgomery, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2028/28534,41.513029,-74.202522,http://maps.google.com/maps?t=m&q=loc:41.513029+-74.202522,Westbound
+New York,I-84,28535,Rest Area,REST AREA,Rest Area,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Rest%20Area/28535,41.479832,-74.293433,http://maps.google.com/maps?t=m&q=loc:41.479832+-74.293433,Westbound
+New York,I-84,28536,Exit 19B,EXIT 19B,NY 17,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2019B/28536,41.45133,-74.363124,http://maps.google.com/maps?t=m&q=loc:41.45133+-74.363124,Westbound
+New York,I-84,54851,Exit 19A,EXIT 19A,NY 17,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2019A/54851,41.447414,-74.370748,http://maps.google.com/maps?t=m&q=loc:41.447414+-74.370748,Westbound
+New York,I-84,28537,Exit 15W,EXIT 15W,US-6 W; New York 17M W; Middletown,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2015W/28537,41.417799,-74.418228,http://maps.google.com/maps?t=m&q=loc:41.417799+-74.418228,Westbound
+New York,I-84,28538,Exit 15E,EXIT 15E,US-6 E; New York 17M E; Goshen,"Middletown, New York",https://www.iexitapp.com/New%20York/I-84/Exit%2015E/28538,41.414709,-74.425305,http://maps.google.com/maps?t=m&q=loc:41.414709+-74.425305,Westbound
+New York,I-84,28539,Exit 4,EXIT 4,Mountain Rd,"Port Jervis, New York",https://www.iexitapp.com/New%20York/I-84/Exit%204/28539,41.374732,-74.610135,http://maps.google.com/maps?t=m&q=loc:41.374732+-74.610135,Westbound
+New York,I-84,28540,Parking Area,PARKING AREA,Parking Area,"Port Jervis, New York",https://www.iexitapp.com/New%20York/I-84/Parking%20Area/28540,41.374135,-74.636319,http://maps.google.com/maps?t=m&q=loc:41.374135+-74.636319,Westbound
+New York,I-84,28541,Exit 1,EXIT 1,US-6; NY-23; Port Jervis; Sussex,"Port Jervis, New York",https://www.iexitapp.com/New%20York/I-84/Exit%201/28541,41.354409,-74.675186,http://maps.google.com/maps?t=m&q=loc:41.354409+-74.675186,Westbound

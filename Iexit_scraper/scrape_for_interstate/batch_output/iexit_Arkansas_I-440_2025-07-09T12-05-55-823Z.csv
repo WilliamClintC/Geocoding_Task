@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Arkansas,I-440,33455,Exit 12,EXIT 12,AR-161; Rixey,"North Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%2012/33455,34.828402,-92.15032,http://maps.google.com/maps?t=m&q=loc:34.828402+-92.15032,Westbound
+Arkansas,I-440,33457,Exit 10,EXIT 10,US-70,"North Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%2010/33457,34.771586,-92.161968,http://maps.google.com/maps?t=m&q=loc:34.771586+-92.161968,Westbound
+Arkansas,I-440,33458,Exit 8,EXIT 8,Faulkner Lake Rd; I-82,"North Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%208/33458,34.75109,-92.162797,http://maps.google.com/maps?t=m&q=loc:34.75109+-92.162797,Westbound
+Arkansas,I-440,33459,Exit 7,EXIT 7,US-165; England; Scott,"North Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%207/33459,34.735924,-92.169771,http://maps.google.com/maps?t=m&q=loc:34.735924+-92.169771,Westbound
+Arkansas,I-440,33460,Exit 5,EXIT 5,Fourche Dam Pike; L.R. River Port,"Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%205/33460,34.717055,-92.185214,http://maps.google.com/maps?t=m&q=loc:34.717055+-92.185214,Westbound
+Arkansas,I-440,33461,Exit 4,EXIT 4,Lindsey Rd,"Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%204/33461,34.715697,-92.208439,http://maps.google.com/maps?t=m&q=loc:34.715697+-92.208439,Westbound
+Arkansas,I-440,33462,Exit 3,EXIT 3,Bankhead Drive; L.R. National Airport,"Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%203/33462,34.716619,-92.219627,http://maps.google.com/maps?t=m&q=loc:34.716619+-92.219627,Westbound
+Arkansas,I-440,33463,Exit 1,EXIT 1,AR-365 S; Springer Blvd,"Little Rock, Arkansas",https://www.iexitapp.com/Arkansas/I-440/Exit%201/33463,34.716883,-92.250724,http://maps.google.com/maps?t=m&q=loc:34.716883+-92.250724,Westbound

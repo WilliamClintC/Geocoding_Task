@@ -1,0 +1,45 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-435,33153,Exit 75A,EXIT 75A,Wornall Rd,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2075A/33153,38.939166,-94.60086,http://maps.google.com/maps?t=m&q=loc:38.939166+-94.60086,Unknown
+Missouri,I-435,33154,Exit 74,EXIT 74,Holmes Rd,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2074/33154,38.940582,-94.58729,http://maps.google.com/maps?t=m&q=loc:38.940582+-94.58729,Unknown
+Missouri,I-435,33155,Exit 71A,EXIT 71A,"I 470;US 50
+          (MM: 71.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2071A/33155,38.938554,-94.54464,http://maps.google.com/maps?t=m&q=loc:38.938554+-94.54464,Unknown
+Missouri,I-435,33156,Exit 71B,EXIT 71B,"I 49;US 71
+          (MM: 71.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2071B/33156,38.940788,-94.536902,http://maps.google.com/maps?t=m&q=loc:38.940788+-94.536902,Unknown
+Missouri,I-435,33157,Exit 70,EXIT 70,Bannister Rd W; Missouri W,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2070/33157,38.948858,-94.532438,http://maps.google.com/maps?t=m&q=loc:38.948858+-94.532438,Unknown
+Missouri,I-435,33158,Exit 69,EXIT 69,87th St,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2069/33158,38.964262,-94.521884,http://maps.google.com/maps?t=m&q=loc:38.964262+-94.521884,Unknown
+Missouri,I-435,33159,Exit 67,EXIT 67,Gregory Blvd,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2067/33159,38.992424,-94.502405,http://maps.google.com/maps?t=m&q=loc:38.992424+-94.502405,Unknown
+Missouri,I-435,33160,Exit 66A,EXIT 66A,63rd St; MO-350 E; Raytown,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2066A/33160,39.007283,-94.50107,http://maps.google.com/maps?t=m&q=loc:39.007283+-94.50107,Unknown
+Missouri,I-435,33161,Exit 66B,EXIT 66B,Blue Pkwy,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2066B/33161,39.014935,-94.497096,http://maps.google.com/maps?t=m&q=loc:39.014935+-94.497096,Unknown
+Missouri,I-435,33162,Exit 65,EXIT 65,Eastwood,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2065/33162,39.027326,-94.500538,http://maps.google.com/maps?t=m&q=loc:39.027326+-94.500538,Unknown
+Missouri,I-435,33163,Exit 63C,EXIT 63C,Lancer Lane,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2063C/33163,39.048015,-94.499487,http://maps.google.com/maps?t=m&q=loc:39.048015+-94.499487,Unknown
+Missouri,I-435,56739,Exit 63C,EXIT 63C,East Stadium Drive,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2063C/56739,39.051565,-94.498037,http://maps.google.com/maps?t=m&q=loc:39.051565+-94.498037,Unknown
+Missouri,I-435,56740,Exit 63B,EXIT 63B,Blue Ridge Cutoff,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2063B/56740,39.056007,-94.493189,http://maps.google.com/maps?t=m&q=loc:39.056007+-94.493189,Unknown
+Missouri,I-435,33165,Exit 61,EXIT 61,MO-78 E; 23rd St,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2061/33165,39.079205,-94.490705,http://maps.google.com/maps?t=m&q=loc:39.079205+-94.490705,Unknown
+Missouri,I-435,33166,Exit 60,EXIT 60,Missouri 12 E; Truman Rd; 12th Street,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2060/33166,39.088564,-94.487231,http://maps.google.com/maps?t=m&q=loc:39.088564+-94.487231,Unknown
+Missouri,I-435,33167,Exit 59,EXIT 59,US-24 W,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2059/33167,39.102753,-94.486269,http://maps.google.com/maps?t=m&q=loc:39.102753+-94.486269,Unknown
+Missouri,I-435,56744,Exit 57,EXIT 57,East Front Street,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2057/56744,39.127076,-94.497643,http://maps.google.com/maps?t=m&q=loc:39.127076+-94.497643,Unknown
+Missouri,I-435,33169,Exit 55A,EXIT 55A,"MO 210
+          (MM: 55.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2055A/33169,39.155166,-94.497993,http://maps.google.com/maps?t=m&q=loc:39.155166+-94.497993,Unknown
+Missouri,I-435,33170,Exit 55B,EXIT 55B,MO 210,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2055B/33170,39.156603,-94.497911,http://maps.google.com/maps?t=m&q=loc:39.156603+-94.497911,Unknown
+Missouri,I-435,33171,Exit 54,EXIT 54,Parvin Rd; 48 th St,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2054/33171,39.165831,-94.494198,http://maps.google.com/maps?t=m&q=loc:39.165831+-94.494198,Unknown
+Missouri,I-435,33172,Exit 52A,EXIT 52A,US-69; Claycomo,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2052A/33172,39.199373,-94.492522,http://maps.google.com/maps?t=m&q=loc:39.199373+-94.492522,Unknown
+Missouri,I-435,33174,Exit 51,EXIT 51,NE Shoal Creek Pky,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2051/33174,39.220983,-94.497743,http://maps.google.com/maps?t=m&q=loc:39.220983+-94.497743,Unknown
+Missouri,I-435,33175,Exit 49B,EXIT 49B,"Northeast Barry Road
+          (MM: 49.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2049B/33175,39.237732,-94.505963,http://maps.google.com/maps?t=m&q=loc:39.237732+-94.505963,Unknown
+Missouri,I-435,56747,Exit 49A,EXIT 49A,"MO 152
+          (MM: 49.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2049A/56747,39.244274,-94.507395,http://maps.google.com/maps?t=m&q=loc:39.244274+-94.507395,Unknown
+Missouri,I-435,33176,Exit 47,EXIT 47,NE 96th St,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2047/33176,39.264072,-94.510065,http://maps.google.com/maps?t=m&q=loc:39.264072+-94.510065,Unknown
+Missouri,I-435,33177,Exit 46,EXIT 46,NE 108th St,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2046/33177,39.283607,-94.510042,http://maps.google.com/maps?t=m&q=loc:39.283607+-94.510042,Unknown
+Missouri,I-435,33178,Exit 45,EXIT 45,I-435; NW Cookingham Dr,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2045/33178,39.296079,-94.509964,http://maps.google.com/maps?t=m&q=loc:39.296079+-94.509964,Unknown
+Missouri,I-435,33179,Exit 42,EXIT 42,N Woodland Ave,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2042/33179,39.311371,-94.551849,http://maps.google.com/maps?t=m&q=loc:39.311371+-94.551849,Unknown
+Missouri,I-435,33180,Exit 41B,EXIT 41B,"US 169
+          (MM: 41.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2041B/33180,39.310875,-94.577545,http://maps.google.com/maps?t=m&q=loc:39.310875+-94.577545,Unknown
+Missouri,I-435,56750,Exit 41A,EXIT 41A,"US 169
+          (MM: 41.0)","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2041A/56750,39.309738,-94.584952,http://maps.google.com/maps?t=m&q=loc:39.309738+-94.584952,Unknown
+Missouri,I-435,33181,Exit 40,EXIT 40,NW Cookingham Dr,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2040/33181,39.307967,-94.59664,http://maps.google.com/maps?t=m&q=loc:39.307967+-94.59664,Unknown
+Missouri,I-435,33182,Exit 37,EXIT 37,NW Skyview Ave; Platte County C,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2037/33182,39.307657,-94.643082,http://maps.google.com/maps?t=m&q=loc:39.307657+-94.643082,Unknown
+Missouri,I-435,33183,Exit 36,EXIT 36,NW Cookinghame Drive,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2036/33183,39.307733,-94.666243,http://maps.google.com/maps?t=m&q=loc:39.307733+-94.666243,Unknown
+Missouri,I-435,56753,Exit 15,EXIT 15,Mexico City Avenue,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2015/56753,39.329514,-94.712613,http://maps.google.com/maps?t=m&q=loc:39.329514+-94.712613,Unknown
+Missouri,I-435,56756,Exit 29,EXIT 29,State Highway D; NW 120th Street,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2029/56756,39.313117,-94.757811,http://maps.google.com/maps?t=m&q=loc:39.313117+-94.757811,Unknown
+Missouri,I-435,33188,Exit 24,EXIT 24,Missouri 152 N; NW Barry Rd; State Hwy N N,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2024/33188,39.249979,-94.755196,http://maps.google.com/maps?t=m&q=loc:39.249979+-94.755196,Unknown
+Missouri,I-435,33189,Exit 22,EXIT 22,Missouri 45; Weston; Parkville,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-435/Exit%2022/33189,39.228256,-94.760963,http://maps.google.com/maps?t=m&q=loc:39.228256+-94.760963,Unknown

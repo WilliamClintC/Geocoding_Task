@@ -1,0 +1,37 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Idaho,I-15,10425,Exit 3,EXIT 3,Woodruff; Samaria,"Malad City, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%203/10425,42.03269,-112.209556,http://maps.google.com/maps?t=m&q=loc:42.03269+-112.209556,Northbound
+Idaho,I-15,10426,Cheery Creek Rest Area,REST AREA,"Cheery Creek Rest Area
+          (MM: 7.0)","Malad City, Idaho",https://www.iexitapp.com/Idaho/I-15/Rest%20Area/10426,42.094421,-112.217989,http://maps.google.com/maps?t=m&q=loc:42.094421+-112.217989,Northbound
+Idaho,I-15,10427,Exit 13,EXIT 13,ID-38; Malad,"Malad City, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2013/10427,42.178278,-112.228827,http://maps.google.com/maps?t=m&q=loc:42.178278+-112.228827,Northbound
+Idaho,I-15,10428,Exit 17,EXIT 17,ID 36,"Malad City, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2017/10428,42.231917,-112.23231,http://maps.google.com/maps?t=m&q=loc:42.231917+-112.23231,Northbound
+Idaho,I-15,10430,Exit 31,EXIT 31,ID-40 E; Downey; Preston,"Downey, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2031/10430,42.426264,-112.184296,http://maps.google.com/maps?t=m&q=loc:42.426264+-112.184296,Northbound
+Idaho,I-15,10431,Exit 36,EXIT 36,Virginia,"Downey, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2036/10431,42.496987,-112.16931,http://maps.google.com/maps?t=m&q=loc:42.496987+-112.16931,Northbound
+Idaho,I-15,10432,Exit 40,EXIT 40,Arimo,"Arimo, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2040/10432,42.564203,-112.178143,http://maps.google.com/maps?t=m&q=loc:42.564203+-112.178143,Northbound
+Idaho,I-15,10433,Exit 44,EXIT 44,I-15 BUS; McCammon,"McCammon, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2044/10433,42.614973,-112.198065,http://maps.google.com/maps?t=m&q=loc:42.614973+-112.198065,Northbound
+Idaho,I-15,10434,Exit 47,EXIT 47,US-30 E; Lava Hot Sprs.; Soda Sprs.; Montpeller,"McCammon, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2047/10434,42.65716,-112.210317,http://maps.google.com/maps?t=m&q=loc:42.65716+-112.210317,Northbound
+Idaho,I-15,10435,Exit 57,EXIT 57,I-15; Inkom; Pebble Creek,"Inkom, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2057/10435,42.790644,-112.238858,http://maps.google.com/maps?t=m&q=loc:42.790644+-112.238858,Northbound
+Idaho,I-15,10436,Weigh Station,WEIGH STATION,Weigh Station,"Inkom, Idaho",https://www.iexitapp.com/Idaho/I-15/Weigh%20Station/10436,42.800458,-112.285966,http://maps.google.com/maps?t=m&q=loc:42.800458+-112.285966,Northbound
+Idaho,I-15,10437,Exit 63,EXIT 63,Portneuf Area,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2063/10437,42.799926,-112.364875,http://maps.google.com/maps?t=m&q=loc:42.799926+-112.364875,Northbound
+Idaho,I-15,10438,Exit 67,EXIT 67,I-15; US-30; US-91; Pocatello,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2067/10438,42.834367,-112.408397,http://maps.google.com/maps?t=m&q=loc:42.834367+-112.408397,Northbound
+Idaho,I-15,10439,Exit 69,EXIT 69,Clark St,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2069/10439,42.872492,-112.423391,http://maps.google.com/maps?t=m&q=loc:42.872492+-112.423391,Northbound
+Idaho,I-15,10440,Exit 71,EXIT 71,Pocatello Creek Road,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2071/10440,42.894639,-112.433917,http://maps.google.com/maps?t=m&q=loc:42.894639+-112.433917,Northbound
+Idaho,I-15,10442,Exit 80,EXIT 80,Fort Hall,"Fort Hall, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2080/10442,43.018887,-112.407873,http://maps.google.com/maps?t=m&q=loc:43.018887+-112.407873,Northbound
+Idaho,I-15,51873,Exit 89,EXIT 89,I-15 BUS; US-91; Blackfoot,"Blackfoot, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2089/51873,43.149932,-112.388542,http://maps.google.com/maps?t=m&q=loc:43.149932+-112.388542,Northbound
+Idaho,I-15,10444,Exit 93,EXIT 93,US-26; ID-39; Arco,"Blackfoot, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%2093/10444,43.195647,-112.366228,http://maps.google.com/maps?t=m&q=loc:43.195647+-112.366228,Northbound
+Idaho,I-15,10446,Blackfoot Rest Area,REST AREA,"Blackfoot Rest Area
+          (MM: 101.0)","Blackfoot, Idaho",https://www.iexitapp.com/Idaho/I-15/Rest%20Area/10446,43.299322,-112.273901,http://maps.google.com/maps?t=m&q=loc:43.299322+-112.273901,Northbound
+Idaho,I-15,10447,Exit 108,EXIT 108,E 1250 N,"Shelley, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20108/10447,43.379469,-112.192009,http://maps.google.com/maps?t=m&q=loc:43.379469+-112.192009,Northbound
+Idaho,I-15,10448,Exit 113,EXIT 113,W 65th S,"Idaho Falls, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20113/10448,43.436205,-112.124436,http://maps.google.com/maps?t=m&q=loc:43.436205+-112.124436,Northbound
+Idaho,I-15,10449,Exit 116,EXIT 116,I-15 BUS; US-26 E; S Idaho Falls; Jackson,"Idaho Falls, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20116/10449,43.465173,-112.088353,http://maps.google.com/maps?t=m&q=loc:43.465173+-112.088353,Northbound
+Idaho,I-15,10450,Exit 118,EXIT 118,I-15 BUS; US-20 W; US-20 BUS; Historic Downtown,"Idaho Falls, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20118/10450,43.493947,-112.053912,http://maps.google.com/maps?t=m&q=loc:43.493947+-112.053912,Northbound
+Idaho,I-15,10451,Exit 119,EXIT 119,"US 20
+          (MM: 119.0)","Idaho Falls, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20119/10451,43.500211,-112.053901,http://maps.google.com/maps?t=m&q=loc:43.500211+-112.053901,Northbound
+Idaho,I-15,10452,Exit 128,EXIT 128,Osgood Area,"Idaho Falls, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20128/10452,43.62043,-112.078995,http://maps.google.com/maps?t=m&q=loc:43.62043+-112.078995,Northbound
+Idaho,I-15,10453,Exit 135,EXIT 135,ID-48; Roberts,"Roberts, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20135/10453,43.713469,-112.132563,http://maps.google.com/maps?t=m&q=loc:43.713469+-112.132563,Northbound
+Idaho,I-15,10454,Exit 143,EXIT 143,ID-33; Rexburg; Salmon,"Roberts, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20143/10454,43.827171,-112.19291,http://maps.google.com/maps?t=m&q=loc:43.827171+-112.19291,Northbound
+Idaho,I-15,10455,Exit 150,EXIT 150,Hamer,"Hamer, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20150/10455,43.9223,-112.211032,http://maps.google.com/maps?t=m&q=loc:43.9223+-112.211032,Northbound
+Idaho,I-15,51875,Exit 167,EXIT 167,ID-22 W; Dubois,"Dubois, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20167/51875,44.172861,-112.24033,http://maps.google.com/maps?t=m&q=loc:44.172861+-112.24033,Northbound
+Idaho,I-15,10457,Exit 172,EXIT 172,Exit,"Dubois, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20172/10457,44.247449,-112.227776,http://maps.google.com/maps?t=m&q=loc:44.247449+-112.227776,Northbound
+Idaho,I-15,10458,Exit 180,EXIT 180,Spencer,"Spencer, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20180/10458,44.355034,-112.185114,http://maps.google.com/maps?t=m&q=loc:44.355034+-112.185114,Northbound
+Idaho,I-15,10459,Exit 184,EXIT 184,West Camas Creek Road,"Spencer, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20184/10459,44.410451,-112.198102,http://maps.google.com/maps?t=m&q=loc:44.410451+-112.198102,Northbound
+Idaho,I-15,10460,Exit 190,EXIT 190,Exit,"Spencer, Idaho",https://www.iexitapp.com/Idaho/I-15/Exit%20190/10460,44.483827,-112.23513,http://maps.google.com/maps?t=m&q=loc:44.483827+-112.23513,Northbound

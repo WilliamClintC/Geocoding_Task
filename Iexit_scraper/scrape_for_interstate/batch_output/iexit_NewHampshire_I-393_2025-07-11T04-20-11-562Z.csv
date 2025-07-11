@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New Hampshire,I-393,37920,Exit 1,EXIT 1,Fort Eddy Road — NHTI Community College,"Concord, New Hampshire",https://www.iexitapp.com/New%20Hampshire/I-393/Exit%201/37920,43.21797,-71.528451,http://maps.google.com/maps?t=m&q=loc:43.21797+-71.528451,Northbound
+New Hampshire,I-393,37921,Exit 2,EXIT 2,NH 132 (East Side Drive),"Concord, New Hampshire",https://www.iexitapp.com/New%20Hampshire/I-393/Exit%202/37921,43.223531,-71.509143,http://maps.google.com/maps?t=m&q=loc:43.223531+-71.509143,Northbound
+New Hampshire,I-393,37922,Exit 3,EXIT 3,"NH 106 – Laconia, Pembroke","Concord, New Hampshire",https://www.iexitapp.com/New%20Hampshire/I-393/Exit%203/37922,43.235338,-71.476019,http://maps.google.com/maps?t=m&q=loc:43.235338+-71.476019,Northbound

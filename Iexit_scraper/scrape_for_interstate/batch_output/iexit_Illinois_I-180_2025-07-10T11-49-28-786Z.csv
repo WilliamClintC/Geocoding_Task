@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-180,35511,"US 6 – Princeton, Spring Valley",EXIT,"US 6 – Princeton, Spring Valley","Princeton, Illinois",https://www.iexitapp.com/Illinois/I-180/Exit%20/35511,41.376225,-89.38283,http://maps.google.com/maps?t=m&q=loc:41.376225+-89.38283,Westbound
+Illinois,I-180,35512,IL 26 – Princeton,EXIT,IL 26 – Princeton,"Princeton, Illinois",https://www.iexitapp.com/Illinois/I-180/Exit%20/35512,41.320699,-89.390901,http://maps.google.com/maps?t=m&q=loc:41.320699+-89.390901,Westbound
+Illinois,I-180,35513,IL 29 south – Peoria,EXIT,IL 29 south – Peoria,"Bureau Junction, Illinois",https://www.iexitapp.com/Illinois/I-180/Exit%20/35513,41.276101,-89.400284,http://maps.google.com/maps?t=m&q=loc:41.276101+-89.400284,Westbound
+Illinois,I-180,35514,IL 26 north to IL 29 north – Bureau Junction,EXIT,IL 26 north to IL 29 north – Bureau Junction,"Hennepin, Illinois",https://www.iexitapp.com/Illinois/I-180/Exit%20/35514,41.256864,-89.332488,http://maps.google.com/maps?t=m&q=loc:41.256864+-89.332488,Westbound
+Illinois,I-180,35515,IL 71,EXIT,IL 71,"Hennepin, Illinois",https://www.iexitapp.com/Illinois/I-180/Exit%20/35515,41.256699,-89.323776,http://maps.google.com/maps?t=m&q=loc:41.256699+-89.323776,Westbound

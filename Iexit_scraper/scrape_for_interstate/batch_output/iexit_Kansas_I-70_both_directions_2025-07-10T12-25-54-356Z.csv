@@ -1,0 +1,313 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-70,8244,Weigh Station,WEIGH STATION,Weigh Station,"Kanorado, Kansas",https://www.iexitapp.com/Kansas/I-70/Weigh%20Station/8244,39.329621,-102.046805,http://maps.google.com/maps?t=m&q=loc:39.329621+-102.046805,Eastbound
+Kansas,I-70,8245,Exit 1,EXIT 1,Kansas 267; Kanorado,"Kanorado, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%201/8245,39.32951,-102.027704,http://maps.google.com/maps?t=m&q=loc:39.32951+-102.027704,Eastbound
+Kansas,I-70,8246,Rest Area,REST AREA,"Rest Area
+          (MM: 7.0)","Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8246,39.328411,-101.908787,http://maps.google.com/maps?t=m&q=loc:39.328411+-101.908787,Eastbound
+Kansas,I-70,8247,Exit 9,EXIT 9,Co Rd 11,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%209/8247,39.328577,-101.878096,http://maps.google.com/maps?t=m&q=loc:39.328577+-101.878096,Eastbound
+Kansas,I-70,8248,Exit 12,EXIT 12,Co Rd 14,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2012/8248,39.329422,-101.822777,http://maps.google.com/maps?t=m&q=loc:39.329422+-101.822777,Eastbound
+Kansas,I-70,8249,Exit 17,EXIT 17,KS-27; US-24 BUS; Sharon Springs; St Francis,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2017/8249,39.327817,-101.730847,http://maps.google.com/maps?t=m&q=loc:39.327817+-101.730847,Eastbound
+Kansas,I-70,8250,Exit 19,EXIT 19,US-24 BUS; Goodland,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2019/8250,39.329869,-101.693105,http://maps.google.com/maps?t=m&q=loc:39.329869+-101.693105,Eastbound
+Kansas,I-70,8251,Exit 27,EXIT 27,KS-253; Edson,"Edson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2027/8251,39.329661,-101.543688,http://maps.google.com/maps?t=m&q=loc:39.329661+-101.543688,Eastbound
+Kansas,I-70,8252,Exit 36,EXIT 36,State 184; Brewster,"Brewster, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2036/8252,39.337827,-101.375348,http://maps.google.com/maps?t=m&q=loc:39.337827+-101.375348,Eastbound
+Kansas,I-70,8253,Exit 45,EXIT 45,US-24; Levant,"Levant, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2045/8253,39.365919,-101.207859,http://maps.google.com/maps?t=m&q=loc:39.365919+-101.207859,Eastbound
+Kansas,I-70,8254,Colby Rest Area,REST AREA,"Colby Rest Area
+          (MM: 48.0)","Levant, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8254,39.365601,-101.159274,http://maps.google.com/maps?t=m&q=loc:39.365601+-101.159274,Eastbound
+Kansas,I-70,8255,Exit 53,EXIT 53,State Route 25; Atwood; Leoti,"Colby, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2053/8255,39.364731,-101.05927,http://maps.google.com/maps?t=m&q=loc:39.364731+-101.05927,Eastbound
+Kansas,I-70,8256,Exit 54,EXIT 54,Country Club Dr,"Colby, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2054/8256,39.364548,-101.040561,http://maps.google.com/maps?t=m&q=loc:39.364548+-101.040561,Eastbound
+Kansas,I-70,8257,Exit 62,EXIT 62,Co Rd K,"Colby, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2062/8257,39.280883,-100.94433,http://maps.google.com/maps?t=m&q=loc:39.280883+-100.94433,Eastbound
+Kansas,I-70,8258,Exit 70,EXIT 70,US-83; Oakley,"Oakley, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2070/8258,39.191263,-100.872282,http://maps.google.com/maps?t=m&q=loc:39.191263+-100.872282,Eastbound
+Kansas,I-70,8259,Exit 76,EXIT 76,US-40 W; Oakley,"Oakley, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2076/8259,39.122014,-100.810542,http://maps.google.com/maps?t=m&q=loc:39.122014+-100.810542,Eastbound
+Kansas,I-70,8260,Exit 79,EXIT 79,Campus Rd,"Oakley, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2079/8260,39.112381,-100.741744,http://maps.google.com/maps?t=m&q=loc:39.112381+-100.741744,Eastbound
+Kansas,I-70,8261,Exit 85,EXIT 85,KS-216; Grinnel,"Grinnell, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2085/8261,39.111501,-100.630922,http://maps.google.com/maps?t=m&q=loc:39.111501+-100.630922,Eastbound
+Kansas,I-70,8262,Exit 93,EXIT 93,KS-23; Grainfield; Gove,"Grainfield, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2093/8262,39.109944,-100.481967,http://maps.google.com/maps?t=m&q=loc:39.109944+-100.481967,Eastbound
+Kansas,I-70,8263,Exit 95,EXIT 95,Kansas 23 N; Hoxie,"Grainfield, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2095/8263,39.103063,-100.446641,http://maps.google.com/maps?t=m&q=loc:39.103063+-100.446641,Eastbound
+Kansas,I-70,8264,Grainfield Rest Area,REST AREA,"Grainfield Rest Area
+          (MM: 97.0)","Grainfield, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8264,39.10016,-100.431766,http://maps.google.com/maps?t=m&q=loc:39.10016+-100.431766,Eastbound
+Kansas,I-70,8265,Exit 99,EXIT 99,KS-211; Park,"Park, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2099/8265,39.097126,-100.373517,http://maps.google.com/maps?t=m&q=loc:39.097126+-100.373517,Eastbound
+Kansas,I-70,8266,Exit 107,EXIT 107,KS-212; Quinter,"Quinter, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20107/8266,39.059194,-100.244593,http://maps.google.com/maps?t=m&q=loc:39.059194+-100.244593,Eastbound
+Kansas,I-70,8267,Exit 115,EXIT 115,KS-198; Collyer,"Collyer, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20115/8267,39.023741,-100.114866,http://maps.google.com/maps?t=m&q=loc:39.023741+-100.114866,Eastbound
+Kansas,I-70,8268,Exit 120,EXIT 120,Voda Rd,"Collyer, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20120/8268,39.022954,-100.023373,http://maps.google.com/maps?t=m&q=loc:39.022954+-100.023373,Eastbound
+Kansas,I-70,8269,Exit 127,EXIT 127,US-283; US-40 BUS; Wakeeney; Ness City,"Wakeeney, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20127/8269,39.015166,-99.893168,http://maps.google.com/maps?t=m&q=loc:39.015166+-99.893168,Eastbound
+Kansas,I-70,8270,Exit 128,EXIT 128,US-40; US-283; Wakeeney; Hill City,"Wakeeney, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20128/8270,39.011384,-99.874664,http://maps.google.com/maps?t=m&q=loc:39.011384+-99.874664,Eastbound
+Kansas,I-70,8271,Ogallah Rest Area,REST AREA,"Ogallah Rest Area
+          (MM: 132.0)","Wakeeney, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8271,38.99949,-99.807867,http://maps.google.com/maps?t=m&q=loc:38.99949+-99.807867,Eastbound
+Kansas,I-70,8272,Exit 135,EXIT 135,Ogallah,"Ogallah, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20135/8272,38.98532,-99.745198,http://maps.google.com/maps?t=m&q=loc:38.98532+-99.745198,Eastbound
+Kansas,I-70,8273,Exit 140,EXIT 140,Riga Rd,"Ellis, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20140/8273,38.967797,-99.653361,http://maps.google.com/maps?t=m&q=loc:38.967797+-99.653361,Eastbound
+Kansas,I-70,8274,Exit 145,EXIT 145,KS-247; Ellis,"Ellis, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20145/8274,38.949825,-99.564343,http://maps.google.com/maps?t=m&q=loc:38.949825+-99.564343,Eastbound
+Kansas,I-70,8275,Exit 153,EXIT 153,Yocemento Ave,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20153/8275,38.923757,-99.431259,http://maps.google.com/maps?t=m&q=loc:38.923757+-99.431259,Eastbound
+Kansas,I-70,8276,Exit 157,EXIT 157,US-183 Bypass S; Hays; Lacroses,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20157/8276,38.913284,-99.357642,http://maps.google.com/maps?t=m&q=loc:38.913284+-99.357642,Eastbound
+Kansas,I-70,8277,Exit 159,EXIT 159,US-183; Hays; Plainville,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20159/8277,38.899483,-99.320578,http://maps.google.com/maps?t=m&q=loc:38.899483+-99.320578,Eastbound
+Kansas,I-70,8278,Exit 161,EXIT 161,Commerce Pkwy,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20161/8278,38.883613,-99.284991,http://maps.google.com/maps?t=m&q=loc:38.883613+-99.284991,Eastbound
+Kansas,I-70,8279,Exit 163,EXIT 163,Toulon Ave,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20163/8279,38.878247,-99.247088,http://maps.google.com/maps?t=m&q=loc:38.878247+-99.247088,Eastbound
+Kansas,I-70,8280,Exit 168,EXIT 168,KS-255; Victoria,"Victoria, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20168/8280,38.878218,-99.154369,http://maps.google.com/maps?t=m&q=loc:38.878218+-99.154369,Eastbound
+Kansas,I-70,8281,Exit 172,EXIT 172,Walker Ave,"Victoria, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20172/8281,38.862299,-99.08018,http://maps.google.com/maps?t=m&q=loc:38.862299+-99.08018,Eastbound
+Kansas,I-70,8282,Exit 175,EXIT 175,Gorham,"Gorham, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20175/8282,38.863434,-99.024934,http://maps.google.com/maps?t=m&q=loc:38.863434+-99.024934,Eastbound
+Kansas,I-70,8283,Exit 180,EXIT 180,Balta Rd,"Gorham, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20180/8283,38.863964,-98.932438,http://maps.google.com/maps?t=m&q=loc:38.863964+-98.932438,Eastbound
+Kansas,I-70,8284,Exit 184,EXIT 184,US-281; US-40 BUS; Russell; Hoisington,"Russell, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20184/8284,38.863966,-98.858895,http://maps.google.com/maps?t=m&q=loc:38.863966+-98.858895,Eastbound
+Kansas,I-70,8285,Russell Rest Area,REST AREA,"Russell Rest Area
+          (MM: 187.0)","Russell, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8285,38.858986,-98.817793,http://maps.google.com/maps?t=m&q=loc:38.858986+-98.817793,Eastbound
+Kansas,I-70,8286,Exit 189,EXIT 189,US-40 BUS; Pioneer Rd,"Russell, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20189/8286,38.856704,-98.784894,http://maps.google.com/maps?t=m&q=loc:38.856704+-98.784894,Eastbound
+Kansas,I-70,8287,Exit 193,EXIT 193,Bunker Hill Rd,"Bunker Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20193/8287,38.857165,-98.711174,http://maps.google.com/maps?t=m&q=loc:38.857165+-98.711174,Eastbound
+Kansas,I-70,8288,Exit 199,EXIT 199,Dorrance Lucas Road,"Dorrance, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20199/8288,38.856792,-98.584967,http://maps.google.com/maps?t=m&q=loc:38.856792+-98.584967,Eastbound
+Kansas,I-70,8289,Exit 206,EXIT 206,KS-232; Willson; Lucas,"Wilson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20206/8289,38.848739,-98.471046,http://maps.google.com/maps?t=m&q=loc:38.848739+-98.471046,Eastbound
+Kansas,I-70,8290,Exit 209,EXIT 209,6th Road,"Wilson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20209/8290,38.848698,-98.396411,http://maps.google.com/maps?t=m&q=loc:38.848698+-98.396411,Eastbound
+Kansas,I-70,8291,Exit 216,EXIT 216,12th Road,"Wilson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20216/8291,38.849165,-98.284402,http://maps.google.com/maps?t=m&q=loc:38.849165+-98.284402,Eastbound
+Kansas,I-70,8292,Exit 219,EXIT 219,KS-14 S; Ellsworth,"Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20219/8292,38.848203,-98.228462,http://maps.google.com/maps?t=m&q=loc:38.848203+-98.228462,Eastbound
+Kansas,I-70,8293,Exit 221,EXIT 221,KS-14 N; Lincoln,"Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20221/8293,38.848464,-98.174525,http://maps.google.com/maps?t=m&q=loc:38.848464+-98.174525,Eastbound
+Kansas,I-70,8294,Ellsworth Rest Area,REST AREA,"Ellsworth Rest Area
+          (MM: 224.0)","Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8294,38.85641,-98.127449,http://maps.google.com/maps?t=m&q=loc:38.85641+-98.127449,Eastbound
+Kansas,I-70,8295,Exit 225,EXIT 225,KS-156; Ellsworth; Great Bend,"Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20225/8295,38.857836,-98.113828,http://maps.google.com/maps?t=m&q=loc:38.857836+-98.113828,Eastbound
+Kansas,I-70,8296,Exit 233,EXIT 233,290th Street,"Beverly, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20233/8296,38.878229,-97.969134,http://maps.google.com/maps?t=m&q=loc:38.878229+-97.969134,Eastbound
+Kansas,I-70,8297,Exit 238,EXIT 238,North Brookville Road,"Brookville, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20238/8297,38.879094,-97.877221,http://maps.google.com/maps?t=m&q=loc:38.879094+-97.877221,Eastbound
+Kansas,I-70,8298,Exit 244,EXIT 244,Hedville; Culver,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20244/8298,38.878006,-97.76558,http://maps.google.com/maps?t=m&q=loc:38.878006+-97.76558,Eastbound
+Kansas,I-70,8299,Exit 249,EXIT 249,Halstead Rd,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20249/8299,38.877594,-97.672175,http://maps.google.com/maps?t=m&q=loc:38.877594+-97.672175,Eastbound
+Kansas,I-70,8301,Exit 252,EXIT 252,Ninth St; KS-143,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20252/8301,38.875989,-97.617278,http://maps.google.com/maps?t=m&q=loc:38.875989+-97.617278,Eastbound
+Kansas,I-70,51360,Exit 253,EXIT 253,Ohio St,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20253/51360,38.879525,-97.59868,http://maps.google.com/maps?t=m&q=loc:38.879525+-97.59868,Eastbound
+Kansas,I-70,51361,Exit 260,EXIT 260,Niles Rd,"New Cambria, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20260/51361,38.906999,-97.48747,http://maps.google.com/maps?t=m&q=loc:38.906999+-97.48747,Eastbound
+Kansas,I-70,51362,Solomon Rest Area,REST AREA,"Solomon Rest Area
+          (MM: 265.0)","Solomon, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/51362,38.92447,-97.39827,http://maps.google.com/maps?t=m&q=loc:38.92447+-97.39827,Eastbound
+Kansas,I-70,51363,Exit 266,EXIT 266,KS-221; Solomon Rd,"Solomon, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20266/51363,38.92868,-97.376441,http://maps.google.com/maps?t=m&q=loc:38.92868+-97.376441,Eastbound
+Kansas,I-70,51364,Exit 272,EXIT 272,Fair Rd,"Solomon, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20272/51364,38.933165,-97.265299,http://maps.google.com/maps?t=m&q=loc:38.933165+-97.265299,Eastbound
+Kansas,I-70,51365,Exit 275,EXIT 275,KS-15; Abilene; Clay Center,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20275/51365,38.939303,-97.21766,http://maps.google.com/maps?t=m&q=loc:38.939303+-97.21766,Eastbound
+Kansas,I-70,8308,Exit 277,EXIT 277,Jeep Rd,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20277/8308,38.943783,-97.171393,http://maps.google.com/maps?t=m&q=loc:38.943783+-97.171393,Eastbound
+Kansas,I-70,8309,Exit 281,EXIT 281,KS-43; Enterprise,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20281/8309,38.956597,-97.115164,http://maps.google.com/maps?t=m&q=loc:38.956597+-97.115164,Eastbound
+Kansas,I-70,51366,Exit 286,EXIT 286,KS-206; Chapman,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20286/51366,38.989726,-97.030002,http://maps.google.com/maps?t=m&q=loc:38.989726+-97.030002,Eastbound
+Kansas,I-70,8311,Exit 290,EXIT 290,Milford Lake Rd,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20290/8311,38.996295,-96.948576,http://maps.google.com/maps?t=m&q=loc:38.996295+-96.948576,Eastbound
+Kansas,I-70,51367,Temporarily Closed - Junction City Rest Area,EXIT,Temporarily Closed - Junction City Rest Area,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20/51367,39.000469,-96.884064,http://maps.google.com/maps?t=m&q=loc:39.000469+-96.884064,Eastbound
+Kansas,I-70,8313,Exit 295,EXIT 295,US-77; KS-18 W; Marysville; Herington,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20295/8313,38.999422,-96.866207,http://maps.google.com/maps?t=m&q=loc:38.999422+-96.866207,Eastbound
+Kansas,I-70,8314,Exit 296,EXIT 296,Washington St; US-40 BUS,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20296/8314,39.005621,-96.838979,http://maps.google.com/maps?t=m&q=loc:39.005621+-96.838979,Eastbound
+Kansas,I-70,8315,Exit 298,EXIT 298,East St; Chestnut St,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20298/8315,39.017765,-96.819167,http://maps.google.com/maps?t=m&q=loc:39.017765+-96.819167,Eastbound
+Kansas,I-70,8316,Exit 299,EXIT 299,J Hill Rd; Flint Hills Boulevard,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20299/8316,39.026,-96.803748,http://maps.google.com/maps?t=m&q=loc:39.026+-96.803748,Eastbound
+Kansas,I-70,8317,Exit 300,EXIT 300,KS-57; US-40 BUS; Council Grove,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20300/8317,39.029741,-96.785847,http://maps.google.com/maps?t=m&q=loc:39.029741+-96.785847,Eastbound
+Kansas,I-70,8318,Exit 301,EXIT 301,Fort Riley; Marshall Field,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20301/8318,39.036791,-96.769019,http://maps.google.com/maps?t=m&q=loc:39.036791+-96.769019,Eastbound
+Kansas,I-70,8319,Exit 303,EXIT 303,KS-18; Ogden; Manhattan,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20303/8319,39.058147,-96.746705,http://maps.google.com/maps?t=m&q=loc:39.058147+-96.746705,Eastbound
+Kansas,I-70,8320,Exit 304,EXIT 304,Humboldt Creek Rd,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20304/8320,39.061667,-96.72316,http://maps.google.com/maps?t=m&q=loc:39.061667+-96.72316,Eastbound
+Kansas,I-70,8321,Exit 307,EXIT 307,McDowell Creek Rd,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20307/8321,39.066361,-96.661207,http://maps.google.com/maps?t=m&q=loc:39.066361+-96.661207,Eastbound
+Kansas,I-70,8322,Manhattan Rest Area,REST AREA,"Manhattan Rest Area
+          (MM: 310.0)","Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8322,39.065711,-96.617827,http://maps.google.com/maps?t=m&q=loc:39.065711+-96.617827,Eastbound
+Kansas,I-70,8323,Exit 311,EXIT 311,Moritz Rd,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20311/8323,39.065923,-96.580773,http://maps.google.com/maps?t=m&q=loc:39.065923+-96.580773,Eastbound
+Kansas,I-70,8324,Exit 313,EXIT 313,KS-177; Manhattan; Council Grove,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20313/8324,39.062599,-96.5427,http://maps.google.com/maps?t=m&q=loc:39.062599+-96.5427,Eastbound
+Kansas,I-70,8325,Exit 316,EXIT 316,Deep Creek Rd,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20316/8325,39.065613,-96.505538,http://maps.google.com/maps?t=m&q=loc:39.065613+-96.505538,Eastbound
+Kansas,I-70,8326,Exit 318,EXIT 318,Exit,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20318/8326,39.065957,-96.458514,http://maps.google.com/maps?t=m&q=loc:39.065957+-96.458514,Eastbound
+Kansas,I-70,8327,Exit 322,EXIT 322,Tallgrass Road,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20322/8327,39.065268,-96.386631,http://maps.google.com/maps?t=m&q=loc:39.065268+-96.386631,Eastbound
+Kansas,I-70,8328,Exit 324,EXIT 324,Wabaunsee Rd,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20324/8328,39.065369,-96.358024,http://maps.google.com/maps?t=m&q=loc:39.065369+-96.358024,Eastbound
+Kansas,I-70,8329,Exit 328,EXIT 328,KS-99; Alma; Wamego,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20328/8329,39.065618,-96.293358,http://maps.google.com/maps?t=m&q=loc:39.065618+-96.293358,Eastbound
+Kansas,I-70,51368,Weigh Station,WEIGH STATION,Weigh Station,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Weigh%20Station/51368,39.06532,-96.255647,http://maps.google.com/maps?t=m&q=loc:39.06532+-96.255647,Eastbound
+Kansas,I-70,8331,Exit 330,EXIT 330,KS-185; McFarland,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20330/8331,39.065206,-96.242218,http://maps.google.com/maps?t=m&q=loc:39.065206+-96.242218,Eastbound
+Kansas,I-70,51369,Exit 332,EXIT 332,Spring Creek Rd,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20332/51369,39.065484,-96.210294,http://maps.google.com/maps?t=m&q=loc:39.065484+-96.210294,Eastbound
+Kansas,I-70,51370,Exit 333,EXIT 333,State Route 138; Paxico,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20333/51370,39.06561,-96.194503,http://maps.google.com/maps?t=m&q=loc:39.06561+-96.194503,Eastbound
+Kansas,I-70,8334,Exit 335,EXIT 335,Snokomo Rd,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20335/8334,39.058104,-96.157296,http://maps.google.com/maps?t=m&q=loc:39.058104+-96.157296,Eastbound
+Kansas,I-70,8335,Paxico Rest Area,REST AREA,"Paxico Rest Area
+          (MM: 336.0)","Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/8335,39.058356,-96.124549,http://maps.google.com/maps?t=m&q=loc:39.058356+-96.124549,Eastbound
+Kansas,I-70,8336,Exit 338,EXIT 338,Vera Rd,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20338/8336,39.058577,-96.09985,http://maps.google.com/maps?t=m&q=loc:39.058577+-96.09985,Eastbound
+Kansas,I-70,51371,Exit 341,EXIT 341,State Route 30; Maple Hill,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20341/51371,39.05876,-96.045337,http://maps.google.com/maps?t=m&q=loc:39.05876+-96.045337,Eastbound
+Kansas,I-70,51372,Exit 342,EXIT 342,Keene Rd,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20342/51372,39.05872,-96.024129,http://maps.google.com/maps?t=m&q=loc:39.05872+-96.024129,Eastbound
+Kansas,I-70,51373,Exit 343,EXIT 343,Ranch Rd,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20343/51373,39.058456,-96.00679,http://maps.google.com/maps?t=m&q=loc:39.058456+-96.00679,Eastbound
+Kansas,I-70,51374,Exit 346,EXIT 346,Carlson Rd,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20346/51374,39.05829,-95.95112,http://maps.google.com/maps?t=m&q=loc:39.05829+-95.95112,Eastbound
+Kansas,I-70,51375,Exit 347,EXIT 347,W Union Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20347/51375,39.058204,-95.92329,http://maps.google.com/maps?t=m&q=loc:39.058204+-95.92329,Eastbound
+Kansas,I-70,51376,Exit 350,EXIT 350,Valencia Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20350/51376,39.057805,-95.875987,http://maps.google.com/maps?t=m&q=loc:39.057805+-95.875987,Eastbound
+Kansas,I-70,51377,Exit 351,EXIT 351,Frontage Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20351/51377,39.057891,-95.856211,http://maps.google.com/maps?t=m&q=loc:39.057891+-95.856211,Eastbound
+Kansas,I-70,51378,Exit 353,EXIT 353,Auburn Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20353/51378,39.050427,-95.820584,http://maps.google.com/maps?t=m&q=loc:39.050427+-95.820584,Eastbound
+Kansas,I-70,8345,Exit 355,EXIT 355,"I 470
+          (MM: 355.0)","Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20355/8345,39.05342,-95.779746,http://maps.google.com/maps?t=m&q=loc:39.05342+-95.779746,Eastbound
+Kansas,I-70,8346,Exit 356,EXIT 356,Wanamaker Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20356/8346,39.053606,-95.762654,http://maps.google.com/maps?t=m&q=loc:39.053606+-95.762654,Eastbound
+Kansas,I-70,8347,Exit 357A,EXIT 357A,Fairlawn Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20357A/8347,39.058315,-95.745927,http://maps.google.com/maps?t=m&q=loc:39.058315+-95.745927,Eastbound
+Kansas,I-70,8348,Exit 358,EXIT 358,"US 75
+          (MM: 358.0)","Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20358/8348,39.064542,-95.736408,http://maps.google.com/maps?t=m&q=loc:39.064542+-95.736408,Eastbound
+Kansas,I-70,51380,Exit 358,EXIT 358,Gage Blvd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20358/51380,39.064542,-95.736408,http://maps.google.com/maps?t=m&q=loc:39.064542+-95.736408,Eastbound
+Kansas,I-70,8349,Exit 359,EXIT 359,MacVicar Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20359/8349,39.070074,-95.710078,http://maps.google.com/maps?t=m&q=loc:39.070074+-95.710078,Eastbound
+Kansas,I-70,8350,Exit 361A,EXIT 361A,1st Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20361A/8350,39.064033,-95.682393,http://maps.google.com/maps?t=m&q=loc:39.064033+-95.682393,Eastbound
+Kansas,I-70,8351,Exit 361B,EXIT 361B,3rd St; Monroe St,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20361B/8351,39.057036,-95.670096,http://maps.google.com/maps?t=m&q=loc:39.057036+-95.670096,Eastbound
+Kansas,I-70,8352,Exit 362B,EXIT 362B,8th Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20362B/8352,39.050626,-95.669756,http://maps.google.com/maps?t=m&q=loc:39.050626+-95.669756,Eastbound
+Kansas,I-70,8353,Exit 363,EXIT 363,Adams St; Branner Trfwy,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20363/8353,39.039353,-95.667805,http://maps.google.com/maps?t=m&q=loc:39.039353+-95.667805,Eastbound
+Kansas,I-70,8354,Exit 364A,EXIT 364A,California Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20364A/8354,39.036018,-95.65627,http://maps.google.com/maps?t=m&q=loc:39.036018+-95.65627,Eastbound
+Kansas,I-70,8355,Exit 364B,EXIT 364B,Carnahan Ave; Deer Creek Trfwy,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20364B/8355,39.034364,-95.642914,http://maps.google.com/maps?t=m&q=loc:39.034364+-95.642914,Eastbound
+Kansas,I-70,51382,Exit 365,EXIT 365,Rice Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20365/51382,39.034168,-95.630179,http://maps.google.com/maps?t=m&q=loc:39.034168+-95.630179,Eastbound
+Kansas,I-70,51383,Exit 366,EXIT 366,"I 470;US 40;KS 4
+          (MM: 366.0)","Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20366/51383,39.034608,-95.618815,http://maps.google.com/maps?t=m&q=loc:39.034608+-95.618815,Eastbound
+Kansas,I-70,51385,Toll,TOLL BOOTH,Toll,"Tecumseh, Kansas",https://www.iexitapp.com/Kansas/I-70/Toll/51385,39.03312,-95.597471,http://maps.google.com/maps?t=m&q=loc:39.03312+-95.597471,Eastbound
+Kansas,I-70,51387,Topeka Service Plaza,SERVICE PLAZA,"Topeka Service Plaza
+          (MM: 188.0)","Tecumseh, Kansas",https://www.iexitapp.com/Kansas/I-70/Service%20Plaza/51387,39.018282,-95.518891,http://maps.google.com/maps?t=m&q=loc:39.018282+-95.518891,Eastbound
+Kansas,I-70,8358,Exit 197,EXIT 197,US-40,"Lecompton, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20197/8358,38.996982,-95.352093,http://maps.google.com/maps?t=m&q=loc:38.996982+-95.352093,Eastbound
+Kansas,I-70,51388,Exit 202,EXIT 202,US-59; W Lawrence,"Lawrence, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20202/51388,38.989949,-95.260368,http://maps.google.com/maps?t=m&q=loc:38.989949+-95.260368,Eastbound
+Kansas,I-70,8360,Exit 204,EXIT 204,US-24; US-59; E Lawrence,"Lawrence, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20204/8360,38.992942,-95.232953,http://maps.google.com/maps?t=m&q=loc:38.992942+-95.232953,Eastbound
+Kansas,I-70,8361,Lawrence Service Area,SERVICE PLAZA,"Lawrence Service Area
+          (MM: 209.0)","Lawrence, Kansas",https://www.iexitapp.com/Kansas/I-70/Service%20Plaza/8361,39.016754,-95.139796,http://maps.google.com/maps?t=m&q=loc:39.016754+-95.139796,Eastbound
+Kansas,I-70,8362,Exit 212,EXIT 212,222nd St,"Tonganoxie, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20212/8362,39.040597,-95.099214,http://maps.google.com/maps?t=m&q=loc:39.040597+-95.099214,Eastbound
+Kansas,I-70,51389,Exit 224,EXIT 224,Bonner Springs Leavenworth,"Bonner Springs, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20224/51389,39.094116,-94.895918,http://maps.google.com/maps?t=m&q=loc:39.094116+-94.895918,Eastbound
+Kansas,I-70,8364,Exit 410,EXIT 410,110th St,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20410/8364,39.105689,-94.842577,http://maps.google.com/maps?t=m&q=loc:39.105689+-94.842577,Eastbound
+Kansas,I-70,51392,Exit 414,EXIT 414,78th Street,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20414/51392,39.104931,-94.76591,http://maps.google.com/maps?t=m&q=loc:39.104931+-94.76591,Eastbound
+Kansas,I-70,8367,Truck Turnout,TURN OUT,Truck Turnout,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Truck%20Turnout/8367,39.10533,-94.754679,http://maps.google.com/maps?t=m&q=loc:39.10533+-94.754679,Eastbound
+Kansas,I-70,8368,Exit 415A,EXIT 415A,Turner Diag,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20415A/8368,39.106159,-94.744063,http://maps.google.com/maps?t=m&q=loc:39.106159+-94.744063,Eastbound
+Kansas,I-70,51393,Exit 415B,EXIT 415B,US-40 W; Turner Diagonal; College Parkway,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20415B/51393,39.106097,-94.738959,http://maps.google.com/maps?t=m&q=loc:39.106097+-94.738959,Eastbound
+Kansas,I-70,8369,Exit 417,EXIT 417,57th St,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20417/8369,39.105333,-94.717516,http://maps.google.com/maps?t=m&q=loc:39.105333+-94.717516,Eastbound
+Kansas,I-70,8371,Exit 419,EXIT 419,Park Dr; 38th St,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20419/8371,39.100225,-94.669791,http://maps.google.com/maps?t=m&q=loc:39.100225+-94.669791,Eastbound
+Kansas,I-70,8372,Exit 420A,EXIT 420A,"US 69
+          (MM: 420.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20420A/8372,39.096761,-94.655261,http://maps.google.com/maps?t=m&q=loc:39.096761+-94.655261,Eastbound
+Kansas,I-70,51398,Exit 420B,EXIT 420B,"US 69
+          (MM: 420.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20420B/51398,39.095849,-94.648812,http://maps.google.com/maps?t=m&q=loc:39.095849+-94.648812,Eastbound
+Kansas,I-70,8373,Exit 421B,EXIT 421B,"I 670
+          (MM: 421.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20421B/8373,39.091973,-94.635171,http://maps.google.com/maps?t=m&q=loc:39.091973+-94.635171,Eastbound
+Kansas,I-70,8374,Exit 422A,EXIT 422A,US-169 S; US-69,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20422A/8374,39.091587,-94.629757,http://maps.google.com/maps?t=m&q=loc:39.091587+-94.629757,Eastbound
+Kansas,I-70,8375,Exit 422C,EXIT 422C,Pacific Avenue,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20422C/8375,39.096192,-94.624109,http://maps.google.com/maps?t=m&q=loc:39.096192+-94.624109,Eastbound
+Kansas,I-70,8376,Exit 422D,EXIT 422D,Central Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20422D/8376,39.100132,-94.622075,http://maps.google.com/maps?t=m&q=loc:39.100132+-94.622075,Eastbound
+Kansas,I-70,51400,Exit 423A,EXIT 423A,5th St,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20423A/51400,39.107036,-94.621246,http://maps.google.com/maps?t=m&q=loc:39.107036+-94.621246,Eastbound
+Kansas,I-70,8378,Exit 423B,EXIT 423B,James St; 3rd St,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20423B/8378,39.10981,-94.619637,http://maps.google.com/maps?t=m&q=loc:39.10981+-94.619637,Eastbound
+Kansas,I-70,51601,Exit 423D,EXIT 423D,Fairfax District,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20423D/51601,39.112563,-94.613417,http://maps.google.com/maps?t=m&q=loc:39.112563+-94.613417,Westbound
+Kansas,I-70,9169,Exit 423C,EXIT 423C,Minnesota Ave; Washington Blvd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20423C/9169,39.113269,-94.614585,http://maps.google.com/maps?t=m&q=loc:39.113269+-94.614585,Westbound
+Kansas,I-70,51602,Exit 423C,EXIT 423C,Minnesota Ave; Washington Blvd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20423C/51602,39.113922,-94.615666,http://maps.google.com/maps?t=m&q=loc:39.113922+-94.615666,Westbound
+Kansas,I-70,9170,Exit 422D,EXIT 422D,Central Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20422D/9170,39.104563,-94.621637,http://maps.google.com/maps?t=m&q=loc:39.104563+-94.621637,Westbound
+Kansas,I-70,9171,Exit 422C,EXIT 422C,Service Road,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20422C/9171,39.100562,-94.621988,http://maps.google.com/maps?t=m&q=loc:39.100562+-94.621988,Westbound
+Kansas,I-70,51603,Exit 422B,EXIT 422B,US-169; 7th Street Trafficway,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20422B/51603,39.094099,-94.62622,http://maps.google.com/maps?t=m&q=loc:39.094099+-94.62622,Westbound
+Kansas,I-70,9175,Exit 420B,EXIT 420B,18th Street N,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20420B/9175,39.093044,-94.641816,http://maps.google.com/maps?t=m&q=loc:39.093044+-94.641816,Westbound
+Kansas,I-70,51605,Exit 420A,EXIT 420A,"US 69
+          (MM: 420.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20420A/51605,39.096329,-94.649781,http://maps.google.com/maps?t=m&q=loc:39.096329+-94.649781,Westbound
+Kansas,I-70,51606,Exit 419,EXIT 419,"I 635;I 635
+          (MM: 419.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20419/51606,39.101891,-94.671955,http://maps.google.com/maps?t=m&q=loc:39.101891+-94.671955,Westbound
+Kansas,I-70,51607,Exit 419,EXIT 419,Park Drive; 38th Street,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20419/51607,39.098831,-94.66518,http://maps.google.com/maps?t=m&q=loc:39.098831+-94.66518,Westbound
+Kansas,I-70,9177,Exit 417,EXIT 417,57th St,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20417/9177,39.10604,-94.703306,http://maps.google.com/maps?t=m&q=loc:39.10604+-94.703306,Westbound
+Kansas,I-70,9178,Exit 415,EXIT 415,US-40; Turner Diag,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20415/9178,39.106165,-94.732448,http://maps.google.com/maps?t=m&q=loc:39.106165+-94.732448,Westbound
+Kansas,I-70,51610,Exit 415,EXIT 415,Turner Diag S,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20415/51610,39.109486,-94.738366,http://maps.google.com/maps?t=m&q=loc:39.109486+-94.738366,Westbound
+Kansas,I-70,51611,Truck Inspection Area,INSPECTION STATION,Truck Inspection Area,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Inspection%20Station/51611,39.106369,-94.744,http://maps.google.com/maps?t=m&q=loc:39.106369+-94.744,Westbound
+Kansas,I-70,51612,Exit 414,EXIT 414,78th Street,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20414/51612,39.105352,-94.755776,http://maps.google.com/maps?t=m&q=loc:39.105352+-94.755776,Westbound
+Kansas,I-70,51613,Exit 411B,EXIT 411B,I-435 N,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20411B/51613,39.106208,-94.804637,http://maps.google.com/maps?t=m&q=loc:39.106208+-94.804637,Westbound
+Kansas,I-70,9182,Exit 410,EXIT 410,North 110th Street;Speedway Boulevard,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20410/9182,39.106292,-94.829329,http://maps.google.com/maps?t=m&q=loc:39.106292+-94.829329,Westbound
+Kansas,I-70,9183,Exit 224B,EXIT 224B,N 130th St,"Bonner Springs, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20224B/9183,39.098032,-94.874926,http://maps.google.com/maps?t=m&q=loc:39.098032+-94.874926,Westbound
+Kansas,I-70,9184,Exit 212,EXIT 212,222nd St,"Tonganoxie, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20212/9184,39.046563,-95.087099,http://maps.google.com/maps?t=m&q=loc:39.046563+-95.087099,Westbound
+Kansas,I-70,9185,Lawrence Service Area,SERVICE PLAZA,Lawrence Service Area,"Lawrence, Kansas",https://www.iexitapp.com/Kansas/I-70/Service%20Plaza/9185,39.022141,-95.132821,http://maps.google.com/maps?t=m&q=loc:39.022141+-95.132821,Westbound
+Kansas,I-70,9186,Exit 204,EXIT 204,US 40;US 59,"Lawrence, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20204/9186,38.994017,-95.224293,http://maps.google.com/maps?t=m&q=loc:38.994017+-95.224293,Westbound
+Kansas,I-70,51617,Exit 202,EXIT 202,McDonald Drive,"Lawrence, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20202/51617,38.990351,-95.252238,http://maps.google.com/maps?t=m&q=loc:38.990351+-95.252238,Westbound
+Kansas,I-70,9188,Exit 197,EXIT 197,KS-10; Lecompton; Lawrence,"Lecompton, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20197/9188,38.996326,-95.334016,http://maps.google.com/maps?t=m&q=loc:38.996326+-95.334016,Westbound
+Kansas,I-70,9189,Topeka Service Plaza,SERVICE PLAZA,"Topeka Service Plaza
+          (MM: 188.0)","Lecompton, Kansas",https://www.iexitapp.com/Kansas/I-70/Service%20Plaza/9189,39.018099,-95.496125,http://maps.google.com/maps?t=m&q=loc:39.018099+-95.496125,Westbound
+Kansas,I-70,9190,Exit 183,EXIT 183,"I 470
+          (MM: 183.0)","Tecumseh, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20183/9190,39.031687,-95.584549,http://maps.google.com/maps?t=m&q=loc:39.031687+-95.584549,Westbound
+Kansas,I-70,51618,Toll,TOLL BOOTH,Toll,"Tecumseh, Kansas",https://www.iexitapp.com/Kansas/I-70/Toll/51618,39.032527,-95.589852,http://maps.google.com/maps?t=m&q=loc:39.032527+-95.589852,Westbound
+Kansas,I-70,51619,Exit 366,EXIT 366,"US 40;KS 4
+          (MM: 366.0)","Tecumseh, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20366/51619,39.033971,-95.598519,http://maps.google.com/maps?t=m&q=loc:39.033971+-95.598519,Westbound
+Kansas,I-70,9192,Exit 365,EXIT 365,Rice Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20365/9192,39.034319,-95.623275,http://maps.google.com/maps?t=m&q=loc:39.034319+-95.623275,Westbound
+Kansas,I-70,9193,Exit 364B,EXIT 364B,Deer Creek Trafficway; Carnahan Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20364B/9193,39.034338,-95.633324,http://maps.google.com/maps?t=m&q=loc:39.034338+-95.633324,Westbound
+Kansas,I-70,51622,Exit 364A,EXIT 364A,California Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20364A/51622,39.034505,-95.645131,http://maps.google.com/maps?t=m&q=loc:39.034505+-95.645131,Westbound
+Kansas,I-70,9195,Exit 363,EXIT 363,Adams St; Branner Trfwy,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20363/9195,39.038154,-95.663835,http://maps.google.com/maps?t=m&q=loc:39.038154+-95.663835,Westbound
+Kansas,I-70,9196,Exit 362C,EXIT 362C,10th Avenue; Madison Street,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20362C/9196,39.042858,-95.671297,http://maps.google.com/maps?t=m&q=loc:39.042858+-95.671297,Westbound
+Kansas,I-70,51623,Exit 362B,EXIT 362B,8th Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20362B/51623,39.045321,-95.671777,http://maps.google.com/maps?t=m&q=loc:39.045321+-95.671777,Westbound
+Kansas,I-70,51624,Exit 362A,EXIT 362A,4th St,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20362A/51624,39.050924,-95.669423,http://maps.google.com/maps?t=m&q=loc:39.050924+-95.669423,Westbound
+Kansas,I-70,9199,Exit 359,EXIT 359,MacVicar Ave,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20359/9199,39.069585,-95.702021,http://maps.google.com/maps?t=m&q=loc:39.069585+-95.702021,Westbound
+Kansas,I-70,9200,Exit 358B,EXIT 358B,Gage Blvd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20358B/9200,39.068136,-95.71753,http://maps.google.com/maps?t=m&q=loc:39.068136+-95.71753,Westbound
+Kansas,I-70,9201,Exit 358A,EXIT 358A,"US 75
+          (MM: 358.0)","Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20358A/9201,39.067418,-95.72773,http://maps.google.com/maps?t=m&q=loc:39.067418+-95.72773,Westbound
+Kansas,I-70,9202,Exit 357B,EXIT 357B,Danbury Ln,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20357B/9202,39.065545,-95.734426,http://maps.google.com/maps?t=m&q=loc:39.065545+-95.734426,Westbound
+Kansas,I-70,9203,Exit 357A,EXIT 357A,Fairlawn Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20357A/9203,39.062385,-95.74027,http://maps.google.com/maps?t=m&q=loc:39.062385+-95.74027,Westbound
+Kansas,I-70,51626,Exit 356,EXIT 356,Wanamaker Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20356/51626,39.053991,-95.757065,http://maps.google.com/maps?t=m&q=loc:39.053991+-95.757065,Westbound
+Kansas,I-70,9205,Exit 355,EXIT 355,"I 470;US 75
+          (MM: 355.0)","Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20355/9205,39.05374,-95.765967,http://maps.google.com/maps?t=m&q=loc:39.05374+-95.765967,Westbound
+Kansas,I-70,9206,Exit 353,EXIT 353,Auburn Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20353/9206,39.050474,-95.817351,http://maps.google.com/maps?t=m&q=loc:39.050474+-95.817351,Westbound
+Kansas,I-70,51628,Exit 350,EXIT 350,Valencla Rd,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20350/51628,39.058122,-95.865195,http://maps.google.com/maps?t=m&q=loc:39.058122+-95.865195,Westbound
+Kansas,I-70,51629,Exit 347,EXIT 347,West Union Road,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20347/51629,39.058328,-95.912413,http://maps.google.com/maps?t=m&q=loc:39.058328+-95.912413,Westbound
+Kansas,I-70,9209,Exit 346,EXIT 346,Carlson Road,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20346/9209,39.058524,-95.943137,http://maps.google.com/maps?t=m&q=loc:39.058524+-95.943137,Westbound
+Kansas,I-70,51630,Exit 343,EXIT 343,Ranch Rd,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20343/51630,39.058636,-95.998258,http://maps.google.com/maps?t=m&q=loc:39.058636+-95.998258,Westbound
+Kansas,I-70,51631,Exit 342,EXIT 342,Keene Rd,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20342/51631,39.058905,-96.017003,http://maps.google.com/maps?t=m&q=loc:39.058905+-96.017003,Westbound
+Kansas,I-70,51632,Exit 341,EXIT 341,State Route 30; Maple Hill,"Maple Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20341/51632,39.058976,-96.035216,http://maps.google.com/maps?t=m&q=loc:39.058976+-96.035216,Westbound
+Kansas,I-70,51633,Exit 338,EXIT 338,Vera Rd,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20338/51633,39.058888,-96.090099,http://maps.google.com/maps?t=m&q=loc:39.058888+-96.090099,Westbound
+Kansas,I-70,9214,Rest Area,REST AREA,"Rest Area
+          (MM: 336.0)","Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/9214,39.060095,-96.11696,http://maps.google.com/maps?t=m&q=loc:39.060095+-96.11696,Westbound
+Kansas,I-70,9215,Exit 335,EXIT 335,Snokomo Rd,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20335/9215,39.058341,-96.150539,http://maps.google.com/maps?t=m&q=loc:39.058341+-96.150539,Westbound
+Kansas,I-70,51634,Exit 333,EXIT 333,KS-138; Paxico,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20333/51634,39.065426,-96.189688,http://maps.google.com/maps?t=m&q=loc:39.065426+-96.189688,Westbound
+Kansas,I-70,51635,Exit 332,EXIT 332,Spring Creek Rd,"Paxico, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20332/51635,39.065794,-96.201481,http://maps.google.com/maps?t=m&q=loc:39.065794+-96.201481,Westbound
+Kansas,I-70,9218,Exit 330,EXIT 330,KS-185; McFarland,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20330/9218,39.065433,-96.24194,http://maps.google.com/maps?t=m&q=loc:39.065433+-96.24194,Westbound
+Kansas,I-70,51636,Weigh Station,WEIGH STATION,Weigh Station,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Weigh%20Station/51636,39.065475,-96.248277,http://maps.google.com/maps?t=m&q=loc:39.065475+-96.248277,Westbound
+Kansas,I-70,9220,Exit 328,EXIT 328,KS 99,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20328/9220,39.065834,-96.284435,http://maps.google.com/maps?t=m&q=loc:39.065834+-96.284435,Westbound
+Kansas,I-70,9221,Exit 324,EXIT 324,Wabaunsee Rd,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20324/9221,39.065642,-96.349371,http://maps.google.com/maps?t=m&q=loc:39.065642+-96.349371,Westbound
+Kansas,I-70,9222,Exit 322,EXIT 322,Tallgrass Road,"Alma, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20322/9222,39.065546,-96.377241,http://maps.google.com/maps?t=m&q=loc:39.065546+-96.377241,Westbound
+Kansas,I-70,9223,Exit 318,EXIT 318,Frontage Road,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20318/9223,39.065528,-96.454662,http://maps.google.com/maps?t=m&q=loc:39.065528+-96.454662,Westbound
+Kansas,I-70,9224,Exit 316,EXIT 316,Deep Creek Road,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20316/9224,39.067138,-96.499464,http://maps.google.com/maps?t=m&q=loc:39.067138+-96.499464,Westbound
+Kansas,I-70,9225,Exit 313,EXIT 313,KS-177 S,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20313/9225,39.062811,-96.534602,http://maps.google.com/maps?t=m&q=loc:39.062811+-96.534602,Westbound
+Kansas,I-70,9226,Exit 311,EXIT 311,Moritz Rd,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20311/9226,39.065828,-96.577498,http://maps.google.com/maps?t=m&q=loc:39.065828+-96.577498,Westbound
+Kansas,I-70,9227,Manhattan Rest Area,REST AREA,"Manhattan Rest Area
+          (MM: 310.0)","Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/9227,39.066202,-96.619583,http://maps.google.com/maps?t=m&q=loc:39.066202+-96.619583,Westbound
+Kansas,I-70,9228,Exit 307,EXIT 307,McDowell Creek Rd,"Manhattan, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20307/9228,39.066941,-96.653064,http://maps.google.com/maps?t=m&q=loc:39.066941+-96.653064,Westbound
+Kansas,I-70,9229,Exit 304,EXIT 304,Humboldt Creek Rd,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20304/9229,39.06203,-96.721904,http://maps.google.com/maps?t=m&q=loc:39.06203+-96.721904,Westbound
+Kansas,I-70,9230,Exit 303,EXIT 303,Kansas 18 E; Ogden,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20303/9230,39.060511,-96.736899,http://maps.google.com/maps?t=m&q=loc:39.060511+-96.736899,Westbound
+Kansas,I-70,9231,Exit 301,EXIT 301,Fort Riley; Marshall Field,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20301/9231,39.042285,-96.763409,http://maps.google.com/maps?t=m&q=loc:39.042285+-96.763409,Westbound
+Kansas,I-70,9232,Exit 300,EXIT 300,US-40 BUS; KS-57; Council Grove,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20300/9232,39.0333,-96.776117,http://maps.google.com/maps?t=m&q=loc:39.0333+-96.776117,Westbound
+Kansas,I-70,9233,Exit 299,EXIT 299,J Hill Rd; Flinthills Blvd,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20299/9233,39.027734,-96.795985,http://maps.google.com/maps?t=m&q=loc:39.027734+-96.795985,Westbound
+Kansas,I-70,9234,Exit 298,EXIT 298,Chestnut St; East St,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20298/9234,39.023187,-96.81311,http://maps.google.com/maps?t=m&q=loc:39.023187+-96.81311,Westbound
+Kansas,I-70,9235,Exit 296,EXIT 296,US 40 Business; Washington Street,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20296/9235,39.009774,-96.831227,http://maps.google.com/maps?t=m&q=loc:39.009774+-96.831227,Westbound
+Kansas,I-70,9236,Exit 295,EXIT 295,US-77; KS-18; Marysville; Herington,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20295/9236,38.99952,-96.85701,http://maps.google.com/maps?t=m&q=loc:38.99952+-96.85701,Westbound
+Kansas,I-70,51637,Temporarily Closed - Junction City Rest Area,TURN OUT,"Temporarily Closed - Junction City Rest Area
+          (MM: 294.0)","Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Truck%20Turnout/51637,39.000657,-96.878413,http://maps.google.com/maps?t=m&q=loc:39.000657+-96.878413,Westbound
+Kansas,I-70,9238,Exit 290,EXIT 290,Milford Lake Road,"Junction City, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20290/9238,38.997601,-96.94105,http://maps.google.com/maps?t=m&q=loc:38.997601+-96.94105,Westbound
+Kansas,I-70,51638,Exit 286,EXIT 286,Chapman,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20286/51638,38.989971,-97.019996,http://maps.google.com/maps?t=m&q=loc:38.989971+-97.019996,Westbound
+Kansas,I-70,9240,Exit 281,EXIT 281,Kansas 43; Enterprise,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20281/9240,38.959541,-97.108336,http://maps.google.com/maps?t=m&q=loc:38.959541+-97.108336,Westbound
+Kansas,I-70,9241,Exit 277,EXIT 277,Jeep Rd,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20277/9241,38.944015,-97.163572,http://maps.google.com/maps?t=m&q=loc:38.944015+-97.163572,Westbound
+Kansas,I-70,9242,Exit 275,EXIT 275,KS-15; Abilene; Clay Center,"Abilene, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20275/9242,38.941159,-97.210162,http://maps.google.com/maps?t=m&q=loc:38.941159+-97.210162,Westbound
+Kansas,I-70,51639,Exit 272,EXIT 272,Fair Rd,"Solomon, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20272/51639,38.936729,-97.255972,http://maps.google.com/maps?t=m&q=loc:38.936729+-97.255972,Westbound
+Kansas,I-70,9244,Exit 266,EXIT 266,KS-221; Solomon Rd,"Solomon, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20266/9244,38.928967,-97.367044,http://maps.google.com/maps?t=m&q=loc:38.928967+-97.367044,Westbound
+Kansas,I-70,51640,Solomon Rest Area,REST AREA,"Solomon Rest Area
+          (MM: 265.0)","Solomon, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/51640,38.928024,-97.391211,http://maps.google.com/maps?t=m&q=loc:38.928024+-97.391211,Westbound
+Kansas,I-70,51641,Exit 260,EXIT 260,Niles Rd,"New Cambria, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20260/51641,38.907252,-97.477891,http://maps.google.com/maps?t=m&q=loc:38.907252+-97.477891,Westbound
+Kansas,I-70,51642,Exit 253,EXIT 253,Ohio St,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20253/51642,38.884596,-97.588606,http://maps.google.com/maps?t=m&q=loc:38.884596+-97.588606,Westbound
+Kansas,I-70,51643,Exit 252,EXIT 252,9th St; KS-143,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20252/51643,38.876731,-97.607778,http://maps.google.com/maps?t=m&q=loc:38.876731+-97.607778,Westbound
+Kansas,I-70,9249,Exit 250B,EXIT 250B,"US 81
+          (MM: 250.0)","Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20250B/9249,38.874992,-97.639383,http://maps.google.com/maps?t=m&q=loc:38.874992+-97.639383,Westbound
+Kansas,I-70,9250,Exit 249,EXIT 249,Halstead Rd,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20249/9250,38.876408,-97.664219,http://maps.google.com/maps?t=m&q=loc:38.876408+-97.664219,Westbound
+Kansas,I-70,9251,Exit 244,EXIT 244,Hedville; Culver,"Salina, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20244/9251,38.878252,-97.758111,http://maps.google.com/maps?t=m&q=loc:38.878252+-97.758111,Westbound
+Kansas,I-70,9252,Exit 238,EXIT 238,Brookville; Tescott,"Brookville, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20238/9252,38.87887,-97.868633,http://maps.google.com/maps?t=m&q=loc:38.87887+-97.868633,Westbound
+Kansas,I-70,9253,Exit 233,EXIT 233,Carneiro Beverly,"Beverly, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20233/9253,38.878443,-97.962507,http://maps.google.com/maps?t=m&q=loc:38.878443+-97.962507,Westbound
+Kansas,I-70,9254,Exit 225,EXIT 225,KS-156; Ellsworth; Great Bend,"Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20225/9254,38.859888,-98.106842,http://maps.google.com/maps?t=m&q=loc:38.859888+-98.106842,Westbound
+Kansas,I-70,9255,Ellsworth Rest Area,REST AREA,"Ellsworth Rest Area
+          (MM: 224.0)","Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/9255,38.856604,-98.129981,http://maps.google.com/maps?t=m&q=loc:38.856604+-98.129981,Westbound
+Kansas,I-70,9256,Exit 221,EXIT 221,KS-14 N; Lincoln,"Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20221/9256,38.84881,-98.167705,http://maps.google.com/maps?t=m&q=loc:38.84881+-98.167705,Westbound
+Kansas,I-70,9257,Exit 219,EXIT 219,KS-14 S; Ellsworth,"Ellsworth, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20219/9257,38.848116,-98.220997,http://maps.google.com/maps?t=m&q=loc:38.848116+-98.220997,Westbound
+Kansas,I-70,9258,Exit 216,EXIT 216,12th Road,"Wilson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20216/9258,38.849461,-98.277658,http://maps.google.com/maps?t=m&q=loc:38.849461+-98.277658,Westbound
+Kansas,I-70,9259,Exit 209,EXIT 209,6th Road,"Wilson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20209/9259,38.848792,-98.389568,http://maps.google.com/maps?t=m&q=loc:38.848792+-98.389568,Westbound
+Kansas,I-70,9260,Exit 206,EXIT 206,KS-232; Willson; Lucas,"Wilson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20206/9260,38.849058,-98.464094,http://maps.google.com/maps?t=m&q=loc:38.849058+-98.464094,Westbound
+Kansas,I-70,9261,Exit 199,EXIT 199,Dorrance,"Dorrance, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20199/9261,38.857076,-98.581626,http://maps.google.com/maps?t=m&q=loc:38.857076+-98.581626,Westbound
+Kansas,I-70,9262,Exit 193,EXIT 193,Bunker Hill Luray Road,"Bunker Hill, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20193/9262,38.857397,-98.703489,http://maps.google.com/maps?t=m&q=loc:38.857397+-98.703489,Westbound
+Kansas,I-70,9263,Exit 189,EXIT 189,US-40 BUS; Pioneer Rd,"Russell, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20189/9263,38.857046,-98.776802,http://maps.google.com/maps?t=m&q=loc:38.857046+-98.776802,Westbound
+Kansas,I-70,9264,Russell Rest Area,PARKING AREA,"Russell Rest Area
+          (MM: 188.0)","Russell, Kansas",https://www.iexitapp.com/Kansas/I-70/Parking%20Area/9264,38.857952,-98.812156,http://maps.google.com/maps?t=m&q=loc:38.857952+-98.812156,Westbound
+Kansas,I-70,9265,Exit 184,EXIT 184,US-281; US-40; Russell; Hoisington,"Russell, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20184/9265,38.864194,-98.850615,http://maps.google.com/maps?t=m&q=loc:38.864194+-98.850615,Westbound
+Kansas,I-70,9266,Exit 180,EXIT 180,Balta Rd,"Gorham, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20180/9266,38.8642,-98.924919,http://maps.google.com/maps?t=m&q=loc:38.8642+-98.924919,Westbound
+Kansas,I-70,9267,Exit 175,EXIT 175,Gorham,"Gorham, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20175/9267,38.863592,-99.017962,http://maps.google.com/maps?t=m&q=loc:38.863592+-99.017962,Westbound
+Kansas,I-70,9268,Exit 172,EXIT 172,Walker Ave,"Victoria, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20172/9268,38.862913,-99.073497,http://maps.google.com/maps?t=m&q=loc:38.862913+-99.073497,Westbound
+Kansas,I-70,9269,Exit 168,EXIT 168,Kansan 255; Victoria,"Victoria, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20168/9269,38.878442,-99.14759,http://maps.google.com/maps?t=m&q=loc:38.878442+-99.14759,Westbound
+Kansas,I-70,9270,Exit 163,EXIT 163,Toulon Ave,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20163/9270,38.878525,-99.240581,http://maps.google.com/maps?t=m&q=loc:38.878525+-99.240581,Westbound
+Kansas,I-70,9271,Exit 161,EXIT 161,Commerce Pkwy,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20161/9271,38.879981,-99.276168,http://maps.google.com/maps?t=m&q=loc:38.879981+-99.276168,Westbound
+Kansas,I-70,9272,Exit 159,EXIT 159,US-183; Hays; Plainville,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20159/9272,38.897336,-99.315111,http://maps.google.com/maps?t=m&q=loc:38.897336+-99.315111,Westbound
+Kansas,I-70,9273,Exit 157,EXIT 157,US-183 Bypass; Hays; Lacrosse,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20157/9273,38.911552,-99.351934,http://maps.google.com/maps?t=m&q=loc:38.911552+-99.351934,Westbound
+Kansas,I-70,9274,Exit 153,EXIT 153,Yocemento Ave,"Hays, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20153/9274,38.922561,-99.425907,http://maps.google.com/maps?t=m&q=loc:38.922561+-99.425907,Westbound
+Kansas,I-70,9275,Exit 145,EXIT 145,KS-247; Ellis,"Ellis, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20145/9275,38.949786,-99.555666,http://maps.google.com/maps?t=m&q=loc:38.949786+-99.555666,Westbound
+Kansas,I-70,9276,Exit 140,EXIT 140,Riga Rd,"Ellis, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20140/9276,38.966219,-99.646961,http://maps.google.com/maps?t=m&q=loc:38.966219+-99.646961,Westbound
+Kansas,I-70,9277,Exit 135,EXIT 135,Ogallah,"Ogallah, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20135/9277,38.984138,-99.739147,http://maps.google.com/maps?t=m&q=loc:38.984138+-99.739147,Westbound
+Kansas,I-70,9278,Ogallah Rest Area,REST AREA,"Ogallah Rest Area
+          (MM: 132.0)","Ogallah, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/9278,38.995262,-99.78631,http://maps.google.com/maps?t=m&q=loc:38.995262+-99.78631,Westbound
+Kansas,I-70,9279,Exit 128,EXIT 128,U.S. 40 Business N; US-283 N; Wakeeney; Hill City,"Wakeeney, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20128/9279,39.010309,-99.868243,http://maps.google.com/maps?t=m&q=loc:39.010309+-99.868243,Westbound
+Kansas,I-70,9280,Exit 127,EXIT 127,US-283; US-40; Wakeeney; Ness City,"Wakeeney, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20127/9280,39.014197,-99.887289,http://maps.google.com/maps?t=m&q=loc:39.014197+-99.887289,Westbound
+Kansas,I-70,9281,Exit 120,EXIT 120,Voda Rd,"Collyer, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20120/9281,39.023163,-100.016819,http://maps.google.com/maps?t=m&q=loc:39.023163+-100.016819,Westbound
+Kansas,I-70,9282,Exit 115,EXIT 115,KS-198; Collyer,"Collyer, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20115/9282,39.023928,-100.108361,http://maps.google.com/maps?t=m&q=loc:39.023928+-100.108361,Westbound
+Kansas,I-70,9283,Exit 107,EXIT 107,Quinter,"Quinter, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%20107/9283,39.056521,-100.238311,http://maps.google.com/maps?t=m&q=loc:39.056521+-100.238311,Westbound
+Kansas,I-70,9284,Exit 99,EXIT 99,KS-211; Park,"Park, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2099/9284,39.097386,-100.366538,http://maps.google.com/maps?t=m&q=loc:39.097386+-100.366538,Westbound
+Kansas,I-70,9285,Grainfield Rest Area,REST AREA,"Grainfield Rest Area
+          (MM: 97.0)","Park, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/9285,39.098638,-100.422661,http://maps.google.com/maps?t=m&q=loc:39.098638+-100.422661,Westbound
+Kansas,I-70,9286,Exit 95,EXIT 95,KS-23 N; Grainfield Hoxie,"Grainfield, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2095/9286,39.102014,-100.440019,http://maps.google.com/maps?t=m&q=loc:39.102014+-100.440019,Westbound
+Kansas,I-70,9287,Exit 93,EXIT 93,KS-23; Gove; Grainfield,"Grainfield, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2093/9287,39.108956,-100.475708,http://maps.google.com/maps?t=m&q=loc:39.108956+-100.475708,Westbound
+Kansas,I-70,9288,Exit 85,EXIT 85,KS-216; Grinnell,"Grinnell, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2085/9288,39.111719,-100.624056,http://maps.google.com/maps?t=m&q=loc:39.111719+-100.624056,Westbound
+Kansas,I-70,9289,Exit 79,EXIT 79,Campus Rd,"Oakley, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2079/9289,39.112545,-100.734925,http://maps.google.com/maps?t=m&q=loc:39.112545+-100.734925,Westbound
+Kansas,I-70,9290,Exit 76,EXIT 76,US-40 W; Oakley; Sheron Springs,"Oakley, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2076/9290,39.116837,-100.805517,http://maps.google.com/maps?t=m&q=loc:39.116837+-100.805517,Westbound
+Kansas,I-70,9291,Exit 70,EXIT 70,U.S.83; Rexford,"Oakley, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2070/9291,39.187393,-100.86752,http://maps.google.com/maps?t=m&q=loc:39.187393+-100.86752,Westbound
+Kansas,I-70,9292,Exit 62,EXIT 62,Co Rd K,"Colby, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2062/9292,39.275641,-100.939619,http://maps.google.com/maps?t=m&q=loc:39.275641+-100.939619,Westbound
+Kansas,I-70,9293,Exit 54,EXIT 54,Country Club Drive,"Colby, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2054/9293,39.362792,-101.033181,http://maps.google.com/maps?t=m&q=loc:39.362792+-101.033181,Westbound
+Kansas,I-70,9294,Exit 53,EXIT 53,State Route 25; Leoti; Atwood,"Colby, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2053/9294,39.364974,-101.050841,http://maps.google.com/maps?t=m&q=loc:39.364974+-101.050841,Westbound
+Kansas,I-70,9295,Colby Rest Area,REST AREA,"Colby Rest Area
+          (MM: 48.0)","Colby, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/9295,39.365802,-101.146252,http://maps.google.com/maps?t=m&q=loc:39.365802+-101.146252,Westbound
+Kansas,I-70,9296,Exit 45,EXIT 45,US-24 E; Levant,"Levant, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2045/9296,39.366112,-101.200491,http://maps.google.com/maps?t=m&q=loc:39.366112+-101.200491,Westbound
+Kansas,I-70,9297,Exit 36,EXIT 36,State 184; Brewster,"Brewster, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2036/9297,39.341158,-101.368984,http://maps.google.com/maps?t=m&q=loc:39.341158+-101.368984,Westbound
+Kansas,I-70,9298,Exit 27,EXIT 27,KS-253; Edson,"Edson, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2027/9298,39.329903,-101.536521,http://maps.google.com/maps?t=m&q=loc:39.329903+-101.536521,Westbound
+Kansas,I-70,9299,Exit 19,EXIT 19,US-24 BUS; Goodland,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2019/9299,39.330115,-101.68509,http://maps.google.com/maps?t=m&q=loc:39.330115+-101.68509,Westbound
+Kansas,I-70,9300,Exit 17,EXIT 17,KS-27; U.S. 24 Buisness; Sharon Springs; St Francis,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2017/9300,39.328932,-101.721493,http://maps.google.com/maps?t=m&q=loc:39.328932+-101.721493,Westbound
+Kansas,I-70,9301,Exit 12,EXIT 12,Co Rd 14,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%2012/9301,39.329697,-101.816075,http://maps.google.com/maps?t=m&q=loc:39.329697+-101.816075,Westbound
+Kansas,I-70,9302,Exit 9,EXIT 9,Co Rd 11,"Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%209/9302,39.329396,-101.871123,http://maps.google.com/maps?t=m&q=loc:39.329396+-101.871123,Westbound
+Kansas,I-70,9303,Goodland Rest Area,REST AREA,"Goodland Rest Area
+          (MM: 7.0)","Goodland, Kansas",https://www.iexitapp.com/Kansas/I-70/Rest%20Area/9303,39.328837,-101.911782,http://maps.google.com/maps?t=m&q=loc:39.328837+-101.911782,Westbound
+Kansas,I-70,9304,Exit 1,EXIT 1,KS 267,"Kanorado, Kansas",https://www.iexitapp.com/Kansas/I-70/Exit%201/9304,39.329458,-102.020059,http://maps.google.com/maps?t=m&q=loc:39.329458+-102.020059,Westbound

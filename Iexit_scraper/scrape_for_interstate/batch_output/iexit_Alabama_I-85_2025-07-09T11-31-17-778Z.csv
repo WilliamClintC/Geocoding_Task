@@ -1,0 +1,30 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Alabama,I-85,50682,Exit 79,EXIT 79,Lanett,"Valley, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2079/50682,32.850944,-85.182364,http://maps.google.com/maps?t=m&q=loc:32.850944+-85.182364,Southbound
+Alabama,I-85,50683,Lanett Welcome Center,WELCOME CENTER,"Lanett Welcome Center
+          (MM: 78.0)","Valley, Alabama",https://www.iexitapp.com/Alabama/I-85/Welcome%20Center/50683,32.841511,-85.192865,http://maps.google.com/maps?t=m&q=loc:32.841511+-85.192865,Southbound
+Alabama,I-85,50684,Exit 77,EXIT 77,Valley; Huguley; Albama County 208,"Cusseta, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2077/50684,32.825,-85.210686,http://maps.google.com/maps?t=m&q=loc:32.825+-85.210686,Southbound
+Alabama,I-85,50685,Exit 70,EXIT 70,County Rd 388; Cusseta,"Cusseta, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2070/50685,32.749074,-85.278824,http://maps.google.com/maps?t=m&q=loc:32.749074+-85.278824,Southbound
+Alabama,I-85,50686,Exit 66,EXIT 66,Andrews Rd; US-29,"Opelika, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2066/50686,32.703718,-85.311454,http://maps.google.com/maps?t=m&q=loc:32.703718+-85.311454,Southbound
+Alabama,I-85,50687,Exit 64,EXIT 64,US-29 N; Opelike,"Opelika, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2064/50687,32.676094,-85.329342,http://maps.google.com/maps?t=m&q=loc:32.676094+-85.329342,Southbound
+Alabama,I-85,50688,Exit 62,EXIT 62,US-280; US-431; Opelike; Phenix City,"Opelika, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2062/50688,32.645612,-85.351549,http://maps.google.com/maps?t=m&q=loc:32.645612+-85.351549,Southbound
+Alabama,I-85,50689,Exit 60,EXIT 60,AL-51; AL-169; Opelika; Hurtsboro,"Opelika, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2060/50689,32.633856,-85.368569,http://maps.google.com/maps?t=m&q=loc:32.633856+-85.368569,Southbound
+Alabama,I-85,50690,Exit 58,EXIT 58,US-280 W; Opelika,"Opelika, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2058/50690,32.619284,-85.396834,http://maps.google.com/maps?t=m&q=loc:32.619284+-85.396834,Southbound
+Alabama,I-85,50691,Exit 57,EXIT 57,Auburn University,"Auburn, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2057/50691,32.607624,-85.422863,http://maps.google.com/maps?t=m&q=loc:32.607624+-85.422863,Southbound
+Alabama,I-85,50692,Exit 51,EXIT 51,U.S. 29 S,"Auburn, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2051/50692,32.560828,-85.501793,http://maps.google.com/maps?t=m&q=loc:32.560828+-85.501793,Southbound
+Alabama,I-85,50693,Exit 50,EXIT 50,Auburn Technology Parkway,"Auburn, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2050/50693,32.550632,-85.524218,http://maps.google.com/maps?t=m&q=loc:32.550632+-85.524218,Southbound
+Alabama,I-85,50694,Macon County Rest Area,REST AREA,"Macon County Rest Area
+          (MM: 44.0)","Notasulga, Alabama",https://www.iexitapp.com/Alabama/I-85/Rest%20Area/50694,32.505831,-85.606116,http://maps.google.com/maps?t=m&q=loc:32.505831+-85.606116,Southbound
+Alabama,I-85,50695,Exit 42,EXIT 42,CR 53;AL 186,"Notasulga, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2042/50695,32.48904,-85.63261,http://maps.google.com/maps?t=m&q=loc:32.48904+-85.63261,Southbound
+Alabama,I-85,50696,Exit 38,EXIT 38,SR 81,"Tuskegee, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2038/50696,32.473844,-85.689205,http://maps.google.com/maps?t=m&q=loc:32.473844+-85.689205,Southbound
+Alabama,I-85,50697,Exit 32,EXIT 32,Alabama 49 N,"Tuskegee, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2032/50697,32.44494,-85.791638,http://maps.google.com/maps?t=m&q=loc:32.44494+-85.791638,Southbound
+Alabama,I-85,50698,Exit 26,EXIT 26,Alabama 229 N; Tallassee,"Tuskegee, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2026/50698,32.42915,-85.895731,http://maps.google.com/maps?t=m&q=loc:32.42915+-85.895731,Southbound
+Alabama,I-85,50699,Exit 22,EXIT 22,US 80; Shorter,"Shorter, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2022/50699,32.409061,-85.955479,http://maps.google.com/maps?t=m&q=loc:32.409061+-85.955479,Southbound
+Alabama,I-85,50700,Exit 16,EXIT 16,Mt Meigs; Waugh,"Pike Road, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2016/50700,32.369708,-86.049851,http://maps.google.com/maps?t=m&q=loc:32.369708+-86.049851,Southbound
+Alabama,I-85,50701,Exit 11,EXIT 11,US-80; AL-110,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%2011/50701,32.368122,-86.134699,http://maps.google.com/maps?t=m&q=loc:32.368122+-86.134699,Southbound
+Alabama,I-85,50702,Exit 9,EXIT 9,AL-271; Taylor Rd; US-231,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%209/50702,32.362282,-86.166991,http://maps.google.com/maps?t=m&q=loc:32.362282+-86.166991,Southbound
+Alabama,I-85,50703,Exit 6,EXIT 6,US-80; US-231; East Blvd; AL-21,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%206/50703,32.363208,-86.20878,http://maps.google.com/maps?t=m&q=loc:32.363208+-86.20878,Southbound
+Alabama,I-85,50704,Exit 4,EXIT 4,Perry Hill Rd,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%204/50704,32.359944,-86.239927,http://maps.google.com/maps?t=m&q=loc:32.359944+-86.239927,Southbound
+Alabama,I-85,50705,Exit 3,EXIT 3,Ann St,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%203/50705,32.3651,-86.266352,http://maps.google.com/maps?t=m&q=loc:32.3651+-86.266352,Southbound
+Alabama,I-85,50706,Exit 2,EXIT 2,Mulberry St,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%202/50706,32.365761,-86.277875,http://maps.google.com/maps?t=m&q=loc:32.365761+-86.277875,Southbound
+Alabama,I-85,50707,Exit 1,EXIT 1,Union St,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%201/50707,32.368036,-86.296929,http://maps.google.com/maps?t=m&q=loc:32.368036+-86.296929,Southbound
+Alabama,I-85,50709,Day St,EXIT,Day St,"Montgomery, Alabama",https://www.iexitapp.com/Alabama/I-85/Exit%20/50709,32.367552,-86.318306,http://maps.google.com/maps?t=m&q=loc:32.367552+-86.318306,Southbound

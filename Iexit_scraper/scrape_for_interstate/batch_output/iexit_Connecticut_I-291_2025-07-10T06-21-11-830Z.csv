@@ -1,0 +1,3 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Connecticut,I-291,37282,Exit 4,EXIT 4,"US 5 to Route 30 – South Windsor, East Hartford, East Windsor","South Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-291/Exit%204/37282,41.807174,-72.621769,http://maps.google.com/maps?t=m&q=loc:41.807174+-72.621769,Northbound
+Connecticut,I-291,37283,Exit 5,EXIT 5,"Tolland Turnpike – E. Hartford, Manchester","Manchester, Connecticut",https://www.iexitapp.com/Connecticut/I-291/Exit%205/37283,41.796468,-72.576374,http://maps.google.com/maps?t=m&q=loc:41.796468+-72.576374,Northbound

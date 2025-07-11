@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-24,18879,Exit 37,EXIT 37,Brookport,"Metropolis, Illinois",https://www.iexitapp.com/Illinois/I-24/Exit%2037/18879,37.156129,-88.682544,http://maps.google.com/maps?t=m&q=loc:37.156129+-88.682544,Westbound
+Illinois,I-24,18880,Exit 27,EXIT 27,Big Bay; New Columbia,"Metropolis, Illinois",https://www.iexitapp.com/Illinois/I-24/Exit%2027/18880,37.295826,-88.751289,http://maps.google.com/maps?t=m&q=loc:37.295826+-88.751289,Westbound
+Illinois,I-24,18881,Exit 16,EXIT 16,IL-146; Vienna; Golconda,"Vienna, Illinois",https://www.iexitapp.com/Illinois/I-24/Exit%2016/18881,37.411081,-88.867998,http://maps.google.com/maps?t=m&q=loc:37.411081+-88.867998,Westbound
+Illinois,I-24,18882,Exit 14,EXIT 14,US-45; Vienna,"Vienna, Illinois",https://www.iexitapp.com/Illinois/I-24/Exit%2014/18882,37.441959,-88.885851,http://maps.google.com/maps?t=m&q=loc:37.441959+-88.885851,Westbound
+Illinois,I-24,18883,Exit 7,EXIT 7,Tunnel Hill; Goreville,"Goreville, Illinois",https://www.iexitapp.com/Illinois/I-24/Exit%207/18883,37.528889,-88.92011,http://maps.google.com/maps?t=m&q=loc:37.528889+-88.92011,Westbound

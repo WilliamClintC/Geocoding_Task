@@ -1,0 +1,37 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Idaho,I-90,50732,Exit 1,EXIT 1,West Pointe Parkway;West Riverbend Road,"Post Falls, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%201/50732,47.700334,-117.021957,http://maps.google.com/maps?t=m&q=loc:47.700334+-117.021957,Eastbound
+Idaho,I-90,6296,Exit 2,EXIT 2,Pleasant View Rd,"Post Falls, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%202/6296,47.706973,-117.007287,http://maps.google.com/maps?t=m&q=loc:47.706973+-117.007287,Eastbound
+Idaho,I-90,6297,Exit 5,EXIT 5,Spokane St; City Center; I-90 BUS,"Post Falls, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%205/6297,47.713326,-116.955593,http://maps.google.com/maps?t=m&q=loc:47.713326+-116.955593,Eastbound
+Idaho,I-90,6298,Exit 7,EXIT 7,Rathdrum; Spirit Lake; ID-41 N,"Post Falls, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%207/6298,47.712199,-116.903849,http://maps.google.com/maps?t=m&q=loc:47.712199+-116.903849,Eastbound
+Idaho,I-90,6299,Huetter Rest Area,REST AREA,"Huetter Rest Area
+          (MM: 8.0)","Post Falls, Idaho",https://www.iexitapp.com/Idaho/I-90/Rest%20Area/6299,47.7087,-116.875295,http://maps.google.com/maps?t=m&q=loc:47.7087+-116.875295,Eastbound
+Idaho,I-90,6300,Exit 11,EXIT 11,Northwest Blvd; City Center,"Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2011/6300,47.700688,-116.813659,http://maps.google.com/maps?t=m&q=loc:47.700688+-116.813659,Eastbound
+Idaho,I-90,6301,Exit 12,EXIT 12,US-95; Sandpoint; Moscow,"Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2012/6301,47.698992,-116.798025,http://maps.google.com/maps?t=m&q=loc:47.698992+-116.798025,Eastbound
+Idaho,I-90,50733,Exit 13,EXIT 13,4th St,"Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2013/50733,47.698085,-116.785119,http://maps.google.com/maps?t=m&q=loc:47.698085+-116.785119,Eastbound
+Idaho,I-90,6303,Exit 14,EXIT 14,15th St,"Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2014/6303,47.691448,-116.767775,http://maps.google.com/maps?t=m&q=loc:47.691448+-116.767775,Eastbound
+Idaho,I-90,6304,Exit 15,EXIT 15,Sherman Ave; Fernan,"Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2015/6304,47.678489,-116.75506,http://maps.google.com/maps?t=m&q=loc:47.678489+-116.75506,Eastbound
+Idaho,I-90,6305,Exit 17,EXIT 17,Mullan Trail Rd,"Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2017/6305,47.659876,-116.728558,http://maps.google.com/maps?t=m&q=loc:47.659876+-116.728558,Eastbound
+Idaho,I-90,6306,Exit 22,EXIT 22,State Route 97; Harrison,"Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2022/6306,47.62351,-116.65235,http://maps.google.com/maps?t=m&q=loc:47.62351+-116.65235,Eastbound
+Idaho,I-90,6307,Chain Up Area,CHAIN AREA,"Chain Up Area
+          (MM: 24.0)","Coeur D'Alene, Idaho",https://www.iexitapp.com/Idaho/I-90/Chain%20Up%20Area/6307,47.628864,-116.620985,http://maps.google.com/maps?t=m&q=loc:47.628864+-116.620985,Eastbound
+Idaho,I-90,6309,Exit 34,EXIT 34,ID-3; Rose Lake; Harrison; St Maries,"Cataldo, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2034/6309,47.575469,-116.446585,http://maps.google.com/maps?t=m&q=loc:47.575469+-116.446585,Eastbound
+Idaho,I-90,6310,Exit 39,EXIT 39,Old Mission State Park,"Cataldo, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2039/6310,47.551582,-116.357708,http://maps.google.com/maps?t=m&q=loc:47.551582+-116.357708,Eastbound
+Idaho,I-90,6311,Exit 40,EXIT 40,Cataldo,"Cataldo, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2040/6311,47.546842,-116.330104,http://maps.google.com/maps?t=m&q=loc:47.546842+-116.330104,Eastbound
+Idaho,I-90,6312,Exit 43,EXIT 43,Kingston,"Kingston, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2043/6312,47.551009,-116.27601,http://maps.google.com/maps?t=m&q=loc:47.551009+-116.27601,Eastbound
+Idaho,I-90,6313,Exit 45,EXIT 45,Pinehurst; Smelyterville,"Pinehurst, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2045/6313,47.544176,-116.231899,http://maps.google.com/maps?t=m&q=loc:47.544176+-116.231899,Eastbound
+Idaho,I-90,50735,Exit 48,EXIT 48,Smelterville,"Smelterville, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2048/50735,47.546085,-116.18155,http://maps.google.com/maps?t=m&q=loc:47.546085+-116.18155,Eastbound
+Idaho,I-90,6315,Exit 49,EXIT 49,Bunker Ave; Silver Mountain,"Kellogg, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2049/6315,47.547704,-116.137053,http://maps.google.com/maps?t=m&q=loc:47.547704+-116.137053,Eastbound
+Idaho,I-90,6316,Exit 50,EXIT 50,Hill St,"Kellogg, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2050/6316,47.542009,-116.127918,http://maps.google.com/maps?t=m&q=loc:47.542009+-116.127918,Eastbound
+Idaho,I-90,50736,Exit 51,EXIT 51,Exit,"Kellogg, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2051/50736,47.539563,-116.123695,http://maps.google.com/maps?t=m&q=loc:47.539563+-116.123695,Eastbound
+Idaho,I-90,6318,Exit 57,EXIT 57,I-90 BUS; Osburn,"Osburn, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2057/6318,47.509538,-116.002227,http://maps.google.com/maps?t=m&q=loc:47.509538+-116.002227,Eastbound
+Idaho,I-90,6319,Exit 60,EXIT 60,Silverton,"Wallace, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2060/6319,47.49165,-115.959176,http://maps.google.com/maps?t=m&q=loc:47.49165+-115.959176,Eastbound
+Idaho,I-90,6320,Exit 61,EXIT 61,I-90 BUS; Wallace,"Wallace, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2061/6320,47.480442,-115.936088,http://maps.google.com/maps?t=m&q=loc:47.480442+-115.936088,Eastbound
+Idaho,I-90,6321,Exit 62,EXIT 62,ID-4; Burke; I-90; Wallace,"Wallace, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2062/6321,47.472522,-115.921693,http://maps.google.com/maps?t=m&q=loc:47.472522+-115.921693,Eastbound
+Idaho,I-90,6322,Exit 64,EXIT 64,Golconda District,"Wallace, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2064/6322,47.473963,-115.872116,http://maps.google.com/maps?t=m&q=loc:47.473963+-115.872116,Eastbound
+Idaho,I-90,6323,Exit 65,EXIT 65,Compressor District,"Mullan, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2065/6323,47.468889,-115.852611,http://maps.google.com/maps?t=m&q=loc:47.468889+-115.852611,Eastbound
+Idaho,I-90,50737,Exit 66,EXIT 66,Exit,"Mullan, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2066/50737,47.461899,-115.8279,http://maps.google.com/maps?t=m&q=loc:47.461899+-115.8279,Eastbound
+Idaho,I-90,6324,Exit 67,EXIT 67,W Mullen; Morning District,"Mullan, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2067/6324,47.465518,-115.815314,http://maps.google.com/maps?t=m&q=loc:47.465518+-115.815314,Eastbound
+Idaho,I-90,6325,Exit 68,EXIT 68,I-90; Mullan,"Mullan, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2068/6325,47.464257,-115.803245,http://maps.google.com/maps?t=m&q=loc:47.464257+-115.803245,Eastbound
+Idaho,I-90,6326,Exit 69,EXIT 69,E Mullan,"Mullan, Idaho",https://www.iexitapp.com/Idaho/I-90/Exit%2069/6326,47.468794,-115.792194,http://maps.google.com/maps?t=m&q=loc:47.468794+-115.792194,Eastbound
+Idaho,I-90,6327,Hisitorical Site,HISTORY SITE,"Hisitorical Site
+          (MM: 71.0)","Mullan, Idaho",https://www.iexitapp.com/Idaho/I-90/Hisitorical%20Site/6327,47.46162,-115.73733,http://maps.google.com/maps?t=m&q=loc:47.46162+-115.73733,Eastbound

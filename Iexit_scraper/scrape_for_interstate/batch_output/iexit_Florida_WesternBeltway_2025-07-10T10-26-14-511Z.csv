@@ -1,0 +1,19 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,Western Beltway,41809,Exit 30,EXIT 30,CR 437A (Ocoee-Apopka Road),"Apopka, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2030/41809,28.657737,-81.549769,http://maps.google.com/maps?t=m&q=loc:28.657737+-81.549769,Southbound
+Florida,Western Beltway,41810,Exit 29,EXIT 29,CR 437A (Ocoee-Apopka Road),"Apopka, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2029/41810,28.636046,-81.543318,http://maps.google.com/maps?t=m&q=loc:28.636046+-81.543318,Southbound
+Florida,Western Beltway,41811,Toll,TOLL BOOTH,"Toll
+          (MM: 27.0)","Apopka, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Toll/41811,28.618844,-81.536504,http://maps.google.com/maps?t=m&q=loc:28.618844+-81.536504,Southbound
+Florida,Western Beltway,41812,Exit 26,EXIT 26,West Road to Clarcona-Ocoee Road (CR 437),"Ocoee, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2026/41812,28.604425,-81.538554,http://maps.google.com/maps?t=m&q=loc:28.604425+-81.538554,Southbound
+Florida,Western Beltway,41813,Exit 24,EXIT 24,SR 438 (Plant Street / Franklin Street),"Ocoee, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2024/41813,28.579339,-81.557333,http://maps.google.com/maps?t=m&q=loc:28.579339+-81.557333,Southbound
+Florida,Western Beltway,41814,Exit 23,EXIT 23,SR 50 (West Colonial Drive),"Ocoee, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2023/41814,28.563331,-81.558881,http://maps.google.com/maps?t=m&q=loc:28.563331+-81.558881,Southbound
+Florida,Western Beltway,41815,Exit 22,EXIT 22,"Turnpike (SR 91) – Miami, Ocala","Winter Garden, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2022/41815,28.553651,-81.559327,http://maps.google.com/maps?t=m&q=loc:28.553651+-81.559327,Southbound
+Florida,Western Beltway,41816,Exit 19,EXIT 19,CR 535 (Winter Garden Vineland Road),"Winter Garden, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2019/41816,28.522654,-81.57888,http://maps.google.com/maps?t=m&q=loc:28.522654+-81.57888,Southbound
+Florida,Western Beltway,41817,Toll,TOLL BOOTH,"Toll
+          (MM: 17.0)","Winter Garden, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Toll/41817,28.502101,-81.614635,http://maps.google.com/maps?t=m&q=loc:28.502101+-81.614635,Southbound
+Florida,Western Beltway,41818,Exit 15,EXIT 15,New Independence Parkway,"Winter Garden, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%2015/41818,28.479682,-81.631562,http://maps.google.com/maps?t=m&q=loc:28.479682+-81.631562,Southbound
+Florida,Western Beltway,41819,Exit 8,EXIT 8,"Disney World (via Western Way), Hartzog Road","Winter Garden, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%208/41819,28.383734,-81.614396,http://maps.google.com/maps?t=m&q=loc:28.383734+-81.614396,Southbound
+Florida,Western Beltway,41820,Toll,TOLL BOOTH,"Toll
+          (MM: 7.0)","Kissimmee, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Toll/41820,28.363336,-81.610568,http://maps.google.com/maps?t=m&q=loc:28.363336+-81.610568,Southbound
+Florida,Western Beltway,41821,Exit 6,EXIT 6,US 192 (SR 530) – Kissimmee,"Kissimmee, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%206/41821,28.351855,-81.61474,http://maps.google.com/maps?t=m&q=loc:28.351855+-81.61474,Southbound
+Florida,Western Beltway,41822,Exit 1A,EXIT 1A,Sinclair Road,"Kissimmee, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%201A/41822,28.298986,-81.605735,http://maps.google.com/maps?t=m&q=loc:28.298986+-81.605735,Southbound
+Florida,Western Beltway,41823,Exit 1,EXIT 1,"I-4 (SR 400) – Orlando, Tampa","Kissimmee, Florida",https://www.iexitapp.com/Florida/Western%20Beltway/Exit%201/41823,28.286357,-81.596068,http://maps.google.com/maps?t=m&q=loc:28.286357+-81.596068,Southbound

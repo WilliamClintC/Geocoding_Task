@@ -1,0 +1,83 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Ohio,I-90,7145,Ohio Welcome Center,WELCOME CENTER,"Ohio Welcome Center
+          (MM: 242.0)","Conneaut, Ohio",https://www.iexitapp.com/Ohio/I-90/Welcome%20Center/7145,41.925999,-80.54252,http://maps.google.com/maps?t=m&q=loc:41.925999+-80.54252,Westbound
+Ohio,I-90,7146,Exit 241,EXIT 241,OH-7; Andover; Conneaut,"Conneaut, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20241/7146,41.918487,-80.563441,http://maps.google.com/maps?t=m&q=loc:41.918487+-80.563441,Westbound
+Ohio,I-90,7147,Exit 235,EXIT 235,OH-84; OH-193; Kingsville,"Kingsville, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20235/7147,41.883202,-80.662382,http://maps.google.com/maps?t=m&q=loc:41.883202+-80.662382,Westbound
+Ohio,I-90,7148,Exit 228,EXIT 228,"SR 11;SR 11
+          (MM: 228.0)","Ashtabula, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20228/7148,41.828343,-80.756988,http://maps.google.com/maps?t=m&q=loc:41.828343+-80.756988,Westbound
+Ohio,I-90,7149,Exit 223,EXIT 223,OH-45; Warren,"Austinburg, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20223/7149,41.789726,-80.85056,http://maps.google.com/maps?t=m&q=loc:41.789726+-80.85056,Westbound
+Ohio,I-90,7150,Exit 218,EXIT 218,OH-534; Geneva,"Geneva, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20218/7150,41.769673,-80.94242,http://maps.google.com/maps?t=m&q=loc:41.769673+-80.94242,Westbound
+Ohio,I-90,7151,Exit 212,EXIT 212,Ohio 528; Madison; Thompson,"Madison, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20212/7151,41.760804,-81.042004,http://maps.google.com/maps?t=m&q=loc:41.760804+-81.042004,Westbound
+Ohio,I-90,7152,Exit 205,EXIT 205,Vrooman Rd,"Painesville, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20205/7152,41.710508,-81.172871,http://maps.google.com/maps?t=m&q=loc:41.710508+-81.172871,Westbound
+Ohio,I-90,7153,Exit 200,EXIT 200,OH-44; Chardon; Painesville; OH-86 N,"Painesville, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20200/7153,41.672041,-81.24326,http://maps.google.com/maps?t=m&q=loc:41.672041+-81.24326,Westbound
+Ohio,I-90,7154,Lake Rest Area,REST AREA,"Lake Rest Area
+          (MM: 198.0)","Mentor, Ohio",https://www.iexitapp.com/Ohio/I-90/Rest%20Area/7154,41.656261,-81.279301,http://maps.google.com/maps?t=m&q=loc:41.656261+-81.279301,Westbound
+Ohio,I-90,7155,Exit 195,EXIT 195,OH-615; Center St,"Mentor, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20195/7155,41.647232,-81.335079,http://maps.google.com/maps?t=m&q=loc:41.647232+-81.335079,Westbound
+Ohio,I-90,7156,Exit 193,EXIT 193,OH-306; Mentor; Kirtland,"Willoughby, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20193/7156,41.641997,-81.370307,http://maps.google.com/maps?t=m&q=loc:41.641997+-81.370307,Westbound
+Ohio,I-90,7157,Exit 190,EXIT 190,"I 271 Express
+          (MM: 190.0)","Willoughby, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20190/7157,41.608857,-81.428768,http://maps.google.com/maps?t=m&q=loc:41.608857+-81.428768,Westbound
+Ohio,I-90,7158,Exit 189,EXIT 189,OH-91; Willoughby Hills; Willoughby,"Willoughby, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20189/7158,41.60604,-81.433497,http://maps.google.com/maps?t=m&q=loc:41.60604+-81.433497,Westbound
+Ohio,I-90,7159,Exit 188,EXIT 188,"I 271
+          (MM: 188.0)","Willoughby, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20188/7159,41.595894,-81.445812,http://maps.google.com/maps?t=m&q=loc:41.595894+-81.445812,Westbound
+Ohio,I-90,7160,Exit 187,EXIT 187,OH-84; Bishop Rd,"Euclid, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20187/7160,41.589979,-81.474651,http://maps.google.com/maps?t=m&q=loc:41.589979+-81.474651,Westbound
+Ohio,I-90,7161,Exit 186,EXIT 186,US-20 W; Euclid Ave,"Wickliffe, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20186/7161,41.596713,-81.487834,http://maps.google.com/maps?t=m&q=loc:41.596713+-81.487834,Westbound
+Ohio,I-90,7162,Exit 185,EXIT 185,"SR 2
+          (MM: 185.0)","Euclid, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20185/7162,41.603349,-81.491608,http://maps.google.com/maps?t=m&q=loc:41.603349+-81.491608,Westbound
+Ohio,I-90,7163,Exit 184,EXIT 184,E 260th St; Babbitt Rd; OH-175,"Euclid, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20184/7163,41.600342,-81.505043,http://maps.google.com/maps?t=m&q=loc:41.600342+-81.505043,Westbound
+Ohio,I-90,7164,Exit 183,EXIT 183,E 222nd St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20183/7164,41.593449,-81.51647,http://maps.google.com/maps?t=m&q=loc:41.593449+-81.51647,Westbound
+Ohio,I-90,7165,Exit 182B,EXIT 182B,E 200th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20182B/7165,41.587685,-81.526365,http://maps.google.com/maps?t=m&q=loc:41.587685+-81.526365,Westbound
+Ohio,I-90,7166,Exit 182A,EXIT 182A,E 185th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20182A/7166,41.581654,-81.539668,http://maps.google.com/maps?t=m&q=loc:41.581654+-81.539668,Westbound
+Ohio,I-90,7167,Exit 181,EXIT 181,156th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20181/7167,41.569979,-81.569623,http://maps.google.com/maps?t=m&q=loc:41.569979+-81.569623,Westbound
+Ohio,I-90,7168,Exit 180,EXIT 180,E 152nd St; E 140th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20180/7168,41.567629,-81.576189,http://maps.google.com/maps?t=m&q=loc:41.567629+-81.576189,Westbound
+Ohio,I-90,7169,Exit 178,EXIT 178,Eddy Rd; Bratenahl,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20178/7169,41.55292,-81.599757,http://maps.google.com/maps?t=m&q=loc:41.55292+-81.599757,Westbound
+Ohio,I-90,7170,Exit 177,EXIT 177,Martin Luther King Junior Drive,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20177/7170,41.540643,-81.625713,http://maps.google.com/maps?t=m&q=loc:41.540643+-81.625713,Westbound
+Ohio,I-90,51058,Exit 176,EXIT 176,E 72nd St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20176/51058,41.539241,-81.632766,http://maps.google.com/maps?t=m&q=loc:41.539241+-81.632766,Westbound
+Ohio,I-90,51059,Exit 175,EXIT 175,Marginal Rds; E 55th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20175/51059,41.534124,-81.646752,http://maps.google.com/maps?t=m&q=loc:41.534124+-81.646752,Westbound
+Ohio,I-90,51060,Exit 174B,EXIT 174B,Cleveland Memorial Shoreway / SR 2,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20174B/51060,41.518705,-81.674114,http://maps.google.com/maps?t=m&q=loc:41.518705+-81.674114,Westbound
+Ohio,I-90,51062,Exit 173C,EXIT 173C,Superior Ave; St Clair Ave,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20173C/51062,41.512394,-81.673008,http://maps.google.com/maps?t=m&q=loc:41.512394+-81.673008,Westbound
+Ohio,I-90,51063,Exit 173A,EXIT 173A,Prospect Ave,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20173A/51063,41.502399,-81.669917,http://maps.google.com/maps?t=m&q=loc:41.502399+-81.669917,Westbound
+Ohio,I-90,7177,Exit 172A,EXIT 172A,"I 77
+          (MM: 172.0)","Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20172A/7177,41.497252,-81.675927,http://maps.google.com/maps?t=m&q=loc:41.497252+-81.675927,Westbound
+Ohio,I-90,51064,Exit 171,EXIT 171,West 14th Street,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20171/51064,41.48408,-81.692213,http://maps.google.com/maps?t=m&q=loc:41.48408+-81.692213,Westbound
+Ohio,I-90,7180,Exit 169,EXIT 169,W 41st St; W 44th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20169/7180,41.47446,-81.711034,http://maps.google.com/maps?t=m&q=loc:41.47446+-81.711034,Westbound
+Ohio,I-90,51066,Exit 167B,EXIT 167B,OH-10; Lorain Ave,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20167B/51066,41.471222,-81.734615,http://maps.google.com/maps?t=m&q=loc:41.471222+-81.734615,Westbound
+Ohio,I-90,7182,Exit 167A,EXIT 167A,98th St W; West Blvd,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20167A/7182,41.470133,-81.744465,http://maps.google.com/maps?t=m&q=loc:41.470133+-81.744465,Westbound
+Ohio,I-90,51067,Exit 166,EXIT 166,W 117th St,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20166/51067,41.467376,-81.763078,http://maps.google.com/maps?t=m&q=loc:41.467376+-81.763078,Westbound
+Ohio,I-90,7184,Exit 165B,EXIT 165B,West 140th Street; Bunts Road,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20165B/7184,41.467207,-81.783669,http://maps.google.com/maps?t=m&q=loc:41.467207+-81.783669,Westbound
+Ohio,I-90,7185,Exit 165A,EXIT 165A,Warren Rd,"Cleveland, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20165A/7185,41.469341,-81.790111,http://maps.google.com/maps?t=m&q=loc:41.469341+-81.790111,Westbound
+Ohio,I-90,7186,Exit 164,EXIT 164,Mc Kinley Ave,"Lakewood, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20164/7186,41.469813,-81.810324,http://maps.google.com/maps?t=m&q=loc:41.469813+-81.810324,Westbound
+Ohio,I-90,7187,Exit 162,EXIT 162,Hilliard Blvd,"Rocky River, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20162/7187,41.472125,-81.835608,http://maps.google.com/maps?t=m&q=loc:41.472125+-81.835608,Westbound
+Ohio,I-90,7188,Exit 160,EXIT 160,Clague Rd,"Westlake, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20160/7188,41.47612,-81.877035,http://maps.google.com/maps?t=m&q=loc:41.47612+-81.877035,Westbound
+Ohio,I-90,7189,Exit 159,EXIT 159,OH-252; Columbia Rd,"Westlake, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20159/7189,41.474095,-81.894926,http://maps.google.com/maps?t=m&q=loc:41.474095+-81.894926,Westbound
+Ohio,I-90,7190,Exit 156,EXIT 156,Crocker Rd; Bassett Rd,"Westlake, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20156/7190,41.46803,-81.944909,http://maps.google.com/maps?t=m&q=loc:41.46803+-81.944909,Westbound
+Ohio,I-90,51068,Exit 155,EXIT 155,Nagel Road,"Avon, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20155/51068,41.466419,-81.98377,http://maps.google.com/maps?t=m&q=loc:41.466419+-81.98377,Westbound
+Ohio,I-90,7192,Exit 153,EXIT 153,OH-83; Avon; Avon Lake,"Avon, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20153/7192,41.464611,-82.016111,http://maps.google.com/maps?t=m&q=loc:41.464611+-82.016111,Westbound
+Ohio,I-90,7193,Exit 151,EXIT 151,OH-611; Sheffield; Avon,"Avon, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20151/7193,41.465107,-82.049909,http://maps.google.com/maps?t=m&q=loc:41.465107+-82.049909,Westbound
+Ohio,I-90,7194,Exit 148,EXIT 148,OH-254; Avon; Sheffield,"Elyria, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20148/7194,41.427939,-82.083219,http://maps.google.com/maps?t=m&q=loc:41.427939+-82.083219,Westbound
+Ohio,I-90,7195,Exit 145,EXIT 145,State Highway 57 N; Elyria Lorain,"Elyria, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20145/7195,41.405225,-82.109755,http://maps.google.com/maps?t=m&q=loc:41.405225+-82.109755,Westbound
+Ohio,I-90,7196,Exit 145A,EXIT 145A,State Highway 57 N; Elyria Lorain,"Elyria, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20145A/7196,41.404902,-82.115187,http://maps.google.com/maps?t=m&q=loc:41.404902+-82.115187,Westbound
+Ohio,I-90,7197,Exit 144,EXIT 144,"State Route 2; To Lorain, Sandusky","Elyria, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20144/7197,41.403637,-82.138742,http://maps.google.com/maps?t=m&q=loc:41.403637+-82.138742,Westbound
+Ohio,I-90,7199,Exit 140,EXIT 140,State Route 58; Amherst; Oberlin,"Amherst, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20140/7199,41.383745,-82.192825,http://maps.google.com/maps?t=m&q=loc:41.383745+-82.192825,Westbound
+Ohio,I-90,7200,Middle Ridge Service Plaza,SERVICE PLAZA,Middle Ridge Service Plaza,"Amherst, Ohio",https://www.iexitapp.com/Ohio/I-90/Service%20Plaza/7200,41.380182,-82.214953,http://maps.google.com/maps?t=m&q=loc:41.380182+-82.214953,Westbound
+Ohio,I-90,7201,Exit 135,EXIT 135,Baumhart Rd; Vermillon,"Amherst, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20135/7201,41.36213,-82.279948,http://maps.google.com/maps?t=m&q=loc:41.36213+-82.279948,Westbound
+Ohio,I-90,57608,Exit 118,EXIT 118,US-250 N,"Milan, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20118/57608,41.324142,-82.602641,http://maps.google.com/maps?t=m&q=loc:41.324142+-82.602641,Westbound
+Ohio,I-90,51069,Exit 118,EXIT 118,US-250 S,"Milan, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20118/51069,41.324755,-82.614154,http://maps.google.com/maps?t=m&q=loc:41.324755+-82.614154,Westbound
+Ohio,I-90,7203,Exit 110,EXIT 110,OH-4; Sandusky; Bellevue,"Castalia, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20110/7203,41.340498,-82.761081,http://maps.google.com/maps?t=m&q=loc:41.340498+-82.761081,Westbound
+Ohio,I-90,7204,Erie Islands Service Plaza,SERVICE PLAZA,Erie Islands Service Plaza,"Clyde, Ohio",https://www.iexitapp.com/Ohio/I-90/Service%20Plaza/7204,41.367355,-82.95264,http://maps.google.com/maps?t=m&q=loc:41.367355+-82.95264,Westbound
+Ohio,I-90,7205,Exit 91,EXIT 91,OH-53 S; Fremont,"Fremont, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2091/7205,41.400248,-83.108164,http://maps.google.com/maps?t=m&q=loc:41.400248+-83.108164,Westbound
+Ohio,I-90,51070,Exit 91,EXIT 91,OH-53 N; Port Clinton,"Fremont, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2091/51070,41.4022,-83.107628,http://maps.google.com/maps?t=m&q=loc:41.4022+-83.107628,Westbound
+Ohio,I-90,7206,Exit 81,EXIT 81,OH-51; Elmore; Woodville; Gibsonburg,"Elmore, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2081/7206,41.457926,-83.283189,http://maps.google.com/maps?t=m&q=loc:41.457926+-83.283189,Westbound
+Ohio,I-90,7207,Blue Heron Service Plaza,SERVICE PLAZA,Blue Heron Service Plaza,"Woodville, Ohio",https://www.iexitapp.com/Ohio/I-90/Service%20Plaza/7207,41.488265,-83.363801,http://maps.google.com/maps?t=m&q=loc:41.488265+-83.363801,Westbound
+Ohio,I-90,7208,Exit 71,EXIT 71,"I 280;SR 420
+          (MM: 71.0)","Perrysburg, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2071/7208,41.522941,-83.455036,http://maps.google.com/maps?t=m&q=loc:41.522941+-83.455036,Westbound
+Ohio,I-90,51072,Exit 64,EXIT 64,Dayton,"Perrysburg, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2064/51072,41.564857,-83.57156,http://maps.google.com/maps?t=m&q=loc:41.564857+-83.57156,Westbound
+Ohio,I-90,7210,Exit 59,EXIT 59,US-20; US-23; I-475,"Maumee, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2059/7210,41.592008,-83.664537,http://maps.google.com/maps?t=m&q=loc:41.592008+-83.664537,Westbound
+Ohio,I-90,7211,Exit 52,EXIT 52,OH-2; Toledo Airport,"Swanton, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2052/7211,41.5989,-83.796773,http://maps.google.com/maps?t=m&q=loc:41.5989+-83.796773,Westbound
+Ohio,I-90,7212,Truck Turnout,TURN OUT,Truck Turnout,"Swanton, Ohio",https://www.iexitapp.com/Ohio/I-90/Truck%20Turnout/7212,41.600082,-83.866379,http://maps.google.com/maps?t=m&q=loc:41.600082+-83.866379,Westbound
+Ohio,I-90,7213,Exit 39,EXIT 39,Ohio 109,"Delta, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2039/7213,41.59189,-84.043359,http://maps.google.com/maps?t=m&q=loc:41.59189+-84.043359,Westbound
+Ohio,I-90,7214,Exit 34,EXIT 34,Ohio 108,"Wauseon, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2034/7214,41.593102,-84.135377,http://maps.google.com/maps?t=m&q=loc:41.593102+-84.135377,Westbound
+Ohio,I-90,7215,Exit 25,EXIT 25,OH-66,"Archbold, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2025/7215,41.591974,-84.315166,http://maps.google.com/maps?t=m&q=loc:41.591974+-84.315166,Westbound
+Ohio,I-90,7216,Indian Meadow Service Plaza,SERVICE PLAZA,Indian Meadow Service Plaza,"West Unity, Ohio",https://www.iexitapp.com/Ohio/I-90/Service%20Plaza/7216,41.6044,-84.402565,http://maps.google.com/maps?t=m&q=loc:41.6044+-84.402565,Westbound
+Ohio,I-90,57609,Exit 13,EXIT 13,OH-15,"Montpelier, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2013/57609,41.613495,-84.542511,http://maps.google.com/maps?t=m&q=loc:41.613495+-84.542511,Westbound
+Ohio,I-90,51074,Exit 13,EXIT 13,OH-15,"Montpelier, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%2013/51074,41.61287,-84.552754,http://maps.google.com/maps?t=m&q=loc:41.61287+-84.552754,Westbound
+Ohio,I-90,51075,OH-49,EXIT,OH-49,"Montpelier, Ohio",https://www.iexitapp.com/Ohio/I-90/Exit%20/51075,41.62941,-84.756696,http://maps.google.com/maps?t=m&q=loc:41.62941+-84.756696,Westbound

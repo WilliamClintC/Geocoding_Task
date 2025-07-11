@@ -1,0 +1,10 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-635,57023,Exit 1B,EXIT 1B,Merriam Dr; Merriam Ln,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%201B/57023,39.044309,-94.676264,http://maps.google.com/maps?t=m&q=loc:39.044309+-94.676264,Northbound
+Kansas,I-635,57024,Exit 1C,EXIT 1C,Shawnee Dr,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%201C/57024,39.050759,-94.679023,http://maps.google.com/maps?t=m&q=loc:39.050759+-94.679023,Northbound
+Kansas,I-635,33230,Exit 2A,EXIT 2A,Metropolitan Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%202A/33230,39.070227,-94.680098,http://maps.google.com/maps?t=m&q=loc:39.070227+-94.680098,Northbound
+Kansas,I-635,33231,Exit 3,EXIT 3,KS-32; Kansas Ave,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%203/33231,39.09063,-94.680452,http://maps.google.com/maps?t=m&q=loc:39.09063+-94.680452,Northbound
+Kansas,I-635,33233,Exit 5,EXIT 5,State Ave; US-24,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%205/33233,39.112464,-94.682354,http://maps.google.com/maps?t=m&q=loc:39.112464+-94.682354,Northbound
+Kansas,I-635,33234,Exit 6,EXIT 6,Parallel Pkwy,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%206/33234,39.125704,-94.677125,http://maps.google.com/maps?t=m&q=loc:39.125704+-94.677125,Northbound
+Kansas,I-635,33235,Exit 7,EXIT 7,38th St; Leavenworth Rd; KS-5 W,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%207/33235,39.138867,-94.675327,http://maps.google.com/maps?t=m&q=loc:39.138867+-94.675327,Northbound
+Kansas,I-635,33236,Exit 8,EXIT 8,"KS 5
+          (MM: 8.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-635/Exit%208/33236,39.146796,-94.663475,http://maps.google.com/maps?t=m&q=loc:39.146796+-94.663475,Northbound

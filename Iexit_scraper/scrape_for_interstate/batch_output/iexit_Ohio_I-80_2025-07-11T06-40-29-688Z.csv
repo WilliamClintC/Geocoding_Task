@@ -1,0 +1,61 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Ohio,I-80,52461,OH-49,EXIT,OH-49,"Edon, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20/52461,41.629924,-84.772084,http://maps.google.com/maps?t=m&q=loc:41.629924+-84.772084,Eastbound
+Ohio,I-80,39242,Exit 13,EXIT 13,OH-15,"Montpelier, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2013/39242,41.614359,-84.554664,http://maps.google.com/maps?t=m&q=loc:41.614359+-84.554664,Eastbound
+Ohio,I-80,52462,Exit 13,EXIT 13,OH-15,"Montpelier, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2013/52462,41.61287,-84.552754,http://maps.google.com/maps?t=m&q=loc:41.61287+-84.552754,Eastbound
+Ohio,I-80,39243,Tiffin River Service Plaza,SERVICE PLAZA,Tiffin River Service Plaza,"West Unity, Ohio",https://www.iexitapp.com/Ohio/I-80/Service%20Plaza/39243,41.604552,-84.412925,http://maps.google.com/maps?t=m&q=loc:41.604552+-84.412925,Eastbound
+Ohio,I-80,39244,Exit 25,EXIT 25,OH-66,"Archbold, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2025/39244,41.590957,-84.324525,http://maps.google.com/maps?t=m&q=loc:41.590957+-84.324525,Eastbound
+Ohio,I-80,39245,Exit 34,EXIT 34,Ohio 108,"Wauseon, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2034/39245,41.593582,-84.147513,http://maps.google.com/maps?t=m&q=loc:41.593582+-84.147513,Eastbound
+Ohio,I-80,39246,Exit 39,EXIT 39,OH-109,"Delta, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2039/39246,41.591427,-84.055843,http://maps.google.com/maps?t=m&q=loc:41.591427+-84.055843,Eastbound
+Ohio,I-80,39247,Turnpike Access Road,TURN OUT,Turnpike Access Road,"Swanton, Ohio",https://www.iexitapp.com/Ohio/I-80/Truck%20Turnout/39247,41.599834,-83.877257,http://maps.google.com/maps?t=m&q=loc:41.599834+-83.877257,Eastbound
+Ohio,I-80,39248,Exit 52,EXIT 52,Ohio 2; Toledo Airport,"Swanton, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2052/39248,41.601469,-83.806595,http://maps.google.com/maps?t=m&q=loc:41.601469+-83.806595,Eastbound
+Ohio,I-80,39249,Exit 59,EXIT 59,US 20; Interstate 475; US 23,"Maumee, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2059/39249,41.591891,-83.676137,http://maps.google.com/maps?t=m&q=loc:41.591891+-83.676137,Eastbound
+Ohio,I-80,52463,Exit 64,EXIT 64,Interstate 75 S,"Perrysburg, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2064/52463,41.568934,-83.580863,http://maps.google.com/maps?t=m&q=loc:41.568934+-83.580863,Eastbound
+Ohio,I-80,39251,Exit 71,EXIT 71,"I 280;SR 420
+          (MM: 71.0)","Perrysburg, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2071/39251,41.52375,-83.45778,http://maps.google.com/maps?t=m&q=loc:41.52375+-83.45778,Eastbound
+Ohio,I-80,39252,Wyandot Service Plaza,SERVICE PLAZA,Wyandot Service Plaza,"Genoa, Ohio",https://www.iexitapp.com/Ohio/I-80/Service%20Plaza/39252,41.49241,-83.373379,http://maps.google.com/maps?t=m&q=loc:41.49241+-83.373379,Eastbound
+Ohio,I-80,39253,Exit 81,EXIT 81,OH-51,"Elmore, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2081/39253,41.460604,-83.288825,http://maps.google.com/maps?t=m&q=loc:41.460604+-83.288825,Eastbound
+Ohio,I-80,39254,Exit 91,EXIT 91,OH-53 S,"Fremont, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2091/39254,41.402794,-83.117996,http://maps.google.com/maps?t=m&q=loc:41.402794+-83.117996,Eastbound
+Ohio,I-80,52466,Exit 91,EXIT 91,OH-53 N,"Fremont, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%2091/52466,41.4022,-83.107628,http://maps.google.com/maps?t=m&q=loc:41.4022+-83.107628,Eastbound
+Ohio,I-80,39255,Commodore Perry Service Plaza,SERVICE PLAZA,Commodore Perry Service Plaza,"Clyde, Ohio",https://www.iexitapp.com/Ohio/I-80/Service%20Plaza/39255,41.369511,-82.962213,http://maps.google.com/maps?t=m&q=loc:41.369511+-82.962213,Eastbound
+Ohio,I-80,39256,Exit 110,EXIT 110,OH-4,"Castalia, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20110/39256,41.340975,-82.766399,http://maps.google.com/maps?t=m&q=loc:41.340975+-82.766399,Eastbound
+Ohio,I-80,52467,Exit 118,EXIT 118,US-250 N,"Milan, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20118/52467,41.322802,-82.615169,http://maps.google.com/maps?t=m&q=loc:41.322802+-82.615169,Eastbound
+Ohio,I-80,52468,Exit 118,EXIT 118,US-250 S,"Milan, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20118/52468,41.324755,-82.614154,http://maps.google.com/maps?t=m&q=loc:41.324755+-82.614154,Eastbound
+Ohio,I-80,39258,Exit 135,EXIT 135,Baumhart Rd; Vermillon,"Amherst, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20135/39258,41.357726,-82.29049,http://maps.google.com/maps?t=m&q=loc:41.357726+-82.29049,Eastbound
+Ohio,I-80,39259,Vermilion Valley Service Plaza,SERVICE PLAZA,Vermilion Valley Service Plaza,"Amherst, Ohio",https://www.iexitapp.com/Ohio/I-80/Service%20Plaza/39259,41.377715,-82.229264,http://maps.google.com/maps?t=m&q=loc:41.377715+-82.229264,Eastbound
+Ohio,I-80,39260,Exit 140,EXIT 140,State Route 58; Amherst; Oberlin,"Amherst, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20140/39260,41.38097,-82.208833,http://maps.google.com/maps?t=m&q=loc:41.38097+-82.208833,Eastbound
+Ohio,I-80,39262,Exit 145,EXIT 145,"SR 57
+          (MM: 145.0)","Elyria, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20145/39262,41.389493,-82.116673,http://maps.google.com/maps?t=m&q=loc:41.389493+-82.116673,Eastbound
+Ohio,I-80,39263,Exit 151,EXIT 151,"I 480
+          (MM: 151.0)","North Ridgeville, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20151/39263,41.379381,-82.010738,http://maps.google.com/maps?t=m&q=loc:41.379381+-82.010738,Eastbound
+Ohio,I-80,39264,Exit 152,EXIT 152,Lorain Rd; OH-10,"North Ridgeville, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20152/39264,41.379111,-81.995011,http://maps.google.com/maps?t=m&q=loc:41.379111+-81.995011,Eastbound
+Ohio,I-80,52470,Exit 161,EXIT 161,US-42,"Strongsville, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20161/52470,41.334847,-81.821164,http://maps.google.com/maps?t=m&q=loc:41.334847+-81.821164,Eastbound
+Ohio,I-80,52472,Towpath Service Plaza,SERVICE PLAZA,Towpath Service Plaza,"Broadview Heights, Ohio",https://www.iexitapp.com/Ohio/I-80/Service%20Plaza/52472,41.293492,-81.678959,http://maps.google.com/maps?t=m&q=loc:41.293492+-81.678959,Eastbound
+Ohio,I-80,52473,Exit 173,EXIT 173,I-77; Cleveland; Akron,"Richfield, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20173/52473,41.27206,-81.625205,http://maps.google.com/maps?t=m&q=loc:41.27206+-81.625205,Eastbound
+Ohio,I-80,39267,Exit 180,EXIT 180,"SR 8;SR 8
+          (MM: 180.0)","Hudson, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20180/39267,41.258508,-81.498828,http://maps.google.com/maps?t=m&q=loc:41.258508+-81.498828,Eastbound
+Ohio,I-80,52475,Exit 180,EXIT 180,OH-8,"Hudson, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20180/52475,41.258508,-81.498828,http://maps.google.com/maps?t=m&q=loc:41.258508+-81.498828,Eastbound
+Ohio,I-80,76589,Exit 187,EXIT 187,SR 14,"Streetsboro, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20187/76589,41.255869,-81.370909,http://maps.google.com/maps?t=m&q=loc:41.255869+-81.370909,Eastbound
+Ohio,I-80,39268,Exit 187,EXIT 187,"I 480
+          (MM: 187.0)","Streetsboro, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20187/39268,41.256072,-81.368938,http://maps.google.com/maps?t=m&q=loc:41.256072+-81.368938,Eastbound
+Ohio,I-80,39269,Exit 193,EXIT 193,OH-44,"Mantua, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20193/39269,41.245324,-81.242716,http://maps.google.com/maps?t=m&q=loc:41.245324+-81.242716,Eastbound
+Ohio,I-80,58414,Brady Leap Travel Plaza,SERVICE PLAZA,Brady Leap Travel Plaza,"Mantua, Ohio",https://www.iexitapp.com/Ohio/I-80/Service%20Plaza/58414,41.243457,-81.180929,http://maps.google.com/maps?t=m&q=loc:41.243457+-81.180929,Eastbound
+Ohio,I-80,58415,Exit 209,EXIT 209,OH 5 West - Ravenna,"Newton Falls, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20209/58415,41.220841,-80.958059,http://maps.google.com/maps?t=m&q=loc:41.220841+-80.958059,Eastbound
+Ohio,I-80,58416,Exit 209,EXIT 209,OH 5 East - Warren,"Newton Falls, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20209/58416,41.214433,-80.953113,http://maps.google.com/maps?t=m&q=loc:41.214433+-80.953113,Eastbound
+Ohio,I-80,39272,Exit 215,EXIT 215,Lordstown,"Warren, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20215/39272,41.153782,-80.896007,http://maps.google.com/maps?t=m&q=loc:41.153782+-80.896007,Eastbound
+Ohio,I-80,39273,Exit 218,EXIT 218,"Ohio Turnpike
+          (MM: 218.0)","North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20218/39273,41.119967,-80.845978,http://maps.google.com/maps?t=m&q=loc:41.119967+-80.845978,Eastbound
+Ohio,I-80,52478,I 76,EXIT,I 76,"North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20/52478,41.111962,-80.835289,http://maps.google.com/maps?t=m&q=loc:41.111962+-80.835289,Eastbound
+Ohio,I-80,52479,Exit 218,EXIT 218,Mahoning Avenue,"North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20218/52479,41.109468,-80.831798,http://maps.google.com/maps?t=m&q=loc:41.109468+-80.831798,Eastbound
+Ohio,I-80,52480,Exit 218,EXIT 218,Mahoning Avenue,"North Jackson, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20218/52480,41.10214,-80.829071,http://maps.google.com/maps?t=m&q=loc:41.10214+-80.829071,Eastbound
+Ohio,I-80,39275,Exit 223,EXIT 223,OH-46; Niles,"Youngstown, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20223/39275,41.123614,-80.772306,http://maps.google.com/maps?t=m&q=loc:41.123614+-80.772306,Eastbound
+Ohio,I-80,39276,Exit 224A,EXIT 224A,"SR 11
+          (MM: 224.0)","Youngstown, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20224A/39276,41.123683,-80.757417,http://maps.google.com/maps?t=m&q=loc:41.123683+-80.757417,Eastbound
+Ohio,I-80,39277,Exit 224B,EXIT 224B,"I 680
+          (MM: 224.0)","Youngstown, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20224B/39277,41.124404,-80.750778,http://maps.google.com/maps?t=m&q=loc:41.124404+-80.750778,Eastbound
+Ohio,I-80,39279,Exit 226,EXIT 226,Salt Springs Rd,"Youngstown, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20226/39279,41.1401,-80.723559,http://maps.google.com/maps?t=m&q=loc:41.1401+-80.723559,Eastbound
+Ohio,I-80,39280,Exit 227,EXIT 227,U.S. 422; I-80 E; Girard,"Youngstown, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20227/39280,41.148311,-80.702234,http://maps.google.com/maps?t=m&q=loc:41.148311+-80.702234,Eastbound
+Ohio,I-80,39281,Exit 228,EXIT 228,"SR 11
+          (MM: 228.0)","Youngstown, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20228/39281,41.147366,-80.677988,http://maps.google.com/maps?t=m&q=loc:41.147366+-80.677988,Eastbound
+Ohio,I-80,39282,Exit 229,EXIT 229,OH-193; Belmont Ave,"Youngstown, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20229/39282,41.151093,-80.670548,http://maps.google.com/maps?t=m&q=loc:41.151093+-80.670548,Eastbound
+Ohio,I-80,39283,Exit 234A,EXIT 234A,US-62 W; OH-7 S; Hubbard,"Hubbard, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20234A/39283,41.175144,-80.57397,http://maps.google.com/maps?t=m&q=loc:41.175144+-80.57397,Eastbound
+Ohio,I-80,39284,Exit 234B,EXIT 234B,US-62 E; OH-7 N; Sharon Pa,"Hubbard, Ohio",https://www.iexitapp.com/Ohio/I-80/Exit%20234B/39284,41.176001,-80.56894,http://maps.google.com/maps?t=m&q=loc:41.176001+-80.56894,Eastbound

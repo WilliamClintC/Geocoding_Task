@@ -1,0 +1,10 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Colorado,I-225,56961,Exit 10,EXIT 10,Route 40,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%2010/56961,39.750059,-104.826401,http://maps.google.com/maps?t=m&q=loc:39.750059+-104.826401,Southbound
+Colorado,I-225,32715,Exit 9,EXIT 9,CO-30; 6th Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%209/32715,39.730496,-104.825272,http://maps.google.com/maps?t=m&q=loc:39.730496+-104.825272,Southbound
+Colorado,I-225,32716,Exit 8,EXIT 8,Alameda Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%208/32716,39.716852,-104.826994,http://maps.google.com/maps?t=m&q=loc:39.716852+-104.826994,Southbound
+Colorado,I-225,32717,Exit 7,EXIT 7,Mississippi Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%207/32717,39.700973,-104.829154,http://maps.google.com/maps?t=m&q=loc:39.700973+-104.829154,Southbound
+Colorado,I-225,56962,Exit 5,EXIT 5,Iliff Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%205/56962,39.679622,-104.828947,http://maps.google.com/maps?t=m&q=loc:39.679622+-104.828947,Southbound
+Colorado,I-225,56963,Exit 4,EXIT 4,CO-83 N; S Parker Rd,"Englewood, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%204/56963,39.661826,-104.837082,http://maps.google.com/maps?t=m&q=loc:39.661826+-104.837082,Southbound
+Colorado,I-225,56964,Exit 4,EXIT 4,CO-83 S; S Parker Rd,"Englewood, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%204/56964,39.659983,-104.841232,http://maps.google.com/maps?t=m&q=loc:39.659983+-104.841232,Southbound
+Colorado,I-225,32720,Exit 2B,EXIT 2B,Yosemite St,"Englewood, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%202B/32720,39.64209,-104.880144,http://maps.google.com/maps?t=m&q=loc:39.64209+-104.880144,Southbound
+Colorado,I-225,32721,Exit 2A,EXIT 2A,Tamarac Street; DTC Blvd,"Denver, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%202A/32721,39.638476,-104.887304,http://maps.google.com/maps?t=m&q=loc:39.638476+-104.887304,Southbound

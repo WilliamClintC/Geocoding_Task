@@ -1,0 +1,90 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Maryland,I-95,49875,Exit 109B,EXIT 109B,MD-279 N,"Elkton, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%20109B/49875,39.640271,-75.797191,http://maps.google.com/maps?t=m&q=loc:39.640271+-75.797191,Southbound
+Maryland,I-95,49876,Exit 109A,EXIT 109A,MD-279 S; Elkton Rd,"Elkton, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%20109A/49876,39.64116,-75.801829,http://maps.google.com/maps?t=m&q=loc:39.64116+-75.801829,Southbound
+Maryland,I-95,5084,Exit 100A,EXIT 100A,MD-272 S; North East Rd; North East,"North East, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%20100A/5084,39.635753,-75.950304,http://maps.google.com/maps?t=m&q=loc:39.635753+-75.950304,Southbound
+Maryland,I-95,5085,Exit 100B,EXIT 100B,MD-272 N; Rising Sun,"North East, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%20100B/5085,39.632127,-75.957091,http://maps.google.com/maps?t=m&q=loc:39.632127+-75.957091,Southbound
+Maryland,I-95,5086,Chesapeake House Service Area,SERVICE PLAZA,Chesapeake House Service Area,"North East, Maryland",https://www.iexitapp.com/Maryland/I-95/Service%20Plaza/5086,39.615436,-76.002087,http://maps.google.com/maps?t=m&q=loc:39.615436+-76.002087,Southbound
+Maryland,I-95,5087,Exit 93,EXIT 93,MD-222; Port Deposit; Perryville,"Perryville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2093/5087,39.596566,-76.05904,http://maps.google.com/maps?t=m&q=loc:39.596566+-76.05904,Southbound
+Maryland,I-95,5088,Weigh Station,WEIGH STATION,Weigh Station,"Perryville, Maryland",https://www.iexitapp.com/Maryland/I-95/Weigh%20Station/5088,39.59261,-76.067484,http://maps.google.com/maps?t=m&q=loc:39.59261+-76.067484,Southbound
+Maryland,I-95,5089,Exit 89,EXIT 89,MD-155; Havre De Grace; Churchville,"Havre de Grace, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2089/5089,39.575364,-76.131695,http://maps.google.com/maps?t=m&q=loc:39.575364+-76.131695,Southbound
+Maryland,I-95,49877,Exit 85,EXIT 85,MD-22; Aberdeen; Churchville,"Aberdeen, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2085/49877,39.529219,-76.186092,http://maps.google.com/maps?t=m&q=loc:39.529219+-76.186092,Southbound
+Maryland,I-95,5091,Maryland House;Service Area,SERVICE PLAZA,Maryland House;Service Area,"Aberdeen, Maryland",https://www.iexitapp.com/Maryland/I-95/Service%20Plaza/5091,39.502413,-76.224505,http://maps.google.com/maps?t=m&q=loc:39.502413+-76.224505,Southbound
+Maryland,I-95,5092,Exit 80,EXIT 80,MD-543; Riverside; Churchville,"Bel Air, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2080/5092,39.487235,-76.244418,http://maps.google.com/maps?t=m&q=loc:39.487235+-76.244418,Southbound
+Maryland,I-95,5093,Exit 77A,EXIT 77A,Maryland 24 N; Edgewood; Bel Air,"Abingdon, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2077A/5093,39.459768,-76.304087,http://maps.google.com/maps?t=m&q=loc:39.459768+-76.304087,Southbound
+Maryland,I-95,5094,Exit 77B,EXIT 77B,Maryland 24 N; Edgewood; Bel Air,"Abingdon, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2077B/5094,39.456621,-76.31106,http://maps.google.com/maps?t=m&q=loc:39.456621+-76.31106,Southbound
+Maryland,I-95,5095,Exit 74,EXIT 74,Joppatowne,"Joppa, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2074/5095,39.442555,-76.342242,http://maps.google.com/maps?t=m&q=loc:39.442555+-76.342242,Southbound
+Maryland,I-95,49878,Express Toll Lanes,EXIT,Express Toll Lanes,"Perry Hall, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%20/49878,39.385836,-76.442303,http://maps.google.com/maps?t=m&q=loc:39.385836+-76.442303,Southbound
+Maryland,I-95,49879,Exit 67,EXIT 67,MD-43; White Marsh Blvd; US-1 W,"Nottingham, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2067/49879,39.382656,-76.44587,http://maps.google.com/maps?t=m&q=loc:39.382656+-76.44587,Southbound
+Maryland,I-95,5097,Exit 64A;B,EXIT 64A;B,"I 695;I 695
+          (MM: 64.0)","Rosedale, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2064A;B/5097,39.35882,-76.482051,http://maps.google.com/maps?t=m&q=loc:39.35882+-76.482051,Southbound
+Maryland,I-95,5098,Exit 62,EXIT 62,"I 895
+          (MM: 62.0)","Rosedale, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2062/5098,39.326516,-76.526357,http://maps.google.com/maps?t=m&q=loc:39.326516+-76.526357,Southbound
+Maryland,I-95,76847,Exit 62,EXIT 62,I-95 Exit 62 to I-895 Exit 14 - Moravia Rd,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2062/76847,39.322522,-76.53068,http://maps.google.com/maps?t=m&q=loc:39.322522+-76.53068,Southbound
+Maryland,I-95,5099,Exit 59,EXIT 59,Eastern Ave,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2059/5099,39.292718,-76.532174,http://maps.google.com/maps?t=m&q=loc:39.292718+-76.532174,Southbound
+Maryland,I-95,5100,Exit 57,EXIT 57,Boston St,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2057/5100,39.284639,-76.54308,http://maps.google.com/maps?t=m&q=loc:39.284639+-76.54308,Southbound
+Maryland,I-95,5101,Exit 56,EXIT 56,Keith Avenue,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2056/5101,39.271295,-76.556399,http://maps.google.com/maps?t=m&q=loc:39.271295+-76.556399,Southbound
+Maryland,I-95,5103,Exit 55,EXIT 55,East McComas Street,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2055/5103,39.265444,-76.592832,http://maps.google.com/maps?t=m&q=loc:39.265444+-76.592832,Southbound
+Maryland,I-95,5104,Exit 53,EXIT 53,"I 395
+          (MM: 53.0)","Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2053/5104,39.26738,-76.618201,http://maps.google.com/maps?t=m&q=loc:39.26738+-76.618201,Southbound
+Maryland,I-95,5105,Exit 52,EXIT 52,"MD 295
+          (MM: 52.0)","Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2052/5105,39.267367,-76.621106,http://maps.google.com/maps?t=m&q=loc:39.267367+-76.621106,Southbound
+Maryland,I-95,5106,Exit 50B,EXIT 50B,Caton Ave,"Lansdowne, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2050B/5106,39.270915,-76.655757,http://maps.google.com/maps?t=m&q=loc:39.270915+-76.655757,Southbound
+Maryland,I-95,49885,Exit 50A,EXIT 50A,Caton Ave,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2050A/49885,39.267376,-76.664509,http://maps.google.com/maps?t=m&q=loc:39.267376+-76.664509,Southbound
+Maryland,I-95,5107,Exit 49B,EXIT 49B,"I 695
+          (MM: 49.0)","Halethorpe, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2049B/5107,39.257321,-76.676006,http://maps.google.com/maps?t=m&q=loc:39.257321+-76.676006,Southbound
+Maryland,I-95,49886,Exit 49A,EXIT 49A,"I 695
+          (MM: 49.0)","Halethorpe, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2049A/49886,39.253187,-76.67901,http://maps.google.com/maps?t=m&q=loc:39.253187+-76.67901,Southbound
+Maryland,I-95,5108,Exit 47A-B,EXIT 47A-B,"MD 166;I 195
+          (MM: 47.0)","Halethorpe, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2047A-B/5108,39.238489,-76.705705,http://maps.google.com/maps?t=m&q=loc:39.238489+-76.705705,Southbound
+Maryland,I-95,5111,Exit 43B,EXIT 43B,"MD 100
+          (MM: 43.0)","Elkridge, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2043B/5111,39.200964,-76.760684,http://maps.google.com/maps?t=m&q=loc:39.200964+-76.760684,Southbound
+Maryland,I-95,49891,Exit 43A,EXIT 43A,"MD 100
+          (MM: 43.0)","Elkridge, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2043A/49891,39.197772,-76.766047,http://maps.google.com/maps?t=m&q=loc:39.197772+-76.766047,Southbound
+Maryland,I-95,5112,Exit 41B,EXIT 41B,MD 175,"Elkridge, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2041B/5112,39.182717,-76.783111,http://maps.google.com/maps?t=m&q=loc:39.182717+-76.783111,Southbound
+Maryland,I-95,49893,Exit 41A,EXIT 41A,MD 175,"Elkridge, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2041A/49893,39.180773,-76.787073,http://maps.google.com/maps?t=m&q=loc:39.180773+-76.787073,Southbound
+Maryland,I-95,5113,Exit 38B,EXIT 38B,MD 32 North to Broken Land Pkwy,"Columbia, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2038B/5113,39.160271,-76.822772,http://maps.google.com/maps?t=m&q=loc:39.160271+-76.822772,Southbound
+Maryland,I-95,49894,Exit 38A,EXIT 38A,MD 32 South to US 1,"Columbia, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2038A/49894,39.158998,-76.828637,http://maps.google.com/maps?t=m&q=loc:39.158998+-76.828637,Southbound
+Maryland,I-95,5114,Welcome Center,WELCOME CENTER,Welcome Center,"Laurel, Maryland",https://www.iexitapp.com/Maryland/I-95/Welcome%20Center/5114,39.146521,-76.843262,http://maps.google.com/maps?t=m&q=loc:39.146521+-76.843262,Southbound
+Maryland,I-95,5115,Exit 35B,EXIT 35B,MD-216 W; Scaggsville,"Laurel, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2035B/5115,39.134065,-76.8559,http://maps.google.com/maps?t=m&q=loc:39.134065+-76.8559,Southbound
+Maryland,I-95,5116,Exit 35A,EXIT 35A,MD-216 E; Laurel,"Laurel, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2035A/5116,39.129428,-76.862662,http://maps.google.com/maps?t=m&q=loc:39.129428+-76.862662,Southbound
+Maryland,I-95,5117,Exit 33B,EXIT 33B,MD-198 W; Sandy Spring Rd; Burtonsville,"Laurel, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2033B/5117,39.104428,-76.887571,http://maps.google.com/maps?t=m&q=loc:39.104428+-76.887571,Southbound
+Maryland,I-95,49897,Exit 33A,EXIT 33A,MD 198,"Laurel, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2033A/49897,39.102484,-76.889286,http://maps.google.com/maps?t=m&q=loc:39.102484+-76.889286,Southbound
+Maryland,I-95,76630,Exit 32,EXIT 32,Konterra Drive,"Beltsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2032/76630,39.085155,-76.897598,http://maps.google.com/maps?t=m&q=loc:39.085155+-76.897598,Southbound
+Maryland,I-95,5119,Exit 31B,EXIT 31B,MD 200 - West,"Laurel, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2031B/5119,39.079774,-76.901444,http://maps.google.com/maps?t=m&q=loc:39.079774+-76.901444,Southbound
+Maryland,I-95,76631,Exit 31A,EXIT 31A,MD 200 - East,"Beltsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2031A/76631,39.073109,-76.906554,http://maps.google.com/maps?t=m&q=loc:39.073109+-76.906554,Southbound
+Maryland,I-95,5120,Exit 29B,EXIT 29B,MD-212 W; Calverton,"Beltsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2029B/5120,39.055879,-76.928404,http://maps.google.com/maps?t=m&q=loc:39.055879+-76.928404,Southbound
+Maryland,I-95,5121,Exit 29A,EXIT 29A,MD-212 E; Beltsville,"Beltsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2029A/5121,39.049185,-76.931545,http://maps.google.com/maps?t=m&q=loc:39.049185+-76.931545,Southbound
+Maryland,I-95,5122,Exit 27,EXIT 27,"I 495;I 495
+          (MM: 27.0)","College Park, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2027/5122,39.034179,-76.942345,http://maps.google.com/maps?t=m&q=loc:39.034179+-76.942345,Southbound
+Maryland,I-95,58378,Weigh Station,WEIGH STATION,Weigh Station,"College Park, Maryland",https://www.iexitapp.com/Maryland/I-95/Weigh%20Station/58378,39.018992,-76.952662,http://maps.google.com/maps?t=m&q=loc:39.018992+-76.952662,Southbound
+Maryland,I-95,5123,Exit 24,EXIT 24,Greenbelt Station,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2024/5123,39.016832,-76.911554,http://maps.google.com/maps?t=m&q=loc:39.016832+-76.911554,Southbound
+Maryland,I-95,5124,Exit 23,EXIT 23,MD-201; Kenilworth Ave; Bladensburg; Greenbelt,"Hyattsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2023/5124,39.006385,-76.898461,http://maps.google.com/maps?t=m&q=loc:39.006385+-76.898461,Southbound
+Maryland,I-95,5125,Exit 22B,EXIT 22B,"Baltimore-Washington Parkway
+          (MM: 22.0)","Hyattsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2022B/5125,38.994801,-76.888944,http://maps.google.com/maps?t=m&q=loc:38.994801+-76.888944,Southbound
+Maryland,I-95,49902,Exit 22A,EXIT 22A,"Baltimore-Washington Parkway
+          (MM: 22.0)","Hyattsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2022A/49902,38.991324,-76.885943,http://maps.google.com/maps?t=m&q=loc:38.991324+-76.885943,Southbound
+Maryland,I-95,5126,Exit 20BA,EXIT 20BA,MD 450,"Hyattsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2020BA/5126,38.963357,-76.867358,http://maps.google.com/maps?t=m&q=loc:38.963357+-76.867358,Southbound
+Maryland,I-95,5127,Exit 19A,EXIT 19A,"US 50
+          (MM: 19.0)","Hyattsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2019A/5127,38.954101,-76.863197,http://maps.google.com/maps?t=m&q=loc:38.954101+-76.863197,Southbound
+Maryland,I-95,49904,Exit 19B,EXIT 19B,"US 50
+          (MM: 19.0)","Hyattsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2019B/49904,38.949051,-76.860424,http://maps.google.com/maps?t=m&q=loc:38.949051+-76.860424,Southbound
+Maryland,I-95,49905,Exit 19B,EXIT 19B,US-50 W; Washington,"Hyattsville, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2019B/49905,38.949051,-76.860424,http://maps.google.com/maps?t=m&q=loc:38.949051+-76.860424,Southbound
+Maryland,I-95,57594,Exit 17A,EXIT 17A,Maryland 202; Landover Road; Bladensburg; Upper Marlboro; Arena Drive,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2017A/57594,38.921142,-76.853048,http://maps.google.com/maps?t=m&q=loc:38.921142+-76.853048,Southbound
+Maryland,I-95,57595,Exit 16,EXIT 16,Maryland 202; Landover Road; Bladensburg; Upper Marlboro; Arena Drive,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2016/57595,38.918016,-76.852122,http://maps.google.com/maps?t=m&q=loc:38.918016+-76.852122,Southbound
+Maryland,I-95,57596,Exit 17B,EXIT 17B,MD 202,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2017B/57596,38.910963,-76.850045,http://maps.google.com/maps?t=m&q=loc:38.910963+-76.850045,Southbound
+Maryland,I-95,5131,Exit 15B,EXIT 15B,MD-214 W; Central Ave; Seat Pleasant,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2015B/5131,38.896739,-76.849068,http://maps.google.com/maps?t=m&q=loc:38.896739+-76.849068,Southbound
+Maryland,I-95,5132,Exit 15A,EXIT 15A,MD-214 E; Central Ave; Largo,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2015A/5132,38.892803,-76.847564,http://maps.google.com/maps?t=m&q=loc:38.892803+-76.847564,Southbound
+Maryland,I-95,5133,Exit 13,EXIT 13,Ritchie-Marlboro Rd; Capital Heights; Upper Marlboro,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2013/5133,38.874477,-76.843917,http://maps.google.com/maps?t=m&q=loc:38.874477+-76.843917,Southbound
+Maryland,I-95,57597,Exit 11B,EXIT 11B,MD-4 N; Penn. Ave W; Washington,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2011B/57597,38.842791,-76.864797,http://maps.google.com/maps?t=m&q=loc:38.842791+-76.864797,Southbound
+Maryland,I-95,57598,Exit 11A,EXIT 11A,MD-4 S; Penn. Ave E; Upper Marlboro,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%2011A/57598,38.83943,-76.867207,http://maps.google.com/maps?t=m&q=loc:38.83943+-76.867207,Southbound
+Maryland,I-95,5136,Exit 9,EXIT 9,MD-337; Allentown Rd; Andrews AFB; Morningside,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%209/5136,38.827465,-76.878306,http://maps.google.com/maps?t=m&q=loc:38.827465+-76.878306,Southbound
+Maryland,I-95,49907,Exit 7A,EXIT 7A,"MD 5
+          (MM: 7.0)","Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%207A/49907,38.8194,-76.91576,http://maps.google.com/maps?t=m&q=loc:38.8194+-76.91576,Southbound
+Maryland,I-95,5137,Exit 7B,EXIT 7B,Silver Hill; MD-5 N,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%207B/5137,38.818793,-76.912595,http://maps.google.com/maps?t=m&q=loc:38.818793+-76.912595,Southbound
+Maryland,I-95,57599,Exit 4B,EXIT 4B,MD-414; St Barnabas Rd; Marlow Heights E,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%204B/57599,38.812203,-76.96194,http://maps.google.com/maps?t=m&q=loc:38.812203+-76.96194,Southbound
+Maryland,I-95,57600,Exit 4A,EXIT 4A,MD-414 W; St Barnabas Rd; Oxon Hill,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%204A/57600,38.808789,-76.970212,http://maps.google.com/maps?t=m&q=loc:38.808789+-76.970212,Southbound
+Maryland,I-95,5140,Exit 3,EXIT 3,Maryland 210; Forest Heights; Indian Head,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%203/5140,38.806321,-76.991482,http://maps.google.com/maps?t=m&q=loc:38.806321+-76.991482,Southbound
+Maryland,I-95,5141,Exit 2B,EXIT 2B,"I 295
+          (MM: 2.0)","Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%202B/5141,38.798538,-77.008792,http://maps.google.com/maps?t=m&q=loc:38.798538+-77.008792,Southbound
+Maryland,I-95,57601,Exit 2A,EXIT 2A,National Harbor,"Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%202A/57601,38.795161,-77.016385,http://maps.google.com/maps?t=m&q=loc:38.795161+-77.016385,Southbound
+Maryland,I-95,49909,Exit 2A,EXIT 2A,"I-295 north – Washington, National Harbor","Oxon Hill, Maryland",https://www.iexitapp.com/Maryland/I-95/Exit%202A/49909,38.794028,-77.015999,http://maps.google.com/maps?t=m&q=loc:38.794028+-77.015999,Southbound

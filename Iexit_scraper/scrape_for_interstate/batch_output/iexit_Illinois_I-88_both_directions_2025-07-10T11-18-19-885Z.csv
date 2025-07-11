@@ -1,0 +1,73 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-88,10020,Exit 2,EXIT 2,Former Il 2,"East Moline, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%202/10020,41.536993,-90.334064,http://maps.google.com/maps?t=m&q=loc:41.536993+-90.334064,Eastbound
+Illinois,I-88,10021,Exit 6,EXIT 6,State Route 92 E; Joslin,"Hillsdale, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%206/10021,41.553622,-90.245345,http://maps.google.com/maps?t=m&q=loc:41.553622+-90.245345,Eastbound
+Illinois,I-88,10022,Exit 10,EXIT 10,Hillsdale; Port Byron,"Hillsdale, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2010/10022,41.604344,-90.192125,http://maps.google.com/maps?t=m&q=loc:41.604344+-90.192125,Eastbound
+Illinois,I-88,10023,Exit 18,EXIT 18,Erie; Albany,"Erie, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2018/10023,41.688764,-90.102354,http://maps.google.com/maps?t=m&q=loc:41.688764+-90.102354,Eastbound
+Illinois,I-88,10024,Exit 26,EXIT 26,IL-78; Morrison; Prophetstown,"Lyndon, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2026/10024,41.7207,-89.973281,http://maps.google.com/maps?t=m&q=loc:41.7207+-89.973281,Eastbound
+Illinois,I-88,10025,Exit 36,EXIT 36,Rock Falls; Sterling,"Sterling, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2036/10025,41.759432,-89.783294,http://maps.google.com/maps?t=m&q=loc:41.759432+-89.783294,Eastbound
+Illinois,I-88,10026,Exit 41,EXIT 41,Illinois 40; Rock Falls; Sterling,"Rock Falls, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2041/10026,41.751211,-89.69565,http://maps.google.com/maps?t=m&q=loc:41.751211+-89.69565,Eastbound
+Illinois,I-88,10027,Exit 44,EXIT 44,US-30 E; Joliet,"Rock Falls, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2044/10027,41.755059,-89.640712,http://maps.google.com/maps?t=m&q=loc:41.755059+-89.640712,Eastbound
+Illinois,I-88,10028,Exit 54,EXIT 54,State Route 26,"Dixon, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2054/10028,41.818816,-89.472364,http://maps.google.com/maps?t=m&q=loc:41.818816+-89.472364,Eastbound
+Illinois,I-88,51764,Exit 76,EXIT 76,IL-251,"Rochelle, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2076/51764,41.898036,-89.077258,http://maps.google.com/maps?t=m&q=loc:41.898036+-89.077258,Eastbound
+Illinois,I-88,10031,Exit 91,EXIT 91,IL-38; IL-23; Annie Glidden Rd; Dekalb,"Dekalb, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2091/10031,41.901627,-88.781475,http://maps.google.com/maps?t=m&q=loc:41.901627+-88.781475,Eastbound
+Illinois,I-88,10032,DeKalb Oasis,SERVICE PLAZA,DeKalb Oasis,"Dekalb, Illinois",https://www.iexitapp.com/Illinois/I-88/HMSHost%20Service%20Plaza/10032,41.90194,-88.744889,http://maps.google.com/maps?t=m&q=loc:41.90194+-88.744889,Eastbound
+Illinois,I-88,10033,Exit 94,EXIT 94,IL-38; IL-23; Annie Glidden Rd; Dekalb,"Dekalb, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2094/10033,41.900303,-88.723561,http://maps.google.com/maps?t=m&q=loc:41.900303+-88.723561,Eastbound
+Illinois,I-88,10034,Exit 109,EXIT 109,IL-47,"Sugar Grove, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20109/10034,41.819855,-88.47221,http://maps.google.com/maps?t=m&q=loc:41.819855+-88.47221,Eastbound
+Illinois,I-88,10036,Exit 114,EXIT 114,Orchard Rd,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20114/10036,41.794827,-88.373912,http://maps.google.com/maps?t=m&q=loc:41.794827+-88.373912,Eastbound
+Illinois,I-88,10037,Exit 117,EXIT 117,IL-56 E; IL-31 E,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20117/10037,41.795393,-88.334339,http://maps.google.com/maps?t=m&q=loc:41.795393+-88.334339,Eastbound
+Illinois,I-88,10038,Exit 119A,EXIT 119A,Farnsworth Ave S,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20119A/10038,41.798133,-88.286948,http://maps.google.com/maps?t=m&q=loc:41.798133+-88.286948,Eastbound
+Illinois,I-88,10039,Exit 119B,EXIT 119B,North Farnsworth Avenue,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20119B/10039,41.798455,-88.281465,http://maps.google.com/maps?t=m&q=loc:41.798455+-88.281465,Eastbound
+Illinois,I-88,10040,Exit 121,EXIT 121,Diehl Road,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20121/10040,41.800054,-88.25384,http://maps.google.com/maps?t=m&q=loc:41.800054+-88.25384,Eastbound
+Illinois,I-88,10041,Exit 123,EXIT 123,IL-59,"Naperville, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20123/10041,41.802993,-88.210897,http://maps.google.com/maps?t=m&q=loc:41.802993+-88.210897,Eastbound
+Illinois,I-88,10042,Exit 125,EXIT 125,IL-59,"Naperville, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20125/10042,41.806133,-88.173541,http://maps.google.com/maps?t=m&q=loc:41.806133+-88.173541,Eastbound
+Illinois,I-88,10043,Exit 127,EXIT 127,Naperville Rd,"Naperville, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20127/10043,41.806109,-88.133201,http://maps.google.com/maps?t=m&q=loc:41.806109+-88.133201,Eastbound
+Illinois,I-88,51768,Exit 131,EXIT 131,"I 355
+          (MM: 131.0)","Lisle, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20131/51768,41.809056,-88.054896,http://maps.google.com/maps?t=m&q=loc:41.809056+-88.054896,Eastbound
+Illinois,I-88,10044,Exit 131,EXIT 131,I-355 S,"Lisle, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20131/10044,41.810141,-88.061657,http://maps.google.com/maps?t=m&q=loc:41.810141+-88.061657,Eastbound
+Illinois,I-88,10045,Exit 134,EXIT 134,Highland Ave,"Downers Grove, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20134/10045,41.831291,-88.017113,http://maps.google.com/maps?t=m&q=loc:41.831291+-88.017113,Eastbound
+Illinois,I-88,10046,Exit 136,EXIT 136,Midwest Rd,"Oak Brook, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20136/10046,41.844286,-87.97341,http://maps.google.com/maps?t=m&q=loc:41.844286+-87.97341,Eastbound
+Illinois,I-88,51773,Exit 138,EXIT 138,"I 294
+          (MM: 138.0)","Oak Brook, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20138/51773,41.852747,-87.928572,http://maps.google.com/maps?t=m&q=loc:41.852747+-87.928572,Eastbound
+Illinois,I-88,10047,Exit 138,EXIT 138,I-294 S,"Oak Brook, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20138/10047,41.851543,-87.935513,http://maps.google.com/maps?t=m&q=loc:41.851543+-87.935513,Eastbound
+Illinois,I-88,51774,Exit 140,EXIT 140,"I 290;I 294
+          (MM: 140.0)","Elmhurst, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20140/51774,41.865641,-87.921892,http://maps.google.com/maps?t=m&q=loc:41.865641+-87.921892,Eastbound
+Illinois,I-88,51778,Exit 17A,EXIT 17A,"I 290;IL 110
+          (MM: 17.0)","Westchester, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2017A/51778,41.869582,-87.882186,http://maps.google.com/maps?t=m&q=loc:41.869582+-87.882186,Eastbound
+Illinois,I-88,51777,Exit 17B,EXIT 17B,US-12 S; US-20 S; US-45 S; Mannheim Rd,"Westchester, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2017B/51777,41.869444,-87.888177,http://maps.google.com/maps?t=m&q=loc:41.869444+-87.888177,Eastbound
+Illinois,I-88,51776,Exit 17A,EXIT 17A,US-12 S; US-20 S; US-45 S; Mannheim Rd,"Hillside, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2017A/51776,41.869582,-87.882186,http://maps.google.com/maps?t=m&q=loc:41.869582+-87.882186,Eastbound
+Illinois,I-88,51781,Exit 15A,EXIT 15A,"I 290
+          (MM: 15.0)","Hillside, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2015A/51781,41.873854,-87.903078,http://maps.google.com/maps?t=m&q=loc:41.873854+-87.903078,Westbound
+Illinois,I-88,51783,Exit 140,EXIT 140,"IL 38;I 294
+          (MM: 140.0)","Hillside, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20140/51783,41.872076,-87.912008,http://maps.google.com/maps?t=m&q=loc:41.872076+-87.912008,Westbound
+Illinois,I-88,76709,Exit 138,EXIT 138,IL 83; 22nd St; Cermak Rd,"Oak Brook, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20138/76709,41.846564,-87.944068,http://maps.google.com/maps?t=m&q=loc:41.846564+-87.944068,Westbound
+Illinois,I-88,51786,Exit 137,EXIT 137,IL 83,"Oak Brook, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20137/51786,41.844825,-87.958556,http://maps.google.com/maps?t=m&q=loc:41.844825+-87.958556,Westbound
+Illinois,I-88,10050,Exit 134,EXIT 134,Highland Ave,"Downers Grove, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20134/10050,41.83517,-88.005252,http://maps.google.com/maps?t=m&q=loc:41.83517+-88.005252,Westbound
+Illinois,I-88,51787,Exit 131B,EXIT 131B,"I 355
+          (MM: 131.0)","Downers Grove, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20131B/51787,41.828522,-88.028281,http://maps.google.com/maps?t=m&q=loc:41.828522+-88.028281,Westbound
+Illinois,I-88,10051,Exit 22,EXIT 22,I-355 N,"Downers Grove, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2022/10051,41.826677,-88.022237,http://maps.google.com/maps?t=m&q=loc:41.826677+-88.022237,Westbound
+Illinois,I-88,10052,Exit 130,EXIT 130,IL-53 N,"Lisle, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20130/10052,41.810203,-88.068033,http://maps.google.com/maps?t=m&q=loc:41.810203+-88.068033,Westbound
+Illinois,I-88,10053,Exit 127,EXIT 127,Naperville Road,"Naperville, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20127/10053,41.806063,-88.1162,http://maps.google.com/maps?t=m&q=loc:41.806063+-88.1162,Westbound
+Illinois,I-88,10054,Exit 125,EXIT 125,Winfield Rd,"Naperville, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20125/10054,41.806483,-88.159381,http://maps.google.com/maps?t=m&q=loc:41.806483+-88.159381,Westbound
+Illinois,I-88,10055,Exit 123,EXIT 123,IL-59,"Naperville, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20123/10055,41.804464,-88.195504,http://maps.google.com/maps?t=m&q=loc:41.804464+-88.195504,Westbound
+Illinois,I-88,10056,Exit 121,EXIT 121,Eola Road,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20121/10056,41.801337,-88.235752,http://maps.google.com/maps?t=m&q=loc:41.801337+-88.235752,Westbound
+Illinois,I-88,10057,Exit 119B,EXIT 119B,Farnsworth Avenue N,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20119B/10057,41.798969,-88.275894,http://maps.google.com/maps?t=m&q=loc:41.798969+-88.275894,Westbound
+Illinois,I-88,10058,Exit 119A,EXIT 119A,Farnsworth Avenue S,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20119A/10058,41.798581,-88.28247,http://maps.google.com/maps?t=m&q=loc:41.798581+-88.28247,Westbound
+Illinois,I-88,10059,Exit 117,EXIT 117,IL-31,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20117/10059,41.795847,-88.327337,http://maps.google.com/maps?t=m&q=loc:41.795847+-88.327337,Westbound
+Illinois,I-88,10060,Exit 114,EXIT 114,Orchard Rd,"Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20114/10060,41.79516,-88.366963,http://maps.google.com/maps?t=m&q=loc:41.79516+-88.366963,Westbound
+Illinois,I-88,10061,Exit 113,EXIT 113,"IL 56
+          (MM: 113.0)","Aurora, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%20113/10061,41.794919,-88.385441,http://maps.google.com/maps?t=m&q=loc:41.794919+-88.385441,Westbound
+Illinois,I-88,10062,Exit 94,EXIT 94,Peace Rd,"Dekalb, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2094/10062,41.900626,-88.716066,http://maps.google.com/maps?t=m&q=loc:41.900626+-88.716066,Westbound
+Illinois,I-88,10063,DeKalb Oasis,SERVICE PLAZA,DeKalb Oasis,"Dekalb, Illinois",https://www.iexitapp.com/Illinois/I-88/HMSHost%20Service%20Plaza/10063,41.901059,-88.733961,http://maps.google.com/maps?t=m&q=loc:41.901059+-88.733961,Westbound
+Illinois,I-88,10064,Exit 91,EXIT 91,IL-38; IL-23; Annie Glidden Rd; De Kalb,"Dekalb, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2091/10064,41.903618,-88.768885,http://maps.google.com/maps?t=m&q=loc:41.903618+-88.768885,Westbound
+Illinois,I-88,51794,Exit 76,EXIT 76,IL-251,"Rochelle, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2076/51794,41.900603,-89.060992,http://maps.google.com/maps?t=m&q=loc:41.900603+-89.060992,Westbound
+Illinois,I-88,10067,Exit 54,EXIT 54,State Route 26,"Dixon, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2054/10067,41.822299,-89.460638,http://maps.google.com/maps?t=m&q=loc:41.822299+-89.460638,Westbound
+Illinois,I-88,10068,Exit 44,EXIT 44,US-30,"Rock Falls, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2044/10068,41.760775,-89.634137,http://maps.google.com/maps?t=m&q=loc:41.760775+-89.634137,Westbound
+Illinois,I-88,10069,Exit 41,EXIT 41,IL-40; Rock Falls; Sterling,"Rock Falls, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2041/10069,41.751574,-89.683717,http://maps.google.com/maps?t=m&q=loc:41.751574+-89.683717,Westbound
+Illinois,I-88,10070,Exit 36,EXIT 36,US-30 W; Clinton,"Sterling, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2036/10070,41.758096,-89.777802,http://maps.google.com/maps?t=m&q=loc:41.758096+-89.777802,Westbound
+Illinois,I-88,10071,Exit 26,EXIT 26,Illinois 78; Morrison; Prophetstown,"Lyndon, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2026/10071,41.723855,-89.961556,http://maps.google.com/maps?t=m&q=loc:41.723855+-89.961556,Westbound
+Illinois,I-88,10072,Exit 18,EXIT 18,Erie; Albany,"Erie, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2018/10072,41.689115,-90.091918,http://maps.google.com/maps?t=m&q=loc:41.689115+-90.091918,Westbound
+Illinois,I-88,10073,Exit 10,EXIT 10,Hillsdale; Port Byron,"Hillsdale, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%2010/10073,41.61281,-90.194356,http://maps.google.com/maps?t=m&q=loc:41.61281+-90.194356,Westbound
+Illinois,I-88,10074,Exit 6,EXIT 6,State Route 92 E; Josila,"Hillsdale, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%206/10074,41.559968,-90.237684,http://maps.google.com/maps?t=m&q=loc:41.559968+-90.237684,Westbound
+Illinois,I-88,51795,Exit 2,EXIT 2,Former Il 2,"East Moline, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%202/51795,41.535215,-90.321549,http://maps.google.com/maps?t=m&q=loc:41.535215+-90.321549,Westbound
+Illinois,I-88,51798,Exit 1A,EXIT 1A,"IL 92
+          (MM: 1.0)","East Moline, Illinois",https://www.iexitapp.com/Illinois/I-88/Exit%201A/51798,41.535981,-90.342134,http://maps.google.com/maps?t=m&q=loc:41.535981+-90.342134,Westbound

@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-172,36431,Exit 2,EXIT 2,"IL 57 – Marblehead, Quincy","Payson, Illinois",https://www.iexitapp.com/Illinois/I-172/Exit%202/36431,39.782142,-91.3122,http://maps.google.com/maps?t=m&q=loc:39.782142+-91.3122,Eastbound
+Illinois,I-172,36432,Exit 10,EXIT 10,"IL 96 (Payson Street, 36th Street) – Quincy","Quincy, Illinois",https://www.iexitapp.com/Illinois/I-172/Exit%2010/36432,39.877783,-91.333444,http://maps.google.com/maps?t=m&q=loc:39.877783+-91.333444,Eastbound
+Illinois,I-172,36433,Exit 14,EXIT 14,IL 104 / Broadway – Quincy,"Quincy, Illinois",https://www.iexitapp.com/Illinois/I-172/Exit%2014/36433,39.929894,-91.323781,http://maps.google.com/maps?t=m&q=loc:39.929894+-91.323781,Eastbound
+Illinois,I-172,36434,Exit 15,EXIT 15,"Columbus Road, Wismann Lane","Quincy, Illinois",https://www.iexitapp.com/Illinois/I-172/Exit%2015/36434,39.950493,-91.323855,http://maps.google.com/maps?t=m&q=loc:39.950493+-91.323855,Eastbound
+Illinois,I-172,36435,Exit 19,EXIT 19,"US 24 to IL 96 – Mount Sterling, Keokuk","Quincy, Illinois",https://www.iexitapp.com/Illinois/I-172/Exit%2019/36435,40.003065,-91.306705,http://maps.google.com/maps?t=m&q=loc:40.003065+-91.306705,Eastbound

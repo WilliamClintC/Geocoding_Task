@@ -1,0 +1,52 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Minnesota,I-35W,2838,Exit 2,EXIT 2,Burnsville Pkwy,"Burnsville, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%202/2838,44.764749,-93.288768,http://maps.google.com/maps?t=m&q=loc:44.764749+-93.288768,Northbound
+Minnesota,I-35W,2839,Exit 3A,EXIT 3A,MN-13 N,"Burnsville, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%203A/2839,44.771809,-93.288352,http://maps.google.com/maps?t=m&q=loc:44.771809+-93.288352,Northbound
+Minnesota,I-35W,2840,Exit 3B,EXIT 3B,MN-13 S; Shakopee,"Burnsville, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%203B/2840,44.77541,-93.288275,http://maps.google.com/maps?t=m&q=loc:44.77541+-93.288275,Northbound
+Minnesota,I-35W,2841,Exit 4A,EXIT 4A,Cliff Rd,"Burnsville, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%204A/2841,44.782507,-93.288382,http://maps.google.com/maps?t=m&q=loc:44.782507+-93.288382,Northbound
+Minnesota,I-35W,2842,Exit 4B,EXIT 4B,Black Dog Rd,"Burnsville, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%204B/2842,44.792565,-93.288801,http://maps.google.com/maps?t=m&q=loc:44.792565+-93.288801,Northbound
+Minnesota,I-35W,2843,Exit 5,EXIT 5,106th St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%205/2843,44.809482,-93.291304,http://maps.google.com/maps?t=m&q=loc:44.809482+-93.291304,Northbound
+Minnesota,I-35W,2844,Exit 6,EXIT 6,County Rd 1; 98th St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%206/2844,44.82298,-93.291289,http://maps.google.com/maps?t=m&q=loc:44.82298+-93.291289,Northbound
+Minnesota,I-35W,2845,Exit 7A,EXIT 7A,94th St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%207A/2845,44.830851,-93.293228,http://maps.google.com/maps?t=m&q=loc:44.830851+-93.293228,Northbound
+Minnesota,I-35W,2846,Exit 7B,EXIT 7B,90th St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%207B/2846,44.837831,-93.29754,http://maps.google.com/maps?t=m&q=loc:44.837831+-93.29754,Northbound
+Minnesota,I-35W,2847,Exit 8,EXIT 8,82nd St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%208/2847,44.852636,-93.298047,http://maps.google.com/maps?t=m&q=loc:44.852636+-93.298047,Northbound
+Minnesota,I-35W,2848,Exit 9A,EXIT 9A,"I 494;MN 5
+          (MM: 9.0)","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%209A/2848,44.858866,-93.298028,http://maps.google.com/maps?t=m&q=loc:44.858866+-93.298028,Northbound
+Minnesota,I-35W,49150,Exit 9B,EXIT 9B,"I 494;MN 5
+          (MM: 9.0)","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%209B/49150,44.860076,-93.298137,http://maps.google.com/maps?t=m&q=loc:44.860076+-93.298137,Northbound
+Minnesota,I-35W,2849,Exit 10A,EXIT 10A,66th St; Hennepin County 53,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2010A/2849,44.880139,-93.29637,http://maps.google.com/maps?t=m&q=loc:44.880139+-93.29637,Northbound
+Minnesota,I-35W,2850,Exit 11,EXIT 11,"MN 62;MN 62
+          (MM: 11.0)","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2011/2850,44.88428,-93.295841,http://maps.google.com/maps?t=m&q=loc:44.88428+-93.295841,Northbound
+Minnesota,I-35W,49153,Exit 11,EXIT 11,Minnesota 62 W,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2011/49153,44.88428,-93.295841,http://maps.google.com/maps?t=m&q=loc:44.88428+-93.295841,Northbound
+Minnesota,I-35W,2851,Exit 12,EXIT 12,Diamond Lake Rd,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2012/2851,44.898694,-93.274715,http://maps.google.com/maps?t=m&q=loc:44.898694+-93.274715,Northbound
+Minnesota,I-35W,2852,Exit 13,EXIT 13,46th Street; 2nd Avenue South,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2013/2852,44.915381,-93.274657,http://maps.google.com/maps?t=m&q=loc:44.915381+-93.274657,Northbound
+Minnesota,I-35W,2853,Exit 14,EXIT 14,36th St; 35th St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2014/2853,44.9337,-93.274516,http://maps.google.com/maps?t=m&q=loc:44.9337+-93.274516,Northbound
+Minnesota,I-35W,2854,Exit 15,EXIT 15,31st St; Lake St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2015/2854,44.943744,-93.274576,http://maps.google.com/maps?t=m&q=loc:44.943744+-93.274576,Northbound
+Minnesota,I-35W,49156,Exit 16A,EXIT 16A,11th St; E Grant St,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2016A/49156,44.957444,-93.269305,http://maps.google.com/maps?t=m&q=loc:44.957444+-93.269305,Northbound
+Minnesota,I-35W,49157,Exit 16A,EXIT 16A,South 10th Street;5th Avenue South,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2016A/49157,44.967017,-93.269725,http://maps.google.com/maps?t=m&q=loc:44.967017+-93.269725,Northbound
+Minnesota,I-35W,2856,Exit 17C,EXIT 17C,3rd St; U of M West Bank,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2017C/2856,44.965923,-93.255823,http://maps.google.com/maps?t=m&q=loc:44.965923+-93.255823,Northbound
+Minnesota,I-35W,49160,Exit 17C,EXIT 17C,3rd St; U of M West Bank,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2017C/49160,44.970364,-93.252222,http://maps.google.com/maps?t=m&q=loc:44.970364+-93.252222,Northbound
+Minnesota,I-35W,49161,Exit 17C,EXIT 17C,3rd St; U of M West Bank,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2017C/49161,44.971332,-93.251102,http://maps.google.com/maps?t=m&q=loc:44.971332+-93.251102,Northbound
+Minnesota,I-35W,2857,Exit 18,EXIT 18,University Ave; 4th St SE; County Rd 36,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2018/2857,44.979159,-93.244845,http://maps.google.com/maps?t=m&q=loc:44.979159+-93.244845,Northbound
+Minnesota,I-35W,49162,Exit 19,EXIT 19,E Hennepin Ave,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2019/49162,44.986932,-93.238574,http://maps.google.com/maps?t=m&q=loc:44.986932+-93.238574,Northbound
+Minnesota,I-35W,2859,Exit 21A,EXIT 21A,CR 88,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2021A/2859,44.993004,-93.237465,http://maps.google.com/maps?t=m&q=loc:44.993004+-93.237465,Northbound
+Minnesota,I-35W,2860,Exit 21B,EXIT 21B,Exit,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2021B/2860,44.995633,-93.238455,http://maps.google.com/maps?t=m&q=loc:44.995633+-93.238455,Northbound
+Minnesota,I-35W,2861,Exit 22,EXIT 22,Industrial Blvd,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2022/2861,45.002152,-93.216481,http://maps.google.com/maps?t=m&q=loc:45.002152+-93.216481,Northbound
+Minnesota,I-35W,2862,Exit 23B,EXIT 23B,"MN 36
+          (MM: 23.0)","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2023B/2862,45.010034,-93.19231,http://maps.google.com/maps?t=m&q=loc:45.010034+-93.19231,Northbound
+Minnesota,I-35W,2863,Exit 24,EXIT 24,Cleveland Ave; County Rd C,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2024/2863,45.021061,-93.189278,http://maps.google.com/maps?t=m&q=loc:45.021061+-93.189278,Northbound
+Minnesota,I-35W,2864,Exit 25A,EXIT 25A,County Rd D,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2025A/2864,45.032455,-93.190851,http://maps.google.com/maps?t=m&q=loc:45.032455+-93.190851,Northbound
+Minnesota,I-35W,2865,Exit 26,EXIT 26,County E2,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2026/2865,45.054454,-93.187918,http://maps.google.com/maps?t=m&q=loc:45.054454+-93.187918,Northbound
+Minnesota,I-35W,49165,Exit 27A,EXIT 27A,"US 10
+          (MM: 27.0)","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2027A/49165,45.063498,-93.186281,http://maps.google.com/maps?t=m&q=loc:45.063498+-93.186281,Northbound
+Minnesota,I-35W,2866,Exit 27B,EXIT 27B,"I 694
+          (MM: 27.0)","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2027B/2866,45.067426,-93.185862,http://maps.google.com/maps?t=m&q=loc:45.067426+-93.185862,Northbound
+Minnesota,I-35W,2867,Exit 28A,EXIT 28A,County Road 96,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2028A/2867,45.075331,-93.185162,http://maps.google.com/maps?t=m&q=loc:45.075331+-93.185162,Northbound
+Minnesota,I-35W,2868,Exit 28C,EXIT 28C,County Rd 10; County H,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2028C/2868,45.087071,-93.187331,http://maps.google.com/maps?t=m&q=loc:45.087071+-93.187331,Northbound
+Minnesota,I-35W,2869,Exit 29,EXIT 29,County Rd I,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2029/2869,45.102977,-93.188172,http://maps.google.com/maps?t=m&q=loc:45.102977+-93.188172,Northbound
+Minnesota,I-35W,2870,Exit 30,EXIT 30,"US 10
+          (MM: 30.0)","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2030/2870,45.110024,-93.188236,http://maps.google.com/maps?t=m&q=loc:45.110024+-93.188236,Northbound
+Minnesota,I-35W,2871,Exit 31A,EXIT 31A,Ramsey County J; 85th Ave NE,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2031A/2871,45.120458,-93.188364,http://maps.google.com/maps?t=m&q=loc:45.120458+-93.188364,Northbound
+Minnesota,I-35W,2872,Exit 31B,EXIT 31B,Lake Dr,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2031B/2872,45.124576,-93.188395,http://maps.google.com/maps?t=m&q=loc:45.124576+-93.188395,Northbound
+Minnesota,I-35W,2873,Exit 32,EXIT 32,Anoka County 52,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2032/2873,45.142627,-93.185286,http://maps.google.com/maps?t=m&q=loc:45.142627+-93.185286,Northbound
+Minnesota,I-35W,2874,Exit 33,EXIT 33,County Hwy 17; Lexington Ave,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2033/2874,45.156018,-93.167709,http://maps.google.com/maps?t=m&q=loc:45.156018+-93.167709,Northbound
+Minnesota,I-35W,2875,Exit 36,EXIT 36,County Hwy 23,"Circle Pines, Minnesota",https://www.iexitapp.com/Minnesota/I-35W/Exit%2036/2875,45.178368,-93.117392,http://maps.google.com/maps?t=m&q=loc:45.178368+-93.117392,Northbound

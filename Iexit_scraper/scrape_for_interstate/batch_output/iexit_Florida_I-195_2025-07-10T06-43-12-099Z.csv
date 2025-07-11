@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-195,38117,Exit 2A,EXIT 2A,North Miami Avenue,"Miami, Florida",https://www.iexitapp.com/Florida/I-195/Exit%202A/38117,25.811451,-80.198098,http://maps.google.com/maps?t=m&q=loc:25.811451+-80.198098,Northbound
+Florida,I-195,38118,Exit 2B,EXIT 2B,US 1 (Biscayne Boulevard / SR 5),"Miami, Florida",https://www.iexitapp.com/Florida/I-195/Exit%202B/38118,25.811389,-80.188519,http://maps.google.com/maps?t=m&q=loc:25.811389+-80.188519,Northbound
+Florida,I-195,38119,Exit 5,EXIT 5,SR 907 (Alton Road),"Miami Beach, Florida",https://www.iexitapp.com/Florida/I-195/Exit%205/38119,25.810338,-80.144145,http://maps.google.com/maps?t=m&q=loc:25.810338+-80.144145,Northbound

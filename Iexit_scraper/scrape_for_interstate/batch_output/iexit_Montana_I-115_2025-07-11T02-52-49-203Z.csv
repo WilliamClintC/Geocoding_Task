@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Montana,I-115,32345,Exit 1,EXIT 1,Excelsior Ave; Walkerville,"Butte, Montana",https://www.iexitapp.com/Montana/I-115/Exit%201/32345,46.003476,-112.550935,http://maps.google.com/maps?t=m&q=loc:46.003476+-112.550935,Southbound

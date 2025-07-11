@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Alabama,I-165,57493,Exit 1A,EXIT 1A,Whistler St,"Mobile, Alabama",https://www.iexitapp.com/Alabama/I-165/Exit%201A/57493,30.748298,-88.089975,http://maps.google.com/maps?t=m&q=loc:30.748298+-88.089975,Northbound
+Alabama,I-165,57494,Exit 1B,EXIT 1B,Price / Wilson Aves; Dr M L King Jr Dr,"Mobile, Alabama",https://www.iexitapp.com/Alabama/I-165/Exit%201B/57494,30.744487,-88.089775,http://maps.google.com/maps?t=m&q=loc:30.744487+-88.089775,Northbound
+Alabama,I-165,33982,Exit 2,EXIT 2,I-10 E; US 90 E; Bay Bridge Rd,"Mobile, Alabama",https://www.iexitapp.com/Alabama/I-165/Exit%202/33982,30.732742,-88.07895,http://maps.google.com/maps?t=m&q=loc:30.732742+-88.07895,Northbound
+Alabama,I-165,57495,Exit,EXIT,Exit,"Mobile, Alabama",https://www.iexitapp.com/Alabama/I-165/Exit%20/57495,30.700995,-88.047209,http://maps.google.com/maps?t=m&q=loc:30.700995+-88.047209,Northbound
+Alabama,I-165,33983,Exit,EXIT,Exit,"Mobile, Alabama",https://www.iexitapp.com/Alabama/I-165/Exit%20/33983,30.70112,-88.046309,http://maps.google.com/maps?t=m&q=loc:30.70112+-88.046309,Southbound
+Alabama,I-165,33984,Exit 2,EXIT 2,Bay Bridge Rd; Dr M. L. King Jr Dr; US-90,"Mobile, Alabama",https://www.iexitapp.com/Alabama/I-165/Exit%202/33984,30.725379,-88.069743,http://maps.google.com/maps?t=m&q=loc:30.725379+-88.069743,Southbound
+Alabama,I-165,33985,Exit 1C,EXIT 1C,Wilson / Price Aves; Whistler St,"Mobile, Alabama",https://www.iexitapp.com/Alabama/I-165/Exit%201C/33985,30.734918,-88.081256,http://maps.google.com/maps?t=m&q=loc:30.734918+-88.081256,Southbound

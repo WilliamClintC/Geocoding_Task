@@ -1,0 +1,47 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New Jersey,I-95,5532,US-130 N,EXIT,US-130 N,"Burlington, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/5532,40.099892,-74.78689,http://maps.google.com/maps?t=m&q=loc:40.099892+-74.78689,Northbound
+New Jersey,I-95,47297,US 130,EXIT,US 130,"Burlington, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/47297,40.102638,-74.78704,http://maps.google.com/maps?t=m&q=loc:40.102638+-74.78704,Northbound
+New Jersey,I-95,47298,New Jersey Turnpike,EXIT,New Jersey Turnpike,"Bordentown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/47298,40.096365,-74.739482,http://maps.google.com/maps?t=m&q=loc:40.096365+-74.739482,Northbound
+New Jersey,I-95,47299,Exit 7,EXIT 7,US-206 N; Bordentown; Trenton,"Bordentown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%207/47299,40.122685,-74.701619,http://maps.google.com/maps?t=m&q=loc:40.122685+-74.701619,Northbound
+New Jersey,I-95,47300,Exit 7,EXIT 7,US-206 S,"Bordentown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%207/47300,40.123735,-74.704719,http://maps.google.com/maps?t=m&q=loc:40.123735+-74.704719,Northbound
+New Jersey,I-95,47301,Woodrow Wilson Service Plaza,SERVICE PLAZA,Woodrow Wilson Service Plaza,"Trenton, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/47301,40.168598,-74.643315,http://maps.google.com/maps?t=m&q=loc:40.168598+-74.643315,Northbound
+New Jersey,I-95,47302,Exit 7A,EXIT 7A,"I 195;I 195
+          (MM: 7.0)","Trenton, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%207A/47302,40.187871,-74.609735,http://maps.google.com/maps?t=m&q=loc:40.187871+-74.609735,Northbound
+New Jersey,I-95,47304,Exit 8,EXIT 8,"NJ 133
+          (MM: 8.0)","Hightstown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%208/47304,40.260231,-74.512198,http://maps.google.com/maps?t=m&q=loc:40.260231+-74.512198,Northbound
+New Jersey,I-95,47306,Temporarily Closed - Molly Pitcher Service Area,SERVICE PLAZA,Temporarily Closed - Molly Pitcher Service Area,"Cranbury, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/47306,40.319402,-74.486752,http://maps.google.com/maps?t=m&q=loc:40.319402+-74.486752,Northbound
+New Jersey,I-95,47307,Exit 8A,EXIT 8A,Jamesburg; Cranbury,"Jamesburg, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%208A/47307,40.345954,-74.47513,http://maps.google.com/maps?t=m&q=loc:40.345954+-74.47513,Northbound
+New Jersey,I-95,47308,Joyce Kilmer Service Area,SERVICE PLAZA,Joyce Kilmer Service Area,"East Brunswick, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/47308,40.412228,-74.447739,http://maps.google.com/maps?t=m&q=loc:40.412228+-74.447739,Northbound
+New Jersey,I-95,47309,Exit 9,EXIT 9,U.S. 1; New Brunswick,"East Brunswick, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%209/47309,40.473845,-74.407637,http://maps.google.com/maps?t=m&q=loc:40.473845+-74.407637,Northbound
+New Jersey,I-95,47311,Exit 10,EXIT 10,"NJ 440;I 287
+          (MM: 10.0)","Edison, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2010/47311,40.522855,-74.348119,http://maps.google.com/maps?t=m&q=loc:40.522855+-74.348119,Northbound
+New Jersey,I-95,47312,Exit 10,EXIT 10,I-287; NJ-440; Perth Amboy; Metuchen; Edison Township,"Edison, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2010/47312,40.522855,-74.348119,http://maps.google.com/maps?t=m&q=loc:40.522855+-74.348119,Northbound
+New Jersey,I-95,47313,Exit 10,EXIT 10,I-95,"Edison, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2010/47313,40.525219,-74.337962,http://maps.google.com/maps?t=m&q=loc:40.525219+-74.337962,Northbound
+New Jersey,I-95,47315,Exit 11,EXIT 11,"GSP;US 9;GSP
+          (MM: 11.0)","Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47315,40.541886,-74.298531,http://maps.google.com/maps?t=m&q=loc:40.541886+-74.298531,Northbound
+New Jersey,I-95,47316,Exit 11,EXIT 11,Woodbridge,"Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47316,40.541886,-74.298531,http://maps.google.com/maps?t=m&q=loc:40.541886+-74.298531,Northbound
+New Jersey,I-95,47317,Exit 11,EXIT 11,Woodbridge,"Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47317,40.535796,-74.303955,http://maps.google.com/maps?t=m&q=loc:40.535796+-74.303955,Northbound
+New Jersey,I-95,47318,Exit 11,EXIT 11,Woodbridge,"Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47318,40.534734,-74.302536,http://maps.google.com/maps?t=m&q=loc:40.534734+-74.302536,Northbound
+New Jersey,I-95,47320,Grover Cleveland Service Area,SERVICE PLAZA,Grover Cleveland Service Area,"Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/47320,40.55416,-74.268647,http://maps.google.com/maps?t=m&q=loc:40.55416+-74.268647,Northbound
+New Jersey,I-95,47321,Exit 12,EXIT 12,Carteret Rahway,"Carteret, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2012/47321,40.591094,-74.236215,http://maps.google.com/maps?t=m&q=loc:40.591094+-74.236215,Northbound
+New Jersey,I-95,47323,Exit 13,EXIT 13,Interstate 278; Elizabeth; Goethals Br; Verrazano Br,"Linden, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2013/47323,40.622868,-74.216798,http://maps.google.com/maps?t=m&q=loc:40.622868+-74.216798,Northbound
+New Jersey,I-95,47325,Exit 13A,EXIT 13A,"NJ 81
+          (MM: 13.0)","Elizabeth, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2013A/47325,40.660873,-74.18485,http://maps.google.com/maps?t=m&q=loc:40.660873+-74.18485,Northbound
+New Jersey,I-95,47328,NJTP,EXIT,NJTP,"Newark, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/47328,40.714047,-74.13924,http://maps.google.com/maps?t=m&q=loc:40.714047+-74.13924,Northbound
+New Jersey,I-95,5544,Exit 15W,EXIT 15W,"I 280
+          (MM: 15.0)","Kearny, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2015W/5544,40.751247,-74.119348,http://maps.google.com/maps?t=m&q=loc:40.751247+-74.119348,Northbound
+New Jersey,I-95,5545,Exit 16W,EXIT 16W,"NJ 3
+          (MM: 16.0)","East Rutherford, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2016W/5545,40.797042,-74.079176,http://maps.google.com/maps?t=m&q=loc:40.797042+-74.079176,Northbound
+New Jersey,I-95,47332,Exit 16W,EXIT 16W,New Jersey 3 E; Secaucus,"East Rutherford, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2016W/47332,40.797042,-74.079176,http://maps.google.com/maps?t=m&q=loc:40.797042+-74.079176,Northbound
+New Jersey,I-95,47333,Exit 16W,EXIT 16W,New Jersey 3; Secaucus; Rutherford; Sports Complex,"East Rutherford, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2016W/47333,40.804449,-74.080271,http://maps.google.com/maps?t=m&q=loc:40.804449+-74.080271,Northbound
+New Jersey,I-95,5546,Toll,TOLL BOOTH,Toll,"East Rutherford, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Toll/5546,40.808976,-74.06396,http://maps.google.com/maps?t=m&q=loc:40.808976+-74.06396,Northbound
+New Jersey,I-95,5547,Vince Lombardi Travel Plaza,SERVICE PLAZA,Vince Lombardi Travel Plaza,"Ridgefield, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/5547,40.827631,-74.028683,http://maps.google.com/maps?t=m&q=loc:40.827631+-74.028683,Northbound
+New Jersey,I-95,5550,North,EXIT,North,"Ridgefield Park, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/5550,40.842389,-74.017529,http://maps.google.com/maps?t=m&q=loc:40.842389+-74.017529,Northbound
+New Jersey,I-95,47335,North,EXIT,North,"Ridgefield Park, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/47335,40.84465,-74.016911,http://maps.google.com/maps?t=m&q=loc:40.84465+-74.016911,Northbound
+New Jersey,I-95,5551,Exit 68,EXIT 68,Challenger Rd,"Ridgefield Park, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2068/5551,40.85263,-74.014585,http://maps.google.com/maps?t=m&q=loc:40.85263+-74.014585,Northbound
+New Jersey,I-95,47336,Exit 70A,EXIT 70A,Leonia,"Teaneck, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2070A/47336,40.867392,-74.004028,http://maps.google.com/maps?t=m&q=loc:40.867392+-74.004028,Northbound
+New Jersey,I-95,47337,Exit 70B,EXIT 70B,Leonia; Teaneck,"Teaneck, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2070B/47337,40.868845,-74.002346,http://maps.google.com/maps?t=m&q=loc:40.868845+-74.002346,Northbound
+New Jersey,I-95,5553,Exit 71,EXIT 71,Leonia,"Englewood, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2071/5553,40.871961,-73.980406,http://maps.google.com/maps?t=m&q=loc:40.871961+-73.980406,Northbound
+New Jersey,I-95,5554,Exit 72,EXIT 72,US-9W; Palisades Pkwy; Fort Lee,"Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2072/5554,40.861222,-73.97536,http://maps.google.com/maps?t=m&q=loc:40.861222+-73.97536,Northbound
+New Jersey,I-95,5556,Exit 73,EXIT 73,NJ-67; Fort Lee,"Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2073/5556,40.856014,-73.97219,http://maps.google.com/maps?t=m&q=loc:40.856014+-73.97219,Northbound
+New Jersey,I-95,47341,Exit 73,EXIT 73,NJ-67; Lemoine Ave; Fort Lee,"Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2073/47341,40.856014,-73.97219,http://maps.google.com/maps?t=m&q=loc:40.856014+-73.97219,Northbound

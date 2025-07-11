@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+California,I-380,37483,Exit 5C,EXIT 5C,SR 82 (El Camino Real) – San Bruno,"San Bruno, California",https://www.iexitapp.com/California/I-380/Exit%205C/37483,37.634363,-122.413373,http://maps.google.com/maps?t=m&q=loc:37.634363+-122.413373,Westbound

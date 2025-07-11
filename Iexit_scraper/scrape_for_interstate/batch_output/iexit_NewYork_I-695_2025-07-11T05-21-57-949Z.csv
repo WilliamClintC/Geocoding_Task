@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-695,41597,Randall Avenue,EXIT,Randall Avenue,"Bronx, New York",https://www.iexitapp.com/New%20York/I-695/Exit%20/41597,40.830618,-73.820098,http://maps.google.com/maps?t=m&q=loc:40.830618+-73.820098,Southbound

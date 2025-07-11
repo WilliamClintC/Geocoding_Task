@@ -1,0 +1,40 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Indiana,I-90,58373,Temporarily Closed - Service Plaza,SERVICE PLAZA,"Temporarily Closed - Service Plaza
+          (MM: 146.0)","Fremont, Indiana",https://www.iexitapp.com/Indiana/I-90/Service%20Plaza/58373,41.722851,-84.963799,http://maps.google.com/maps?t=m&q=loc:41.722851+-84.963799,Westbound
+Indiana,I-90,51077,Exit 144,EXIT 144,I-69 S; Ft. Wayne,"Fremont, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%20144/51077,41.735631,-84.987976,http://maps.google.com/maps?t=m&q=loc:41.735631+-84.987976,Westbound
+Indiana,I-90,51079,Ernie Pyle Travel Plaza,SERVICE PLAZA,"Ernie Pyle Travel Plaza
+          (MM: 126.0)","Howe, Indiana",https://www.iexitapp.com/Indiana/I-90/Service%20Plaza/51079,41.744876,-85.324375,http://maps.google.com/maps?t=m&q=loc:41.744876+-85.324375,Westbound
+Indiana,I-90,57610,Exit 121,EXIT 121,IN-9; Howe; Lagrange,"Howe, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%20121/57610,41.753956,-85.427949,http://maps.google.com/maps?t=m&q=loc:41.753956+-85.427949,Westbound
+Indiana,I-90,7224,Truck Turnout,TURN OUT,Truck Turnout,"Middlebury, Indiana",https://www.iexitapp.com/Indiana/I-90/Truck%20Turnout/7224,41.749971,-85.661274,http://maps.google.com/maps?t=m&q=loc:41.749971+-85.661274,Westbound
+Indiana,I-90,51080,Exit 107,EXIT 107,US-131; IN-13; Constantine; Middlebury,"Middlebury, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%20107/51080,41.747285,-85.682113,http://maps.google.com/maps?t=m&q=loc:41.747285+-85.682113,Westbound
+Indiana,I-90,51081,Exit 101,EXIT 101,Goshen,"Bristol, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%20101/51081,41.735361,-85.784957,http://maps.google.com/maps?t=m&q=loc:41.735361+-85.784957,Westbound
+Indiana,I-90,57611,Exit 96,EXIT 96,Elkhart E,"Elkhart, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2096/57611,41.730904,-85.879422,http://maps.google.com/maps?t=m&q=loc:41.730904+-85.879422,Westbound
+Indiana,I-90,51082,Exit 92,EXIT 92,IN-19; Elkhart,"Elkhart, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2092/51082,41.731037,-85.963538,http://maps.google.com/maps?t=m&q=loc:41.731037+-85.963538,Westbound
+Indiana,I-90,7229,Henry Shricker Travel Plaza,SERVICE PLAZA,"Henry Shricker Travel Plaza
+          (MM: 90.0)","Elkhart, Indiana",https://www.iexitapp.com/Indiana/I-90/Service%20Plaza/7229,41.732279,-86.000254,http://maps.google.com/maps?t=m&q=loc:41.732279+-86.000254,Westbound
+Indiana,I-90,51083,Exit 83,EXIT 83,IN-331; Mishawaka,"Granger, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2083/51083,41.733519,-86.135331,http://maps.google.com/maps?t=m&q=loc:41.733519+-86.135331,Westbound
+Indiana,I-90,7231,Exit 77,EXIT 77,IN-933; U.S. 31 Business; S Bend; Notre Dame,"South Bend, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2077/7231,41.722743,-86.255124,http://maps.google.com/maps?t=m&q=loc:41.722743+-86.255124,Westbound
+Indiana,I-90,51084,Exit 72,EXIT 72,"US 31;US 31
+          (MM: 72.0)","South Bend, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2072/51084,41.730534,-86.327329,http://maps.google.com/maps?t=m&q=loc:41.730534+-86.327329,Westbound
+Indiana,I-90,51085,Exit 72,EXIT 72,U.S. 31 S; Plymouth,"South Bend, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2072/51085,41.730534,-86.327329,http://maps.google.com/maps?t=m&q=loc:41.730534+-86.327329,Westbound
+Indiana,I-90,51087,Wilbur Shaw Service Plaza,SERVICE PLAZA,"Wilbur Shaw Service Plaza
+          (MM: 56.0)","Rolling Prairie, Indiana",https://www.iexitapp.com/Indiana/I-90/Service%20Plaza/51087,41.709447,-86.618788,http://maps.google.com/maps?t=m&q=loc:41.709447+-86.618788,Westbound
+Indiana,I-90,51088,Exit 49,EXIT 49,IN-39; La Porte,"La Porte, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2049/51088,41.668241,-86.727061,http://maps.google.com/maps?t=m&q=loc:41.668241+-86.727061,Westbound
+Indiana,I-90,7235,Exit 39,EXIT 39,US-421; Michigan City; Westville,"Westville, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2039/7235,41.590912,-86.896072,http://maps.google.com/maps?t=m&q=loc:41.590912+-86.896072,Westbound
+Indiana,I-90,7236,Truck Turnout,TURN OUT,"Truck Turnout
+          (MM: 37.0)","Westville, Indiana",https://www.iexitapp.com/Indiana/I-90/Truck%20Turnout/7236,41.587194,-86.919868,http://maps.google.com/maps?t=m&q=loc:41.587194+-86.919868,Westbound
+Indiana,I-90,51089,Exit 31,EXIT 31,"SR 49
+          (MM: 31.0)","Chesterton, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2031/51089,41.57368,-87.047503,http://maps.google.com/maps?t=m&q=loc:41.57368+-87.047503,Westbound
+Indiana,I-90,51090,Exit 31,EXIT 31,IN-49; Chesterton; Valparaiso,"Chesterton, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2031/51090,41.57368,-87.047503,http://maps.google.com/maps?t=m&q=loc:41.57368+-87.047503,Westbound
+Indiana,I-90,57612,Exit 23,EXIT 23,Portage,"Portage, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2023/57612,41.580265,-87.173853,http://maps.google.com/maps?t=m&q=loc:41.580265+-87.173853,Westbound
+Indiana,I-90,51091,J.T. MCCUTCHEON TRAVEL PLAZA,SERVICE PLAZA,"J.T. MCCUTCHEON TRAVEL PLAZA
+          (MM: 22.0)","Portage, Indiana",https://www.iexitapp.com/Indiana/I-90/Service%20Plaza/51091,41.586871,-87.211872,http://maps.google.com/maps?t=m&q=loc:41.586871+-87.211872,Westbound
+Indiana,I-90,51093,Exit 17,EXIT 17,"I 65
+          (MM: 17.0)","Gary, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2017/51093,41.593325,-87.307316,http://maps.google.com/maps?t=m&q=loc:41.593325+-87.307316,Westbound
+Indiana,I-90,51094,Exit 17/261,EXIT 17/261,East 15th Avenue,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2017%2F261/51094,41.586658,-87.3015,http://maps.google.com/maps?t=m&q=loc:41.586658+-87.3015,Westbound
+Indiana,I-90,51095,Exit 17,EXIT 17,US 12;US 20,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2017/51095,41.586658,-87.3015,http://maps.google.com/maps?t=m&q=loc:41.586658+-87.3015,Westbound
+Indiana,I-90,51097,Exit 14B,EXIT 14B,IN-53; Broadway,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2014B/51097,41.603726,-87.329604,http://maps.google.com/maps?t=m&q=loc:41.603726+-87.329604,Westbound
+Indiana,I-90,51098,Exit 14A,EXIT 14A,Buchanan Street,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2014A/51098,41.608932,-87.354482,http://maps.google.com/maps?t=m&q=loc:41.608932+-87.354482,Westbound
+Indiana,I-90,51099,Exit 10,EXIT 10,Gary Ave,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%2010/51099,41.608687,-87.412165,http://maps.google.com/maps?t=m&q=loc:41.608687+-87.412165,Westbound
+Indiana,I-90,51100,Exit 5,EXIT 5,US-41; Hammond; Calumet Ave,"Hammond, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%205/51100,41.63576,-87.505901,http://maps.google.com/maps?t=m&q=loc:41.63576+-87.505901,Westbound
+Indiana,I-90,51102,Exit 0,EXIT 0,US-41; US-12; US-20; Indpls Blvd,"Hammond, Indiana",https://www.iexitapp.com/Indiana/I-90/Exit%200/51102,41.693951,-87.52184,http://maps.google.com/maps?t=m&q=loc:41.693951+-87.52184,Westbound

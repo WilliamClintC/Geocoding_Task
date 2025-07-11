@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Michigan,I-194,38500,"BL I-94 (Hamblin Avenue), M-66 north – Ionia",EXIT,"BL I-94 (Hamblin Avenue), M-66 north – Ionia","Battle Creek, Michigan",https://www.iexitapp.com/Michigan/I-194/Exit%20/38500,42.315736,-85.180547,http://maps.google.com/maps?t=m&q=loc:42.315736+-85.180547,Westbound
+Michigan,I-194,38501,Exit 3,EXIT 3,BL I-94 (Dickman Road),"Battle Creek, Michigan",https://www.iexitapp.com/Michigan/I-194/Exit%203/38501,42.313149,-85.181362,http://maps.google.com/maps?t=m&q=loc:42.313149+-85.181362,Westbound
+Michigan,I-194,38502,Exit 2,EXIT 2,M-96 (E. Columbia Avenue),"Battle Creek, Michigan",https://www.iexitapp.com/Michigan/I-194/Exit%202/38502,42.303944,-85.183484,http://maps.google.com/maps?t=m&q=loc:42.303944+-85.183484,Westbound
+Michigan,I-194,38503,"Exit 1B,A","EXIT 1B,A","I-94 – Detroit, Chicago; M-66 south – Sturgis","Battle Creek, Michigan","https://www.iexitapp.com/Michigan/I-194/Exit%201B,A/38503",42.271572,-85.17887,http://maps.google.com/maps?t=m&q=loc:42.271572+-85.17887,Westbound

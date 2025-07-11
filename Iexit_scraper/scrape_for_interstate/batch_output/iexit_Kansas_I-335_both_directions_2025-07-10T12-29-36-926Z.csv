@@ -1,0 +1,7 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-335,33081,Emporia Service Area,SERVICE PLAZA,"Emporia Service Area
+          (MM: 132.0)","Emporia, Kansas",https://www.iexitapp.com/Kansas/I-335/Service%20Plaza/33081,38.466974,-96.187255,http://maps.google.com/maps?t=m&q=loc:38.466974+-96.187255,Northbound
+Kansas,I-335,33082,Exit 147,EXIT 147,US-56,"Reading, Kansas",https://www.iexitapp.com/Kansas/I-335/Exit%20147/33082,38.646485,-96.03227,http://maps.google.com/maps?t=m&q=loc:38.646485+-96.03227,Northbound
+Kansas,I-335,33085,Exit 147,EXIT 147,US-56; Council Grove; Osage City; Admire,"Reading, Kansas",https://www.iexitapp.com/Kansas/I-335/Exit%20147/33085,38.649766,-96.029729,http://maps.google.com/maps?t=m&q=loc:38.649766+-96.029729,Southbound
+Kansas,I-335,33086,Emporia Service Area,SERVICE PLAZA,"Emporia Service Area
+          (MM: 132.0)","Emporia, Kansas",https://www.iexitapp.com/Kansas/I-335/Service%20Plaza/33086,38.47426,-96.183069,http://maps.google.com/maps?t=m&q=loc:38.47426+-96.183069,Southbound

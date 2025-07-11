@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Minnesota,I-394,37989,I 94,EXIT,I 94,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%20/37989,44.98288,-93.272534,http://maps.google.com/maps?t=m&q=loc:44.98288+-93.272534,Westbound
+Minnesota,I-394,37990,Exit 7,EXIT 7,County 2 (Penn Avenue),"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%207/37990,44.969704,-93.304131,http://maps.google.com/maps?t=m&q=loc:44.969704+-93.304131,Westbound
+Minnesota,I-394,37991,Exit 5,EXIT 5,"MN 100 / Xenia Avenue, Park Place","Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%205/37991,44.97025,-93.329749,http://maps.google.com/maps?t=m&q=loc:44.97025+-93.329749,Westbound
+Minnesota,I-394,37992,Exit 4,EXIT 4,Louisiana Avenue,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%204/37992,44.971432,-93.364079,http://maps.google.com/maps?t=m&q=loc:44.971432+-93.364079,Westbound
+Minnesota,I-394,37993,Exit 3,EXIT 3,US 169 / General Mills Boulevard,"Minneapolis, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%203/37993,44.973259,-93.384936,http://maps.google.com/maps?t=m&q=loc:44.973259+-93.384936,Westbound
+Minnesota,I-394,37994,Exit 2,EXIT 2,County 73 (Hopkins Crossroad),"Hopkins, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%202/37994,44.97224,-93.415333,http://maps.google.com/maps?t=m&q=loc:44.97224+-93.415333,Westbound
+Minnesota,I-394,37995,Exit 1C,EXIT 1C,Ridgedale Drive,"Hopkins, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%201C/37995,44.971076,-93.427149,http://maps.google.com/maps?t=m&q=loc:44.971076+-93.427149,Westbound
+Minnesota,I-394,37996,Exit 1B,EXIT 1B,County 61 (Plymouth Road),"Hopkins, Minnesota",https://www.iexitapp.com/Minnesota/I-394/Exit%201B/37996,44.971071,-93.439091,http://maps.google.com/maps?t=m&q=loc:44.971071+-93.439091,Westbound

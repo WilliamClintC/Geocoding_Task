@@ -1,0 +1,11 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-435,33111,Exit 77B,EXIT 77B,Nall Ave,"Leawood, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2077B/33111,38.933192,-94.636077,http://maps.google.com/maps?t=m&q=loc:38.933192+-94.636077,Unknown
+Kansas,I-435,56722,Exit 77B,EXIT 77B,Roe Ave,"Leawood, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2077B/56722,38.932345,-94.644971,http://maps.google.com/maps?t=m&q=loc:38.932345+-94.644971,Unknown
+Kansas,I-435,33112,Exit 79,EXIT 79,Metcalf Avenue N; Metcalf Avenue S,"Leawood, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2079/33112,38.931224,-94.662795,http://maps.google.com/maps?t=m&q=loc:38.931224+-94.662795,Unknown
+Kansas,I-435,56723,Exit 80,EXIT 80,Antioch Rd,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2080/56723,38.934401,-94.681253,http://maps.google.com/maps?t=m&q=loc:38.934401+-94.681253,Unknown
+Kansas,I-435,56724,Exit 81,EXIT 81,"US 69;US 69
+          (MM: 81.0)","Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2081/56724,38.93462,-94.688912,http://maps.google.com/maps?t=m&q=loc:38.93462+-94.688912,Unknown
+Kansas,I-435,56725,Exit 81,EXIT 81,US-69 N; US-69 S,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2081/56725,38.93462,-94.688912,http://maps.google.com/maps?t=m&q=loc:38.93462+-94.688912,Unknown
+Kansas,I-435,56726,Exit 81,EXIT 81,US-69 N; US-69 S,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%2081/56726,38.934428,-94.705764,http://maps.google.com/maps?t=m&q=loc:38.934428+-94.705764,Unknown
+Kansas,I-435,56727,I-435 W,EXIT,I-435 W,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%20/56727,38.935303,-94.705265,http://maps.google.com/maps?t=m&q=loc:38.935303+-94.705265,Unknown
+Kansas,I-435,33115,Exit 1A,EXIT 1A,Renner Blvd,"Lenexa, Kansas",https://www.iexitapp.com/Kansas/I-435/Exit%201A/33115,38.943029,-94.756702,http://maps.google.com/maps?t=m&q=loc:38.943029+-94.756702,Unknown

@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Michigan,I-375,35027,Madison Avenue,EXIT,Madison Avenue,"Detroit, Michigan",https://www.iexitapp.com/Michigan/I-375/Exit%20/35027,42.343797,-83.044133,http://maps.google.com/maps?t=m&q=loc:42.343797+-83.044133,Northbound
+Michigan,I-375,35028,Lafayette Avenue,EXIT,Lafayette Avenue,"Detroit, Michigan",https://www.iexitapp.com/Michigan/I-375/Exit%20/35028,42.338952,-83.040532,http://maps.google.com/maps?t=m&q=loc:42.338952+-83.040532,Northbound
+Michigan,I-375,35029,Jefferson Avenue east,EXIT,Jefferson Avenue east,"Detroit, Michigan",https://www.iexitapp.com/Michigan/I-375/Exit%20/35029,42.335892,-83.038108,http://maps.google.com/maps?t=m&q=loc:42.335892+-83.038108,Northbound

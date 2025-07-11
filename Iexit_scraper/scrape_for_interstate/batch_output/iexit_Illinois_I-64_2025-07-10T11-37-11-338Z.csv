@@ -1,0 +1,33 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-64,53956,Exit 4,EXIT 4,St Clair Ave; Illinois 3,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%204/53956,38.62827,-90.139343,http://maps.google.com/maps?t=m&q=loc:38.62827+-90.139343,Eastbound
+Illinois,I-64,23976,Exit 4B,EXIT 4B,North 25th Street,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%204B/23976,38.621858,-90.123798,http://maps.google.com/maps?t=m&q=loc:38.621858+-90.123798,Eastbound
+Illinois,I-64,23977,Exit 6,EXIT 6,IL-111; Kingshighway,"East St Louis, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%206/23977,38.620303,-90.098989,http://maps.google.com/maps?t=m&q=loc:38.620303+-90.098989,Eastbound
+Illinois,I-64,23979,Exit 9,EXIT 9,Caseyville,"Caseyville, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%209/23979,38.616928,-90.051527,http://maps.google.com/maps?t=m&q=loc:38.616928+-90.051527,Eastbound
+Illinois,I-64,23980,Exit 12,EXIT 12,IL-159; Belleville; Collinsville,"Fairview Heights, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2012/23980,38.599597,-89.991375,http://maps.google.com/maps?t=m&q=loc:38.599597+-89.991375,Eastbound
+Illinois,I-64,23981,Exit 14,EXIT 14,Highway 50,"OFallon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2014/23981,38.596148,-89.952675,http://maps.google.com/maps?t=m&q=loc:38.596148+-89.952675,Eastbound
+Illinois,I-64,23982,Exit 16,EXIT 16,Shiloh; O'Fallon,"OFallon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2016/23982,38.579119,-89.934113,http://maps.google.com/maps?t=m&q=loc:38.579119+-89.934113,Eastbound
+Illinois,I-64,23983,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 17.0)","OFallon, Illinois",https://www.iexitapp.com/Illinois/I-64/Weigh%20Station/23983,38.574959,-89.908932,http://maps.google.com/maps?t=m&q=loc:38.574959+-89.908932,Eastbound
+Illinois,I-64,23984,Exit 19A,EXIT 19A,IL-158 W; Air Mobility Dr; Scott A.F. Base,"OFallon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2019A/23984,38.574416,-89.882521,http://maps.google.com/maps?t=m&q=loc:38.574416+-89.882521,Eastbound
+Illinois,I-64,23985,Exit 19B,EXIT 19B,US-50 E; Carlyle,"Lebanon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2019B/23985,38.572705,-89.875522,http://maps.google.com/maps?t=m&q=loc:38.572705+-89.875522,Eastbound
+Illinois,I-64,23986,Exit 23,EXIT 23,IL-4; Mascoutah; Lebanon,"Mascoutah, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2023/23986,38.552885,-89.812493,http://maps.google.com/maps?t=m&q=loc:38.552885+-89.812493,Eastbound
+Illinois,I-64,23987,Gateway Rest Area,REST AREA,"Gateway Rest Area
+          (MM: 25.0)","Mascoutah, Illinois",https://www.iexitapp.com/Illinois/I-64/Rest%20Area/23987,38.550121,-89.778057,http://maps.google.com/maps?t=m&q=loc:38.550121+-89.778057,Eastbound
+Illinois,I-64,23988,Exit 27,EXIT 27,IL-161; New Baden,"Mascoutah, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2027/23988,38.539531,-89.73267,http://maps.google.com/maps?t=m&q=loc:38.539531+-89.73267,Eastbound
+Illinois,I-64,23989,Exit 34,EXIT 34,Albers,"Albers, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2034/23989,38.501799,-89.616999,http://maps.google.com/maps?t=m&q=loc:38.501799+-89.616999,Eastbound
+Illinois,I-64,23990,Exit 41,EXIT 41,IL-177,"Okawville, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2041/23990,38.442617,-89.535923,http://maps.google.com/maps?t=m&q=loc:38.442617+-89.535923,Eastbound
+Illinois,I-64,23991,Exit 50,EXIT 50,IL-127; Carlyle; Nashville Il,"Nashville, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2050/23991,38.392034,-89.376938,http://maps.google.com/maps?t=m&q=loc:38.392034+-89.376938,Eastbound
+Illinois,I-64,23992,Exit 61,EXIT 61,US-51 S,"Richview, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2061/23992,38.389994,-89.176475,http://maps.google.com/maps?t=m&q=loc:38.389994+-89.176475,Eastbound
+Illinois,I-64,23993,Exit 69,EXIT 69,Woodlawn,"Woodlawn, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2069/23993,38.361845,-89.041082,http://maps.google.com/maps?t=m&q=loc:38.361845+-89.041082,Eastbound
+Illinois,I-64,23995,Exit 95,EXIT 95,IL-15; Mt Vernon; Ashley,"Mt Vernon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2095/23995,38.317312,-88.954003,http://maps.google.com/maps?t=m&q=loc:38.317312+-88.954003,Eastbound
+Illinois,I-64,23996,Exit 94,EXIT 94,Veterans Memorial Dr,"Mt Vernon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2094/23996,38.305812,-88.949219,http://maps.google.com/maps?t=m&q=loc:38.305812+-88.949219,Eastbound
+Illinois,I-64,23997,Exit 92,EXIT 92,"I 57
+          (MM: 92.0)","Mt Vernon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2092/23997,38.275776,-88.93629,http://maps.google.com/maps?t=m&q=loc:38.275776+-88.93629,Eastbound
+Illinois,I-64,53960,Exit 80,EXIT 80,IL-37; Mt Vernon,"Mt Vernon, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2080/53960,38.272545,-88.907624,http://maps.google.com/maps?t=m&q=loc:38.272545+-88.907624,Eastbound
+Illinois,I-64,23999,Goshen Road Rest Area,REST AREA,"Goshen Road Rest Area
+          (MM: 85.0)","Mt Vernon, Illinois",https://www.iexitapp.com/Illinois/I-64/Rest%20Area/23999,38.273084,-88.85508,http://maps.google.com/maps?t=m&q=loc:38.273084+-88.85508,Eastbound
+Illinois,I-64,24000,Exit 89,EXIT 89,Belle Rive; Blueford,"Opdyke, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%2089/24000,38.275393,-88.74651,http://maps.google.com/maps?t=m&q=loc:38.275393+-88.74651,Eastbound
+Illinois,I-64,24001,Exit 100,EXIT 100,Illinois 242; Wayne City; Mc Leansboro,"Wayne City, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%20100/24001,38.266784,-88.549847,http://maps.google.com/maps?t=m&q=loc:38.266784+-88.549847,Eastbound
+Illinois,I-64,24002,Exit 110,EXIT 110,US-45; Norris City; Fairfield,"Barnhill, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%20110/24002,38.264987,-88.353506,http://maps.google.com/maps?t=m&q=loc:38.264987+-88.353506,Eastbound
+Illinois,I-64,24003,Exit 117,EXIT 117,Burnt Prairie,"Burnt Prairie, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%20117/24003,38.252463,-88.235102,http://maps.google.com/maps?t=m&q=loc:38.252463+-88.235102,Eastbound
+Illinois,I-64,24004,Exit 130,EXIT 130,IL 1,"Grayville, Illinois",https://www.iexitapp.com/Illinois/I-64/Exit%20130/24004,38.235722,-88.010582,http://maps.google.com/maps?t=m&q=loc:38.235722+-88.010582,Eastbound

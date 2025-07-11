@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Massachusetts,I-84,28429,Rest Area,REST AREA,Rest Area,"Sturbridge, Massachusetts",https://www.iexitapp.com/Massachusetts/I-84/Rest%20Area/28429,42.040979,-72.124994,http://maps.google.com/maps?t=m&q=loc:42.040979+-72.124994,Eastbound
+Massachusetts,I-84,28430,Exit 3,EXIT 3,Sturbridge,"Sturbridge, Massachusetts",https://www.iexitapp.com/Massachusetts/I-84/Exit%203/28430,42.071441,-72.099905,http://maps.google.com/maps?t=m&q=loc:42.071441+-72.099905,Eastbound
+Massachusetts,I-84,28431,Exit 5,EXIT 5,MA-131; Sturbridge; Southbridge,"Sturbridge, Massachusetts",https://www.iexitapp.com/Massachusetts/I-84/Exit%205/28431,42.089186,-72.089419,http://maps.google.com/maps?t=m&q=loc:42.089186+-72.089419,Eastbound
+Massachusetts,I-84,28432,Exit 6A,EXIT 6A,US-20 E; Worcester,"Sturbridge, Massachusetts",https://www.iexitapp.com/Massachusetts/I-84/Exit%206A/28432,42.111517,-72.081526,http://maps.google.com/maps?t=m&q=loc:42.111517+-72.081526,Eastbound
+Massachusetts,I-84,28433,Exit 6B,EXIT 6B,US-20 W; Palmer,"Sturbridge, Massachusetts",https://www.iexitapp.com/Massachusetts/I-84/Exit%206B/28433,42.117343,-72.07372,http://maps.google.com/maps?t=m&q=loc:42.117343+-72.07372,Eastbound

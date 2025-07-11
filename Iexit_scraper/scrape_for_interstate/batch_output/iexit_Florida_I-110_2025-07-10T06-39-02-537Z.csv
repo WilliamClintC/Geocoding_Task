@@ -1,0 +1,4 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-110,31822,Exit 4,EXIT 4,Fairfield Dr,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%204/31822,30.448749,-87.219002,http://maps.google.com/maps?t=m&q=loc:30.448749+-87.219002,Eastbound
+Florida,I-110,31823,Exit 5,EXIT 5,Brent Lane; Florida 296; Airport Boulevard,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%205/31823,30.467653,-87.226991,http://maps.google.com/maps?t=m&q=loc:30.467653+-87.226991,Eastbound
+Florida,I-110,56254,Exit 6,EXIT 6,FL-291 N; FL-291 S; Davis Hwy,"Pensacola, Florida",https://www.iexitapp.com/Florida/I-110/Exit%206/56254,30.497695,-87.229966,http://maps.google.com/maps?t=m&q=loc:30.497695+-87.229966,Eastbound

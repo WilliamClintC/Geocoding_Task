@@ -1,0 +1,41 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+California,I-805,31633,Exit 1A,EXIT 1A,East San Ysidro Boulevard,"San Ysidro, California",https://www.iexitapp.com/California/I-805/Exit%201A/31633,32.5483,-117.037752,http://maps.google.com/maps?t=m&q=loc:32.5483+-117.037752,Northbound
+California,I-805,31634,Exit 1B,EXIT 1B,"CA 905;CA 905
+          (MM: 1.0)","San Ysidro, California",https://www.iexitapp.com/California/I-805/Exit%201B/31634,32.560459,-117.04216,http://maps.google.com/maps?t=m&q=loc:32.560459+-117.04216,Northbound
+California,I-805,31635,Exit 2,EXIT 2,Palm Ave,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%202/31635,32.577938,-117.03817,http://maps.google.com/maps?t=m&q=loc:32.577938+-117.03817,Northbound
+California,I-805,31636,Exit 3,EXIT 3,Main St; Auto Park Dr,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%203/31636,32.591603,-117.036152,http://maps.google.com/maps?t=m&q=loc:32.591603+-117.036152,Northbound
+California,I-805,31637,Exit 4,EXIT 4,Olympic Pkwy; E Orange Ave,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%204/31637,32.601786,-117.036143,http://maps.google.com/maps?t=m&q=loc:32.601786+-117.036143,Northbound
+California,I-805,31638,Exit 6,EXIT 6,Telegraph Canyon Rd; L St,"Chula Vista, California",https://www.iexitapp.com/California/I-805/Exit%206/31638,32.624089,-117.041396,http://maps.google.com/maps?t=m&q=loc:32.624089+-117.041396,Northbound
+California,I-805,31639,Exit 7,EXIT 7,H St; Bonita Rd; E St,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%207/31639,32.636806,-117.049423,http://maps.google.com/maps?t=m&q=loc:32.636806+-117.049423,Northbound
+California,I-805,55952,Exit 7,EXIT 7,E St,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%207/55952,32.638125,-117.051281,http://maps.google.com/maps?t=m&q=loc:32.638125+-117.051281,Northbound
+California,I-805,31640,Exit 8,EXIT 8,"CA 54;CA 54
+          (MM: 8.0)","San Diego, California",https://www.iexitapp.com/California/I-805/Exit%208/31640,32.651447,-117.067688,http://maps.google.com/maps?t=m&q=loc:32.651447+-117.067688,Northbound
+California,I-805,31641,Exit 9,EXIT 9,Sweetwater Rd,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%209/31641,32.657631,-117.073644,http://maps.google.com/maps?t=m&q=loc:32.657631+-117.073644,Northbound
+California,I-805,31642,Exit 10,EXIT 10,Plaza Blvd,"National City, California",https://www.iexitapp.com/California/I-805/Exit%2010/31642,32.673374,-117.082603,http://maps.google.com/maps?t=m&q=loc:32.673374+-117.082603,Northbound
+California,I-805,31643,Exit 11A,EXIT 11A,43rd St,"National City, California",https://www.iexitapp.com/California/I-805/Exit%2011A/31643,32.6852,-117.089933,http://maps.google.com/maps?t=m&q=loc:32.6852+-117.089933,Northbound
+California,I-805,31644,Exit 11B,EXIT 11B,47th St,"National City, California",https://www.iexitapp.com/California/I-805/Exit%2011B/31644,32.687297,-117.092474,http://maps.google.com/maps?t=m&q=loc:32.687297+-117.092474,Northbound
+California,I-805,31645,Exit 12A,EXIT 12A,Imperial Ave,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2012A/31645,32.699806,-117.094696,http://maps.google.com/maps?t=m&q=loc:32.699806+-117.094696,Northbound
+California,I-805,31646,Exit 12B,EXIT 12B,Market St,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2012B/31646,32.708848,-117.098027,http://maps.google.com/maps?t=m&q=loc:32.708848+-117.098027,Northbound
+California,I-805,31647,Exit 13A,EXIT 13A,"CA 94;CA 94
+          (MM: 13.0)","San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2013A/31647,32.710637,-117.09974,http://maps.google.com/maps?t=m&q=loc:32.710637+-117.09974,Northbound
+California,I-805,31648,Exit 13B,EXIT 13B,Home Ave,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2013B/31648,32.720307,-117.102576,http://maps.google.com/maps?t=m&q=loc:32.720307+-117.102576,Northbound
+California,I-805,31649,Exit 14,EXIT 14,"CA 15
+          (MM: 14.0)","San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2014/31649,32.730499,-117.108551,http://maps.google.com/maps?t=m&q=loc:32.730499+-117.108551,Northbound
+California,I-805,31650,Exit 15,EXIT 15,University Avenue,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2015/31650,32.744666,-117.119051,http://maps.google.com/maps?t=m&q=loc:32.744666+-117.119051,Northbound
+California,I-805,31651,Exit 16,EXIT 16,EI Cajon Boulevard,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2016/31651,32.751648,-117.123555,http://maps.google.com/maps?t=m&q=loc:32.751648+-117.123555,Northbound
+California,I-805,31653,Exit 18,EXIT 18,Murray Ridge Rd; Phyllis Pl,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2018/31653,32.780886,-117.13845,http://maps.google.com/maps?t=m&q=loc:32.780886+-117.13845,Northbound
+California,I-805,31654,Exit 20A,EXIT 20A,Mesa College Dr,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2020A/31654,32.798824,-117.149372,http://maps.google.com/maps?t=m&q=loc:32.798824+-117.149372,Northbound
+California,I-805,31655,Exit 20B,EXIT 20B,"CA 163
+          (MM: 20.0)","San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2020B/31655,32.804779,-117.150876,http://maps.google.com/maps?t=m&q=loc:32.804779+-117.150876,Northbound
+California,I-805,31656,Exit 21,EXIT 21,Balboa Ave; CA-274,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2021/31656,32.816329,-117.159202,http://maps.google.com/maps?t=m&q=loc:32.816329+-117.159202,Northbound
+California,I-805,31657,Exit 22,EXIT 22,Clairemont Mesa Blvd,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2022/31657,32.829033,-117.166647,http://maps.google.com/maps?t=m&q=loc:32.829033+-117.166647,Northbound
+California,I-805,31658,Exit 23,EXIT 23,"CA 52;CA 52
+          (MM: 23.0)","San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2023/31658,32.841706,-117.17434,http://maps.google.com/maps?t=m&q=loc:32.841706+-117.17434,Northbound
+California,I-805,31659,Exit 24,EXIT 24,Governor Dr,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2024/31659,32.854538,-117.182151,http://maps.google.com/maps?t=m&q=loc:32.854538+-117.182151,Northbound
+California,I-805,31660,Exit 25A,EXIT 25A,Nobel Dr,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2025A/31660,32.865154,-117.190262,http://maps.google.com/maps?t=m&q=loc:32.865154+-117.190262,Northbound
+California,I-805,31661,Exit 25B,EXIT 25B,Miramar Rd,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2025B/31661,32.87043,-117.195371,http://maps.google.com/maps?t=m&q=loc:32.87043+-117.195371,Northbound
+California,I-805,31662,Exit 27A,EXIT 27A,Sorrento Valley Road;Vista Sorrento Parkway;Mira Mesa Boulevard,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2027A/31662,32.883986,-117.202003,http://maps.google.com/maps?t=m&q=loc:32.883986+-117.202003,Northbound
+California,I-805,31663,Exit 27B,EXIT 27B,Sorrento Valley Rd,"San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2027B/31663,32.889053,-117.204362,http://maps.google.com/maps?t=m&q=loc:32.889053+-117.204362,Northbound
+California,I-805,55959,Exit 33A,EXIT 33A,"CA 56
+          (MM: 33.0)","San Diego, California",https://www.iexitapp.com/California/I-805/Exit%2033A/55959,32.929732,-117.240217,http://maps.google.com/maps?t=m&q=loc:32.929732+-117.240217,Northbound
+California,I-805,55960,Exit 32,EXIT 32,Carmel Mountain Rd,"Del Mar, California",https://www.iexitapp.com/California/I-805/Exit%2032/55960,32.915982,-117.231185,http://maps.google.com/maps?t=m&q=loc:32.915982+-117.231185,Northbound

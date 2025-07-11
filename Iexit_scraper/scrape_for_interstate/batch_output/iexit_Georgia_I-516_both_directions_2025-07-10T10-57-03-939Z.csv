@@ -1,0 +1,15 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Georgia,I-516,32518,Exit 8,EXIT 8,Exit,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%208/32518,32.100629,-81.145203,http://maps.google.com/maps?t=m&q=loc:32.100629+-81.145203,Eastbound
+Georgia,I-516,32519,Exit 7,EXIT 7,GA 25 Connector,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%207/32519,32.09084,-81.127927,http://maps.google.com/maps?t=m&q=loc:32.09084+-81.127927,Eastbound
+Georgia,I-516,32521,Exit 4,EXIT 4,Tremont Ave; Amtrak Station,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%204/32521,32.064791,-81.137618,http://maps.google.com/maps?t=m&q=loc:32.064791+-81.137618,Eastbound
+Georgia,I-516,32522,Exit 3,EXIT 3,US-17 S; US-80 E; Savannah; Brunswick,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%203/32522,32.056907,-81.140614,http://maps.google.com/maps?t=m&q=loc:32.056907+-81.140614,Eastbound
+Georgia,I-516,32523,Exit 2,EXIT 2,"Veterans Parkway
+          (MM: 2.0)","Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%202/32523,32.04444,-81.146551,http://maps.google.com/maps?t=m&q=loc:32.04444+-81.146551,Eastbound
+Georgia,I-516,56499,Exit 2,EXIT 2,"Veterans Parkway
+          (MM: 2.0)","Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%202/56499,32.042617,-81.14649,http://maps.google.com/maps?t=m&q=loc:32.042617+-81.14649,Westbound
+Georgia,I-516,32525,Exit 3,EXIT 3,US-17 S; US-80 E; Savannah; Brunswick,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%203/32525,32.05135,-81.142527,http://maps.google.com/maps?t=m&q=loc:32.05135+-81.142527,Westbound
+Georgia,I-516,32527,Exit 6,EXIT 6,Gwinnett St; Amtrak Station,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%206/32527,32.077482,-81.132642,http://maps.google.com/maps?t=m&q=loc:32.077482+-81.132642,Westbound
+Georgia,I-516,32528,Exit 7A,EXIT 7A,US-80; GA-25; Augusta Ave; Bay St,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%207A/32528,32.086515,-81.128619,http://maps.google.com/maps?t=m&q=loc:32.086515+-81.128619,Westbound
+Georgia,I-516,32529,Exit 7B,EXIT 7B,W Lathrop Ave,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%207B/32529,32.089274,-81.127342,http://maps.google.com/maps?t=m&q=loc:32.089274+-81.127342,Westbound
+Georgia,I-516,56503,Exit 8,EXIT 8,GA-25 N; Burnsed Blvd; Bay St; Garden City,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%208/56503,32.098122,-81.140539,http://maps.google.com/maps?t=m&q=loc:32.098122+-81.140539,Westbound
+Georgia,I-516,56504,Exit,EXIT,Exit,"Savannah, Georgia",https://www.iexitapp.com/Georgia/I-516/Exit%20/56504,32.101586,-81.146306,http://maps.google.com/maps?t=m&q=loc:32.101586+-81.146306,Westbound

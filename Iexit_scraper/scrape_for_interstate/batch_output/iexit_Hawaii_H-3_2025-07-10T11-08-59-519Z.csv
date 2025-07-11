@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Hawaii,H-3,55695,I H201,EXIT,I H201,"Aiea, Hawaii",https://www.iexitapp.com/Hawaii/H-3/Exit%20/55695,21.369653,-157.919318,http://maps.google.com/maps?t=m&q=loc:21.369653+-157.919318,Eastbound
+Hawaii,H-3,31186,Exit 9,EXIT 9,Hawaii 63 N; Likelike Hwy,"Kaneohe, Hawaii",https://www.iexitapp.com/Hawaii/H-3/Exit%209/31186,21.393291,-157.813145,http://maps.google.com/maps?t=m&q=loc:21.393291+-157.813145,Eastbound
+Hawaii,H-3,31187,Exit 11,EXIT 11,Kamehameha Hwy; HI-83,"Kaneohe, Hawaii",https://www.iexitapp.com/Hawaii/H-3/Exit%2011/31187,21.382174,-157.794073,http://maps.google.com/maps?t=m&q=loc:21.382174+-157.794073,Eastbound
+Hawaii,H-3,31188,Exit 14,EXIT 14,HI-65; Kailua,"Kailua, Hawaii",https://www.iexitapp.com/Hawaii/H-3/Exit%2014/31188,21.40411,-157.767589,http://maps.google.com/maps?t=m&q=loc:21.40411+-157.767589,Eastbound
+Hawaii,H-3,31189,Truck Turnout,TURN OUT,Truck Turnout,"Kailua, Hawaii",https://www.iexitapp.com/Hawaii/H-3/Truck%20Turnout/31189,21.417161,-157.762254,http://maps.google.com/maps?t=m&q=loc:21.417161+-157.762254,Eastbound
+Hawaii,H-3,31190,Exit 15,EXIT 15,Kaneohe Bay Dr,"Kailua, Hawaii",https://www.iexitapp.com/Hawaii/H-3/Exit%2015/31190,21.426907,-157.760154,http://maps.google.com/maps?t=m&q=loc:21.426907+-157.760154,Eastbound
+Hawaii,H-3,55698,Inspection Station,INSPECTION STATION,Inspection Station,"Kailua, Hawaii",https://www.iexitapp.com/Hawaii/H-3/Inspection%20Station/55698,21.435282,-157.75706,http://maps.google.com/maps?t=m&q=loc:21.435282+-157.75706,Eastbound

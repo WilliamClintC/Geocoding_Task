@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Colorado,I-225,32706,Exit 4,EXIT 4,Parker Rd; CO-83,"Englewood, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%204/32706,39.656169,-104.847731,http://maps.google.com/maps?t=m&q=loc:39.656169+-104.847731,Northbound
+Colorado,I-225,32707,Exit 5,EXIT 5,Iliff Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%205/32707,39.670703,-104.828822,http://maps.google.com/maps?t=m&q=loc:39.670703+-104.828822,Northbound
+Colorado,I-225,56955,Exit 7,EXIT 7,Mississippi Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%207/56955,39.692709,-104.828778,http://maps.google.com/maps?t=m&q=loc:39.692709+-104.828778,Northbound
+Colorado,I-225,32709,Exit 8,EXIT 8,Alameda Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%208/32709,39.707269,-104.827407,http://maps.google.com/maps?t=m&q=loc:39.707269+-104.827407,Northbound
+Colorado,I-225,32710,Exit 9,EXIT 9,CO-30; 6th Ave,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%209/32710,39.721643,-104.825577,http://maps.google.com/maps?t=m&q=loc:39.721643+-104.825577,Northbound
+Colorado,I-225,56956,Exit 10A,EXIT 10A,US-40; US-287,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%2010A/56956,39.735162,-104.825218,http://maps.google.com/maps?t=m&q=loc:39.735162+-104.825218,Northbound
+Colorado,I-225,56957,Exit 10B,EXIT 10B,East 17th Place,"Aurora, Colorado",https://www.iexitapp.com/Colorado/I-225/Exit%2010B/56957,39.740532,-104.825228,http://maps.google.com/maps?t=m&q=loc:39.740532+-104.825228,Northbound

@@ -1,0 +1,26 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Maryland,I-97,31041,Exit 7,EXIT 7,"MD 32
+          (MM: 7.0)","Crownsville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%207/31041,39.05617,-76.630826,http://maps.google.com/maps?t=m&q=loc:39.05617+-76.630826,Northbound
+Maryland,I-97,31042,Exit 10,EXIT 10,Veterans Hwy; Benfield Blvd; Severna Park,"Millersville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2010/31042,39.088135,-76.624822,http://maps.google.com/maps?t=m&q=loc:39.088135+-76.624822,Northbound
+Maryland,I-97,31043,Exit 12,EXIT 12,Glen Burnie; New Cut Rd; MD-3 BUS,"Millersville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2012/31043,39.118064,-76.636643,http://maps.google.com/maps?t=m&q=loc:39.118064+-76.636643,Northbound
+Maryland,I-97,31044,Exit 13,EXIT 13,MD-174; Quarterfield Rd,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2013/31044,39.139545,-76.644094,http://maps.google.com/maps?t=m&q=loc:39.139545+-76.644094,Northbound
+Maryland,I-97,31045,Exit 14A-B,EXIT 14A-B,"MD 100;MD 100
+          (MM: 14.0)","Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2014A-B/31045,39.145813,-76.644694,http://maps.google.com/maps?t=m&q=loc:39.145813+-76.644694,Northbound
+Maryland,I-97,31046,Exit 15A,EXIT 15A,MD-176 E; Dorsey Rd; Glen Burnie,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2015A/31046,39.162069,-76.643814,http://maps.google.com/maps?t=m&q=loc:39.162069+-76.643814,Northbound
+Maryland,I-97,31047,Exit 15B,EXIT 15B,MD-176 W; Dorsey Rd,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2015B/31047,39.16678,-76.641596,http://maps.google.com/maps?t=m&q=loc:39.16678+-76.641596,Northbound
+Maryland,I-97,31048,Exit 16,EXIT 16,MD 648,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2016/31048,39.175167,-76.63693,http://maps.google.com/maps?t=m&q=loc:39.175167+-76.63693,Northbound
+Maryland,I-97,31049,Exit 17A,EXIT 17A,"I 895A
+          (MM: 17.0)","Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2017A/31049,39.194514,-76.632266,http://maps.google.com/maps?t=m&q=loc:39.194514+-76.632266,Northbound
+Maryland,I-97,55651,I 695,EXIT,I 695,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%20/55651,39.197285,-76.631852,http://maps.google.com/maps?t=m&q=loc:39.197285+-76.631852,Northbound
+Maryland,I-97,31050,Exit 16,EXIT 16,MD-648; Balt-Annap Blvd; Ferndale; Glen Burnie,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2016/31050,39.180264,-76.633782,http://maps.google.com/maps?t=m&q=loc:39.180264+-76.633782,Southbound
+Maryland,I-97,31051,Exit 15,EXIT 15,MD-162; Aviation Blvd; B w I Airport,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2015/31051,39.173953,-76.63804,http://maps.google.com/maps?t=m&q=loc:39.173953+-76.63804,Southbound
+Maryland,I-97,31052,Exit 14B-A,EXIT 14B-A,"MD 100;MD 100
+          (MM: 14.0)","Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2014B-A/31052,39.161471,-76.644487,http://maps.google.com/maps?t=m&q=loc:39.161471+-76.644487,Southbound
+Maryland,I-97,31053,Exit 13,EXIT 13,MD-174; Quarterfield Rd,"Glen Burnie, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2013/31053,39.145247,-76.644894,http://maps.google.com/maps?t=m&q=loc:39.145247+-76.644894,Southbound
+Maryland,I-97,31054,Exit 12,EXIT 12,New Cut Rd,"Millersville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2012/31054,39.132903,-76.643343,http://maps.google.com/maps?t=m&q=loc:39.132903+-76.643343,Southbound
+Maryland,I-97,31055,Exit 10B,EXIT 10B,Benfield Boulevard W,"Millersville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2010B/31055,39.099816,-76.628519,http://maps.google.com/maps?t=m&q=loc:39.099816+-76.628519,Southbound
+Maryland,I-97,31056,Exit 10A,EXIT 10A,Benfield Boulevard E; Veterans Hwy; Severna Park,"Millersville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%2010A/31056,39.09531,-76.627219,http://maps.google.com/maps?t=m&q=loc:39.09531+-76.627219,Southbound
+Maryland,I-97,31057,Exit 7,EXIT 7,"MD 3
+          (MM: 7.0)","Millersville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%207/31057,39.075217,-76.630374,http://maps.google.com/maps?t=m&q=loc:39.075217+-76.630374,Southbound
+Maryland,I-97,31058,Exit 5,EXIT 5,Maryland 178; Crownsville,"Crownsville, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%205/31058,39.04759,-76.6223,http://maps.google.com/maps?t=m&q=loc:39.04759+-76.6223,Southbound
+Maryland,I-97,31059,US 50;US 301;US 50;US 301,EXIT,US 50;US 301;US 50;US 301,"Annapolis, Maryland",https://www.iexitapp.com/Maryland/I-97/Exit%20/31059,38.98827,-76.578412,http://maps.google.com/maps?t=m&q=loc:38.98827+-76.578412,Southbound

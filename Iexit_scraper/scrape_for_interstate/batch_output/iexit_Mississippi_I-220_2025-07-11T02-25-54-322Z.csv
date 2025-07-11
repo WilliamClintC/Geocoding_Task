@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Mississippi,I-220,32566,Exit 9,EXIT 9,Hanging Moss Rd.,"Jackson, Mississippi",https://www.iexitapp.com/Mississippi/I-220/Exit%209/32566,32.399696,-90.17789,http://maps.google.com/maps?t=m&q=loc:32.399696+-90.17789,Westbound
+Mississippi,I-220,32567,Exit 8,EXIT 8,Watkins Dr,"Jackson, Mississippi",https://www.iexitapp.com/Mississippi/I-220/Exit%208/32567,32.392103,-90.188891,http://maps.google.com/maps?t=m&q=loc:32.392103+-90.188891,Westbound
+Mississippi,I-220,32568,Exit 5,EXIT 5,US 49 N; Delta Dr; Medgar Evers Blvd,"Jackson, Mississippi",https://www.iexitapp.com/Mississippi/I-220/Exit%205/32568,32.362775,-90.231227,http://maps.google.com/maps?t=m&q=loc:32.362775+-90.231227,Westbound
+Mississippi,I-220,32569,Exit 3,EXIT 3,Industrial Drive,"Jackson, Mississippi",https://www.iexitapp.com/Mississippi/I-220/Exit%203/32569,32.345149,-90.245746,http://maps.google.com/maps?t=m&q=loc:32.345149+-90.245746,Westbound
+Mississippi,I-220,32570,Exit 2,EXIT 2,Clinton Blvd; Capitol St,"Jackson, Mississippi",https://www.iexitapp.com/Mississippi/I-220/Exit%202/32570,32.326824,-90.246887,http://maps.google.com/maps?t=m&q=loc:32.326824+-90.246887,Westbound
+Mississippi,I-220,32571,Exit 1B,EXIT 1B,US-80 W,"Jackson, Mississippi",https://www.iexitapp.com/Mississippi/I-220/Exit%201B/32571,32.304006,-90.245459,http://maps.google.com/maps?t=m&q=loc:32.304006+-90.245459,Westbound
+Mississippi,I-220,32572,Exit 1A,EXIT 1A,US-80 E,"Jackson, Mississippi",https://www.iexitapp.com/Mississippi/I-220/Exit%201A/32572,32.299991,-90.246895,http://maps.google.com/maps?t=m&q=loc:32.299991+-90.246895,Westbound

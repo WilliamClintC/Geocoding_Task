@@ -1,0 +1,7 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-990,37281,I-290,EXIT,I-290,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-990/Exit%20/37281,43.000549,-78.804875,http://maps.google.com/maps?t=m&q=loc:43.000549+-78.804875,Eastbound
+New York,I-990,37271,Exit 1,EXIT 1,Audubon Parkway – University at Buffalo,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-990/Exit%201/37271,43.0054,-78.802862,http://maps.google.com/maps?t=m&q=loc:43.0054+-78.802862,Eastbound
+New York,I-990,37272,Exit 2,EXIT 2,Sweet Home Road (NY 952T),"Buffalo, New York",https://www.iexitapp.com/New%20York/I-990/Exit%202/37272,43.01806,-78.798635,http://maps.google.com/maps?t=m&q=loc:43.01806+-78.798635,Eastbound
+New York,I-990,37273,Exit 3,EXIT 3,Audubon Parkway – University at Buffalo,"Getzville, New York",https://www.iexitapp.com/New%20York/I-990/Exit%203/37273,43.024568,-78.7869,http://maps.google.com/maps?t=m&q=loc:43.024568+-78.7869,Eastbound
+New York,I-990,37274,Exit 4,EXIT 4,North French Road (CR 299),"Getzville, New York",https://www.iexitapp.com/New%20York/I-990/Exit%204/37274,43.03029,-78.760843,http://maps.google.com/maps?t=m&q=loc:43.03029+-78.760843,Eastbound
+New York,I-990,37275,Exit 5,EXIT 5,NY 263 (Millersport Highway),"Getzville, New York",https://www.iexitapp.com/New%20York/I-990/Exit%205/37275,43.04732,-78.739179,http://maps.google.com/maps?t=m&q=loc:43.04732+-78.739179,Eastbound

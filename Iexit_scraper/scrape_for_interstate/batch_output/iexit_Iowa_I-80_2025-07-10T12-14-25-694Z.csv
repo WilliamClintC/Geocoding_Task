@@ -1,0 +1,110 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Iowa,I-80,39640,Exit 306,EXIT 306,US-67; Le Claire; Bettendorf,"Le Claire, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20306/39640,41.585447,-90.368158,http://maps.google.com/maps?t=m&q=loc:41.585447+-90.368158,Westbound
+Iowa,I-80,39641,Exit 301,EXIT 301,Middle Rd,"Bettendorf, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20301/39641,41.597457,-90.451161,http://maps.google.com/maps?t=m&q=loc:41.597457+-90.451161,Westbound
+Iowa,I-80,39642,Rest Area,REST AREA,"Rest Area
+          (MM: 300.0)","Bettendorf, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39642,41.596911,-90.475242,http://maps.google.com/maps?t=m&q=loc:41.596911+-90.475242,Westbound
+Iowa,I-80,39644,Exit 295B,EXIT 295B,"US 61
+          (MM: 295.0)","Davenport, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20295B/39644,41.595198,-90.563152,http://maps.google.com/maps?t=m&q=loc:41.595198+-90.563152,Westbound
+Iowa,I-80,52664,Exit 295A,EXIT 295A,US 61 Business,"Davenport, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20295A/52664,41.596486,-90.571193,http://maps.google.com/maps?t=m&q=loc:41.596486+-90.571193,Westbound
+Iowa,I-80,39645,Exit 292,EXIT 292,IA-130 W; Northwest Blvd; Maysville,"Davenport, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20292/39645,41.599982,-90.610992,http://maps.google.com/maps?t=m&q=loc:41.599982+-90.610992,Westbound
+Iowa,I-80,39646,Exit 290,EXIT 290,"I 280;US 6;US 61
+          (MM: 290.0)","Davenport, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20290/39646,41.60376,-90.665224,http://maps.google.com/maps?t=m&q=loc:41.60376+-90.665224,Westbound
+Iowa,I-80,39647,Exit 284,EXIT 284,Walcott; Plain View,"Walcott, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20284/39647,41.615867,-90.779213,http://maps.google.com/maps?t=m&q=loc:41.615867+-90.779213,Westbound
+Iowa,I-80,39648,Exit 280,EXIT 280,Stockton; New Liberty,"Durant, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20280/39648,41.633108,-90.855137,http://maps.google.com/maps?t=m&q=loc:41.633108+-90.855137,Westbound
+Iowa,I-80,39649,Exit 277,EXIT 277,Durantt,"Durant, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20277/39649,41.633704,-90.914077,http://maps.google.com/maps?t=m&q=loc:41.633704+-90.914077,Westbound
+Iowa,I-80,39650,Exit 271,EXIT 271,US-6 W; IA-38 S; Muscatine; Wilton,"Tipton, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20271/39650,41.6353,-91.031469,http://maps.google.com/maps?t=m&q=loc:41.6353+-91.031469,Westbound
+Iowa,I-80,39651,Rest Area,REST AREA,"Rest Area
+          (MM: 270.0)","Tipton, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39651,41.640558,-91.051327,http://maps.google.com/maps?t=m&q=loc:41.640558+-91.051327,Westbound
+Iowa,I-80,39652,Parking Area,PARKING AREA,"Parking Area
+          (MM: 269.0)","Tipton, Iowa",https://www.iexitapp.com/Iowa/I-80/Parking%20Area/39652,41.644616,-91.082163,http://maps.google.com/maps?t=m&q=loc:41.644616+-91.082163,Westbound
+Iowa,I-80,39653,Exit 267,EXIT 267,IA-38 N; Tipton; Moscow,"Tipton, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20267/39653,41.645024,-91.10974,http://maps.google.com/maps?t=m&q=loc:41.645024+-91.10974,Westbound
+Iowa,I-80,39654,Exit 265,EXIT 265,Atalissa,"Tipton, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20265/39654,41.646012,-91.146722,http://maps.google.com/maps?t=m&q=loc:41.646012+-91.146722,Westbound
+Iowa,I-80,39655,Exit 259,EXIT 259,W Liberty,"West Branch, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20259/39655,41.66347,-91.245371,http://maps.google.com/maps?t=m&q=loc:41.66347+-91.245371,Westbound
+Iowa,I-80,39656,Exit 254,EXIT 254,W Branch,"West Branch, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20254/39656,41.664194,-91.34041,http://maps.google.com/maps?t=m&q=loc:41.664194+-91.34041,Westbound
+Iowa,I-80,39657,Exit 249,EXIT 249,Herbert Hoover Hwy,"Iowa City, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20249/39657,41.669045,-91.438043,http://maps.google.com/maps?t=m&q=loc:41.669045+-91.438043,Westbound
+Iowa,I-80,39658,Exit 246,EXIT 246,IA-1; Dodge St; Mt Vernon,"Iowa City, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20246/39658,41.686669,-91.491792,http://maps.google.com/maps?t=m&q=loc:41.686669+-91.491792,Westbound
+Iowa,I-80,39659,Exit 244,EXIT 244,Dubuque St; Coralville Lake,"Iowa City, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20244/39659,41.687569,-91.533424,http://maps.google.com/maps?t=m&q=loc:41.687569+-91.533424,Westbound
+Iowa,I-80,39660,Exit 242,EXIT 242,1st Ave; Hospitals - Sports Area,"Iowa City, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20242/39660,41.685682,-91.558577,http://maps.google.com/maps?t=m&q=loc:41.685682+-91.558577,Westbound
+Iowa,I-80,39661,Exit 240,EXIT 240,Coral Ridge Ave; N Liberty; US-6,"Iowa City, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20240/39661,41.693775,-91.600192,http://maps.google.com/maps?t=m&q=loc:41.693775+-91.600192,Westbound
+Iowa,I-80,39662,Exit 239B,EXIT 239B,"I 380;US 218;IA 27
+          (MM: 239.0)","Iowa City, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20239B/39662,41.694453,-91.629175,http://maps.google.com/maps?t=m&q=loc:41.694453+-91.629175,Westbound
+Iowa,I-80,52668,Exit 239A,EXIT 239A,"I 380;US 218;IA 27
+          (MM: 239.0)","Iowa City, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20239A/52668,41.694448,-91.638554,http://maps.google.com/maps?t=m&q=loc:41.694448+-91.638554,Westbound
+Iowa,I-80,39663,Exit 237,EXIT 237,Tiffin,"Tiffin, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20237/39663,41.69397,-91.660265,http://maps.google.com/maps?t=m&q=loc:41.69397+-91.660265,Westbound
+Iowa,I-80,39664,Rest Area,REST AREA,"Rest Area
+          (MM: 237.0)","Tiffin, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39664,41.694284,-91.675868,http://maps.google.com/maps?t=m&q=loc:41.694284+-91.675868,Westbound
+Iowa,I-80,52670,Exit 230,EXIT 230,Oxford; Kalona Village Museum,"Oxford, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20230/52670,41.687779,-91.79709,http://maps.google.com/maps?t=m&q=loc:41.687779+-91.79709,Westbound
+Iowa,I-80,39666,Exit 225,EXIT 225,US-151 N; Amana Colonies,"South Amana, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20225/39666,41.687657,-91.903922,http://maps.google.com/maps?t=m&q=loc:41.687657+-91.903922,Westbound
+Iowa,I-80,39667,Exit 220,EXIT 220,IA-149 S; Williamsburg; Parnell,"Williamsburg, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20220/39667,41.687199,-92.00159,http://maps.google.com/maps?t=m&q=loc:41.687199+-92.00159,Westbound
+Iowa,I-80,39668,Exit 216,EXIT 216,Marengo; N English,"Marengo, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20216/39668,41.68824,-92.058889,http://maps.google.com/maps?t=m&q=loc:41.68824+-92.058889,Westbound
+Iowa,I-80,39669,Exit 211,EXIT 211,Millersburg; Ladora,"Victor, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20211/39669,41.696021,-92.155579,http://maps.google.com/maps?t=m&q=loc:41.696021+-92.155579,Westbound
+Iowa,I-80,39670,Temporarily Closed - Rest Area,REST AREA,"Temporarily Closed - Rest Area
+          (MM: 208.0)","Victor, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39670,41.695927,-92.225887,http://maps.google.com/maps?t=m&q=loc:41.695927+-92.225887,Westbound
+Iowa,I-80,39671,Exit 205,EXIT 205,Victor,"Victor, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20205/39671,41.696288,-92.271754,http://maps.google.com/maps?t=m&q=loc:41.696288+-92.271754,Westbound
+Iowa,I-80,39672,Exit 201,EXIT 201,IA-21; Belle Plaine; What Cheer,"Brooklyn, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20201/39672,41.695681,-92.350855,http://maps.google.com/maps?t=m&q=loc:41.695681+-92.350855,Westbound
+Iowa,I-80,39673,Exit 197,EXIT 197,County Road V18,"Brooklyn, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20197/39673,41.696225,-92.43831,http://maps.google.com/maps?t=m&q=loc:41.696225+-92.43831,Westbound
+Iowa,I-80,39674,Exit 191,EXIT 191,US-63; Tama; Montezuma,"Malcom, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20191/39674,41.696546,-92.54433,http://maps.google.com/maps?t=m&q=loc:41.696546+-92.54433,Westbound
+Iowa,I-80,39675,Exit 182,EXIT 182,Iowa 146; Grinnell; New Sharon,"Grinnell, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20182/39675,41.696046,-92.721417,http://maps.google.com/maps?t=m&q=loc:41.696046+-92.721417,Westbound
+Iowa,I-80,39676,Rest Area,REST AREA,"Rest Area
+          (MM: 180.0)","Grinnell, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39676,41.69555,-92.768268,http://maps.google.com/maps?t=m&q=loc:41.69555+-92.768268,Westbound
+Iowa,I-80,39677,Exit 179,EXIT 179,Lynnville; Oakland Acres,"Grinnell, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20179/39677,41.695447,-92.787905,http://maps.google.com/maps?t=m&q=loc:41.695447+-92.787905,Westbound
+Iowa,I-80,39678,Exit 173,EXIT 173,IA-224; Kellogg; Sully,"Newton, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20173/39678,41.683054,-92.896266,http://maps.google.com/maps?t=m&q=loc:41.683054+-92.896266,Westbound
+Iowa,I-80,39679,Exit 168,EXIT 168,Iowa Speedway Dr; Newton,"Newton, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20168/39679,41.68239,-92.993144,http://maps.google.com/maps?t=m&q=loc:41.68239+-92.993144,Westbound
+Iowa,I-80,39680,Exit 164,EXIT 164,US-6 E,"Newton, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20164/39680,41.683911,-93.071609,http://maps.google.com/maps?t=m&q=loc:41.683911+-93.071609,Westbound
+Iowa,I-80,39681,Exit 159,EXIT 159,CR F48,"Colfax, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20159/39681,41.689078,-93.175672,http://maps.google.com/maps?t=m&q=loc:41.689078+-93.175672,Westbound
+Iowa,I-80,39682,Exit 155,EXIT 155,IA-117; Mingo,"Colfax, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20155/39682,41.693546,-93.240183,http://maps.google.com/maps?t=m&q=loc:41.693546+-93.240183,Westbound
+Iowa,I-80,39683,Weigh Station,WEIGH STATION,Weigh Station,"Colfax, Iowa",https://www.iexitapp.com/Iowa/I-80/Weigh%20Station/39683,41.681656,-93.321236,http://maps.google.com/maps?t=m&q=loc:41.681656+-93.321236,Westbound
+Iowa,I-80,39684,Exit 149,EXIT 149,Mitchellville,"Mitchellville, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20149/39684,41.680642,-93.360644,http://maps.google.com/maps?t=m&q=loc:41.680642+-93.360644,Westbound
+Iowa,I-80,39685,Rest Area,REST AREA,"Rest Area
+          (MM: 147.0)","Mitchellville, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39685,41.680552,-93.385993,http://maps.google.com/maps?t=m&q=loc:41.680552+-93.385993,Westbound
+Iowa,I-80,39686,Exit 143,EXIT 143,Altoona,"Altoona, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20143/39686,41.669744,-93.457111,http://maps.google.com/maps?t=m&q=loc:41.669744+-93.457111,Westbound
+Iowa,I-80,52671,Exit 142,EXIT 142,NE Hubbell Ave,"Altoona, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20142/52671,41.661944,-93.489254,http://maps.google.com/maps?t=m&q=loc:41.661944+-93.489254,Westbound
+Iowa,I-80,39688,Exit 141,EXIT 141,"US 65
+          (MM: 141.0)","Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20141/39688,41.660036,-93.522493,http://maps.google.com/maps?t=m&q=loc:41.660036+-93.522493,Westbound
+Iowa,I-80,39691,Exit 136,EXIT 136,U.S. 69; East 14th Street; Ankeny,"Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20136/39691,41.650465,-93.591564,http://maps.google.com/maps?t=m&q=loc:41.650465+-93.591564,Westbound
+Iowa,I-80,39692,Exit 135,EXIT 135,IA-415; 2nd Ave; Polk City,"Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20135/39692,41.649617,-93.611301,http://maps.google.com/maps?t=m&q=loc:41.649617+-93.611301,Westbound
+Iowa,I-80,39693,Exit 131,EXIT 131,Merle Hay Rd; IA-28 S; Saylorville Lake,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20131/39693,41.651857,-93.689458,http://maps.google.com/maps?t=m&q=loc:41.651857+-93.689458,Westbound
+Iowa,I-80,39694,Exit 129,EXIT 129,NW 86th St; Camp Dodge,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20129/39694,41.652537,-93.727563,http://maps.google.com/maps?t=m&q=loc:41.652537+-93.727563,Westbound
+Iowa,I-80,39695,Exit 127,EXIT 127,IA-141 W; Urbandale; Grimes,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20127/39695,41.651392,-93.767128,http://maps.google.com/maps?t=m&q=loc:41.651392+-93.767128,Westbound
+Iowa,I-80,39696,Exit 126,EXIT 126,Douglas Ave; Urbandale,"Urbandale, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20126/39696,41.635714,-93.777101,http://maps.google.com/maps?t=m&q=loc:41.635714+-93.777101,Westbound
+Iowa,I-80,39697,Exit 125,EXIT 125,U.S. 6; Hickman Road; Adel,"Clive, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20125/39697,41.620059,-93.77696,http://maps.google.com/maps?t=m&q=loc:41.620059+-93.77696,Westbound
+Iowa,I-80,52675,Exit 124,EXIT 124,University Ave; Clive,"Clive, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20124/52675,41.608758,-93.777001,http://maps.google.com/maps?t=m&q=loc:41.608758+-93.777001,Westbound
+Iowa,I-80,39701,Exit 121,EXIT 121,Jordan Creek Pkwy; W Des Moines,"West Des Moines, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20121/39701,41.592194,-93.801218,http://maps.google.com/maps?t=m&q=loc:41.592194+-93.801218,Westbound
+Iowa,I-80,52676,Exit 118,EXIT 118,Grand Prairie Pkwy,"Waukee, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20118/52676,41.571755,-93.849026,http://maps.google.com/maps?t=m&q=loc:41.571755+-93.849026,Westbound
+Iowa,I-80,39703,Exit 117,EXIT 117,Waukee; Booneville,"Waukee, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20117/39703,41.563889,-93.874659,http://maps.google.com/maps?t=m&q=loc:41.563889+-93.874659,Westbound
+Iowa,I-80,39704,Exit 113,EXIT 113,Dallas County,"Adel, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20113/39704,41.549083,-93.949706,http://maps.google.com/maps?t=m&q=loc:41.549083+-93.949706,Westbound
+Iowa,I-80,39705,Exit 110,EXIT 110,US-169; US-6; Adel; Winterset,"De Soto, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20110/39705,41.541161,-94.005059,http://maps.google.com/maps?t=m&q=loc:41.541161+-94.005059,Westbound
+Iowa,I-80,39706,Exit 106,EXIT 106,Dallas County,"De Soto, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20106/39706,41.520728,-94.072453,http://maps.google.com/maps?t=m&q=loc:41.520728+-94.072453,Westbound
+Iowa,I-80,39707,Exit 104,EXIT 104,Earlham; Dallas County,"De Soto, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20104/39707,41.517759,-94.117947,http://maps.google.com/maps?t=m&q=loc:41.517759+-94.117947,Westbound
+Iowa,I-80,39708,Exit 100,EXIT 100,Redfield; Dexter; Dallas County,"Dexter, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%20100/39708,41.516725,-94.192102,http://maps.google.com/maps?t=m&q=loc:41.516725+-94.192102,Westbound
+Iowa,I-80,39709,Exit 97,EXIT 97,Dexter; Adair County,"Dexter, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2097/39709,41.493691,-94.236695,http://maps.google.com/maps?t=m&q=loc:41.493691+-94.236695,Westbound
+Iowa,I-80,39710,Exit 93,EXIT 93,Stuart; Panora,"Stuart, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2093/39710,41.4931,-94.313759,http://maps.google.com/maps?t=m&q=loc:41.4931+-94.313759,Westbound
+Iowa,I-80,39711,Exit 88,EXIT 88,Menlo,"Stuart, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2088/39711,41.49608,-94.406111,http://maps.google.com/maps?t=m&q=loc:41.49608+-94.406111,Westbound
+Iowa,I-80,39712,Exit 86,EXIT 86,IA-25; Guthrie Center; Greenfield,"Casey, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2086/39712,41.496052,-94.448284,http://maps.google.com/maps?t=m&q=loc:41.496052+-94.448284,Westbound
+Iowa,I-80,39713,Exit 83,EXIT 83,Antique Country Dr; Casey,"Casey, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2083/39713,41.496298,-94.516096,http://maps.google.com/maps?t=m&q=loc:41.496298+-94.516096,Westbound
+Iowa,I-80,39714,Rest Area,REST AREA,"Rest Area
+          (MM: 80.0)","Adair, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39714,41.496912,-94.568038,http://maps.google.com/maps?t=m&q=loc:41.496912+-94.568038,Westbound
+Iowa,I-80,39715,Exit 76,EXIT 76,Adair; Adair County,"Adair, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2076/39715,41.493292,-94.639157,http://maps.google.com/maps?t=m&q=loc:41.493292+-94.639157,Westbound
+Iowa,I-80,39716,Exit 75,EXIT 75,County Road G30,"Adair, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2075/39716,41.493266,-94.656558,http://maps.google.com/maps?t=m&q=loc:41.493266+-94.656558,Westbound
+Iowa,I-80,39717,Exit 70,EXIT 70,IA-148 S; Anita; Exira,"Anita, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2070/39717,41.496984,-94.754044,http://maps.google.com/maps?t=m&q=loc:41.496984+-94.754044,Westbound
+Iowa,I-80,39718,Exit 64,EXIT 64,Wiota; Cass County,"Anita, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2064/39718,41.497466,-94.866079,http://maps.google.com/maps?t=m&q=loc:41.497466+-94.866079,Westbound
+Iowa,I-80,39719,Exit 60,EXIT 60,US-6; US-71; Atlantic; Audubon,"Atlantic, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2060/39719,41.497263,-94.937648,http://maps.google.com/maps?t=m&q=loc:41.497263+-94.937648,Westbound
+Iowa,I-80,39720,Exit 57,EXIT 57,Atlantic; Cass County N16,"Atlantic, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2057/39720,41.497393,-94.997434,http://maps.google.com/maps?t=m&q=loc:41.497393+-94.997434,Westbound
+Iowa,I-80,39721,Exit 54,EXIT 54,IA 173,"Marne, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2054/39721,41.496962,-95.053364,http://maps.google.com/maps?t=m&q=loc:41.496962+-95.053364,Westbound
+Iowa,I-80,39722,Exit 51,EXIT 51,Marne; Cass County,"Marne, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2051/39722,41.497107,-95.112884,http://maps.google.com/maps?t=m&q=loc:41.497107+-95.112884,Westbound
+Iowa,I-80,39723,Exit 46,EXIT 46,Antique City Dr; Walnut; Pottawattamie County,"Walnut, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2046/39723,41.497384,-95.216649,http://maps.google.com/maps?t=m&q=loc:41.497384+-95.216649,Westbound
+Iowa,I-80,39724,Weigh Station,WEIGH STATION,Weigh Station,"Walnut, Iowa",https://www.iexitapp.com/Iowa/I-80/Weigh%20Station/39724,41.497534,-95.255653,http://maps.google.com/maps?t=m&q=loc:41.497534+-95.255653,Westbound
+Iowa,I-80,39725,Exit 40,EXIT 40,US-59; Avoca; Harlan,"Avoca, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2040/39725,41.497774,-95.3305,http://maps.google.com/maps?t=m&q=loc:41.497774+-95.3305,Westbound
+Iowa,I-80,39726,Exit 34,EXIT 34,Shelby; Pottawattamie County,"Avoca, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2034/39726,41.498737,-95.444336,http://maps.google.com/maps?t=m&q=loc:41.498737+-95.444336,Westbound
+Iowa,I-80,39727,Parking Area,PARKING AREA,Parking Area,"Shelby, Iowa",https://www.iexitapp.com/Iowa/I-80/Parking%20Area/39727,41.499071,-95.487583,http://maps.google.com/maps?t=m&q=loc:41.499071+-95.487583,Westbound
+Iowa,I-80,39728,Exit 29,EXIT 29,Minden; Pottawattamie County,"Minden, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2029/39728,41.498812,-95.53962,http://maps.google.com/maps?t=m&q=loc:41.498812+-95.53962,Westbound
+Iowa,I-80,39729,Exit 27,EXIT 27,"I 680
+          (MM: 27.0)","Minden, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2027/39729,41.498985,-95.577613,http://maps.google.com/maps?t=m&q=loc:41.498985+-95.577613,Westbound
+Iowa,I-80,39730,Exit 23,EXIT 23,Neola; Pottawattamie County,"Neola, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2023/39730,41.443443,-95.606898,http://maps.google.com/maps?t=m&q=loc:41.443443+-95.606898,Westbound
+Iowa,I-80,39731,Rest Area,REST AREA,"Rest Area
+          (MM: 19.0)","Neola, Iowa",https://www.iexitapp.com/Iowa/I-80/Rest%20Area/39731,41.406567,-95.655,http://maps.google.com/maps?t=m&q=loc:41.406567+-95.655,Westbound
+Iowa,I-80,39732,Exit 17,EXIT 17,Underwood; Pottawattamie County,"Underwood, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%2017/39732,41.380502,-95.671514,http://maps.google.com/maps?t=m&q=loc:41.380502+-95.671514,Westbound
+Iowa,I-80,39733,Exit 8,EXIT 8,Oakland,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%208/39733,41.28318,-95.782766,http://maps.google.com/maps?t=m&q=loc:41.28318+-95.782766,Westbound
+Iowa,I-80,39734,Exit 5,EXIT 5,Madison Ave; Council Bluffs,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%205/39734,41.244488,-95.819935,http://maps.google.com/maps?t=m&q=loc:41.244488+-95.819935,Westbound
+Iowa,I-80,39736,Exit 3,EXIT 3,Council Bluffs N; Business District N; Lake Manawa N,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%203/39736,41.232204,-95.850994,http://maps.google.com/maps?t=m&q=loc:41.232204+-95.850994,Westbound
+Iowa,I-80,52679,Exit 1B,EXIT 1B,South 24th Street; Council Bluffs,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-80/Exit%201B/52679,41.232611,-95.873221,http://maps.google.com/maps?t=m&q=loc:41.232611+-95.873221,Westbound

@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-670,34694,Exit 2P,EXIT 2P,13th Street – Downtown Kansas City,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-670/Exit%202P/34694,39.09724,-94.570956,http://maps.google.com/maps?t=m&q=loc:39.09724+-94.570956,Westbound
+Missouri,I-670,34695,Exit 2Q,EXIT 2Q,"Truman Road, McGee Street","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-670/Exit%202Q/34695,39.097395,-94.574111,http://maps.google.com/maps?t=m&q=loc:39.097395+-94.574111,Westbound
+Missouri,I-670,34696,Exit 2S,EXIT 2S,Broadway,"Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-670/Exit%202S/34696,39.096283,-94.584689,http://maps.google.com/maps?t=m&q=loc:39.096283+-94.584689,Westbound
+Missouri,I-670,34698,Exit 1B,EXIT 1B,"Genesee Street, Wyoming Street - Kemper Arena","Kansas City, Missouri",https://www.iexitapp.com/Missouri/I-670/Exit%201B/34698,39.097267,-94.596954,http://maps.google.com/maps?t=m&q=loc:39.097267+-94.596954,Westbound

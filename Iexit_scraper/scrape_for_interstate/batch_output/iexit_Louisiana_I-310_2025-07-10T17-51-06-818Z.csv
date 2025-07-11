@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Louisiana,I-310,32017,Exit 10,EXIT 10,LA-3127 N; Donaldsonville,"Hahnville, Louisiana",https://www.iexitapp.com/Louisiana/I-310/Exit%2010/32017,29.910322,-90.407781,http://maps.google.com/maps?t=m&q=loc:29.910322+-90.407781,Westbound
+Louisiana,I-310,32018,Exit 7,EXIT 7,LA-18 W; Hahnville,"Luling, Louisiana",https://www.iexitapp.com/Louisiana/I-310/Exit%207/32018,29.928357,-90.38425,http://maps.google.com/maps?t=m&q=loc:29.928357+-90.38425,Westbound
+Louisiana,I-310,32019,Exit 6,EXIT 6,LA-48 W,"Destrehan, Louisiana",https://www.iexitapp.com/Louisiana/I-310/Exit%206/32019,29.948958,-90.370161,http://maps.google.com/maps?t=m&q=loc:29.948958+-90.370161,Westbound
+Louisiana,I-310,32020,Exit 2,EXIT 2,US-61 S; Kenner,"St Rose, Louisiana",https://www.iexitapp.com/Louisiana/I-310/Exit%202/32020,29.970449,-90.325619,http://maps.google.com/maps?t=m&q=loc:29.970449+-90.325619,Westbound
+Louisiana,I-310,56310,Exit 2,EXIT 2,US-61 N; Norco,"St Rose, Louisiana",https://www.iexitapp.com/Louisiana/I-310/Exit%202/56310,29.972672,-90.321482,http://maps.google.com/maps?t=m&q=loc:29.972672+-90.321482,Westbound

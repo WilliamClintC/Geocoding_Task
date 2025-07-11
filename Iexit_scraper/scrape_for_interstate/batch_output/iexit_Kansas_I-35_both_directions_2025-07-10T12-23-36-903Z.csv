@@ -1,0 +1,133 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-35,3401,Weigh Station,WEIGH STATION,Weigh Station,"Wellington, Kansas",https://www.iexitapp.com/Kansas/I-35/Weigh%20Station/3401,37.020032,-97.338035,http://maps.google.com/maps?t=m&q=loc:37.020032+-97.338035,Northbound
+Kansas,I-35,3402,Exit 4,EXIT 4,US-166 E,"Wellington, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%204/3402,37.053232,-97.338239,http://maps.google.com/maps?t=m&q=loc:37.053232+-97.338239,Northbound
+Kansas,I-35,3403,Exit 19,EXIT 19,US-160; Weillington; Winfield,"Wellington, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2019/3403,37.276843,-97.340149,http://maps.google.com/maps?t=m&q=loc:37.276843+-97.340149,Northbound
+Kansas,I-35,3404,Belle Plaine Service Plaza,SERVICE PLAZA,"Belle Plaine Service Plaza
+          (MM: 26.0)","Belle Plaine, Kansas",https://www.iexitapp.com/Kansas/I-35/Service%20Plaza/3404,37.363338,-97.321509,http://maps.google.com/maps?t=m&q=loc:37.363338+-97.321509,Northbound
+Kansas,I-35,3405,Exit 33,EXIT 33,U.S. 81; State Route 53; Mulvane,"Peck, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2033/3405,37.469378,-97.322621,http://maps.google.com/maps?t=m&q=loc:37.469378+-97.322621,Northbound
+Kansas,I-35,3406,Exit 39,EXIT 39,US-81; Haysville; Derby,"Haysville, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2039/3406,37.555222,-97.325732,http://maps.google.com/maps?t=m&q=loc:37.555222+-97.325732,Northbound
+Kansas,I-35,3409,Exit 50,EXIT 50,US-54; US-400; Kellogg Ave; Wichita,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2050/3409,37.67391,-97.23496,http://maps.google.com/maps?t=m&q=loc:37.67391+-97.23496,Northbound
+Kansas,I-35,3410,Exit 53,EXIT 53,"KS 96;KS 96
+          (MM: 53.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2053/3410,37.68365,-97.185793,http://maps.google.com/maps?t=m&q=loc:37.68365+-97.185793,Northbound
+Kansas,I-35,49355,Exit 53,EXIT 53,State Hwy 96; Wichita,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2053/49355,37.68365,-97.185793,http://maps.google.com/maps?t=m&q=loc:37.68365+-97.185793,Northbound
+Kansas,I-35,3411,Exit 57,EXIT 57,Andover,"Andover, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2057/3411,37.718239,-97.116261,http://maps.google.com/maps?t=m&q=loc:37.718239+-97.116261,Northbound
+Kansas,I-35,3412,Towanda Service Plaza,SERVICE PLAZA,"Towanda Service Plaza
+          (MM: 65.0)","Towanda, Kansas",https://www.iexitapp.com/Kansas/I-35/Service%20Plaza/3412,37.763931,-96.98526,http://maps.google.com/maps?t=m&q=loc:37.763931+-96.98526,Northbound
+Kansas,I-35,3413,Exit 71,EXIT 71,KS-254; KS-196; El Dorado,"El Dorado, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2071/3413,37.818004,-96.904332,http://maps.google.com/maps?t=m&q=loc:37.818004+-96.904332,Northbound
+Kansas,I-35,3414,Exit 76,EXIT 76,US-77; El Dorado,"El Dorado, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2076/3414,37.873694,-96.849715,http://maps.google.com/maps?t=m&q=loc:37.873694+-96.849715,Northbound
+Kansas,I-35,3415,Exit 92,EXIT 92,Cassoday,"Cassoday, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2092/3415,38.049229,-96.637058,http://maps.google.com/maps?t=m&q=loc:38.049229+-96.637058,Northbound
+Kansas,I-35,3416,Matfield Green Service Plaza,SERVICE PLAZA,"Matfield Green Service Plaza
+          (MM: 98.0)","Matfield Green, Kansas",https://www.iexitapp.com/Kansas/I-35/Service%20Plaza/3416,38.092315,-96.5805,http://maps.google.com/maps?t=m&q=loc:38.092315+-96.5805,Northbound
+Kansas,I-35,3417,Cattle Pens,PRIVATE EXIT,Cattle Pens,"Matfield Green, Kansas",https://www.iexitapp.com/Kansas/I-35/Private%20Exit/3417,38.228873,-96.411461,http://maps.google.com/maps?t=m&q=loc:38.228873+-96.411461,Northbound
+Kansas,I-35,3419,Exit 127A,EXIT 127A,US 50; 6th Avenue,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20127A/3419,38.414811,-96.233172,http://maps.google.com/maps?t=m&q=loc:38.414811+-96.233172,Northbound
+Kansas,I-35,3420,Exit 128,EXIT 128,Industrial Rd,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20128/3420,38.41873,-96.220889,http://maps.google.com/maps?t=m&q=loc:38.41873+-96.220889,Northbound
+Kansas,I-35,3421,Exit 130,EXIT 130,Merchant St,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20130/3421,38.425079,-96.186907,http://maps.google.com/maps?t=m&q=loc:38.425079+-96.186907,Northbound
+Kansas,I-35,3422,Exit 131,EXIT 131,Burlingame Rd,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20131/3422,38.413779,-96.166676,http://maps.google.com/maps?t=m&q=loc:38.413779+-96.166676,Northbound
+Kansas,I-35,3423,Exit 133,EXIT 133,US-50 W; 6 th Ave,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20133/3423,38.411542,-96.144956,http://maps.google.com/maps?t=m&q=loc:38.411542+-96.144956,Northbound
+Kansas,I-35,3424,Exit 135,EXIT 135,County Rd R1,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20135/3424,38.410546,-96.099283,http://maps.google.com/maps?t=m&q=loc:38.410546+-96.099283,Northbound
+Kansas,I-35,3425,Exit 138,EXIT 138,County Rd U,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20138/3425,38.410178,-96.046453,http://maps.google.com/maps?t=m&q=loc:38.410178+-96.046453,Northbound
+Kansas,I-35,3426,Exit 141,EXIT 141,KS-130; Neosho Rapids; Hartford,"Reading, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20141/3426,38.408145,-95.990524,http://maps.google.com/maps?t=m&q=loc:38.408145+-95.990524,Northbound
+Kansas,I-35,3427,Exit 148,EXIT 148,KS-131; Lebo,"Lebo, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20148/3427,38.426878,-95.861341,http://maps.google.com/maps?t=m&q=loc:38.426878+-95.861341,Northbound
+Kansas,I-35,3428,Exit 155,EXIT 155,US-75; Lyndon; Burlington,"Lebo, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20155/3428,38.427818,-95.73329,http://maps.google.com/maps?t=m&q=loc:38.427818+-95.73329,Northbound
+Kansas,I-35,3429,Exit 160,EXIT 160,KS-31 N; Melvern,"Melvern, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20160/3429,38.447444,-95.641581,http://maps.google.com/maps?t=m&q=loc:38.447444+-95.641581,Northbound
+Kansas,I-35,3430,Exit 162,EXIT 162,KS-31 S; Waverly,"Melvern, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20162/3430,38.453062,-95.604269,http://maps.google.com/maps?t=m&q=loc:38.453062+-95.604269,Northbound
+Kansas,I-35,3431,Exit 170,EXIT 170,John Brown Road,"Williamsburg, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20170/3431,38.487641,-95.47655,http://maps.google.com/maps?t=m&q=loc:38.487641+-95.47655,Northbound
+Kansas,I-35,3432,Williamsburg Rest Area,REST AREA,"Williamsburg Rest Area
+          (MM: 175.0)","Williamsburg, Kansas",https://www.iexitapp.com/Kansas/I-35/Rest%20Area/3432,38.522827,-95.410906,http://maps.google.com/maps?t=m&q=loc:38.522827+-95.410906,Northbound
+Kansas,I-35,3433,Exit 176,EXIT 176,Homewood,"Williamsburg, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20176/3433,38.532585,-95.382556,http://maps.google.com/maps?t=m&q=loc:38.532585+-95.382556,Northbound
+Kansas,I-35,3434,Exit 182,EXIT 182,Eisenhower Rd,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20182/3434,38.569314,-95.291642,http://maps.google.com/maps?t=m&q=loc:38.569314+-95.291642,Northbound
+Kansas,I-35,3435,Exit 183,EXIT 183,US-59; Garnett Lawrence,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20183/3435,38.573499,-95.27458,http://maps.google.com/maps?t=m&q=loc:38.573499+-95.27458,Northbound
+Kansas,I-35,3436,Exit 185,EXIT 185,15th St,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20185/3436,38.591214,-95.235016,http://maps.google.com/maps?t=m&q=loc:38.591214+-95.235016,Northbound
+Kansas,I-35,3437,Exit 187,EXIT 187,Ottawa Louisburg,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20187/3437,38.618614,-95.232198,http://maps.google.com/maps?t=m&q=loc:38.618614+-95.232198,Northbound
+Kansas,I-35,3438,Exit 188,EXIT 188,"US 59
+          (MM: 188.0)","Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20188/3438,38.638564,-95.220744,http://maps.google.com/maps?t=m&q=loc:38.638564+-95.220744,Northbound
+Kansas,I-35,3439,Exit 193,EXIT 193,Tennessee Rd,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20193/3439,38.667947,-95.161718,http://maps.google.com/maps?t=m&q=loc:38.667947+-95.161718,Northbound
+Kansas,I-35,3440,Exit 198,EXIT 198,KS-33; Wellsville,"Wellsville, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20198/3440,38.702743,-95.080744,http://maps.google.com/maps?t=m&q=loc:38.702743+-95.080744,Northbound
+Kansas,I-35,3441,Exit 202,EXIT 202,Edgerton,"Edgerton, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20202/3441,38.744666,-95.005912,http://maps.google.com/maps?t=m&q=loc:38.744666+-95.005912,Northbound
+Kansas,I-35,3442,Exit 205,EXIT 205,Homestead Ln,"Edgerton, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20205/3442,38.75572,-94.970737,http://maps.google.com/maps?t=m&q=loc:38.75572+-94.970737,Northbound
+Kansas,I-35,3443,Exit 207,EXIT 207,Gardner Rd,"Gardner, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20207/3443,38.778587,-94.931617,http://maps.google.com/maps?t=m&q=loc:38.778587+-94.931617,Northbound
+Kansas,I-35,3444,Exit 210,EXIT 210,US-56; Gardner Rd,"Gardner, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20210/3444,38.807723,-94.890664,http://maps.google.com/maps?t=m&q=loc:38.807723+-94.890664,Northbound
+Kansas,I-35,3445,Truck Parking,WEIGH STATION,Truck Parking,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Weigh%20Station/3445,38.829843,-94.852597,http://maps.google.com/maps?t=m&q=loc:38.829843+-94.852597,Northbound
+Kansas,I-35,3446,Exit 214,EXIT 214,Lone Elm Road; 159th Street,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20214/3446,38.836188,-94.842593,http://maps.google.com/maps?t=m&q=loc:38.836188+-94.842593,Northbound
+Kansas,I-35,3447,Exit 215,EXIT 215,US-169 S; KS-7; Paola,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20215/3447,38.850754,-94.821182,http://maps.google.com/maps?t=m&q=loc:38.850754+-94.821182,Northbound
+Kansas,I-35,3448,Exit 218,EXIT 218,Santa Fe,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20218/3448,38.878844,-94.792698,http://maps.google.com/maps?t=m&q=loc:38.878844+-94.792698,Northbound
+Kansas,I-35,3449,Exit 220,EXIT 220,119th St,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20220/3449,38.908571,-94.77611,http://maps.google.com/maps?t=m&q=loc:38.908571+-94.77611,Northbound
+Kansas,I-35,3451,Exit 224,EXIT 224,95th St,"Lenexa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20224/3451,38.953941,-94.734873,http://maps.google.com/maps?t=m&q=loc:38.953941+-94.734873,Northbound
+Kansas,I-35,49361,Exit 225A,EXIT 225A,87th Street Pkwy; 75th Street,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20225A/49361,38.968328,-94.721134,http://maps.google.com/maps?t=m&q=loc:38.968328+-94.721134,Northbound
+Kansas,I-35,49362,Exit 225A,EXIT 225A,75th Street,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20225A/49362,38.968328,-94.721134,http://maps.google.com/maps?t=m&q=loc:38.968328+-94.721134,Northbound
+Kansas,I-35,3453,Exit 225C,EXIT 225C,87th Street Pkwy; 75th Street,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20225C/3453,38.969255,-94.720081,http://maps.google.com/maps?t=m&q=loc:38.969255+-94.720081,Northbound
+Kansas,I-35,3455,Exit 228A,EXIT 228A,67th St,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20228A/3455,39.005771,-94.694015,http://maps.google.com/maps?t=m&q=loc:39.005771+-94.694015,Northbound
+Kansas,I-35,3456,Exit 228B,EXIT 228B,US-56; US-69; Shawnee Mission Pkwy,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20228B/3456,39.012421,-94.693242,http://maps.google.com/maps?t=m&q=loc:39.012421+-94.693242,Northbound
+Kansas,I-35,3457,Exit 229,EXIT 229,Johnson Dr,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20229/3457,39.022497,-94.69156,http://maps.google.com/maps?t=m&q=loc:39.022497+-94.69156,Northbound
+Kansas,I-35,3458,Exit 230,EXIT 230,Antioch Rd,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20230/3458,39.030934,-94.688861,http://maps.google.com/maps?t=m&q=loc:39.030934+-94.688861,Northbound
+Kansas,I-35,3460,Exit 232A,EXIT 232A,Lamar Ave,"Mission, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20232A/3460,39.043758,-94.659245,http://maps.google.com/maps?t=m&q=loc:39.043758+-94.659245,Northbound
+Kansas,I-35,3461,Exit 232B,EXIT 232B,U.S. 69 N; 18th Street Expressway; Roe Avenue,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20232B/3461,39.046336,-94.651463,http://maps.google.com/maps?t=m&q=loc:39.046336+-94.651463,Northbound
+Kansas,I-35,3462,Exit 233A,EXIT 233A,Southwest Blvd; Mission Rd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20233A/3462,39.056261,-94.62948,http://maps.google.com/maps?t=m&q=loc:39.056261+-94.62948,Northbound
+Kansas,I-35,3463,Exit 234,EXIT 234,Rainbow Blvd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20234/3463,39.067216,-94.620425,http://maps.google.com/maps?t=m&q=loc:39.067216+-94.620425,Northbound
+Kansas,I-35,3464,Exit 235,EXIT 235,E cambridge Cir Dr E,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20235/3464,39.07485,-94.611586,http://maps.google.com/maps?t=m&q=loc:39.07485+-94.611586,Northbound
+Kansas,I-35,3914,Exit 234,EXIT 234,US 169; 7th St Trfwy; Rainbow Blvd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20234/3914,39.072772,-94.61797,http://maps.google.com/maps?t=m&q=loc:39.072772+-94.61797,Southbound
+Kansas,I-35,3915,Exit 233,EXIT 233,Mission Rd; Southwest Blvd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20233/3915,39.064701,-94.623452,http://maps.google.com/maps?t=m&q=loc:39.064701+-94.623452,Southbound
+Kansas,I-35,49483,Exit 233,EXIT 233,Mission Rd; Southwest Blvd,"Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20233/49483,39.063368,-94.625591,http://maps.google.com/maps?t=m&q=loc:39.063368+-94.625591,Southbound
+Kansas,I-35,3916,Exit 232B,EXIT 232B,"US 69
+          (MM: 232.0)","Kansas City, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20232B/3916,39.048654,-94.642911,http://maps.google.com/maps?t=m&q=loc:39.048654+-94.642911,Southbound
+Kansas,I-35,3917,Exit 232A,EXIT 232A,Lamar Ave,"Mission, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20232A/3917,39.046299,-94.652353,http://maps.google.com/maps?t=m&q=loc:39.046299+-94.652353,Southbound
+Kansas,I-35,3920,Exit 230,EXIT 230,Antioch Rd,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20230/3920,39.037236,-94.682714,http://maps.google.com/maps?t=m&q=loc:39.037236+-94.682714,Southbound
+Kansas,I-35,3921,Exit 229,EXIT 229,Johnson Dr,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20229/3921,39.025083,-94.691272,http://maps.google.com/maps?t=m&q=loc:39.025083+-94.691272,Southbound
+Kansas,I-35,3922,Exit 228B,EXIT 228B,US-56 E; Shawnee Mission Pkwy,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20228B/3922,39.017462,-94.69306,http://maps.google.com/maps?t=m&q=loc:39.017462+-94.69306,Southbound
+Kansas,I-35,3923,Exit 228A,EXIT 228A,67th St,"Shawnee, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20228A/3923,39.009911,-94.693803,http://maps.google.com/maps?t=m&q=loc:39.009911+-94.693803,Southbound
+Kansas,I-35,3924,Exit 227,EXIT 227,75th St,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20227/3924,38.995803,-94.695953,http://maps.google.com/maps?t=m&q=loc:38.995803+-94.695953,Southbound
+Kansas,I-35,3925,Exit 225B,EXIT 225B,"US 69
+          (MM: 225.0)","Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20225B/3925,38.982627,-94.708033,http://maps.google.com/maps?t=m&q=loc:38.982627+-94.708033,Southbound
+Kansas,I-35,3926,Exit 225A,EXIT 225A,87th St Pkwy,"Overland Park, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20225A/3926,38.976174,-94.714137,http://maps.google.com/maps?t=m&q=loc:38.976174+-94.714137,Southbound
+Kansas,I-35,3927,Exit 224,EXIT 224,95th St,"Lenexa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20224/3927,38.959167,-94.730428,http://maps.google.com/maps?t=m&q=loc:38.959167+-94.730428,Southbound
+Kansas,I-35,3929,Exit 220,EXIT 220,119th St,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20220/3929,38.91652,-94.767382,http://maps.google.com/maps?t=m&q=loc:38.91652+-94.767382,Southbound
+Kansas,I-35,49491,Exit 218,EXIT 218,Santa Fe,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20218/49491,38.88782,-94.790182,http://maps.google.com/maps?t=m&q=loc:38.88782+-94.790182,Southbound
+Kansas,I-35,3931,Exit 217,EXIT 217,Old Hwy 56,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20217/3931,38.870837,-94.796856,http://maps.google.com/maps?t=m&q=loc:38.870837+-94.796856,Southbound
+Kansas,I-35,3932,Exit 215,EXIT 215,U.S. 169 S; Kansas 7 S; Kansas 7 N; Paola,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20215/3932,38.859042,-94.811182,http://maps.google.com/maps?t=m&q=loc:38.859042+-94.811182,Southbound
+Kansas,I-35,3933,Exit 214,EXIT 214,Lone Elm road; 159th Street,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20214/3933,38.846502,-94.826911,http://maps.google.com/maps?t=m&q=loc:38.846502+-94.826911,Southbound
+Kansas,I-35,3934,Rest Area,WEIGH STATION,Rest Area,"Olathe, Kansas",https://www.iexitapp.com/Kansas/I-35/Weigh%20Station/3934,38.832831,-94.848324,http://maps.google.com/maps?t=m&q=loc:38.832831+-94.848324,Southbound
+Kansas,I-35,3935,Exit 210,EXIT 210,US 56; Gardner,"Gardner, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20210/3935,38.814031,-94.87805,http://maps.google.com/maps?t=m&q=loc:38.814031+-94.87805,Southbound
+Kansas,I-35,3936,Exit 207,EXIT 207,Gardner Road,"Gardner, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20207/3936,38.784647,-94.923218,http://maps.google.com/maps?t=m&q=loc:38.784647+-94.923218,Southbound
+Kansas,I-35,49492,Exit 205,EXIT 205,Homestead Ln,"Edgerton, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20205/49492,38.76255,-94.958419,http://maps.google.com/maps?t=m&q=loc:38.76255+-94.958419,Southbound
+Kansas,I-35,3938,Exit 202,EXIT 202,Edgerton,"Edgerton, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20202/3938,38.747659,-94.996258,http://maps.google.com/maps?t=m&q=loc:38.747659+-94.996258,Southbound
+Kansas,I-35,3939,Exit 198,EXIT 198,Kansas 33; Wellsville,"Wellsville, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20198/3939,38.70609,-95.06931,http://maps.google.com/maps?t=m&q=loc:38.70609+-95.06931,Southbound
+Kansas,I-35,3940,Exit 193,EXIT 193,Tennessee Road,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20193/3940,38.672469,-95.150422,http://maps.google.com/maps?t=m&q=loc:38.672469+-95.150422,Southbound
+Kansas,I-35,3941,Exit 188,EXIT 188,"US 59
+          (MM: 188.0)","Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20188/3941,38.639641,-95.218508,http://maps.google.com/maps?t=m&q=loc:38.639641+-95.218508,Southbound
+Kansas,I-35,3942,Exit 187,EXIT 187,Kansas 68; Ottawa; Louisburg,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20187/3942,38.626968,-95.232312,http://maps.google.com/maps?t=m&q=loc:38.626968+-95.232312,Southbound
+Kansas,I-35,3943,Exit 185,EXIT 185,15th Street,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20185/3943,38.598459,-95.233419,http://maps.google.com/maps?t=m&q=loc:38.598459+-95.233419,Southbound
+Kansas,I-35,3944,Exit 183,EXIT 183,US-59; Garnett; Lawrence,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20183/3944,38.577238,-95.262401,http://maps.google.com/maps?t=m&q=loc:38.577238+-95.262401,Southbound
+Kansas,I-35,3945,Exit 182,EXIT 182,Eisenhower Rd,"Ottawa, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20182/3945,38.571969,-95.280966,http://maps.google.com/maps?t=m&q=loc:38.571969+-95.280966,Southbound
+Kansas,I-35,3946,Exit 176,EXIT 176,Idaho Road,"Williamsburg, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20176/3946,38.540248,-95.372906,http://maps.google.com/maps?t=m&q=loc:38.540248+-95.372906,Southbound
+Kansas,I-35,3947,Williamsburg Rest Area,REST AREA,"Williamsburg Rest Area
+          (MM: 175.0)","Williamsburg, Kansas",https://www.iexitapp.com/Kansas/I-35/Rest%20Area/3947,38.528077,-95.401402,http://maps.google.com/maps?t=m&q=loc:38.528077+-95.401402,Southbound
+Kansas,I-35,3948,Exit 170,EXIT 170,John Brown Road,"Williamsburg, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20170/3948,38.492141,-95.469721,http://maps.google.com/maps?t=m&q=loc:38.492141+-95.469721,Southbound
+Kansas,I-35,3949,Exit 162,EXIT 162,KS-31 S; Waverly,"Melvern, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20162/3949,38.453024,-95.595279,http://maps.google.com/maps?t=m&q=loc:38.453024+-95.595279,Southbound
+Kansas,I-35,3950,Exit 160,EXIT 160,KS-31 N; Melvern,"Melvern, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20160/3950,38.449675,-95.632359,http://maps.google.com/maps?t=m&q=loc:38.449675+-95.632359,Southbound
+Kansas,I-35,3951,Exit 155,EXIT 155,US-75; Lyndon; Burlington,"Lebo, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20155/3951,38.430515,-95.723961,http://maps.google.com/maps?t=m&q=loc:38.430515+-95.723961,Southbound
+Kansas,I-35,3952,Exit 148,EXIT 148,KS-131; Lebo,"Lebo, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20148/3952,38.426857,-95.854354,http://maps.google.com/maps?t=m&q=loc:38.426857+-95.854354,Southbound
+Kansas,I-35,3953,Exit 141,EXIT 141,KS-130; Neosho Rapids; Hartford,"Reading, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20141/3953,38.408328,-95.983253,http://maps.google.com/maps?t=m&q=loc:38.408328+-95.983253,Southbound
+Kansas,I-35,3954,Exit 138,EXIT 138,County Rd U,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20138/3954,38.410473,-96.038338,http://maps.google.com/maps?t=m&q=loc:38.410473+-96.038338,Southbound
+Kansas,I-35,3955,Exit 135,EXIT 135,County Rd,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20135/3955,38.410318,-96.090899,http://maps.google.com/maps?t=m&q=loc:38.410318+-96.090899,Southbound
+Kansas,I-35,3956,Exit 133,EXIT 133,US-50; 6 th Ave,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20133/3956,38.411058,-96.131932,http://maps.google.com/maps?t=m&q=loc:38.411058+-96.131932,Southbound
+Kansas,I-35,3957,Exit 131,EXIT 131,Burlingame Rd,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20131/3957,38.412952,-96.157676,http://maps.google.com/maps?t=m&q=loc:38.412952+-96.157676,Southbound
+Kansas,I-35,3958,Exit 130,EXIT 130,Merchant St,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20130/3958,38.421931,-96.178113,http://maps.google.com/maps?t=m&q=loc:38.421931+-96.178113,Southbound
+Kansas,I-35,3959,Exit 128,EXIT 128,Industrial Rd,"Emporia, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%20128/3959,38.423635,-96.213496,http://maps.google.com/maps?t=m&q=loc:38.423635+-96.213496,Southbound
+Kansas,I-35,3962,Matfield Green Service Plaza,SERVICE PLAZA,"Matfield Green Service Plaza
+          (MM: 98.0)","Matfield Green, Kansas",https://www.iexitapp.com/Kansas/I-35/Service%20Plaza/3962,38.098811,-96.57851,http://maps.google.com/maps?t=m&q=loc:38.098811+-96.57851,Southbound
+Kansas,I-35,3963,Exit 92,EXIT 92,Exit,"Cassoday, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2092/3963,38.053355,-96.630836,http://maps.google.com/maps?t=m&q=loc:38.053355+-96.630836,Southbound
+Kansas,I-35,3964,Exit 76,EXIT 76,US-77; El Dorado,"El Dorado, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2076/3964,37.87962,-96.843481,http://maps.google.com/maps?t=m&q=loc:37.87962+-96.843481,Southbound
+Kansas,I-35,3965,Exit 71,EXIT 71,Boyer Road,"El Dorado, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2071/3965,37.821907,-96.899789,http://maps.google.com/maps?t=m&q=loc:37.821907+-96.899789,Southbound
+Kansas,I-35,3966,Towanda Service Plaza,SERVICE PLAZA,"Towanda Service Plaza
+          (MM: 65.0)","Towanda, Kansas",https://www.iexitapp.com/Kansas/I-35/Service%20Plaza/3966,37.768766,-96.978284,http://maps.google.com/maps?t=m&q=loc:37.768766+-96.978284,Southbound
+Kansas,I-35,3967,Exit 57,EXIT 57,Exit,"Augusta, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2057/3967,37.721879,-97.10848,http://maps.google.com/maps?t=m&q=loc:37.721879+-97.10848,Southbound
+Kansas,I-35,3968,Exit 53,EXIT 53,"KS 96;KS 96
+          (MM: 53.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2053/3968,37.688942,-97.17684,http://maps.google.com/maps?t=m&q=loc:37.688942+-97.17684,Southbound
+Kansas,I-35,49495,Exit 53,EXIT 53,State Hwy 96; Wichita,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2053/49495,37.688942,-97.17684,http://maps.google.com/maps?t=m&q=loc:37.688942+-97.17684,Southbound
+Kansas,I-35,3969,Exit 50,EXIT 50,US-54; US-400; Kellogg Ave; Wichita,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2050/3969,37.675205,-97.227136,http://maps.google.com/maps?t=m&q=loc:37.675205+-97.227136,Southbound
+Kansas,I-35,3972,Exit 39,EXIT 39,Haysville;Derby;US 81,"Haysville, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2039/3972,37.563128,-97.32591,http://maps.google.com/maps?t=m&q=loc:37.563128+-97.32591,Southbound
+Kansas,I-35,3973,Exit 33,EXIT 33,U.S. 81; State Route 53; Mulvane,"Peck, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2033/3973,37.475444,-97.322958,http://maps.google.com/maps?t=m&q=loc:37.475444+-97.322958,Southbound
+Kansas,I-35,3974,Belle Plaine Service Plaza,SERVICE PLAZA,"Belle Plaine Service Plaza
+          (MM: 26.0)","Belle Plaine, Kansas",https://www.iexitapp.com/Kansas/I-35/Service%20Plaza/3974,37.36935,-97.323115,http://maps.google.com/maps?t=m&q=loc:37.36935+-97.323115,Southbound
+Kansas,I-35,3975,Exit 19,EXIT 19,US-160; Wellington; Winfield,"Wellington, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%2019/3975,37.282387,-97.340283,http://maps.google.com/maps?t=m&q=loc:37.282387+-97.340283,Southbound
+Kansas,I-35,3976,Exit 4,EXIT 4,US 166,"Wellington, Kansas",https://www.iexitapp.com/Kansas/I-35/Exit%204/3976,37.060462,-97.338389,http://maps.google.com/maps?t=m&q=loc:37.060462+-97.338389,Southbound

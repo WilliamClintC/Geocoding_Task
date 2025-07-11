@@ -1,0 +1,84 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Maryland,I-70,8741,Exit 3,EXIT 3,MD-144; Hancock,"Hancock, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%203/8741,39.697767,-78.153731,http://maps.google.com/maps?t=m&q=loc:39.697767+-78.153731,Eastbound
+Maryland,I-70,8742,Exit 5,EXIT 5,MD-615,"Hancock, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%205/8742,39.690691,-78.130995,http://maps.google.com/maps?t=m&q=loc:39.690691+-78.130995,Eastbound
+Maryland,I-70,8743,Exit 9,EXIT 9,U.S. 40; Indian springs,"Big Pool, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%209/8743,39.656963,-78.054482,http://maps.google.com/maps?t=m&q=loc:39.656963+-78.054482,Eastbound
+Maryland,I-70,8744,Exit 12,EXIT 12,MD-56 E; Big Pool,"Big Pool, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2012/8744,39.630019,-78.019353,http://maps.google.com/maps?t=m&q=loc:39.630019+-78.019353,Eastbound
+Maryland,I-70,8745,Exit 18,EXIT 18,MD-68; Clear Spring,"Clear Spring, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2018/8745,39.64963,-77.928828,http://maps.google.com/maps?t=m&q=loc:39.64963+-77.928828,Eastbound
+Maryland,I-70,8746,Exit 24,EXIT 24,MD-63; Huyett; Williamsport,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2024/8746,39.63242,-77.813576,http://maps.google.com/maps?t=m&q=loc:39.63242+-77.813576,Eastbound
+Maryland,I-70,51490,Exit 4,EXIT 4,"I 70;I 70
+          (MM: 4.0)","Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%204/51490,39.617387,-77.785565,http://maps.google.com/maps?t=m&q=loc:39.617387+-77.785565,Eastbound
+Maryland,I-70,8748,Exit 28,EXIT 28,MD-632; Hagerstown; Downsville,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2028/8748,39.606257,-77.762344,http://maps.google.com/maps?t=m&q=loc:39.606257+-77.762344,Eastbound
+Maryland,I-70,8749,Exit 29A,EXIT 29A,MD-65 S; Sharpsburg,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2029A/8749,39.605107,-77.735094,http://maps.google.com/maps?t=m&q=loc:39.605107+-77.735094,Eastbound
+Maryland,I-70,8750,Exit 29B,EXIT 29B,MD-65 N; Hagerstown,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2029B/8750,39.60532,-77.728792,http://maps.google.com/maps?t=m&q=loc:39.60532+-77.728792,Eastbound
+Maryland,I-70,8751,Exit 32A,EXIT 32A,US-40 E,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2032A/8751,39.599564,-77.688182,http://maps.google.com/maps?t=m&q=loc:39.599564+-77.688182,Eastbound
+Maryland,I-70,8752,Exit 32B,EXIT 32B,US-40 W; Hagerstown,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2032B/8752,39.599931,-77.681971,http://maps.google.com/maps?t=m&q=loc:39.599931+-77.681971,Eastbound
+Maryland,I-70,8753,Exit 35,EXIT 35,MD-66; Smithsburg; Boonsboro,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2035/8753,39.587415,-77.643458,http://maps.google.com/maps?t=m&q=loc:39.587415+-77.643458,Eastbound
+Maryland,I-70,8754,South Mountain Welcome Center,WELCOME CENTER,South Mountain Welcome Center,"Myersville, Maryland",https://www.iexitapp.com/Maryland/I-70/Welcome%20Center/8754,39.531022,-77.604579,http://maps.google.com/maps?t=m&q=loc:39.531022+-77.604579,Eastbound
+Maryland,I-70,8755,Exit 42,EXIT 42,Maryland 17; Myersville; Middletown Rd,"Myersville, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2042/8755,39.498733,-77.572013,http://maps.google.com/maps?t=m&q=loc:39.498733+-77.572013,Eastbound
+Maryland,I-70,8756,Exit 48,EXIT 48,US-40 E; Frederick,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2048/8756,39.432694,-77.489672,http://maps.google.com/maps?t=m&q=loc:39.432694+-77.489672,Eastbound
+Maryland,I-70,8757,Exit 52A,EXIT 52A,"US 15;US 340
+          (MM: 52.0)","Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2052A/8757,39.401746,-77.446846,http://maps.google.com/maps?t=m&q=loc:39.401746+-77.446846,Eastbound
+Maryland,I-70,51492,Exit 52B,EXIT 52B,"US 15;US 340
+          (MM: 52.0)","Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2052B/51492,39.399445,-77.441257,http://maps.google.com/maps?t=m&q=loc:39.399445+-77.441257,Eastbound
+Maryland,I-70,8758,Exit 53,EXIT 53,"I 270
+          (MM: 53.0)","Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2053/8758,39.397932,-77.428929,http://maps.google.com/maps?t=m&q=loc:39.397932+-77.428929,Eastbound
+Maryland,I-70,8759,Exit 54,EXIT 54,MD-85; Downtown Frederick; Buckeystown; MD-355,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2054/8759,39.39971,-77.409812,http://maps.google.com/maps?t=m&q=loc:39.39971+-77.409812,Eastbound
+Maryland,I-70,8760,Exit 55,EXIT 55,South St; Fairgrounds,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2055/8760,39.404073,-77.392606,http://maps.google.com/maps?t=m&q=loc:39.404073+-77.392606,Eastbound
+Maryland,I-70,51496,Exit 56,EXIT 56,Patrick St,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2056/51496,39.403636,-77.379481,http://maps.google.com/maps?t=m&q=loc:39.403636+-77.379481,Eastbound
+Maryland,I-70,8762,Exit 62,EXIT 62,MD-75 N; Libertytown,"New Market, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2062/8762,39.381341,-77.26709,http://maps.google.com/maps?t=m&q=loc:39.381341+-77.26709,Eastbound
+Maryland,I-70,51497,Weigh Station,WEIGH STATION,Weigh Station,"New Market, Maryland",https://www.iexitapp.com/Maryland/I-70/Weigh%20Station/51497,39.378231,-77.244571,http://maps.google.com/maps?t=m&q=loc:39.378231+-77.244571,Eastbound
+Maryland,I-70,8763,Parking Area,PARKING AREA,Parking Area,"Mt Airy, Maryland",https://www.iexitapp.com/Maryland/I-70/Parking%20Area/8763,39.366627,-77.193425,http://maps.google.com/maps?t=m&q=loc:39.366627+-77.193425,Eastbound
+Maryland,I-70,8764,Exit 68,EXIT 68,MD-27; Damascus; Mt Airy,"Mt Airy, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2068/8764,39.35919,-77.172663,http://maps.google.com/maps?t=m&q=loc:39.35919+-77.172663,Eastbound
+Maryland,I-70,8765,Exit 73,EXIT 73,MD-94; Woodbine; Lisbon,"Mt Airy, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2073/8765,39.344759,-77.07837,http://maps.google.com/maps?t=m&q=loc:39.344759+-77.07837,Eastbound
+Maryland,I-70,8766,Exit 76,EXIT 76,MD-97; Westminster; Olney,"Woodbine, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2076/8766,39.328956,-77.022701,http://maps.google.com/maps?t=m&q=loc:39.328956+-77.022701,Eastbound
+Maryland,I-70,8767,Exit 80,EXIT 80,MD-32; Sykesville; Clarksville,"West Friendship, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2080/8767,39.309875,-76.959746,http://maps.google.com/maps?t=m&q=loc:39.309875+-76.959746,Eastbound
+Maryland,I-70,8768,Exit 82,EXIT 82,"US 40
+          (MM: 82.0)","Marriottsville, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2082/8768,39.303861,-76.914501,http://maps.google.com/maps?t=m&q=loc:39.303861+-76.914501,Eastbound
+Maryland,I-70,8769,Exit 87A,EXIT 87A,"US 29
+          (MM: 87.0)","Ellicott City, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2087A/8769,39.296282,-76.832482,http://maps.google.com/maps?t=m&q=loc:39.296282+-76.832482,Eastbound
+Maryland,I-70,51499,Exit 87B,EXIT 87B,"US 29
+          (MM: 87.0)","Ellicott City, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2087B/51499,39.29629,-76.82504,http://maps.google.com/maps?t=m&q=loc:39.29629+-76.82504,Eastbound
+Maryland,I-70,8770,Exit 91B-A,EXIT 91B-A,"I 695;I 695
+          (MM: 91.0)","Windsor Mill, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2091B-A/8770,39.30691,-76.752638,http://maps.google.com/maps?t=m&q=loc:39.30691+-76.752638,Eastbound
+Maryland,I-70,8771,Exit 94,EXIT 94,Security Blvd,"Gwynn Oak, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2094/8771,39.301145,-76.711797,http://maps.google.com/maps?t=m&q=loc:39.301145+-76.711797,Eastbound
+Maryland,I-70,8773,Exit 94,EXIT 94,MD 122,"Gwynn Oak, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2094/8773,39.301496,-76.712435,http://maps.google.com/maps?t=m&q=loc:39.301496+-76.712435,Westbound
+Maryland,I-70,8772,MD 122,EXIT,MD 122,"Gwynn Oak, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%20/8772,39.301674,-76.71022,http://maps.google.com/maps?t=m&q=loc:39.301674+-76.71022,Westbound
+Maryland,I-70,8774,Exit 91A-B,EXIT 91A-B,"I 695;I 695
+          (MM: 91.0)","Gwynn Oak, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2091A-B/8774,39.305647,-76.731316,http://maps.google.com/maps?t=m&q=loc:39.305647+-76.731316,Westbound
+Maryland,I-70,8775,Exit 87A,EXIT 87A,"US 29
+          (MM: 87.0)","Ellicott City, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2087A/8775,39.296696,-76.816997,http://maps.google.com/maps?t=m&q=loc:39.296696+-76.816997,Westbound
+Maryland,I-70,51505,Exit 87B,EXIT 87B,"US 29
+          (MM: 87.0)","Ellicott City, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2087B/51505,39.296753,-76.819801,http://maps.google.com/maps?t=m&q=loc:39.296753+-76.819801,Westbound
+Maryland,I-70,8776,Exit 83,EXIT 83,Marriottsville Rd,"Ellicott City, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2083/8776,39.30545,-76.893577,http://maps.google.com/maps?t=m&q=loc:39.30545+-76.893577,Westbound
+Maryland,I-70,8778,Exit 80,EXIT 80,MD-32; Clarksville; Sykesville,"West Friendship, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2080/8778,39.308204,-76.94521,http://maps.google.com/maps?t=m&q=loc:39.308204+-76.94521,Westbound
+Maryland,I-70,8779,Weigh Station,WEIGH STATION,Weigh Station,"West Friendship, Maryland",https://www.iexitapp.com/Maryland/I-70/Weigh%20Station/8779,39.316449,-76.975426,http://maps.google.com/maps?t=m&q=loc:39.316449+-76.975426,Westbound
+Maryland,I-70,8780,Exit 76,EXIT 76,MD-97; Westminster; Olney,"Woodbine, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2076/8780,39.324204,-77.00938,http://maps.google.com/maps?t=m&q=loc:39.324204+-77.00938,Westbound
+Maryland,I-70,8781,Exit 73,EXIT 73,MD-94; Woodbine; Lisbon,"Mt Airy, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2073/8781,39.340769,-77.064603,http://maps.google.com/maps?t=m&q=loc:39.340769+-77.064603,Westbound
+Maryland,I-70,8782,Exit 68,EXIT 68,MD-27,"Mt Airy, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2068/8782,39.360478,-77.158073,http://maps.google.com/maps?t=m&q=loc:39.360478+-77.158073,Westbound
+Maryland,I-70,8783,Exit 62,EXIT 62,MD-75 S; Hyattstown,"New Market, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2062/8783,39.380341,-77.252968,http://maps.google.com/maps?t=m&q=loc:39.380341+-77.252968,Westbound
+Maryland,I-70,8784,Exit 59,EXIT 59,MD-144 W; Main St; Old National Pike,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2059/8784,39.392942,-77.325209,http://maps.google.com/maps?t=m&q=loc:39.392942+-77.325209,Westbound
+Maryland,I-70,51508,Exit 59,EXIT 59,MD-144 E,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2059/51508,39.395166,-77.325612,http://maps.google.com/maps?t=m&q=loc:39.395166+-77.325612,Westbound
+Maryland,I-70,51509,Exit 56,EXIT 56,Patrick St,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2056/51509,39.403932,-77.377885,http://maps.google.com/maps?t=m&q=loc:39.403932+-77.377885,Westbound
+Maryland,I-70,8786,Exit 55,EXIT 55,South St;Fairgrounds,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2055/8786,39.404766,-77.388829,http://maps.google.com/maps?t=m&q=loc:39.404766+-77.388829,Westbound
+Maryland,I-70,8787,Exit 54,EXIT 54,Market St; MD-355; MD-85; Buckeystown,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2054/8787,39.402672,-77.399007,http://maps.google.com/maps?t=m&q=loc:39.402672+-77.399007,Westbound
+Maryland,I-70,8788,Exit 53B,EXIT 53B,"US 40
+          (MM: 53.0)","Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2053B/8788,39.398017,-77.419559,http://maps.google.com/maps?t=m&q=loc:39.398017+-77.419559,Westbound
+Maryland,I-70,51511,Exit 53A,EXIT 53A,"Frederick Freeway
+          (MM: 53.0)","Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2053A/51511,39.399062,-77.427564,http://maps.google.com/maps?t=m&q=loc:39.399062+-77.427564,Westbound
+Maryland,I-70,51512,Exit 52,EXIT 52,"US 15;US 340
+          (MM: 52.0)","Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2052/51512,39.400558,-77.439965,http://maps.google.com/maps?t=m&q=loc:39.400558+-77.439965,Westbound
+Maryland,I-70,8789,Exit 49,EXIT 49,US-40 Alt; Braddock Heights; Middletown,"Frederick, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2049/8789,39.418591,-77.480588,http://maps.google.com/maps?t=m&q=loc:39.418591+-77.480588,Westbound
+Maryland,I-70,8790,Exit 42,EXIT 42,Maryland 17 N; Myersville Rd,"Myersville, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2042/8790,39.493822,-77.564636,http://maps.google.com/maps?t=m&q=loc:39.493822+-77.564636,Westbound
+Maryland,I-70,8791,South Mountain Welcome Center,WELCOME CENTER,South Mountain Welcome Center,"Myersville, Maryland",https://www.iexitapp.com/Maryland/I-70/Welcome%20Center/8791,39.521192,-77.600138,http://maps.google.com/maps?t=m&q=loc:39.521192+-77.600138,Westbound
+Maryland,I-70,8792,Exit 35,EXIT 35,MD-66 N,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2035/8792,39.583994,-77.635453,http://maps.google.com/maps?t=m&q=loc:39.583994+-77.635453,Westbound
+Maryland,I-70,8793,Exit 32B,EXIT 32B,US-40 W; Hagerstown,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2032B/8793,39.600533,-77.676349,http://maps.google.com/maps?t=m&q=loc:39.600533+-77.676349,Westbound
+Maryland,I-70,8794,Exit 32A,EXIT 32A,US-40 E,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2032A/8794,39.600131,-77.683239,http://maps.google.com/maps?t=m&q=loc:39.600131+-77.683239,Westbound
+Maryland,I-70,8795,Exit 29,EXIT 29,Sharpsburg,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2029/8795,39.605663,-77.725625,http://maps.google.com/maps?t=m&q=loc:39.605663+-77.725625,Westbound
+Maryland,I-70,8796,Exit 28,EXIT 28,MD-632; Hagerstown; Downsville,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2028/8796,39.606094,-77.746206,http://maps.google.com/maps?t=m&q=loc:39.606094+-77.746206,Westbound
+Maryland,I-70,51514,Exit 4,EXIT 4,"I 70;I 70
+          (MM: 4.0)","Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%204/51514,39.616542,-77.785564,http://maps.google.com/maps?t=m&q=loc:39.616542+-77.785564,Westbound
+Maryland,I-70,8798,Exit 24,EXIT 24,MD-63; Williamsport; Huyett,"Hagerstown, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2024/8798,39.628529,-77.80548,http://maps.google.com/maps?t=m&q=loc:39.628529+-77.80548,Westbound
+Maryland,I-70,8799,Exit 18,EXIT 18,MD-68; Clear Spring,"Clear Spring, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2018/8799,39.653166,-77.917665,http://maps.google.com/maps?t=m&q=loc:39.653166+-77.917665,Westbound
+Maryland,I-70,8800,Exit 12,EXIT 12,MD-56 E; Big Pool,"Big Pool, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%2012/8800,39.625547,-78.012496,http://maps.google.com/maps?t=m&q=loc:39.625547+-78.012496,Westbound
+Maryland,I-70,8801,Exit 5,EXIT 5,MD-615,"Hancock, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%205/8801,39.680184,-78.09373,http://maps.google.com/maps?t=m&q=loc:39.680184+-78.09373,Westbound
+Maryland,I-70,8802,Exit 3,EXIT 3,MD-144; Hancock E,"Hancock, Maryland",https://www.iexitapp.com/Maryland/I-70/Exit%203/8802,39.694392,-78.145459,http://maps.google.com/maps?t=m&q=loc:39.694392+-78.145459,Westbound

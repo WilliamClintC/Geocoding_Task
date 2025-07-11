@@ -1,0 +1,55 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-80,39152,Exit 1,EXIT 1,IL-84; E Moline; Savanna,"East Moline, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%201/39152,41.575431,-90.36211,http://maps.google.com/maps?t=m&q=loc:41.575431+-90.36211,Eastbound
+Illinois,I-80,39153,Weigh Station,EXIT,Weigh Station,"East Moline, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20/39153,41.56813,-90.356132,http://maps.google.com/maps?t=m&q=loc:41.56813+-90.356132,Eastbound
+Illinois,I-80,52392,Weigh Station,WEIGH STATION,Weigh Station,"East Moline, Illinois",https://www.iexitapp.com/Illinois/I-80/Weigh%20Station/52392,41.560292,-90.344115,http://maps.google.com/maps?t=m&q=loc:41.560292+-90.344115,Eastbound
+Illinois,I-80,39154,Exit 4A,EXIT 4A,"IL 5;IL 92
+          (MM: 4.0)","East Moline, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%204A/39154,41.541174,-90.341775,http://maps.google.com/maps?t=m&q=loc:41.541174+-90.341775,Eastbound
+Illinois,I-80,39155,Exit 7,EXIT 7,Colona,"Colona, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%207/39155,41.490871,-90.33885,http://maps.google.com/maps?t=m&q=loc:41.490871+-90.33885,Eastbound
+Illinois,I-80,39156,Exit 9,EXIT 9,U.S. 6,"Colona, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%209/39156,41.45915,-90.338265,http://maps.google.com/maps?t=m&q=loc:41.45915+-90.338265,Eastbound
+Illinois,I-80,39158,IL 110,EXIT,IL 110,"Colona, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20/39158,41.439691,-90.32986,http://maps.google.com/maps?t=m&q=loc:41.439691+-90.32986,Eastbound
+Illinois,I-80,39161,Exit 19,EXIT 19,Illinois 82; Geneseo; Cambridge,"Geneseo, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2019/39161,41.431654,-90.159979,http://maps.google.com/maps?t=m&q=loc:41.431654+-90.159979,Eastbound
+Illinois,I-80,39162,Exit 27,EXIT 27,Galva; Atkinson,"Atkinson, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2027/39162,41.409617,-90.020043,http://maps.google.com/maps?t=m&q=loc:41.409617+-90.020043,Eastbound
+Illinois,I-80,39163,Exit 33,EXIT 33,IL-78; Kewanee; Prophetstown,"Annawan, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2033/39163,41.405226,-89.908507,http://maps.google.com/maps?t=m&q=loc:41.405226+-89.908507,Eastbound
+Illinois,I-80,39164,Exit 45,EXIT 45,Illinois 40; Peoria; Sterling,"Sheffield, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2045/39164,41.386994,-89.692,http://maps.google.com/maps?t=m&q=loc:41.386994+-89.692,Eastbound
+Illinois,I-80,39165,Great Sauk Trail Rest Area,REST AREA,"Great Sauk Trail Rest Area
+          (MM: 51.0)","Wyanet, Illinois",https://www.iexitapp.com/Illinois/I-80/Rest%20Area/39165,41.394542,-89.57217,http://maps.google.com/maps?t=m&q=loc:41.394542+-89.57217,Eastbound
+Illinois,I-80,39166,Exit 56,EXIT 56,IL-26; Dixon; Princeton,"Princeton, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2056/39166,41.398634,-89.474636,http://maps.google.com/maps?t=m&q=loc:41.398634+-89.474636,Eastbound
+Illinois,I-80,39167,Exit 61,EXIT 61,"I 180
+          (MM: 61.0)","Princeton, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2061/39167,41.400111,-89.388596,http://maps.google.com/maps?t=m&q=loc:41.400111+-89.388596,Eastbound
+Illinois,I-80,39168,Exit 70,EXIT 70,89; Ladd; spring Valley,"Ladd, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2070/39168,41.36842,-89.223676,http://maps.google.com/maps?t=m&q=loc:41.36842+-89.223676,Eastbound
+Illinois,I-80,39169,Exit 73,EXIT 73,Plank Road,"Peru, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2073/39169,41.364663,-89.157085,http://maps.google.com/maps?t=m&q=loc:41.364663+-89.157085,Eastbound
+Illinois,I-80,39170,Exit 75,EXIT 75,Illinois 251; Peru; Mendota,"Peru, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2075/39170,41.36511,-89.13156,http://maps.google.com/maps?t=m&q=loc:41.36511+-89.13156,Eastbound
+Illinois,I-80,39171,Exit 77,EXIT 77,Illinois 351; La Salle,"La Salle, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2077/39171,41.371482,-89.101806,http://maps.google.com/maps?t=m&q=loc:41.371482+-89.101806,Eastbound
+Illinois,I-80,39173,Exit 81,EXIT 81,IL-178; Utica,"North Utica, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2081/39173,41.367516,-89.015593,http://maps.google.com/maps?t=m&q=loc:41.367516+-89.015593,Eastbound
+Illinois,I-80,39174,Exit 90,EXIT 90,IL-23; Ottawa; De Kalb,"Ottawa, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2090/39174,41.375646,-88.840219,http://maps.google.com/maps?t=m&q=loc:41.375646+-88.840219,Eastbound
+Illinois,I-80,39175,Exit 93,EXIT 93,Oswego,"Ottawa, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2093/39175,41.376806,-88.784378,http://maps.google.com/maps?t=m&q=loc:41.376806+-88.784378,Eastbound
+Illinois,I-80,39176,Exit 97,EXIT 97,Marseilles,"Marseilles, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%2097/39176,41.375337,-88.710473,http://maps.google.com/maps?t=m&q=loc:41.375337+-88.710473,Eastbound
+Illinois,I-80,39177,Exit 105,EXIT 105,Seneca,"Morris, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20105/39177,41.376957,-88.562664,http://maps.google.com/maps?t=m&q=loc:41.376957+-88.562664,Eastbound
+Illinois,I-80,39178,Exit 112,EXIT 112,IL-47; Morris; Yorkville,"Morris, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20112/39178,41.385955,-88.426955,http://maps.google.com/maps?t=m&q=loc:41.385955+-88.426955,Eastbound
+Illinois,I-80,39179,Exit 116,EXIT 116,"? U.S. 6, US Hwy 6","Morris, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20116/39179,41.41775,-88.37053,http://maps.google.com/maps?t=m&q=loc:41.41775+-88.37053,Eastbound
+Illinois,I-80,39180,Three Rivers Rest Area,REST AREA,"Three Rivers Rest Area
+          (MM: 117.0)","Minooka, Illinois",https://www.iexitapp.com/Illinois/I-80/Rest%20Area/39180,41.429286,-88.349983,http://maps.google.com/maps?t=m&q=loc:41.429286+-88.349983,Eastbound
+Illinois,I-80,39181,Exit 122,EXIT 122,Minooka,"Minooka, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20122/39181,41.462045,-88.278543,http://maps.google.com/maps?t=m&q=loc:41.462045+-88.278543,Eastbound
+Illinois,I-80,39183,Exit 127,EXIT 127,Houbolt Rd; Hollywood Road,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20127/39183,41.489027,-88.171622,http://maps.google.com/maps?t=m&q=loc:41.489027+-88.171622,Eastbound
+Illinois,I-80,39184,Exit 130A,EXIT 130A,IL 7,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20130A/39184,41.510987,-88.13044,http://maps.google.com/maps?t=m&q=loc:41.510987+-88.13044,Eastbound
+Illinois,I-80,39185,Exit 130B,EXIT 130B,IL 7,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20130B/39185,41.511178,-88.123563,http://maps.google.com/maps?t=m&q=loc:41.511178+-88.123563,Eastbound
+Illinois,I-80,39186,Exit 131,EXIT 131,Center St,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20131/39186,41.511846,-88.102057,http://maps.google.com/maps?t=m&q=loc:41.511846+-88.102057,Eastbound
+Illinois,I-80,39187,Exit 132A,EXIT 132A,US-52 E; Chicago St S; IL-53 S,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20132A/39187,41.51105,-88.086306,http://maps.google.com/maps?t=m&q=loc:41.51105+-88.086306,Eastbound
+Illinois,I-80,39188,Exit 132B,EXIT 132B,US-52 W; Chicago St N; IL-53 N,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20132B/39188,41.51173,-88.081416,http://maps.google.com/maps?t=m&q=loc:41.51173+-88.081416,Eastbound
+Illinois,I-80,52405,Exit 133,EXIT 133,Richards St,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20133/52405,41.512485,-88.075918,http://maps.google.com/maps?t=m&q=loc:41.512485+-88.075918,Eastbound
+Illinois,I-80,39190,Exit 134,EXIT 134,Briggs St,"Joliet, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20134/39190,41.512912,-88.04799,http://maps.google.com/maps?t=m&q=loc:41.512912+-88.04799,Eastbound
+Illinois,I-80,39191,Exit 137,EXIT 137,US-30; Maple St,"New Lenox, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20137/39191,41.5172,-87.994212,http://maps.google.com/maps?t=m&q=loc:41.5172+-87.994212,Eastbound
+Illinois,I-80,39193,Weigh Station,WEIGH STATION,Weigh Station,"Mokena, Illinois",https://www.iexitapp.com/Illinois/I-80/Weigh%20Station/39193,41.552,-87.909939,http://maps.google.com/maps?t=m&q=loc:41.552+-87.909939,Eastbound
+Illinois,I-80,39194,Exit 145,EXIT 145,US-45; La Grange Rd,"Mokena, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20145/39194,41.552739,-87.861766,http://maps.google.com/maps?t=m&q=loc:41.552739+-87.861766,Eastbound
+Illinois,I-80,39195,Exit 148A,EXIT 148A,IL-43 S; Harlem Ave,"Tinley Park, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20148A/39195,41.550811,-87.798776,http://maps.google.com/maps?t=m&q=loc:41.550811+-87.798776,Eastbound
+Illinois,I-80,39196,Exit 148B,EXIT 148B,IL-43 N; Harlem Ave,"Tinley Park, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20148B/39196,41.55092,-87.791488,http://maps.google.com/maps?t=m&q=loc:41.55092+-87.791488,Eastbound
+Illinois,I-80,52410,Exit 154,EXIT 154,Kedzie Ave,"Hazel Crest, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20154/52410,41.582926,-87.699057,http://maps.google.com/maps?t=m&q=loc:41.582926+-87.699057,Eastbound
+Illinois,I-80,52411,Exit 155,EXIT 155,"I 294
+          (MM: 155.0)","Hazel Crest, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20155/52411,41.582869,-87.686555,http://maps.google.com/maps?t=m&q=loc:41.582869+-87.686555,Eastbound
+Illinois,I-80,52413,Exit 4,EXIT 4,Dixie Hwy,"Hazel Crest, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%204/52413,41.577865,-87.669892,http://maps.google.com/maps?t=m&q=loc:41.577865+-87.669892,Eastbound
+Illinois,I-80,52415,Exit 2B,EXIT 2B,IL 1,"Hazel Crest, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%202B/52415,41.577956,-87.642005,http://maps.google.com/maps?t=m&q=loc:41.577956+-87.642005,Eastbound
+Illinois,I-80,52416,Exit 2A,EXIT 2A,IL 1,"Hazel Crest, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%202A/52416,41.577996,-87.635648,http://maps.google.com/maps?t=m&q=loc:41.577996+-87.635648,Eastbound
+Illinois,I-80,39203,Chicago Southland Lincoln Oasis,SERVICE PLAZA,"Chicago Southland Lincoln Oasis
+          (MM: 159.0)","Thornton, Illinois",https://www.iexitapp.com/Illinois/I-80/HMSHost%20Service%20Plaza/39203,41.579256,-87.60376,http://maps.google.com/maps?t=m&q=loc:41.579256+-87.60376,Eastbound
+Illinois,I-80,52417,IL 394;IL 394,EXIT,IL 394;IL 394,"Thornton, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20/52417,41.57778,-87.59325,http://maps.google.com/maps?t=m&q=loc:41.57778+-87.59325,Eastbound
+Illinois,I-80,52418,Exit 161,EXIT 161,US-6 W,"Lansing, Illinois",https://www.iexitapp.com/Illinois/I-80/Exit%20161/52418,41.577412,-87.56423,http://maps.google.com/maps?t=m&q=loc:41.577412+-87.56423,Eastbound

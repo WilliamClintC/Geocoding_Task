@@ -1,0 +1,45 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Indiana,I-80,52421,Exit 1,EXIT 1,Calumet Ave; US-41 N,"Hammond, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%201/52421,41.574331,-87.515183,http://maps.google.com/maps?t=m&q=loc:41.574331+-87.515183,Eastbound
+Indiana,I-80,52422,Exit 2,EXIT 2,US-41 S; Indianapolis Blvd,"Hammond, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%202/52422,41.574132,-87.48545,http://maps.google.com/maps?t=m&q=loc:41.574132+-87.48545,Eastbound
+Indiana,I-80,52424,Exit 2,EXIT 2,IN-152 N; Indianapolis Blvd,"Hammond, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%202/52424,41.573982,-87.482323,http://maps.google.com/maps?t=m&q=loc:41.573982+-87.482323,Eastbound
+Indiana,I-80,52425,Exit 3,EXIT 3,Kennedy Ave,"Hammond, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%203/52425,41.574054,-87.469369,http://maps.google.com/maps?t=m&q=loc:41.574054+-87.469369,Eastbound
+Indiana,I-80,52426,Exit 3,EXIT 3,Kennedy Ave,"Hammond, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%203/52426,41.57388,-87.465388,http://maps.google.com/maps?t=m&q=loc:41.57388+-87.465388,Eastbound
+Indiana,I-80,52427,Exit 5,EXIT 5,"IN 912;IN 912
+          (MM: 5.0)","Hammond, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%205/52427,41.571503,-87.439458,http://maps.google.com/maps?t=m&q=loc:41.571503+-87.439458,Eastbound
+Indiana,I-80,52429,Exit 6,EXIT 6,Burr St,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%206/52429,41.569802,-87.410796,http://maps.google.com/maps?t=m&q=loc:41.569802+-87.410796,Eastbound
+Indiana,I-80,52430,Exit 9,EXIT 9,Grant St,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%209/52430,41.569536,-87.362922,http://maps.google.com/maps?t=m&q=loc:41.569536+-87.362922,Eastbound
+Indiana,I-80,52431,Exit 10,EXIT 10,IN-53; Broadway,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2010/52431,41.567381,-87.34349,http://maps.google.com/maps?t=m&q=loc:41.567381+-87.34349,Eastbound
+Indiana,I-80,52433,Exit 11,EXIT 11,I-65 S; Indianapolis,"Gary, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2011/52433,41.567229,-87.319424,http://maps.google.com/maps?t=m&q=loc:41.567229+-87.319424,Eastbound
+Indiana,I-80,39216,Exit 13,EXIT 13,Interstate 65 N; Toll Road; Central Ave,"Lake Station, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2013/39216,41.571111,-87.288819,http://maps.google.com/maps?t=m&q=loc:41.571111+-87.288819,Eastbound
+Indiana,I-80,52436,Exit 15A,EXIT 15A,IN-51 S; US-6 E; Ripley St,"Lake Station, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2015A/52436,41.581573,-87.244888,http://maps.google.com/maps?t=m&q=loc:41.581573+-87.244888,Eastbound
+Indiana,I-80,52437,Exit 15B,EXIT 15B,IN-51 N; Ripley St; US-20,"Lake Station, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2015B/52437,41.583035,-87.240073,http://maps.google.com/maps?t=m&q=loc:41.583035+-87.240073,Eastbound
+Indiana,I-80,52438,Exit 16,EXIT 16,"I 94
+          (MM: 16.0)","Lake Station, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2016/52438,41.584379,-87.235672,http://maps.google.com/maps?t=m&q=loc:41.584379+-87.235672,Eastbound
+Indiana,I-80,52442,George Ada Service Plaza,SERVICE PLAZA,"George Ada Service Plaza
+          (MM: 22.0)","Portage, Indiana",https://www.iexitapp.com/Indiana/I-80/Service%20Plaza/52442,41.589178,-87.221489,http://maps.google.com/maps?t=m&q=loc:41.589178+-87.221489,Eastbound
+Indiana,I-80,52443,Exit 23,EXIT 23,Portage,"Portage, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2023/52443,41.580139,-87.181914,http://maps.google.com/maps?t=m&q=loc:41.580139+-87.181914,Eastbound
+Indiana,I-80,52445,Exit 31,EXIT 31,State Highway 49; Chesterton; Valparaiso,"Chesterton, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2031/52445,41.574809,-87.057452,http://maps.google.com/maps?t=m&q=loc:41.574809+-87.057452,Eastbound
+Indiana,I-80,39223,Truck Turnout,TURN OUT,Truck Turnout,"Westville, Indiana",https://www.iexitapp.com/Indiana/I-80/Truck%20Turnout/39223,41.585525,-86.930115,http://maps.google.com/maps?t=m&q=loc:41.585525+-86.930115,Eastbound
+Indiana,I-80,39224,Exit 39,EXIT 39,US-421,"Westville, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2039/39224,41.588956,-86.906354,http://maps.google.com/maps?t=m&q=loc:41.588956+-86.906354,Eastbound
+Indiana,I-80,52446,Exit 49,EXIT 49,IN-39; La Porte,"La Porte, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2049/52446,41.664077,-86.736384,http://maps.google.com/maps?t=m&q=loc:41.664077+-86.736384,Eastbound
+Indiana,I-80,52447,Knute Rockne Service Plaza,SERVICE PLAZA,"Knute Rockne Service Plaza
+          (MM: 56.0)","La Porte, Indiana",https://www.iexitapp.com/Indiana/I-80/Service%20Plaza/52447,41.703801,-86.62571,http://maps.google.com/maps?t=m&q=loc:41.703801+-86.62571,Eastbound
+Indiana,I-80,52448,Exit 72,EXIT 72,"US 31;US 31
+          (MM: 72.0)","South Bend, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2072/52448,41.73027,-86.338856,http://maps.google.com/maps?t=m&q=loc:41.73027+-86.338856,Eastbound
+Indiana,I-80,52449,Exit 72,EXIT 72,U.S. 31 S; Plymouth,"South Bend, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2072/52449,41.73027,-86.338856,http://maps.google.com/maps?t=m&q=loc:41.73027+-86.338856,Eastbound
+Indiana,I-80,39228,Exit 77,EXIT 77,IN-933; US-31; S Bend; Notre Dame,"South Bend, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2077/39228,41.722473,-86.260671,http://maps.google.com/maps?t=m&q=loc:41.722473+-86.260671,Eastbound
+Indiana,I-80,52451,Exit 83,EXIT 83,IN-331; Mishawaka,"Granger, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2083/52451,41.729159,-86.146389,http://maps.google.com/maps?t=m&q=loc:41.729159+-86.146389,Eastbound
+Indiana,I-80,52452,George N. Craige Travel Plaza,SERVICE PLAZA,"George N. Craige Travel Plaza
+          (MM: 90.0)","Elkhart, Indiana",https://www.iexitapp.com/Indiana/I-80/Service%20Plaza/52452,41.732077,-86.0102,http://maps.google.com/maps?t=m&q=loc:41.732077+-86.0102,Eastbound
+Indiana,I-80,52453,Exit 92,EXIT 92,Elkhart; IN-19,"Elkhart, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2092/52453,41.730919,-85.974958,http://maps.google.com/maps?t=m&q=loc:41.730919+-85.974958,Eastbound
+Indiana,I-80,52454,Exit 96,EXIT 96,Elkhart E,"Elkhart, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%2096/52454,41.729905,-85.891958,http://maps.google.com/maps?t=m&q=loc:41.729905+-85.891958,Eastbound
+Indiana,I-80,52455,Exit 101,EXIT 101,IN-15; Bristol; Goshen,"Bristol, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%20101/52455,41.734712,-85.796969,http://maps.google.com/maps?t=m&q=loc:41.734712+-85.796969,Eastbound
+Indiana,I-80,39234,Exit 107,EXIT 107,IN-13; US-131; Constantine; Middlebury,"Middlebury, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%20107/39234,41.746982,-85.692536,http://maps.google.com/maps?t=m&q=loc:41.746982+-85.692536,Eastbound
+Indiana,I-80,52456,Truck Turnout,TURN OUT,"Truck Turnout
+          (MM: 108.0)","Middlebury, Indiana",https://www.iexitapp.com/Indiana/I-80/Truck%20Turnout/52456,41.747786,-85.671191,http://maps.google.com/maps?t=m&q=loc:41.747786+-85.671191,Eastbound
+Indiana,I-80,52457,Exit 121,EXIT 121,IN-9; Howe; Lagrange,"Howe, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%20121/52457,41.753475,-85.43943,http://maps.google.com/maps?t=m&q=loc:41.753475+-85.43943,Eastbound
+Indiana,I-80,52458,Gene Stratton Porter Travel Plaza,SERVICE PLAZA,"Gene Stratton Porter Travel Plaza
+          (MM: 126.0)","Howe, Indiana",https://www.iexitapp.com/Indiana/I-80/Service%20Plaza/52458,41.747184,-85.333643,http://maps.google.com/maps?t=m&q=loc:41.747184+-85.333643,Eastbound
+Indiana,I-80,52459,Exit 144,EXIT 144,I-69 S; Ft. Wayne,"Fremont, Indiana",https://www.iexitapp.com/Indiana/I-80/Exit%20144/52459,41.735512,-84.999194,http://maps.google.com/maps?t=m&q=loc:41.735512+-84.999194,Eastbound
+Indiana,I-80,58371,Temporarily Closed - Service Plaza,SERVICE PLAZA,"Temporarily Closed - Service Plaza
+          (MM: 146.0)","Fremont, Indiana",https://www.iexitapp.com/Indiana/I-80/Service%20Plaza/58371,41.728753,-84.969656,http://maps.google.com/maps?t=m&q=loc:41.728753+-84.969656,Eastbound

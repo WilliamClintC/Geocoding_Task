@@ -1,0 +1,7 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-470,34625,Exit 6,EXIT 6,Topeka Boulevard,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-470/Exit%206/34625,38.993911,-95.692556,http://maps.google.com/maps?t=m&q=loc:38.993911+-95.692556,Westbound
+Kansas,I-470,34626,Exit 5,EXIT 5,US-75 south / Burlingame Road,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-470/Exit%205/34626,38.997394,-95.701771,http://maps.google.com/maps?t=m&q=loc:38.997394+-95.701771,Westbound
+Kansas,I-470,34628,Exit 4,EXIT 4,Gage Boulevard,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-470/Exit%204/34628,39.008122,-95.726864,http://maps.google.com/maps?t=m&q=loc:39.008122+-95.726864,Westbound
+Kansas,I-470,34629,Exit 3,EXIT 3,"29th Street, Fairlawn Road","Topeka, Kansas",https://www.iexitapp.com/Kansas/I-470/Exit%203/34629,39.012647,-95.739561,http://maps.google.com/maps?t=m&q=loc:39.012647+-95.739561,Westbound
+Kansas,I-470,34630,Exit 2,EXIT 2,21st Street,"Topeka, Kansas",https://www.iexitapp.com/Kansas/I-470/Exit%202/34630,39.025726,-95.752792,http://maps.google.com/maps?t=m&q=loc:39.025726+-95.752792,Westbound
+Kansas,I-470,34631,Exit 1B,EXIT 1B,"Huntoon Street, Wanamaker Road","Topeka, Kansas",https://www.iexitapp.com/Kansas/I-470/Exit%201B/34631,39.039901,-95.758517,http://maps.google.com/maps?t=m&q=loc:39.039901+-95.758517,Westbound

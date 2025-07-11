@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Louisiana,I-210,31990,Exit 3,EXIT 3,Cove Ln,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%203/31990,30.196001,-93.271323,http://maps.google.com/maps?t=m&q=loc:30.196001+-93.271323,Eastbound
+Louisiana,I-210,31991,Exit 4,EXIT 4,Louisiana 1138-2; Nelson Rd,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%204/31991,30.196543,-93.255058,http://maps.google.com/maps?t=m&q=loc:30.196543+-93.255058,Eastbound
+Louisiana,I-210,31992,Exit 5,EXIT 5,Lake St,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%205/31992,30.196864,-93.235352,http://maps.google.com/maps?t=m&q=loc:30.196864+-93.235352,Eastbound
+Louisiana,I-210,31993,Exit 6A,EXIT 6A,Louisiana 385; Ryan Street,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%206A/31993,30.196913,-93.222806,http://maps.google.com/maps?t=m&q=loc:30.196913+-93.222806,Eastbound
+Louisiana,I-210,31994,Exit 7,EXIT 7,East College Street,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%207/31994,30.196898,-93.209969,http://maps.google.com/maps?t=m&q=loc:30.196898+-93.209969,Eastbound
+Louisiana,I-210,31995,Exit 8,EXIT 8,LA-14; Cameron,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%208/31995,30.197349,-93.184594,http://maps.google.com/maps?t=m&q=loc:30.197349+-93.184594,Eastbound
+Louisiana,I-210,31996,Exit 10A,EXIT 10A,Legion St,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%2010A/31996,30.21279,-93.170327,http://maps.google.com/maps?t=m&q=loc:30.21279+-93.170327,Eastbound
+Louisiana,I-210,31997,Exit 10B,EXIT 10B,Broad Street,"Lake Charles, Louisiana",https://www.iexitapp.com/Louisiana/I-210/Exit%2010B/31997,30.224171,-93.168769,http://maps.google.com/maps?t=m&q=loc:30.224171+-93.168769,Eastbound

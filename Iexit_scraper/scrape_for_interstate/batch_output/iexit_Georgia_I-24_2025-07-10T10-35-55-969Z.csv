@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Georgia,I-24,18784,Exit 169,EXIT 169,GA-299; US-11; Wildwood,"Wildwood, Georgia",https://www.iexitapp.com/Georgia/I-24/Exit%20169/18784,34.974393,-85.419206,http://maps.google.com/maps?t=m&q=loc:34.974393+-85.419206,Eastbound

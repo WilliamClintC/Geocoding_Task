@@ -1,0 +1,30 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Hawaii,H-1,31115,Exit 1A,EXIT 1A,Campbell Industrial Park; Barbers Point Harbor,"Kapolei, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%201A/31115,21.332645,-158.092109,http://maps.google.com/maps?t=m&q=loc:21.332645+-158.092109,Eastbound
+Hawaii,H-1,55673,Exit 1B,EXIT 1B,Makakilo; Kapolei; Kalaeloa,"Kapolei, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%201B/55673,21.333543,-158.085097,http://maps.google.com/maps?t=m&q=loc:21.333543+-158.085097,Eastbound
+Hawaii,H-1,31117,Exit 3,EXIT 3,Waipahu,"Kapolei, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%203/31117,21.363279,-158.06269,http://maps.google.com/maps?t=m&q=loc:21.363279+-158.06269,Eastbound
+Hawaii,H-1,31118,Exit 5,EXIT 5,HI-750; HI-76; Kunia; Waipahu; Ewa,"Ewa Beach, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%205/31118,21.381255,-158.036374,http://maps.google.com/maps?t=m&q=loc:21.381255+-158.036374,Eastbound
+Hawaii,H-1,31119,Exit 7,EXIT 7,Waikele,"Waipahu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%207/31119,21.393135,-158.013105,http://maps.google.com/maps?t=m&q=loc:21.393135+-158.013105,Eastbound
+Hawaii,H-1,31120,Exit 8A,EXIT 8A,Hawali 99 E; Leeward; Comm College; Waipahu; Pearl City,"Waipahu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%208A/31120,21.398918,-157.998952,http://maps.google.com/maps?t=m&q=loc:21.398918+-157.998952,Eastbound
+Hawaii,H-1,31122,Exit 8C,EXIT 8C,HI-99 N; Kamehameha Hwy,"Waipahu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%208C/31122,21.397691,-157.991354,http://maps.google.com/maps?t=m&q=loc:21.397691+-157.991354,Eastbound
+Hawaii,H-1,31124,Exit 10,EXIT 10,Pearlridge; Waimalu,"Pearl City, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2010/31124,21.391159,-157.961867,http://maps.google.com/maps?t=m&q=loc:21.391159+-157.961867,Eastbound
+Hawaii,H-1,55674,Exit 13B,EXIT 13B,"I H201; HI 78
+          (MM: 13.0)","Aiea, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2013B/55674,21.373594,-157.925369,http://maps.google.com/maps?t=m&q=loc:21.373594+-157.925369,Eastbound
+Hawaii,H-1,31126,Exit 15,EXIT 15,HI-92 E; HI-92 W; Nimitz Hwy; Hickam AFB; Naval Base,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2015/31126,21.352388,-157.932674,http://maps.google.com/maps?t=m&q=loc:21.352388+-157.932674,Eastbound
+Hawaii,H-1,31127,Exit 16,EXIT 16,Airport,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2016/31127,21.338297,-157.923226,http://maps.google.com/maps?t=m&q=loc:21.338297+-157.923226,Eastbound
+Hawaii,H-1,55676,Exit 16,TURN OUT,"Turnout
+          (MM: 16.0)","Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Turnout/55676,21.338297,-157.923226,http://maps.google.com/maps?t=m&q=loc:21.338297+-157.923226,Eastbound
+Hawaii,H-1,55677,Exit 16,EXIT 16,Airport,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2016/55677,21.337324,-157.918938,http://maps.google.com/maps?t=m&q=loc:21.337324+-157.918938,Eastbound
+Hawaii,H-1,31128,Exit 18A,EXIT 18A,92,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2018A/31128,21.334544,-157.898353,http://maps.google.com/maps?t=m&q=loc:21.334544+-157.898353,Eastbound
+Hawaii,H-1,31129,Exit 18B,EXIT 18B,Kamehameha Highway;Middle Street,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2018B/31129,21.334052,-157.893976,http://maps.google.com/maps?t=m&q=loc:21.334052+-157.893976,Eastbound
+Hawaii,H-1,31131,Exit 20A,EXIT 20A,HI-63 N; Kalihi St; Likelike Hwy; Bishop Museum,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2020A/31131,21.334782,-157.875445,http://maps.google.com/maps?t=m&q=loc:21.334782+-157.875445,Eastbound
+Hawaii,H-1,31132,Exit 20B,EXIT 20B,HI-98 E; Vineyard Blvd,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2020B/31132,21.326194,-157.867321,http://maps.google.com/maps?t=m&q=loc:21.326194+-157.867321,Eastbound
+Hawaii,H-1,55679,Exit 21A,EXIT 21A,Hawai 61; Pali Hwy,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2021A/55679,21.316981,-157.856759,http://maps.google.com/maps?t=m&q=loc:21.316981+-157.856759,Eastbound
+Hawaii,H-1,55680,Exit 21B,EXIT 21B,Punchbowl St,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2021B/55680,21.314613,-157.854859,http://maps.google.com/maps?t=m&q=loc:21.314613+-157.854859,Eastbound
+Hawaii,H-1,31135,Exit 22,EXIT 22,Kinau St,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2022/31135,21.308725,-157.851769,http://maps.google.com/maps?t=m&q=loc:21.308725+-157.851769,Eastbound
+Hawaii,H-1,31136,Exit 23,EXIT 23,Punahou St; Waikiki; Manoa,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2023/31136,21.302087,-157.83648,http://maps.google.com/maps?t=m&q=loc:21.302087+-157.83648,Eastbound
+Hawaii,H-1,55681,Exit 24A,EXIT 24A,Bingham St,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2024A/55681,21.297849,-157.82866,http://maps.google.com/maps?t=m&q=loc:21.297849+-157.82866,Eastbound
+Hawaii,H-1,31137,Exit 24B,EXIT 24B,University Ave,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2024B/31137,21.294272,-157.82104,http://maps.google.com/maps?t=m&q=loc:21.294272+-157.82104,Eastbound
+Hawaii,H-1,31138,Exit 25A,EXIT 25A,King St; Waikiki Honolulu Zoo,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2025A/31138,21.291323,-157.818414,http://maps.google.com/maps?t=m&q=loc:21.291323+-157.818414,Eastbound
+Hawaii,H-1,31139,Exit 25B,EXIT 25B,6th Ave,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2025B/31139,21.285119,-157.809878,http://maps.google.com/maps?t=m&q=loc:21.285119+-157.809878,Eastbound
+Hawaii,H-1,31140,Exit 26A,EXIT 26A,Koko Head Ave,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2026A/31140,21.280871,-157.801578,http://maps.google.com/maps?t=m&q=loc:21.280871+-157.801578,Eastbound
+Hawaii,H-1,31141,Exit 26B,EXIT 26B,Waialae Avenue,"Honolulu, Hawaii",https://www.iexitapp.com/Hawaii/H-1/Exit%2026B/31141,21.278397,-157.794877,http://maps.google.com/maps?t=m&q=loc:21.278397+-157.794877,Eastbound

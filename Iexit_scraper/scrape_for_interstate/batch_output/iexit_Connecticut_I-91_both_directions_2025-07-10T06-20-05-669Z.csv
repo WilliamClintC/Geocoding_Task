@@ -1,0 +1,111 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Connecticut,I-91,54877,Exit 3,EXIT 3,Trumbull St,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%203/54877,41.312166,-72.913308,http://maps.google.com/maps?t=m&q=loc:41.312166+-72.913308,Northbound
+Connecticut,I-91,29284,Exit 5,EXIT 5,US-5; State St; Fair Haven,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%205/29284,41.314905,-72.908214,http://maps.google.com/maps?t=m&q=loc:41.314905+-72.908214,Northbound
+Connecticut,I-91,29285,Exit 6,EXIT 6,Willow St; Blatchley Ave,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%206/29285,41.315371,-72.907252,http://maps.google.com/maps?t=m&q=loc:41.315371+-72.907252,Northbound
+Connecticut,I-91,29286,Exit 8,EXIT 8,CT-80; CT-17; Middletown Ave; N Branford,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%208/29286,41.322743,-72.884606,http://maps.google.com/maps?t=m&q=loc:41.322743+-72.884606,Northbound
+Connecticut,I-91,29287,Exit 9,EXIT 9,Montowese Ave,"North Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%209/29287,41.347217,-72.867902,http://maps.google.com/maps?t=m&q=loc:41.347217+-72.867902,Northbound
+Connecticut,I-91,29288,Exit 10,EXIT 10,"CT 40
+          (MM: 10.0)","North Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2010/29288,41.370719,-72.869461,http://maps.google.com/maps?t=m&q=loc:41.370719+-72.869461,Northbound
+Connecticut,I-91,29289,Exit 11,EXIT 11,CT-22 E; US-5 N; Clintonville Rd; N Haven,"North Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2011/29289,41.389512,-72.865101,http://maps.google.com/maps?t=m&q=loc:41.389512+-72.865101,Northbound
+Connecticut,I-91,29290,Exit 12,EXIT 12,US-5; Washington Ave,"North Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2012/29290,41.39928,-72.852129,http://maps.google.com/maps?t=m&q=loc:41.39928+-72.852129,Northbound
+Connecticut,I-91,29291,Exit 13,EXIT 13,"Wharton Brook Connector
+          (MM: 13.0)","Wallingford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2013/29291,41.420623,-72.826012,http://maps.google.com/maps?t=m&q=loc:41.420623+-72.826012,Northbound
+Connecticut,I-91,29292,Exit 14,EXIT 14,CT-150; Woodhouse Ave; Wallingford,"Wallingford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2014/29292,41.431829,-72.805876,http://maps.google.com/maps?t=m&q=loc:41.431829+-72.805876,Northbound
+Connecticut,I-91,29293,Exit 15,EXIT 15,CT-68; Yalesville; Durham,"Wallingford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2015/29293,41.475669,-72.771304,http://maps.google.com/maps?t=m&q=loc:41.475669+-72.771304,Northbound
+Connecticut,I-91,29294,Exit 16,EXIT 16,E Main St,"Meriden, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2016/29294,41.517929,-72.770723,http://maps.google.com/maps?t=m&q=loc:41.517929+-72.770723,Northbound
+Connecticut,I-91,29296,Exit 18,EXIT 18,"CT 66
+          (MM: 18.0)","Meriden, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2018/29296,41.535818,-72.764553,http://maps.google.com/maps?t=m&q=loc:41.535818+-72.764553,Northbound
+Connecticut,I-91,54882,Middletown Rest Area,REST AREA,"Middletown Rest Area
+          (MM: 20.0)","Middletown, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Rest%20Area/54882,41.550029,-72.745842,http://maps.google.com/maps?t=m&q=loc:41.550029+-72.745842,Northbound
+Connecticut,I-91,29297,Exit 20,EXIT 20,Country Club Rd; Middle St,"Middletown, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2020/29297,41.566613,-72.72855,http://maps.google.com/maps?t=m&q=loc:41.566613+-72.72855,Northbound
+Connecticut,I-91,29298,Exit 21,EXIT 21,CT-372; Cromwell; Berlin,"Cromwell, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2021/29298,41.604153,-72.703886,http://maps.google.com/maps?t=m&q=loc:41.604153+-72.703886,Northbound
+Connecticut,I-91,29299,Exit 22N-S,EXIT 22N-S,"CT 9;CT 9
+          (MM: 22.0)","Cromwell, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2022N-S/29299,41.616067,-72.696402,http://maps.google.com/maps?t=m&q=loc:41.616067+-72.696402,Northbound
+Connecticut,I-91,29300,Exit 23,EXIT 23,West St; State Route 3; Rocky Hill,"Rocky Hill, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2023/29300,41.6451,-72.674922,http://maps.google.com/maps?t=m&q=loc:41.6451+-72.674922,Northbound
+Connecticut,I-91,29301,Exit 24,EXIT 24,CT-99 N; Wethersfield,"Rocky Hill, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2024/29301,41.680198,-72.653702,http://maps.google.com/maps?t=m&q=loc:41.680198+-72.653702,Northbound
+Connecticut,I-91,29303,Exit 25,EXIT 25,"CT 3
+          (MM: 25.0)","Wethersfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2025/29303,41.707218,-72.644545,http://maps.google.com/maps?t=m&q=loc:41.707218+-72.644545,Northbound
+Connecticut,I-91,29302,Exit 26,EXIT 26,Old Wethersfield,"Wethersfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2026/29302,41.703774,-72.644311,http://maps.google.com/maps?t=m&q=loc:41.703774+-72.644311,Northbound
+Connecticut,I-91,29304,Exit 27,EXIT 27,Brainard Rd; Airport Rd; Brainard; Airport,"Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2027/29304,41.730349,-72.660496,http://maps.google.com/maps?t=m&q=loc:41.730349+-72.660496,Northbound
+Connecticut,I-91,29306,Exit 29A,EXIT 29A,"Whitehead Highway
+          (MM: 29.0)","Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2029A/29306,41.756582,-72.661896,http://maps.google.com/maps?t=m&q=loc:41.756582+-72.661896,Northbound
+Connecticut,I-91,54889,Exit 32B,EXIT 32B,Trumbull St,"Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2032B/54889,41.769394,-72.66832,http://maps.google.com/maps?t=m&q=loc:41.769394+-72.66832,Northbound
+Connecticut,I-91,29308,Exit 33,EXIT 33,Jennings Rd,"Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2033/29308,41.783897,-72.660148,http://maps.google.com/maps?t=m&q=loc:41.783897+-72.660148,Northbound
+Connecticut,I-91,29309,Exit 34,EXIT 34,CT-159; Windsor Ave,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2034/29309,41.802175,-72.656455,http://maps.google.com/maps?t=m&q=loc:41.802175+-72.656455,Northbound
+Connecticut,I-91,29310,Exit 35A-35B,EXIT 35A-35B,"I 291
+          (MM: 35.0)","Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2035A-35B/29310,41.810513,-72.662931,http://maps.google.com/maps?t=m&q=loc:41.810513+-72.662931,Northbound
+Connecticut,I-91,29311,Exit 35A-35B,EXIT 35A-35B,Connecticut 218; Windsor; Bloomfield,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2035A-35B/29311,41.815227,-72.664146,http://maps.google.com/maps?t=m&q=loc:41.815227+-72.664146,Northbound
+Connecticut,I-91,29312,Exit 36,EXIT 36,CT-178; Park Ave; Bloomfield,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2036/29312,41.834775,-72.665167,http://maps.google.com/maps?t=m&q=loc:41.834775+-72.665167,Northbound
+Connecticut,I-91,29313,Exit 37,EXIT 37,CT-305; Bloomfield Ave; Windsor Center,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2037/29313,41.848778,-72.664481,http://maps.google.com/maps?t=m&q=loc:41.848778+-72.664481,Northbound
+Connecticut,I-91,29314,Exit 38,EXIT 38,CT-75; Poquonock,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2038/29314,41.874129,-72.662398,http://maps.google.com/maps?t=m&q=loc:41.874129+-72.662398,Northbound
+Connecticut,I-91,29315,Exit 39,EXIT 39,Archer Road;Kennedy Road,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2039/29315,41.888394,-72.652935,http://maps.google.com/maps?t=m&q=loc:41.888394+-72.652935,Northbound
+Connecticut,I-91,29316,Exit 40,EXIT 40,"CT 20
+          (MM: 40.0)","Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2040/29316,41.893607,-72.643717,http://maps.google.com/maps?t=m&q=loc:41.893607+-72.643717,Northbound
+Connecticut,I-91,29317,Exit 42,EXIT 42,CT-159; Windsor Locks,"Windsor Locks, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2042/29317,41.908889,-72.632374,http://maps.google.com/maps?t=m&q=loc:41.908889+-72.632374,Northbound
+Connecticut,I-91,29318,Exit 44,EXIT 44,US-5 S; E.Windsor,"East Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2044/29318,41.918942,-72.614913,http://maps.google.com/maps?t=m&q=loc:41.918942+-72.614913,Northbound
+Connecticut,I-91,29319,Exit 45,EXIT 45,CT-140; Warehouse Point; Ellington,"East Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2045/29319,41.92773,-72.609032,http://maps.google.com/maps?t=m&q=loc:41.92773+-72.609032,Northbound
+Connecticut,I-91,29320,Exit 46,EXIT 46,US-5; King St,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2046/29320,41.953238,-72.600668,http://maps.google.com/maps?t=m&q=loc:41.953238+-72.600668,Northbound
+Connecticut,I-91,29321,Exit 47E,EXIT 47E,CT-190 E; Hazardville; Somers,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2047E/29321,41.985887,-72.588401,http://maps.google.com/maps?t=m&q=loc:41.985887+-72.588401,Northbound
+Connecticut,I-91,29322,Exit 47W,EXIT 47W,CT-190 W; Suffield,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2047W/29322,41.990894,-72.587416,http://maps.google.com/maps?t=m&q=loc:41.990894+-72.587416,Northbound
+Connecticut,I-91,29323,Exit 48,EXIT 48,CT-220; Elm St; Thompsonville,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2048/29323,41.994983,-72.586386,http://maps.google.com/maps?t=m&q=loc:41.994983+-72.586386,Northbound
+Connecticut,I-91,29324,Exit 49,EXIT 49,US-5 S,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2049/29324,42.017018,-72.586824,http://maps.google.com/maps?t=m&q=loc:42.017018+-72.586824,Northbound
+Connecticut,I-91,29463,Exit 49,EXIT 49,US-5; Enfield St,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2049/29463,42.024026,-72.589579,http://maps.google.com/maps?t=m&q=loc:42.024026+-72.589579,Southbound
+Connecticut,I-91,29464,Exit 48,EXIT 48,CT-220; Elm St; Thompsonville,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2048/29464,42.000813,-72.585193,http://maps.google.com/maps?t=m&q=loc:42.000813+-72.585193,Southbound
+Connecticut,I-91,29465,Exit 47W,EXIT 47W,CT-190 W; Suffield,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2047W/29465,41.994185,-72.586798,http://maps.google.com/maps?t=m&q=loc:41.994185+-72.586798,Southbound
+Connecticut,I-91,29466,Exit 47E,EXIT 47E,CT-190 E; Hazardville; Somers,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2047E/29466,41.989803,-72.58788,http://maps.google.com/maps?t=m&q=loc:41.989803+-72.58788,Southbound
+Connecticut,I-91,29467,Exit 46,EXIT 46,US-5; King St,"Enfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2046/29467,41.955465,-72.596634,http://maps.google.com/maps?t=m&q=loc:41.955465+-72.596634,Southbound
+Connecticut,I-91,29468,Exit 45,EXIT 45,CT-140; Ellington; Warehouse Point,"East Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2045/29468,41.932693,-72.608299,http://maps.google.com/maps?t=m&q=loc:41.932693+-72.608299,Southbound
+Connecticut,I-91,29469,Exit 44,EXIT 44,US-5 S; E Windsor,"East Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2044/29469,41.926244,-72.609535,http://maps.google.com/maps?t=m&q=loc:41.926244+-72.609535,Southbound
+Connecticut,I-91,29470,Exit 42,EXIT 42,CT-159; Windsor Locks,"Windsor Locks, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2042/29470,41.915978,-72.627093,http://maps.google.com/maps?t=m&q=loc:41.915978+-72.627093,Southbound
+Connecticut,I-91,29471,Exit 41,EXIT 41,South Center Street,"Windsor Locks, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2041/29471,41.908749,-72.632749,http://maps.google.com/maps?t=m&q=loc:41.908749+-72.632749,Southbound
+Connecticut,I-91,29472,Exit 40,EXIT 40,"CT 20
+          (MM: 40.0)","Windsor Locks, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2040/29472,41.903097,-72.636044,http://maps.google.com/maps?t=m&q=loc:41.903097+-72.636044,Southbound
+Connecticut,I-91,29473,Exit 38A,EXIT 38A,CT-75; Poquonock; Windsor,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2038A/29473,41.880717,-72.661204,http://maps.google.com/maps?t=m&q=loc:41.880717+-72.661204,Southbound
+Connecticut,I-91,54937,Exit 38B,EXIT 38B,CT-75; Poquonock; Windsor,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2038B/54937,41.877955,-72.662711,http://maps.google.com/maps?t=m&q=loc:41.877955+-72.662711,Southbound
+Connecticut,I-91,29474,Exit 37,EXIT 37,CT-305; Bloomfield Ave; Windsor Center,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2037/29474,41.856476,-72.663725,http://maps.google.com/maps?t=m&q=loc:41.856476+-72.663725,Southbound
+Connecticut,I-91,29475,Exit 36,EXIT 36,CT-178; Park Ave,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2036/29475,41.843196,-72.665193,http://maps.google.com/maps?t=m&q=loc:41.843196+-72.665193,Southbound
+Connecticut,I-91,29476,Exit 35B,EXIT 35B,CT-218; Windsor; Bloomfield,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2035B/29476,41.822834,-72.666094,http://maps.google.com/maps?t=m&q=loc:41.822834+-72.666094,Southbound
+Connecticut,I-91,29477,Exit 35A,EXIT 35A,"I 291
+          (MM: 35.0)","Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2035A/29477,41.81794,-72.665851,http://maps.google.com/maps?t=m&q=loc:41.81794+-72.665851,Southbound
+Connecticut,I-91,29478,Exit 34,EXIT 34,N Main St,"Windsor, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2034/29478,41.806895,-72.661001,http://maps.google.com/maps?t=m&q=loc:41.806895+-72.661001,Southbound
+Connecticut,I-91,29479,Exit 33,EXIT 33,Jennings Rd,"Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2033/29479,41.790942,-72.655979,http://maps.google.com/maps?t=m&q=loc:41.790942+-72.655979,Southbound
+Connecticut,I-91,29480,Exit 32B,EXIT 32B,Trumbull St,"Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2032B/29480,41.775582,-72.668224,http://maps.google.com/maps?t=m&q=loc:41.775582+-72.668224,Southbound
+Connecticut,I-91,29482,Exit 31,EXIT 31,State Street,"Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2031/29482,41.770683,-72.668732,http://maps.google.com/maps?t=m&q=loc:41.770683+-72.668732,Southbound
+Connecticut,I-91,29484,Exit 29A,EXIT 29A,"Whitehead Highway
+          (MM: 29.0)","Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2029A/29484,41.763249,-72.667134,http://maps.google.com/maps?t=m&q=loc:41.763249+-72.667134,Southbound
+Connecticut,I-91,29485,Exit 27,EXIT 27,Airport Rd; Brainard Rd,"Hartford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2027/29485,41.745058,-72.661881,http://maps.google.com/maps?t=m&q=loc:41.745058+-72.661881,Southbound
+Connecticut,I-91,29487,Exit 26,EXIT 26,Old Wethersfield,"Wethersfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2026/29487,41.716631,-72.649497,http://maps.google.com/maps?t=m&q=loc:41.716631+-72.649497,Southbound
+Connecticut,I-91,29488,Exit 25S,EXIT 25S,"CT 3
+          (MM: 25.0)","Wethersfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2025S/29488,41.711232,-72.64669,http://maps.google.com/maps?t=m&q=loc:41.711232+-72.64669,Southbound
+Connecticut,I-91,54944,Exit 25N,EXIT 25N,"CT 3
+          (MM: 25.0)","Wethersfield, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2025N/54944,41.706782,-72.645184,http://maps.google.com/maps?t=m&q=loc:41.706782+-72.645184,Southbound
+Connecticut,I-91,29489,Exit 24,EXIT 24,CT-99; Wethersfield; Rocky Hill,"Rocky Hill, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2024/29489,41.681119,-72.653442,http://maps.google.com/maps?t=m&q=loc:41.681119+-72.653442,Southbound
+Connecticut,I-91,29490,Exit 23,EXIT 23,West St; State Route 3; Rocky Hill,"Rocky Hill, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2023/29490,41.654677,-72.672255,http://maps.google.com/maps?t=m&q=loc:41.654677+-72.672255,Southbound
+Connecticut,I-91,29491,Exit 22S,EXIT 22S,"CT 9
+          (MM: 22.0)","Rocky Hill, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2022S/29491,41.635364,-72.684743,http://maps.google.com/maps?t=m&q=loc:41.635364+-72.684743,Southbound
+Connecticut,I-91,54946,Exit 22N,EXIT 22N,"CT 9
+          (MM: 22.0)","Cromwell, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2022N/54946,41.631128,-72.688751,http://maps.google.com/maps?t=m&q=loc:41.631128+-72.688751,Southbound
+Connecticut,I-91,29492,Exit 21,EXIT 21,CT-372; Cromwell; Berlin,"Cromwell, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2021/29492,41.609362,-72.701143,http://maps.google.com/maps?t=m&q=loc:41.609362+-72.701143,Southbound
+Connecticut,I-91,29493,Exit 20,EXIT 20,Middle St; Country Club Rd,"Middletown, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2020/29493,41.574462,-72.721251,http://maps.google.com/maps?t=m&q=loc:41.574462+-72.721251,Southbound
+Connecticut,I-91,29494,Exit 19,EXIT 19,Baldwin Ave; Preston Ave,"Meriden, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2019/29494,41.546394,-72.748867,http://maps.google.com/maps?t=m&q=loc:41.546394+-72.748867,Southbound
+Connecticut,I-91,29495,Exit 18,EXIT 18,"I 691
+          (MM: 18.0)","Meriden, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2018/29495,41.53993,-72.758386,http://maps.google.com/maps?t=m&q=loc:41.53993+-72.758386,Southbound
+Connecticut,I-91,54950,Exit 17,EXIT 17,"CT 15
+          (MM: 17.0)","Meriden, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2017/54950,41.530494,-72.769933,http://maps.google.com/maps?t=m&q=loc:41.530494+-72.769933,Southbound
+Connecticut,I-91,29496,Exit 17/67,EXIT 17/67,East Main Street,"Meriden, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2017%2F67/29496,41.534816,-72.766716,http://maps.google.com/maps?t=m&q=loc:41.534816+-72.766716,Southbound
+Connecticut,I-91,29497,Exit 15,EXIT 15,CT-68; Durham; Yalesville,"Wallingford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2015/29497,41.483437,-72.768849,http://maps.google.com/maps?t=m&q=loc:41.483437+-72.768849,Southbound
+Connecticut,I-91,29498,Wallingford Rest Area,REST AREA,"Wallingford Rest Area
+          (MM: 14.5)","Wallingford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Rest%20Area/29498,41.464511,-72.776316,http://maps.google.com/maps?t=m&q=loc:41.464511+-72.776316,Southbound
+Connecticut,I-91,29499,Exit 14,EXIT 14,E Center St; CT-150; Wallingford,"Wallingford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2014/29499,41.446924,-72.788633,http://maps.google.com/maps?t=m&q=loc:41.446924+-72.788633,Southbound
+Connecticut,I-91,29500,Exit 13,EXIT 13,"Wharton Brook Connector
+          (MM: 13.0)","Wallingford, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2013/29500,41.425186,-72.821729,http://maps.google.com/maps?t=m&q=loc:41.425186+-72.821729,Southbound
+Connecticut,I-91,29501,Exit 12,EXIT 12,US-5; Washington Ave,"North Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2012/29501,41.40035,-72.846872,http://maps.google.com/maps?t=m&q=loc:41.40035+-72.846872,Southbound
+Connecticut,I-91,29502,Exit 10,EXIT 10,"CT 40
+          (MM: 10.0)","North Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%2010/29502,41.379717,-72.868002,http://maps.google.com/maps?t=m&q=loc:41.379717+-72.868002,Southbound
+Connecticut,I-91,29503,Exit 9,EXIT 9,Montowese Avenue,"North Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%209/29503,41.35121,-72.867667,http://maps.google.com/maps?t=m&q=loc:41.35121+-72.867667,Southbound
+Connecticut,I-91,29504,Exit 8,EXIT 8,CT-17; Middletown Ave; CT-80; N Branford,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%208/29504,41.327644,-72.880384,http://maps.google.com/maps?t=m&q=loc:41.327644+-72.880384,Southbound
+Connecticut,I-91,29505,Exit 7,EXIT 7,Ferry St; Fair Haven,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%207/29505,41.319743,-72.892688,http://maps.google.com/maps?t=m&q=loc:41.319743+-72.892688,Southbound
+Connecticut,I-91,29506,Exit 6,EXIT 6,Willow St; US-5; Blatchley Ave,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%206/29506,41.318558,-72.897892,http://maps.google.com/maps?t=m&q=loc:41.318558+-72.897892,Southbound
+Connecticut,I-91,54954,Exit 4,EXIT 4,State Street,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%204/54954,41.315904,-72.907448,http://maps.google.com/maps?t=m&q=loc:41.315904+-72.907448,Southbound
+Connecticut,I-91,54955,Exit 3,EXIT 3,Trumbull St,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%203/54955,41.31327,-72.912115,http://maps.google.com/maps?t=m&q=loc:41.31327+-72.912115,Southbound
+Connecticut,I-91,54956,Exit 2,EXIT 2,Hamilton St,"New Haven, Connecticut",https://www.iexitapp.com/Connecticut/I-91/Exit%202/54956,41.308027,-72.91456,http://maps.google.com/maps?t=m&q=loc:41.308027+-72.91456,Southbound

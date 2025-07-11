@@ -1,0 +1,8 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New Jersey,I-76,9750,Exit 354,EXIT 354,"New Jersey Route 76C
+          (MM: 354.0)","Gloucester City, New Jersey",https://www.iexitapp.com/New%20Jersey/I-76/Exit%20354/9750,39.902839,-75.115941,http://maps.google.com/maps?t=m&q=loc:39.902839+-75.115941,Eastbound
+New Jersey,I-76,9752,Exit 1C,EXIT 1C,US-130 S; Crescent Blvd; Brooklawn; Westville,"Gloucester City, New Jersey",https://www.iexitapp.com/New%20Jersey/I-76/Exit%201C/9752,39.890383,-75.10557,http://maps.google.com/maps?t=m&q=loc:39.890383+-75.10557,Eastbound
+New Jersey,I-76,9755,Exit 1C,EXIT 1C,US-130 S,"Gloucester City, New Jersey",https://www.iexitapp.com/New%20Jersey/I-76/Exit%201C/9755,39.881108,-75.102934,http://maps.google.com/maps?t=m&q=loc:39.881108+-75.102934,Westbound
+New Jersey,I-76,9756,Exit 1D,EXIT 1D,US 130,"Gloucester City, New Jersey",https://www.iexitapp.com/New%20Jersey/I-76/Exit%201D/9756,39.884867,-75.103592,http://maps.google.com/maps?t=m&q=loc:39.884867+-75.103592,Westbound
+New Jersey,I-76,9757,Exit 2,EXIT 2,"I 676
+          (MM: 2.0)","Gloucester City, New Jersey",https://www.iexitapp.com/New%20Jersey/I-76/Exit%202/9757,39.898704,-75.109378,http://maps.google.com/maps?t=m&q=loc:39.898704+-75.109378,Westbound

@@ -1,0 +1,67 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-270,34421,Exit 2,EXIT 2,MO-21; Tesson Ferry Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%202/34421,38.511657,-90.365557,http://maps.google.com/maps?t=m&q=loc:38.511657+-90.365557,Eastbound
+Missouri,I-270,34422,Exit 3,EXIT 3,MO-30; Gravois Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%203/34422,38.522528,-90.395123,http://maps.google.com/maps?t=m&q=loc:38.522528+-90.395123,Eastbound
+Missouri,I-270,57393,Exit 5A,EXIT 5A,MO-366 E; Watson Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%205A/57393,38.545245,-90.423759,http://maps.google.com/maps?t=m&q=loc:38.545245+-90.423759,Eastbound
+Missouri,I-270,34424,Exit 8,EXIT 8,Dougherty Ferry Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%208/34424,38.578604,-90.446612,http://maps.google.com/maps?t=m&q=loc:38.578604+-90.446612,Eastbound
+Missouri,I-270,34425,Exit 9,EXIT 9,MO-100; Manchester Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%209/34425,38.597095,-90.449785,http://maps.google.com/maps?t=m&q=loc:38.597095+-90.449785,Eastbound
+Missouri,I-270,57397,Exit 12/26,EXIT 12/26,North Ballas Road,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2012%2F26/57397,38.63404,-90.450089,http://maps.google.com/maps?t=m&q=loc:38.63404+-90.450089,Eastbound
+Missouri,I-270,34427,Exit 13,EXIT 13,Missouri AB,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2013/34427,38.652381,-90.44803,http://maps.google.com/maps?t=m&q=loc:38.652381+-90.44803,Eastbound
+Missouri,I-270,34428,Exit 14,EXIT 14,MO-340; Olive Blvd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2014/34428,38.668669,-90.448786,http://maps.google.com/maps?t=m&q=loc:38.668669+-90.448786,Eastbound
+Missouri,I-270,34429,Exit 16,EXIT 16,"D;364
+          (MM: 16.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2016/34429,38.693714,-90.450311,http://maps.google.com/maps?t=m&q=loc:38.693714+-90.450311,Eastbound
+Missouri,I-270,57399,Exit 16,EXIT 16,Page Avenue; Missouri D,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2016/57399,38.693714,-90.450311,http://maps.google.com/maps?t=m&q=loc:38.693714+-90.450311,Eastbound
+Missouri,I-270,34430,Exit 17,EXIT 17,Dorsett Road,"Maryland Heights, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2017/34430,38.710867,-90.448136,http://maps.google.com/maps?t=m&q=loc:38.710867+-90.448136,Eastbound
+Missouri,I-270,57403,Exit 20C,EXIT 20C,MO-180; St Charles Rock Rd; Natural Bridge Rd,"Bridgeton, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2020C/57403,38.752224,-90.438625,http://maps.google.com/maps?t=m&q=loc:38.752224+-90.438625,Eastbound
+Missouri,I-270,34434,Exit 22B,EXIT 22B,"MO 370
+          (MM: 22.0)","Bridgeton, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2022B/34434,38.768313,-90.408908,http://maps.google.com/maps?t=m&q=loc:38.768313+-90.408908,Eastbound
+Missouri,I-270,34433,Exit 22A,EXIT 22A,Missouri Bottom Rd,"Bridgeton, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2022A/34433,38.767283,-90.412161,http://maps.google.com/maps?t=m&q=loc:38.767283+-90.412161,Eastbound
+Missouri,I-270,34435,Exit 23,EXIT 23,Mc Donnell Blvd,"Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2023/34435,38.77509,-90.395043,http://maps.google.com/maps?t=m&q=loc:38.77509+-90.395043,Eastbound
+Missouri,I-270,34436,Exit 25A,EXIT 25A,US-67 S; Lindbergh Blvd,"Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2025A/34436,38.779078,-90.36429,http://maps.google.com/maps?t=m&q=loc:38.779078+-90.36429,Eastbound
+Missouri,I-270,34438,Exit 26B,EXIT 26B,N Hanley Rd; Graham Rd,"Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2026B/34438,38.776075,-90.342491,http://maps.google.com/maps?t=m&q=loc:38.776075+-90.342491,Eastbound
+Missouri,I-270,34439,Exit 27,EXIT 27,New Florissant Rd; Missouri N,"Florissant, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2027/34439,38.774019,-90.320914,http://maps.google.com/maps?t=m&q=loc:38.774019+-90.320914,Eastbound
+Missouri,I-270,34440,Exit 28,EXIT 28,Elizabeth Ave; Washington St,"Florissant, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2028/34440,38.773127,-90.312185,http://maps.google.com/maps?t=m&q=loc:38.773127+-90.312185,Eastbound
+Missouri,I-270,34441,Exit 29,EXIT 29,W Florissant Ave,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2029/34441,38.771271,-90.285285,http://maps.google.com/maps?t=m&q=loc:38.771271+-90.285285,Eastbound
+Missouri,I-270,34442,Exit 30,EXIT 30,New Halls Ferry Rd; County Ac,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2030/34442,38.770994,-90.272049,http://maps.google.com/maps?t=m&q=loc:38.770994+-90.272049,Eastbound
+Missouri,I-270,34443,Exit 31A,EXIT 31A,"367
+          (MM: 31.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2031A/34443,38.770647,-90.243411,http://maps.google.com/maps?t=m&q=loc:38.770647+-90.243411,Eastbound
+Missouri,I-270,57408,Exit 31B,EXIT 31B,"367
+          (MM: 31.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2031B/57408,38.770625,-90.238325,http://maps.google.com/maps?t=m&q=loc:38.770625+-90.238325,Eastbound
+Missouri,I-270,34444,Exit 32,EXIT 32,Bellefontaine Road,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2032/34444,38.770444,-90.224804,http://maps.google.com/maps?t=m&q=loc:38.770444+-90.224804,Eastbound
+Missouri,I-270,34445,Exit 33,EXIT 33,Lilac Avenue,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2033/34445,38.767371,-90.206535,http://maps.google.com/maps?t=m&q=loc:38.767371+-90.206535,Eastbound
+Missouri,I-270,34446,Exit 34,EXIT 34,Riverview Dr,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2034/34446,38.767381,-90.186848,http://maps.google.com/maps?t=m&q=loc:38.767381+-90.186848,Eastbound
+Missouri,I-270,34468,Exit 34,EXIT 34,Riverview Dr,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2034/34468,38.766475,-90.180048,http://maps.google.com/maps?t=m&q=loc:38.766475+-90.180048,Westbound
+Missouri,I-270,34469,Exit 33,EXIT 33,Lilac Ave,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2033/34469,38.767478,-90.198896,http://maps.google.com/maps?t=m&q=loc:38.767478+-90.198896,Westbound
+Missouri,I-270,34470,Exit 32,EXIT 32,Bellefontaine Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2032/34470,38.768578,-90.212597,http://maps.google.com/maps?t=m&q=loc:38.768578+-90.212597,Westbound
+Missouri,I-270,34471,Exit 31B,EXIT 31B,"367
+          (MM: 31.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2031B/34471,38.770773,-90.234304,http://maps.google.com/maps?t=m&q=loc:38.770773+-90.234304,Westbound
+Missouri,I-270,57422,Exit 31A,EXIT 31A,"367
+          (MM: 31.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2031A/57422,38.770788,-90.239428,http://maps.google.com/maps?t=m&q=loc:38.770788+-90.239428,Westbound
+Missouri,I-270,34472,Exit 30A,EXIT 30A,Old Halls Ferry Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2030A/34472,38.770903,-90.253236,http://maps.google.com/maps?t=m&q=loc:38.770903+-90.253236,Westbound
+Missouri,I-270,34473,Exit 30,EXIT 30,New Halls Ferry Rd; Missouri Ac,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2030/34473,38.77102,-90.263553,http://maps.google.com/maps?t=m&q=loc:38.77102+-90.263553,Westbound
+Missouri,I-270,34474,Exit 29,EXIT 29,W Florissant Ave,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2029/34474,38.771188,-90.275646,http://maps.google.com/maps?t=m&q=loc:38.771188+-90.275646,Westbound
+Missouri,I-270,34475,Exit 28,EXIT 28,Elizabeth Ave; Washington St,"Florissant, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2028/34475,38.772353,-90.303516,http://maps.google.com/maps?t=m&q=loc:38.772353+-90.303516,Westbound
+Missouri,I-270,34476,Exit 27,EXIT 27,New Florissant Rd; Missouri N,"Florissant, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2027/34476,38.773196,-90.311627,http://maps.google.com/maps?t=m&q=loc:38.773196+-90.311627,Westbound
+Missouri,I-270,34477,Exit 26B,EXIT 26B,Graham Rd; N Hanley Rd,"Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2026B/34477,38.77501,-90.328717,http://maps.google.com/maps?t=m&q=loc:38.77501+-90.328717,Westbound
+Missouri,I-270,57425,Exit 25B,EXIT 25B,US-67 N; Lindbergh Blvd,"Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2025B/57425,38.777967,-90.356171,http://maps.google.com/maps?t=m&q=loc:38.777967+-90.356171,Westbound
+Missouri,I-270,57426,Exit 25A,EXIT 25A,US-67 S; Lindbergh Blvd,"Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2025A/57426,38.778589,-90.360419,http://maps.google.com/maps?t=m&q=loc:38.778589+-90.360419,Westbound
+Missouri,I-270,34480,Exit 23,EXIT 23,McDonnell Blvd,"Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2023/34480,38.779916,-90.384906,http://maps.google.com/maps?t=m&q=loc:38.779916+-90.384906,Westbound
+Missouri,I-270,57427,Exit 22B,EXIT 22B,"MO 370
+          (MM: 22.0)","Hazelwood, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2022B/57427,38.773119,-90.39996,http://maps.google.com/maps?t=m&q=loc:38.773119+-90.39996,Westbound
+Missouri,I-270,57429,Exit 20C,EXIT 20C,MO-180; St Charles Rock Rd,"Bridgeton, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2020C/57429,38.761725,-90.425025,http://maps.google.com/maps?t=m&q=loc:38.761725+-90.425025,Westbound
+Missouri,I-270,34484,Exit 17,EXIT 17,Dorsett Rd,"Maryland Heights, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2017/34484,38.717752,-90.446845,http://maps.google.com/maps?t=m&q=loc:38.717752+-90.446845,Westbound
+Missouri,I-270,57432,Exit 19,EXIT 19,"364
+          (MM: 19.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2019/57432,38.696729,-90.460509,http://maps.google.com/maps?t=m&q=loc:38.696729+-90.460509,Westbound
+Missouri,I-270,34485,Exit 16B,EXIT 16B,MO-364 W,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2016B/34485,38.702261,-90.450422,http://maps.google.com/maps?t=m&q=loc:38.702261+-90.450422,Westbound
+Missouri,I-270,57434,Exit 16A,EXIT 16A,"364
+          (MM: 16.0)","St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2016A/57434,38.697352,-90.450825,http://maps.google.com/maps?t=m&q=loc:38.697352+-90.450825,Westbound
+Missouri,I-270,34486,Exit 14,EXIT 14,MO-340; Olive Blvd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2014/34486,38.67732,-90.44967,http://maps.google.com/maps?t=m&q=loc:38.67732+-90.44967,Westbound
+Missouri,I-270,34487,Exit 13,EXIT 13,Ladue Road; Missouri AB,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2013/34487,38.65869,-90.44846,http://maps.google.com/maps?t=m&q=loc:38.65869+-90.44846,Westbound
+Missouri,I-270,57436,Exit 26,EXIT 26,Ballas Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%2026/57436,38.643256,-90.449303,http://maps.google.com/maps?t=m&q=loc:38.643256+-90.449303,Westbound
+Missouri,I-270,34489,Exit 9,EXIT 9,MO-100; Manchester Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%209/34489,38.611107,-90.451661,http://maps.google.com/maps?t=m&q=loc:38.611107+-90.451661,Westbound
+Missouri,I-270,34490,Exit 8,EXIT 8,Dougherty Ferry Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%208/34490,38.585355,-90.448655,http://maps.google.com/maps?t=m&q=loc:38.585355+-90.448655,Westbound
+Missouri,I-270,34491,Exit 7,EXIT 7,Big Bend Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%207/34491,38.570909,-90.440957,http://maps.google.com/maps?t=m&q=loc:38.570909+-90.440957,Westbound
+Missouri,I-270,57439,Exit 5A,EXIT 5A,MO-366 E; Watson Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%205A/57439,38.547827,-90.42646,http://maps.google.com/maps?t=m&q=loc:38.547827+-90.42646,Westbound
+Missouri,I-270,34493,Exit 3,EXIT 3,MO-30; Gravois Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%203/34493,38.529648,-90.40469,http://maps.google.com/maps?t=m&q=loc:38.529648+-90.40469,Westbound
+Missouri,I-270,34494,Exit 2,EXIT 2,MO-21; Tesson Ferry Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%202/34494,38.514567,-90.377006,http://maps.google.com/maps?t=m&q=loc:38.514567+-90.377006,Westbound
+Missouri,I-270,57441,Exit 1A,EXIT 1A,U.S. 61; U.S. 67; Lemay Ferry Rd,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%201A/57441,38.503168,-90.338764,http://maps.google.com/maps?t=m&q=loc:38.503168+-90.338764,Westbound
+Missouri,I-270,57442,I 255,EXIT,I 255,"St Louis, Missouri",https://www.iexitapp.com/Missouri/I-270/Exit%20/57442,38.503562,-90.33958,http://maps.google.com/maps?t=m&q=loc:38.503562+-90.33958,Westbound

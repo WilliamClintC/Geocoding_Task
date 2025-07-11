@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Delaware,I-495,480,Exit 1,EXIT 1,US-13 Business; Wilmington,"New Castle, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%201/480,39.716917,-75.557593,http://maps.google.com/maps?t=m&q=loc:39.716917+-75.557593,Northbound
+Delaware,I-495,481,Exit 2,EXIT 2,Delaware 9A; Terminal Ave; Port of Wilm,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%202/481,39.717943,-75.544232,http://maps.google.com/maps?t=m&q=loc:39.717943+-75.544232,Northbound
+Delaware,I-495,482,Exit 3,EXIT 3,12th St,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%203/482,39.733271,-75.523529,http://maps.google.com/maps?t=m&q=loc:39.733271+-75.523529,Northbound
+Delaware,I-495,483,Exit 4,EXIT 4,US-13; DE-3; Edgemoor Rd; Edgemoor lnd.Park; Gov.Printz Blvd,"Wilmington, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%204/483,39.752123,-75.501903,http://maps.google.com/maps?t=m&q=loc:39.752123+-75.501903,Northbound
+Delaware,I-495,48082,Exit 5,EXIT 5,U.S. 13; Philadelphia Pike; Claymont,"Claymont, Delaware",https://www.iexitapp.com/Delaware/I-495/Exit%205/48082,39.802563,-75.450501,http://maps.google.com/maps?t=m&q=loc:39.802563+-75.450501,Northbound

@@ -12,6 +12,7 @@ const BATCH_CONFIG = {
     
     // Batch processing settings
     BATCH_SIZE: 10, // Number of entries to process in each batch
+    REDUNDANCY_OVERLAP: 2, // Number of entries to reprocess for redundancy (0 to disable)
     
     // Timing settings (in milliseconds)
     DELAYS: {
@@ -22,7 +23,7 @@ const BATCH_CONFIG = {
     
     // Retry and session management
     RETRY_ATTEMPTS: 3,
-    SESSION_TIMEOUT: 1800000,      // 30 minutes session timeout
+    // SESSION_TIMEOUT: 1800000,      // Disabled - using page-based detection only
     
     // Browser settings
     BROWSER_CONFIG: {

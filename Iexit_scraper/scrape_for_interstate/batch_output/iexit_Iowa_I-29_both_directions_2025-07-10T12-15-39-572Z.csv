@@ -1,0 +1,110 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Iowa,I-29,19744,Exit 1,EXIT 1,IA-333; Hamburg,"Hamburg, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%201/19744,40.595834,-95.672992,http://maps.google.com/maps?t=m&q=loc:40.595834+-95.672992,Northbound
+Iowa,I-29,19745,Exit 10,EXIT 10,IA-2; Sidney; Nebr City,"Hamburg, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2010/19745,40.684734,-95.779543,http://maps.google.com/maps?t=m&q=loc:40.684734+-95.779543,Northbound
+Iowa,I-29,19746,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 11.0)","Percival, Iowa",https://www.iexitapp.com/Iowa/I-29/Weigh%20Station/19746,40.703584,-95.793223,http://maps.google.com/maps?t=m&q=loc:40.703584+-95.793223,Northbound
+Iowa,I-29,19747,Exit 15,EXIT 15,Percival,"Percival, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2015/19747,40.752695,-95.817492,http://maps.google.com/maps?t=m&q=loc:40.752695+-95.817492,Northbound
+Iowa,I-29,19748,Exit 20,EXIT 20,Mc Paul; Thurman,"Percival, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2020/19748,40.817871,-95.806165,http://maps.google.com/maps?t=m&q=loc:40.817871+-95.806165,Northbound
+Iowa,I-29,19749,Exit 24,EXIT 24,CR L31;Waubonsie Avenue,"Thurman, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2024/19749,40.88265,-95.800061,http://maps.google.com/maps?t=m&q=loc:40.88265+-95.800061,Northbound
+Iowa,I-29,19750,Exit 32,EXIT 32,County Rd L35,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2032/19750,40.996995,-95.804684,http://maps.google.com/maps?t=m&q=loc:40.996995+-95.804684,Northbound
+Iowa,I-29,53413,Exit 35,EXIT 35,US-34 E; US-275 S; Glenwood,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2035/53413,41.035761,-95.817562,http://maps.google.com/maps?t=m&q=loc:41.035761+-95.817562,Northbound
+Iowa,I-29,53414,Exit 35,EXIT 35,US-34 E; US-275 S; Glenwood,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2035/53414,41.041387,-95.818674,http://maps.google.com/maps?t=m&q=loc:41.041387+-95.818674,Northbound
+Iowa,I-29,19752,Rest Area,REST AREA,"Rest Area
+          (MM: 38.0)","Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/19752,41.075169,-95.825068,http://maps.google.com/maps?t=m&q=loc:41.075169+-95.825068,Northbound
+Iowa,I-29,19753,Exit 42,EXIT 42,IA-370; Bellevue; US-34 W,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2042/19753,41.144888,-95.821547,http://maps.google.com/maps?t=m&q=loc:41.144888+-95.821547,Northbound
+Iowa,I-29,19754,Exit 47,EXIT 47,US-275 N; IA-92; Lake Manawa,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2047/19754,41.217772,-95.829572,http://maps.google.com/maps?t=m&q=loc:41.217772+-95.829572,Northbound
+Iowa,I-29,19756,Exit 3,EXIT 3,Council Bluffs N; Business District N; Lake Manawa N,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%203/19756,41.232204,-95.850994,http://maps.google.com/maps?t=m&q=loc:41.232204+-95.850994,Northbound
+Iowa,I-29,53416,Exit 1B,EXIT 1B,South 24th Street; Council Bluffs,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%201B/53416,41.232611,-95.873221,http://maps.google.com/maps?t=m&q=loc:41.232611+-95.873221,Northbound
+Iowa,I-29,19759,Exit 52,EXIT 52,Nebraska Ave,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2052/19759,41.242792,-95.905173,http://maps.google.com/maps?t=m&q=loc:41.242792+-95.905173,Northbound
+Iowa,I-29,19760,Exit 53A,EXIT 53A,9th Ave; Harrahs Blvd; Riverboat Casino,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2053A/19760,41.250415,-95.906682,http://maps.google.com/maps?t=m&q=loc:41.250415+-95.906682,Northbound
+Iowa,I-29,19761,Exit 53B,EXIT 53B,"I 480;US 6
+          (MM: 53.0)","Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2053B/19761,41.259958,-95.907071,http://maps.google.com/maps?t=m&q=loc:41.259958+-95.907071,Northbound
+Iowa,I-29,19762,Exit 54B,EXIT 54B,N 35th St,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2054B/19762,41.270495,-95.904009,http://maps.google.com/maps?t=m&q=loc:41.270495+-95.904009,Northbound
+Iowa,I-29,19763,Exit 55,EXIT 55,N 25th St,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2055/19763,41.274997,-95.886312,http://maps.google.com/maps?t=m&q=loc:41.274997+-95.886312,Northbound
+Iowa,I-29,53419,Exit 61A,EXIT 61A,Crescent; Pottawattamie County G37,"Crescent, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2061A/53419,41.35026,-95.89724,http://maps.google.com/maps?t=m&q=loc:41.35026+-95.89724,Northbound
+Iowa,I-29,53421,Exit 61B,EXIT 61B,"I 680
+          (MM: 61.0)","Crescent, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2061B/53421,41.35477,-95.90042,http://maps.google.com/maps?t=m&q=loc:41.35477+-95.90042,Northbound
+Iowa,I-29,19764,Exit 66,EXIT 66,Honey Creek,"Crescent, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2066/19764,41.415523,-95.90018,http://maps.google.com/maps?t=m&q=loc:41.415523+-95.90018,Northbound
+Iowa,I-29,19765,Exit 71,EXIT 71,"I 680
+          (MM: 71.0)","Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2071/19765,41.490286,-95.900713,http://maps.google.com/maps?t=m&q=loc:41.490286+-95.900713,Northbound
+Iowa,I-29,19766,Exit 72,EXIT 72,Loveland,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2072/19766,41.498869,-95.901352,http://maps.google.com/maps?t=m&q=loc:41.498869+-95.901352,Northbound
+Iowa,I-29,19767,Weigh Station,WEIGH STATION,Weigh Station,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Weigh%20Station/19767,41.510751,-95.908736,http://maps.google.com/maps?t=m&q=loc:41.510751+-95.908736,Northbound
+Iowa,I-29,19768,Exit 75,EXIT 75,US-30; Missouri Valley; Blair Nebraska,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2075/19768,41.545836,-95.917371,http://maps.google.com/maps?t=m&q=loc:41.545836+-95.917371,Northbound
+Iowa,I-29,19769,Rest Area,REST AREA,"Rest Area
+          (MM: 79.0)","Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/19769,41.581024,-95.938309,http://maps.google.com/maps?t=m&q=loc:41.581024+-95.938309,Northbound
+Iowa,I-29,19770,Exit 82,EXIT 82,Modale; Harrison County,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2082/19770,41.615999,-95.982892,http://maps.google.com/maps?t=m&q=loc:41.615999+-95.982892,Northbound
+Iowa,I-29,19771,Exit 89,EXIT 89,IA-127; Mondamin,"Mondamin, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2089/19771,41.706251,-96.043635,http://maps.google.com/maps?t=m&q=loc:41.706251+-96.043635,Northbound
+Iowa,I-29,19772,Parking Area,PARKING AREA,Parking Area,"Mondamin, Iowa",https://www.iexitapp.com/Iowa/I-29/Parking%20Area/19772,41.740975,-96.047614,http://maps.google.com/maps?t=m&q=loc:41.740975+-96.047614,Northbound
+Iowa,I-29,19773,Exit 95,EXIT 95,Little Sioux,"Little Sioux, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2095/19773,41.798776,-96.052339,http://maps.google.com/maps?t=m&q=loc:41.798776+-96.052339,Northbound
+Iowa,I-29,19774,Exit 105,EXIT 105,Blencoe; Monona County,"Blencoe, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20105/19774,41.925176,-96.103874,http://maps.google.com/maps?t=m&q=loc:41.925176+-96.103874,Northbound
+Iowa,I-29,19775,Rest Area,REST AREA,"Rest Area
+          (MM: 110.0)","Onawa, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/19775,41.98994,-96.109059,http://maps.google.com/maps?t=m&q=loc:41.98994+-96.109059,Northbound
+Iowa,I-29,19776,Exit 112,EXIT 112,IA-175; Onawa; Decatur Neb,"Onawa, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20112/19776,42.02206,-96.128396,http://maps.google.com/maps?t=m&q=loc:42.02206+-96.128396,Northbound
+Iowa,I-29,19777,Exit 120,EXIT 120,Whiting,"Whiting, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20120/19777,42.124868,-96.202232,http://maps.google.com/maps?t=m&q=loc:42.124868+-96.202232,Northbound
+Iowa,I-29,19778,Exit 127,EXIT 127,IA-141; Sloan,"Sloan, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20127/19778,42.224319,-96.241133,http://maps.google.com/maps?t=m&q=loc:42.224319+-96.241133,Northbound
+Iowa,I-29,19779,Parking Area,PARKING AREA,Parking Area,"Sloan, Iowa",https://www.iexitapp.com/Iowa/I-29/Parking%20Area/19779,42.285664,-96.281508,http://maps.google.com/maps?t=m&q=loc:42.285664+-96.281508,Northbound
+Iowa,I-29,19780,Exit 134,EXIT 134,Salix,"Salix, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20134/19780,42.304707,-96.301395,http://maps.google.com/maps?t=m&q=loc:42.304707+-96.301395,Northbound
+Iowa,I-29,19781,Exit 135,EXIT 135,Port Neal Landing,"Salix, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20135/19781,42.325624,-96.313351,http://maps.google.com/maps?t=m&q=loc:42.325624+-96.313351,Northbound
+Iowa,I-29,19782,Rest Area,REST AREA,"Rest Area
+          (MM: 139.0)","Salix, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/19782,42.372247,-96.351848,http://maps.google.com/maps?t=m&q=loc:42.372247+-96.351848,Northbound
+Iowa,I-29,19783,Exit 141,EXIT 141,Sergeant Bluff; Sioux Gateway Airport; Woodbury County D38,"Sergeant Bluff, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20141/19783,42.396057,-96.366581,http://maps.google.com/maps?t=m&q=loc:42.396057+-96.366581,Northbound
+Iowa,I-29,53423,Exit 143,EXIT 143,Singing Hills Blvd,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20143/53423,42.429226,-96.371639,http://maps.google.com/maps?t=m&q=loc:42.429226+-96.371639,Northbound
+Iowa,I-29,19785,Exit 144A,EXIT 144A,"US 20;US 75
+          (MM: 144.0)","Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20144A/19785,42.44129,-96.375175,http://maps.google.com/maps?t=m&q=loc:42.44129+-96.375175,Northbound
+Iowa,I-29,19786,Exit 147A,EXIT 147A,Floyd Blvd; Historic 4th St,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20147A/19786,42.484515,-96.391885,http://maps.google.com/maps?t=m&q=loc:42.484515+-96.391885,Northbound
+Iowa,I-29,19787,Exit 147B,EXIT 147B,Tyson Events Center; Downtown,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20147B/19787,42.488234,-96.39874,http://maps.google.com/maps?t=m&q=loc:42.488234+-96.39874,Northbound
+Iowa,I-29,19788,Exit 148,EXIT 148,US 77 S; Wesler Pkwy; S Sioux City Nebr,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20148/19788,42.489419,-96.406049,http://maps.google.com/maps?t=m&q=loc:42.489419+-96.406049,Northbound
+Iowa,I-29,19789,Exit 149,EXIT 149,Hamilton Blvd,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20149/19789,42.492178,-96.421517,http://maps.google.com/maps?t=m&q=loc:42.492178+-96.421517,Northbound
+Iowa,I-29,19790,Exit 151,EXIT 151,Iowa 12; Riverside Boulevard,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20151/19790,42.49374,-96.459973,http://maps.google.com/maps?t=m&q=loc:42.49374+-96.459973,Northbound
+Iowa,I-29,20039,Exit 151,EXIT 151,Iowa 12 N; Riverside Boulevard,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20151/20039,42.494657,-96.4755,http://maps.google.com/maps?t=m&q=loc:42.494657+-96.4755,Southbound
+Iowa,I-29,20040,Exit 149,EXIT 149,Hamilton Blvd; US-77 S; Wesley Pkwy; S Sloux City,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20149/20040,42.491736,-96.430377,http://maps.google.com/maps?t=m&q=loc:42.491736+-96.430377,Southbound
+Iowa,I-29,20041,Exit 147B,EXIT 147B,Tyson Events Center; Downtown,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20147B/20041,42.489385,-96.407147,http://maps.google.com/maps?t=m&q=loc:42.489385+-96.407147,Southbound
+Iowa,I-29,20042,Exit 147A,EXIT 147A,Floyd Blvd; Historic 4th St,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20147A/20042,42.487954,-96.398109,http://maps.google.com/maps?t=m&q=loc:42.487954+-96.398109,Southbound
+Iowa,I-29,53450,Exit 143,EXIT 143,US-75 BUS; Singing Hills Blvd,"Sioux City, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20143/53450,42.439839,-96.375484,http://maps.google.com/maps?t=m&q=loc:42.439839+-96.375484,Southbound
+Iowa,I-29,20045,Exit 141,EXIT 141,Woodbury County D38; Sioux Gateway Airport; Sergeant Bluff,"Sergeant Bluff, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20141/20045,42.405203,-96.366781,http://maps.google.com/maps?t=m&q=loc:42.405203+-96.366781,Southbound
+Iowa,I-29,20046,Rest Area,REST AREA,"Rest Area
+          (MM: 139.0)","Salix, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/20046,42.378836,-96.35657,http://maps.google.com/maps?t=m&q=loc:42.378836+-96.35657,Southbound
+Iowa,I-29,20047,Exit 135,EXIT 135,Port Neal Landing,"Salix, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20135/20047,42.336218,-96.32501,http://maps.google.com/maps?t=m&q=loc:42.336218+-96.32501,Southbound
+Iowa,I-29,20048,Exit 134,EXIT 134,K25,"Salix, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20134/20048,42.311827,-96.304667,http://maps.google.com/maps?t=m&q=loc:42.311827+-96.304667,Southbound
+Iowa,I-29,20049,Weigh Station,WEIGH STATION,Weigh Station,"Sloan, Iowa",https://www.iexitapp.com/Iowa/I-29/Weigh%20Station/20049,42.292869,-96.289642,http://maps.google.com/maps?t=m&q=loc:42.292869+-96.289642,Southbound
+Iowa,I-29,20050,Exit 127,EXIT 127,IA-141; Sloan,"Sloan, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20127/20050,42.232276,-96.242704,http://maps.google.com/maps?t=m&q=loc:42.232276+-96.242704,Southbound
+Iowa,I-29,20051,Exit 120,EXIT 120,Whiting,"Whiting, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20120/20051,42.130721,-96.206206,http://maps.google.com/maps?t=m&q=loc:42.130721+-96.206206,Southbound
+Iowa,I-29,20052,Exit 112,EXIT 112,IA-175; Onawa; Decatur Neb,"Onawa, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20112/20052,42.030645,-96.135761,http://maps.google.com/maps?t=m&q=loc:42.030645+-96.135761,Southbound
+Iowa,I-29,20053,Rest Area,REST AREA,"Rest Area
+          (MM: 110.0)","Onawa, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/20053,41.995746,-96.112084,http://maps.google.com/maps?t=m&q=loc:41.995746+-96.112084,Southbound
+Iowa,I-29,20054,Exit 105,EXIT 105,Blencoe; Monona County,"Blencoe, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%20105/20054,41.935268,-96.103989,http://maps.google.com/maps?t=m&q=loc:41.935268+-96.103989,Southbound
+Iowa,I-29,20055,Exit 95,EXIT 95,CR F20;County Road F20,"Little Sioux, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2095/20055,41.805158,-96.058487,http://maps.google.com/maps?t=m&q=loc:41.805158+-96.058487,Southbound
+Iowa,I-29,20056,Parking Area,PARKING AREA,Parking Area,"Mondamin, Iowa",https://www.iexitapp.com/Iowa/I-29/Parking%20Area/20056,41.745079,-96.047327,http://maps.google.com/maps?t=m&q=loc:41.745079+-96.047327,Southbound
+Iowa,I-29,20057,Exit 89,EXIT 89,IA-127; Mondamin,"Mondamin, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2089/20057,41.716468,-96.045516,http://maps.google.com/maps?t=m&q=loc:41.716468+-96.045516,Southbound
+Iowa,I-29,20058,Exit 82,EXIT 82,Modale; Harrison County,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2082/20058,41.623993,-95.993328,http://maps.google.com/maps?t=m&q=loc:41.623993+-95.993328,Southbound
+Iowa,I-29,20059,Rest Area,REST AREA,"Rest Area
+          (MM: 79.0)","Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/20059,41.59467,-95.955944,http://maps.google.com/maps?t=m&q=loc:41.59467+-95.955944,Southbound
+Iowa,I-29,53451,Exit 75,EXIT 75,US-30; Missouri Valley; Blair Nebraska,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2075/53451,41.555134,-95.917479,http://maps.google.com/maps?t=m&q=loc:41.555134+-95.917479,Southbound
+Iowa,I-29,20061,Truck Turnout,TURN OUT,Truck Turnout,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Truck%20Turnout/20061,41.521426,-95.917762,http://maps.google.com/maps?t=m&q=loc:41.521426+-95.917762,Southbound
+Iowa,I-29,20062,Exit 72,EXIT 72,Loveland,"Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2072/20062,41.505672,-95.902945,http://maps.google.com/maps?t=m&q=loc:41.505672+-95.902945,Southbound
+Iowa,I-29,20063,Exit 71,EXIT 71,"I 680
+          (MM: 71.0)","Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2071/20063,41.49365,-95.901228,http://maps.google.com/maps?t=m&q=loc:41.49365+-95.901228,Southbound
+Iowa,I-29,20064,Exit 66,EXIT 66,Honey Creek,"Crescent, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2066/20064,41.422517,-95.900564,http://maps.google.com/maps?t=m&q=loc:41.422517+-95.900564,Southbound
+Iowa,I-29,20065,Exit 61B,EXIT 61B,"I 680
+          (MM: 61.0)","Crescent, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2061B/20065,41.360666,-95.901037,http://maps.google.com/maps?t=m&q=loc:41.360666+-95.901037,Southbound
+Iowa,I-29,20066,Exit 56,EXIT 56,IA-192 S; Business District; Council Bluffs,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2056/20066,41.287561,-95.867415,http://maps.google.com/maps?t=m&q=loc:41.287561+-95.867415,Southbound
+Iowa,I-29,20067,Exit 55,EXIT 55,N 25th Street,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2055/20067,41.275853,-95.877413,http://maps.google.com/maps?t=m&q=loc:41.275853+-95.877413,Southbound
+Iowa,I-29,20068,Exit 54A,EXIT 54A,G Ave,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2054A/20068,41.270065,-95.905967,http://maps.google.com/maps?t=m&q=loc:41.270065+-95.905967,Southbound
+Iowa,I-29,20069,Exit 53B,EXIT 53B,"I 480;US 6
+          (MM: 53.0)","Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2053B/20069,41.267298,-95.90848,http://maps.google.com/maps?t=m&q=loc:41.267298+-95.90848,Southbound
+Iowa,I-29,20070,Exit 53A,EXIT 53A,9th Ave; Harrahs Blvd; Riverboat Casino,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2053A/20070,41.257585,-95.906962,http://maps.google.com/maps?t=m&q=loc:41.257585+-95.906962,Southbound
+Iowa,I-29,20071,Exit 52,EXIT 52,Nebraska Ave,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2052/20071,41.247887,-95.906915,http://maps.google.com/maps?t=m&q=loc:41.247887+-95.906915,Southbound
+Iowa,I-29,53456,Exit 50,EXIT 50,South 24th Street,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2050/53456,41.231946,-95.89269,http://maps.google.com/maps?t=m&q=loc:41.231946+-95.89269,Southbound
+Iowa,I-29,20074,Exit 3,EXIT 3,IA-192 N; Council Bluffs; Business District; Lake Manawa,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%203/20074,41.232046,-95.858071,http://maps.google.com/maps?t=m&q=loc:41.232046+-95.858071,Southbound
+Iowa,I-29,20076,Exit 47,EXIT 47,IA-192 N; Council Bluffs; Business District; Lake Manawa,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2047/20076,41.220063,-95.832398,http://maps.google.com/maps?t=m&q=loc:41.220063+-95.832398,Southbound
+Iowa,I-29,20077,Exit 42,EXIT 42,IA-370; Bellevue; US-34 W,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2042/20077,41.154108,-95.822882,http://maps.google.com/maps?t=m&q=loc:41.154108+-95.822882,Southbound
+Iowa,I-29,20078,Rest Area,REST AREA,"Rest Area
+          (MM: 38.0)","Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Rest%20Area/20078,41.08676,-95.829793,http://maps.google.com/maps?t=m&q=loc:41.08676+-95.829793,Southbound
+Iowa,I-29,53459,Exit 35,EXIT 35,US 34,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2035/53459,41.051595,-95.820476,http://maps.google.com/maps?t=m&q=loc:41.051595+-95.820476,Southbound
+Iowa,I-29,53460,Exit 35,EXIT 35,US 34;US 275,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2035/53460,41.049467,-95.820451,http://maps.google.com/maps?t=m&q=loc:41.049467+-95.820451,Southbound
+Iowa,I-29,20080,Exit 32,EXIT 32,Mills County L35,"Pacific Junction, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2032/20080,41.006115,-95.808075,http://maps.google.com/maps?t=m&q=loc:41.006115+-95.808075,Southbound
+Iowa,I-29,20081,Exit 24,EXIT 24,Co Rd L31; Bartlett; Tabor,"Thurman, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2024/20081,40.892186,-95.799528,http://maps.google.com/maps?t=m&q=loc:40.892186+-95.799528,Southbound
+Iowa,I-29,20082,Exit 20,EXIT 20,McPaul; Thurman,"Percival, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2020/20082,40.826194,-95.806787,http://maps.google.com/maps?t=m&q=loc:40.826194+-95.806787,Southbound
+Iowa,I-29,20083,Exit 15,EXIT 15,Percival; Fremont County,"Percival, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2015/20083,40.76286,-95.81546,http://maps.google.com/maps?t=m&q=loc:40.76286+-95.81546,Southbound
+Iowa,I-29,20084,Exit 10,EXIT 10,IA-2; Sidney; Nebr City,"Hamburg, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%2010/20084,40.693553,-95.786299,http://maps.google.com/maps?t=m&q=loc:40.693553+-95.786299,Southbound
+Iowa,I-29,20085,Exit 1,EXIT 1,IA-333; Hamburg,"Hamburg, Iowa",https://www.iexitapp.com/Iowa/I-29/Exit%201/20085,40.604681,-95.681685,http://maps.google.com/maps?t=m&q=loc:40.604681+-95.681685,Southbound

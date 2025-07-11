@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Iowa,I-680,36481,Exit 1,EXIT 1,US 275 / N-92 (L Street) / W. Center Road / I Street / Q Street,"Crescent, Iowa",https://www.iexitapp.com/Iowa/I-680/Exit%201/36481,41.346459,-95.943626,http://maps.google.com/maps?t=m&q=loc:41.346459+-95.943626,Eastbound
+Iowa,I-680,36483,Exit 66,EXIT 66,Honey Creek,"Crescent, Iowa",https://www.iexitapp.com/Iowa/I-680/Exit%2066/36483,41.415523,-95.90018,http://maps.google.com/maps?t=m&q=loc:41.415523+-95.90018,Eastbound
+Iowa,I-680,36484,Exit 71,EXIT 71,"I 680
+          (MM: 71.0)","Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-680/Exit%2071/36484,41.490286,-95.900713,http://maps.google.com/maps?t=m&q=loc:41.490286+-95.900713,Eastbound
+Iowa,I-680,36485,Rest Area,REST AREA,"Rest Area
+          (MM: 16.0)","Missouri Valley, Iowa",https://www.iexitapp.com/Iowa/I-680/Rest%20Area/36485,41.493703,-95.846807,http://maps.google.com/maps?t=m&q=loc:41.493703+-95.846807,Eastbound
+Iowa,I-680,36486,Exit 21,EXIT 21,"CR L34 – Beebeetown, Logan","Neola, Iowa",https://www.iexitapp.com/Iowa/I-680/Exit%2021/36486,41.498587,-95.745856,http://maps.google.com/maps?t=m&q=loc:41.498587+-95.745856,Eastbound
+Iowa,I-680,36487,Exit 28,EXIT 28,"Iowa 191 north / CR G8L south – Neola, Persia","Neola, Iowa",https://www.iexitapp.com/Iowa/I-680/Exit%2028/36487,41.498795,-95.608973,http://maps.google.com/maps?t=m&q=loc:41.498795+-95.608973,Eastbound

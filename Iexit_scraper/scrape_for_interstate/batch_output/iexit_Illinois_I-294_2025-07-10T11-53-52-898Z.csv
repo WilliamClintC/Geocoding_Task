@@ -1,0 +1,19 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-294,37954,Exit 48,EXIT 48,Willow Road,"Northbrook, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2048/37954,42.112518,-87.870052,http://maps.google.com/maps?t=m&q=loc:42.112518+-87.870052,Southbound
+Illinois,I-294,37955,Exit 45,EXIT 45,IL 58 (Golf Road),"Des Plaines, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2045/37955,42.060644,-87.867924,http://maps.google.com/maps?t=m&q=loc:42.060644+-87.867924,Southbound
+Illinois,I-294,37959,Exit 33,EXIT 33,"I-290 / IL 110 east (Eisenhower Expressway) – Chicago
+          (MM: 33.0)","Melrose Park, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2033/37959,41.906256,-87.919932,http://maps.google.com/maps?t=m&q=loc:41.906256+-87.919932,Southbound
+Illinois,I-294,37961,Exit 29,EXIT 29,"Cermak Road, 22nd Street","Oak Brook, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2029/37961,41.847295,-87.919305,http://maps.google.com/maps?t=m&q=loc:41.847295+-87.919305,Southbound
+Illinois,I-294,37962,Exit 27B,EXIT 27B,"US 34 (Ogden Avenue) – Downers Grove, LaGrange","Western Springs, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2027B/37962,41.824023,-87.917253,http://maps.google.com/maps?t=m&q=loc:41.824023+-87.917253,Southbound
+Illinois,I-294,37963,Exit 27A,EXIT 27A,"US 34 (Ogden Avenue) – Downers Grove, LaGrange","Hinsdale, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2027A/37963,41.818329,-87.914359,http://maps.google.com/maps?t=m&q=loc:41.818329+-87.914359,Southbound
+Illinois,I-294,58556,Hinsdale Tollway Oasis,SERVICE PLAZA,Hinsdale Tollway Oasis,"Hinsdale, Illinois",https://www.iexitapp.com/Illinois/I-294/HMSHost%20Service%20Plaza/58556,41.786357,-87.908135,http://maps.google.com/maps?t=m&q=loc:41.786357+-87.908135,Southbound
+Illinois,I-294,37965,Exit 22,EXIT 22,75th Street,"La Grange, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2022/37965,41.757146,-87.881734,http://maps.google.com/maps?t=m&q=loc:41.757146+-87.881734,Southbound
+Illinois,I-294,37966,Exit 17B,EXIT 17B,US 20 / 76th Avenue,"Bridgeview, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2017B/37966,41.722678,-87.808704,http://maps.google.com/maps?t=m&q=loc:41.722678+-87.808704,Southbound
+Illinois,I-294,37967,Exit 17A,EXIT 17A,US 12 (95th Street),"Bridgeview, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2017A/37967,41.718559,-87.806629,http://maps.google.com/maps?t=m&q=loc:41.718559+-87.806629,Southbound
+Illinois,I-294,37968,Exit 12AB,EXIT 12AB,IL 50 (Cicero Avenue / 4800 West) / IL 83 (127th Street),"Alsip, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%2012AB/37968,41.665536,-87.74989,http://maps.google.com/maps?t=m&q=loc:41.665536+-87.74989,Southbound
+Illinois,I-294,37969,Exit 6AB,EXIT 6AB,US 6 (159th Street),"Harvey, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%206AB/37969,41.608581,-87.681971,http://maps.google.com/maps?t=m&q=loc:41.608581+-87.681971,Southbound
+Illinois,I-294,37970,Exit 5,EXIT 5,"I-80 west to I-57 – Iowa
+          (MM: 5.0)","Markham, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%205/37970,41.587132,-87.681298,http://maps.google.com/maps?t=m&q=loc:41.587132+-87.681298,Southbound
+Illinois,I-294,37971,Exit 2,EXIT 2,IL 1 – Halsted Street,"Hazel Crest, Illinois",https://www.iexitapp.com/Illinois/I-294/Exit%202/37971,41.578105,-87.645162,http://maps.google.com/maps?t=m&q=loc:41.578105+-87.645162,Southbound
+Illinois,I-294,37972,Chicago Southland Lincoln Oasis,SERVICE PLAZA,"Chicago Southland Lincoln Oasis
+          (MM: 159.0)","Thornton, Illinois",https://www.iexitapp.com/Illinois/I-294/HMSHost%20Service%20Plaza/37972,41.579256,-87.60376,http://maps.google.com/maps?t=m&q=loc:41.579256+-87.60376,Southbound

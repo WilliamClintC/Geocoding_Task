@@ -1,0 +1,53 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Georgia,I-285,36647,Exit 2,EXIT 2,Camp Cr Pkwy; Atl Airport,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%202/36647,33.659265,-84.497745,http://maps.google.com/maps?t=m&q=loc:33.659265+-84.497745,Unknown
+Georgia,I-285,36648,Exit 1,EXIT 1,Washington Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%201/36648,33.639495,-84.494559,http://maps.google.com/maps?t=m&q=loc:33.639495+-84.494559,Unknown
+Georgia,I-285,36649,Exit 62,EXIT 62,"GA 14 Connector
+          (MM: 62.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2062/36649,33.627917,-84.488988,http://maps.google.com/maps?t=m&q=loc:33.627917+-84.488988,Unknown
+Georgia,I-285,36651,Exit 60,EXIT 60,GA-139 N,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2060/36651,33.616144,-84.443092,http://maps.google.com/maps?t=m&q=loc:33.616144+-84.443092,Unknown
+Georgia,I-285,36652,Exit 59,EXIT 59,Clark Howell Hwy; Air Cargo,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2059/36652,33.623524,-84.424321,http://maps.google.com/maps?t=m&q=loc:33.623524+-84.424321,Unknown
+Georgia,I-285,57267,Exit 58,EXIT 58,I-75 S; Macon; Tampa,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2058/57267,33.626873,-84.418927,http://maps.google.com/maps?t=m&q=loc:33.626873+-84.418927,Unknown
+Georgia,I-285,57268,Exit 58,EXIT 58,I-75 N; Atlanta,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2058/57268,33.632374,-84.406625,http://maps.google.com/maps?t=m&q=loc:33.632374+-84.406625,Unknown
+Georgia,I-285,36654,Exit 55,EXIT 55,Georgia 54; Jonesboro Road,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2055/36654,33.64886,-84.369441,http://maps.google.com/maps?t=m&q=loc:33.64886+-84.369441,Unknown
+Georgia,I-285,36655,Exit 53,EXIT 53,US-23; Moreland Ave; Fort Gillem,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2053/36655,33.665678,-84.345394,http://maps.google.com/maps?t=m&q=loc:33.665678+-84.345394,Unknown
+Georgia,I-285,36656,Exit 52,EXIT 52,"I 675
+          (MM: 52.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2052/36656,33.668,-84.339803,http://maps.google.com/maps?t=m&q=loc:33.668+-84.339803,Unknown
+Georgia,I-285,36657,Exit 51,EXIT 51,Bouldercrest Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2051/36657,33.680492,-84.314489,http://maps.google.com/maps?t=m&q=loc:33.680492+-84.314489,Unknown
+Georgia,I-285,36658,Exit 48,EXIT 48,GA-155; Flat Shoals Rd; Candler Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2048/36658,33.698884,-84.269632,http://maps.google.com/maps?t=m&q=loc:33.698884+-84.269632,Unknown
+Georgia,I-285,36660,Exit 44,EXIT 44,Glenwood Rd,"Decatur, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2044/36660,33.733899,-84.230944,http://maps.google.com/maps?t=m&q=loc:33.733899+-84.230944,Unknown
+Georgia,I-285,36661,Exit 43,EXIT 43,US-278; Covington Hwy,"Decatur, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2043/36661,33.749557,-84.231264,http://maps.google.com/maps?t=m&q=loc:33.749557+-84.231264,Unknown
+Georgia,I-285,57273,Exit 42,TRAIN STATION,"Indian Creek Transit Station
+          (MM: 42.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Train%20Station/57273,33.763188,-84.232297,http://maps.google.com/maps?t=m&q=loc:33.763188+-84.232297,Unknown
+Georgia,I-285,36662,Exit 41,EXIT 41,GA-10; Memorial Dr; Avondale Estates,"Scottdale, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2041/36662,33.773503,-84.234855,http://maps.google.com/maps?t=m&q=loc:33.773503+-84.234855,Unknown
+Georgia,I-285,36663,Exit 40,EXIT 40,Church St; Clarkston,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2040/36663,33.800011,-84.24964,http://maps.google.com/maps?t=m&q=loc:33.800011+-84.24964,Unknown
+Georgia,I-285,36664,Exit 39B,EXIT 39B,"US 78; GA 410
+          (MM: 39.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2039B/36664,33.811756,-84.250984,http://maps.google.com/maps?t=m&q=loc:33.811756+-84.250984,Unknown
+Georgia,I-285,57274,Exit 39A,EXIT 39A,US 78; GA 410,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2039A/57274,33.815921,-84.250685,http://maps.google.com/maps?t=m&q=loc:33.815921+-84.250685,Unknown
+Georgia,I-285,36665,Exit 38,EXIT 38,US-29 N; Lawrenceville Hwy,"Tucker, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2038/36665,33.818383,-84.251089,http://maps.google.com/maps?t=m&q=loc:33.818383+-84.251089,Unknown
+Georgia,I-285,36666,Exit 37,EXIT 37,GA-236; Lavista Road; Tucker,"Tucker, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2037/36666,33.841667,-84.247673,http://maps.google.com/maps?t=m&q=loc:33.841667+-84.247673,Unknown
+Georgia,I-285,36668,Exit 34,EXIT 34,Chamblee-Tucker Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2034/36668,33.880602,-84.249669,http://maps.google.com/maps?t=m&q=loc:33.880602+-84.249669,Unknown
+Georgia,I-285,36669,Exit 32,EXIT 32,US 23; GA 13,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2032/36669,33.88938,-84.255781,http://maps.google.com/maps?t=m&q=loc:33.88938+-84.255781,Unknown
+Georgia,I-285,36670,Exit 31B,EXIT 31B,"GA 141
+          (MM: 31.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2031B/36670,33.910095,-84.283216,http://maps.google.com/maps?t=m&q=loc:33.910095+-84.283216,Unknown
+Georgia,I-285,57279,Exit 31B,EXIT 31B,Tilly Mill Rd; Ga Perimeter College,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2031B/57279,33.910095,-84.283216,http://maps.google.com/maps?t=m&q=loc:33.910095+-84.283216,Unknown
+Georgia,I-285,57280,Exit 31A,EXIT 31A,"GA 141
+          (MM: 31.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2031A/57280,33.91182,-84.284998,http://maps.google.com/maps?t=m&q=loc:33.91182+-84.284998,Unknown
+Georgia,I-285,36671,Exit 30,EXIT 30,Chamblee Dunwoody Rd; N Shallowford Rd; N Peachtree Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2030/36671,33.918533,-84.2924,http://maps.google.com/maps?t=m&q=loc:33.918533+-84.2924,Unknown
+Georgia,I-285,36672,Exit 29,EXIT 29,Ashford Dunwoody Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2029/36672,33.919554,-84.333693,http://maps.google.com/maps?t=m&q=loc:33.919554+-84.333693,Unknown
+Georgia,I-285,36673,Exit 28,EXIT 28,Peachtree Dunwoody Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2028/36673,33.915305,-84.34757,http://maps.google.com/maps?t=m&q=loc:33.915305+-84.34757,Unknown
+Georgia,I-285,36674,Exit 27,EXIT 27,"US 19;GA 400;GA 400
+          (MM: 27.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2027/36674,33.914627,-84.349786,http://maps.google.com/maps?t=m&q=loc:33.914627+-84.349786,Unknown
+Georgia,I-285,57284,Exit 25,EXIT 25,Roswell Rd; US-19 S; Sandy Springs,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2025/57284,33.911916,-84.374282,http://maps.google.com/maps?t=m&q=loc:33.911916+-84.374282,Unknown
+Georgia,I-285,36676,Exit 24,EXIT 24,Riverside Dr,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2024/36676,33.915835,-84.403122,http://maps.google.com/maps?t=m&q=loc:33.915835+-84.403122,Unknown
+Georgia,I-285,57285,Exit 22,EXIT 22,Northside Drive; New Northside Drive; Powers Ferry Road,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2022/57285,33.911844,-84.425967,http://maps.google.com/maps?t=m&q=loc:33.911844+-84.425967,Unknown
+Georgia,I-285,57286,Exit 20,EXIT 20,I-75 N,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2020/57286,33.8955,-84.452133,http://maps.google.com/maps?t=m&q=loc:33.8955+-84.452133,Unknown
+Georgia,I-285,57287,Exit 20,EXIT 20,US 41; GA 3,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2020/57287,33.893475,-84.455475,http://maps.google.com/maps?t=m&q=loc:33.893475+-84.455475,Unknown
+Georgia,I-285,36679,Exit 18,EXIT 18,Paces Ferry Rd; Vinings,"Smyrna, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2018/36679,33.870506,-84.477161,http://maps.google.com/maps?t=m&q=loc:33.870506+-84.477161,Unknown
+Georgia,I-285,36680,Exit 16,EXIT 16,S Atlanta Rd,"Smyrna, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2016/36680,33.847632,-84.486469,http://maps.google.com/maps?t=m&q=loc:33.847632+-84.486469,Unknown
+Georgia,I-285,36681,Exit 15,EXIT 15,GA-280; S Cobb Dr; Smyrna,"Smyrna, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2015/36681,33.827901,-84.487252,http://maps.google.com/maps?t=m&q=loc:33.827901+-84.487252,Unknown
+Georgia,I-285,36682,Exit 12,EXIT 12,US-78; US-278; Hollowell Pkwy,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%2012/36682,33.790319,-84.49032,http://maps.google.com/maps?t=m&q=loc:33.790319+-84.49032,Unknown
+Georgia,I-285,36684,Exit 9,EXIT 9,ML King Jr Dr; GA-139; Adamsville,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%209/36684,33.758519,-84.493864,http://maps.google.com/maps?t=m&q=loc:33.758519+-84.493864,Unknown
+Georgia,I-285,36685,Exit 7,EXIT 7,Cascade Rd,"Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%207/36685,33.727812,-84.502704,http://maps.google.com/maps?t=m&q=loc:33.727812+-84.502704,Unknown
+Georgia,I-285,36686,Exit 5B,EXIT 5B,"GA 154; GA 166
+          (MM: 5.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%205B/36686,33.693897,-84.50017,http://maps.google.com/maps?t=m&q=loc:33.693897+-84.50017,Unknown
+Georgia,I-285,57293,Exit 5A,EXIT 5A,"GA 154; GA 166
+          (MM: 5.0)","Atlanta, Georgia",https://www.iexitapp.com/Georgia/I-285/Exit%205A/57293,33.68971,-84.500148,http://maps.google.com/maps?t=m&q=loc:33.68971+-84.500148,Unknown

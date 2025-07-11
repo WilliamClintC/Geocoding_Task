@@ -1,0 +1,24 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-95,6151,Exit 21,EXIT 21,"I 287
+          (MM: 21.0)","Port Chester, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2021/6151,40.988483,-73.666384,http://maps.google.com/maps?t=m&q=loc:40.988483+-73.666384,Southbound
+New York,I-95,47563,Exit 21,EXIT 21,I-287 W; White Plains; Tappan Zee Bridge,"Rye, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2021/47563,40.988483,-73.666384,http://maps.google.com/maps?t=m&q=loc:40.988483+-73.666384,Southbound
+New York,I-95,6152,Exit 19,EXIT 19,Playland Pkwy; Rye; Harrison,"Rye, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2019/6152,40.979207,-73.695272,http://maps.google.com/maps?t=m&q=loc:40.979207+-73.695272,Southbound
+New York,I-95,47565,Exit 18B,EXIT 18B,Mamaroneck Ave W; White Plains,"Mamaroneck, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2018B/47565,40.963132,-73.733457,http://maps.google.com/maps?t=m&q=loc:40.963132+-73.733457,Southbound
+New York,I-95,47566,Exit 18A,EXIT 18A,Mamaroneck Ave E,"Mamaroneck, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2018A/47566,40.962297,-73.736513,http://maps.google.com/maps?t=m&q=loc:40.962297+-73.736513,Southbound
+New York,I-95,6154,Exit 16,EXIT 16,North Ave; Cedar St; New Rochelle,"New Rochelle, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2016/6154,40.919941,-73.777983,http://maps.google.com/maps?t=m&q=loc:40.919941+-73.777983,Southbound
+New York,I-95,6155,Exit 15,EXIT 15,US-1 S; Boston Post Rd; Main St; New Rochelle; The Pelhams,"New Rochelle, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2015/6155,40.902446,-73.794008,http://maps.google.com/maps?t=m&q=loc:40.902446+-73.794008,Southbound
+New York,I-95,6157,Exit 13,EXIT 13,Conner St; Baychester Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2013/6157,40.885122,-73.822293,http://maps.google.com/maps?t=m&q=loc:40.885122+-73.822293,Southbound
+New York,I-95,6158,Exit 11,EXIT 11,Bartow Ave; Co-Op City Blvd,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%2011/6158,40.870875,-73.833889,http://maps.google.com/maps?t=m&q=loc:40.870875+-73.833889,Southbound
+New York,I-95,47568,Exit 9,EXIT 9,Hutchinson Pkwy N,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%209/47568,40.860736,-73.828173,http://maps.google.com/maps?t=m&q=loc:40.860736+-73.828173,Southbound
+New York,I-95,6160,Exit 8C,EXIT 8C,Bronx and Pelham Parkway,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%208C/6160,40.859037,-73.827221,http://maps.google.com/maps?t=m&q=loc:40.859037+-73.827221,Southbound
+New York,I-95,6161,Exit 8B,EXIT 8B,Orchard Beach; City Isiand,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%208B/6161,40.856213,-73.826502,http://maps.google.com/maps?t=m&q=loc:40.856213+-73.826502,Southbound
+New York,I-95,6162,Exit 8A,EXIT 8A,Westchester Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%208A/6162,40.855739,-73.826446,http://maps.google.com/maps?t=m&q=loc:40.855739+-73.826446,Southbound
+New York,I-95,6163,Exit 7B,EXIT 7B,E Tremont Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%207B/6163,40.838672,-73.82569,http://maps.google.com/maps?t=m&q=loc:40.838672+-73.82569,Southbound
+New York,I-95,6164,Exit 7A,EXIT 7A,"I 695
+          (MM: 7.0)","Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%207A/6164,40.837379,-73.825416,http://maps.google.com/maps?t=m&q=loc:40.837379+-73.825416,Southbound
+New York,I-95,47569,Exit 6A,EXIT 6A,Interstate 95 S,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%206A/47569,40.830076,-73.835327,http://maps.google.com/maps?t=m&q=loc:40.830076+-73.835327,Southbound
+New York,I-95,6168,Exit 5A,EXIT 5A,Westchester Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%205A/6168,40.830765,-73.851946,http://maps.google.com/maps?t=m&q=loc:40.830765+-73.851946,Southbound
+New York,I-95,6169,Exit 4B,EXIT 4B,Bronx River Pkwy; Rosedale Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%204B/6169,40.835103,-73.866541,http://maps.google.com/maps?t=m&q=loc:40.835103+-73.866541,Southbound
+New York,I-95,6170,Exit 3,EXIT 3,3rd Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%203/6170,40.843782,-73.895266,http://maps.google.com/maps?t=m&q=loc:40.843782+-73.895266,Southbound
+New York,I-95,6171,Exit 2A,EXIT 2A,Jerome Avenue N,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%202A/6171,40.845206,-73.911674,http://maps.google.com/maps?t=m&q=loc:40.845206+-73.911674,Southbound
+New York,I-95,47572,Exit 1B,EXIT 1B,Washington Bridge,"Bronx, New York",https://www.iexitapp.com/New%20York/I-95/Exit%201B/47572,40.845144,-73.917947,http://maps.google.com/maps?t=m&q=loc:40.845144+-73.917947,Southbound

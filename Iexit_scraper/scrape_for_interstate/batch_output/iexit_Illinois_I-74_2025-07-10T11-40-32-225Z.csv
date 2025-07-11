@@ -1,0 +1,87 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-74,25052,Exit 220,EXIT 220,Lynch Rd,"Danville, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20220/25052,40.117821,-87.532989,http://maps.google.com/maps?t=m&q=loc:40.117821+-87.532989,Westbound
+Illinois,I-74,25053,Exit 216,EXIT 216,Bowman Ave; Perrysville Rd,"Danville, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20216/25053,40.114352,-87.605551,http://maps.google.com/maps?t=m&q=loc:40.114352+-87.605551,Westbound
+Illinois,I-74,25054,Exit 215A,EXIT 215A,Westville,"Danville, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20215A/25054,40.105256,-87.633018,http://maps.google.com/maps?t=m&q=loc:40.105256+-87.633018,Westbound
+Illinois,I-74,25055,Exit 215B,EXIT 215B,US 150;IL 1,"Danville, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20215B/25055,40.105205,-87.636078,http://maps.google.com/maps?t=m&q=loc:40.105205+-87.636078,Westbound
+Illinois,I-74,25056,Exit 214,EXIT 214,G St,"Tilton, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20214/25056,40.104959,-87.646663,http://maps.google.com/maps?t=m&q=loc:40.104959+-87.646663,Westbound
+Illinois,I-74,25057,Exit 210,EXIT 210,US-150; M.L. King Dr,"Oakwood, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20210/25057,40.121392,-87.706201,http://maps.google.com/maps?t=m&q=loc:40.121392+-87.706201,Westbound
+Illinois,I-74,25058,Salt Kettle Rest Area,REST AREA,"Salt Kettle Rest Area
+          (MM: 208.0)","Oakwood, Illinois",https://www.iexitapp.com/Illinois/I-74/Rest%20Area/25058,40.127664,-87.739992,http://maps.google.com/maps?t=m&q=loc:40.127664+-87.739992,Westbound
+Illinois,I-74,25059,Exit 206,EXIT 206,Oakwood; Potomac,"Oakwood, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20206/25059,40.127112,-87.772979,http://maps.google.com/maps?t=m&q=loc:40.127112+-87.772979,Westbound
+Illinois,I-74,25060,Exit 200,EXIT 200,IL-49; Rankin; Fithlan,"Fithian, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20200/25060,40.123965,-87.897461,http://maps.google.com/maps?t=m&q=loc:40.123965+-87.897461,Westbound
+Illinois,I-74,25061,Exit 197,EXIT 197,I-74 E; US-150; IL-49 S; Ogden Royal,"Ogden, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20197/25061,40.120074,-87.95319,http://maps.google.com/maps?t=m&q=loc:40.120074+-87.95319,Westbound
+Illinois,I-74,25062,Exit 192,EXIT 192,St Joseph,"St Joseph, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20192/25062,40.120425,-88.04003,http://maps.google.com/maps?t=m&q=loc:40.120425+-88.04003,Westbound
+Illinois,I-74,25063,Exit 185,EXIT 185,IL-130; University Ave,"Urbana, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20185/25063,40.120403,-88.164029,http://maps.google.com/maps?t=m&q=loc:40.120403+-88.164029,Westbound
+Illinois,I-74,25064,Exit 184,EXIT 184,US-45; Cunningham Ave,"Urbana, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20184/25064,40.132507,-88.190608,http://maps.google.com/maps?t=m&q=loc:40.132507+-88.190608,Westbound
+Illinois,I-74,25065,Exit 183,EXIT 183,Lincoln Avenue,"Urbana, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20183/25065,40.135186,-88.214461,http://maps.google.com/maps?t=m&q=loc:40.135186+-88.214461,Westbound
+Illinois,I-74,25066,Exit 182,EXIT 182,Neil Street,"Champaign, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20182/25066,40.134934,-88.238805,http://maps.google.com/maps?t=m&q=loc:40.134934+-88.238805,Westbound
+Illinois,I-74,25067,Exit 181,EXIT 181,Prospect Ave,"Champaign, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20181/25067,40.134778,-88.252255,http://maps.google.com/maps?t=m&q=loc:40.134778+-88.252255,Westbound
+Illinois,I-74,25069,Exit 174,EXIT 174,Prairie View Rd,"Mahomet, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20174/25069,40.185865,-88.36053,http://maps.google.com/maps?t=m&q=loc:40.185865+-88.36053,Westbound
+Illinois,I-74,25070,Exit 172,EXIT 172,IL-47; Gibson City; Mahomet,"Mahomet, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20172/25070,40.196427,-88.393171,http://maps.google.com/maps?t=m&q=loc:40.196427+-88.393171,Westbound
+Illinois,I-74,25071,Exit 166,EXIT 166,Mansfield,"Mansfield, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20166/25071,40.21859,-88.494904,http://maps.google.com/maps?t=m&q=loc:40.21859+-88.494904,Westbound
+Illinois,I-74,25072,Exit 159,EXIT 159,Farmer City,"Farmer City, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20159/25072,40.248991,-88.620955,http://maps.google.com/maps?t=m&q=loc:40.248991+-88.620955,Westbound
+Illinois,I-74,25073,Farm Land Rest Area,REST AREA,"Farm Land Rest Area
+          (MM: 156.0)","Farmer City, Illinois",https://www.iexitapp.com/Illinois/I-74/Rest%20Area/25073,40.266333,-88.665494,http://maps.google.com/maps?t=m&q=loc:40.266333+-88.665494,Westbound
+Illinois,I-74,25074,Exit 152,EXIT 152,US-136,"Le Roy, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20152/25074,40.307094,-88.720964,http://maps.google.com/maps?t=m&q=loc:40.307094+-88.720964,Westbound
+Illinois,I-74,25075,Exit 149,EXIT 149,Le Roy,"Le Roy, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20149/25075,40.336254,-88.759601,http://maps.google.com/maps?t=m&q=loc:40.336254+-88.759601,Westbound
+Illinois,I-74,25076,Exit 142,EXIT 142,Downs,"Downs, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20142/25076,40.388264,-88.871847,http://maps.google.com/maps?t=m&q=loc:40.388264+-88.871847,Westbound
+Illinois,I-74,25077,Exit 135,EXIT 135,US-51 BUS; US-51; Main St; Bloomington,"Bloomington, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20135/25077,40.436004,-88.984759,http://maps.google.com/maps?t=m&q=loc:40.436004+-88.984759,Westbound
+Illinois,I-74,25078,Exit 134B,EXIT 134B,"I 55 Business
+          (MM: 134.0)","Bloomington, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20134B/25078,40.438467,-89.015012,http://maps.google.com/maps?t=m&q=loc:40.438467+-89.015012,Westbound
+Illinois,I-74,54306,Exit 134A,EXIT 134A,"I 55 Business
+          (MM: 134.0)","Bloomington, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20134A/54306,40.441992,-89.018096,http://maps.google.com/maps?t=m&q=loc:40.441992+-89.018096,Westbound
+Illinois,I-74,57839,Exit 130,EXIT 130,"US 150;IL 9
+          (MM: 130.0)","Bloomington, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20130/57839,40.480461,-89.028418,http://maps.google.com/maps?t=m&q=loc:40.480461+-89.028418,Westbound
+Illinois,I-74,25081,Exit 125,EXIT 125,Rivian Motorway,"Bloomington, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20125/25081,40.539866,-89.056936,http://maps.google.com/maps?t=m&q=loc:40.539866+-89.056936,Westbound
+Illinois,I-74,25082,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 123.0)","Bloomington, Illinois",https://www.iexitapp.com/Illinois/I-74/Weigh%20Station/25082,40.55305,-89.099046,http://maps.google.com/maps?t=m&q=loc:40.55305+-89.099046,Westbound
+Illinois,I-74,25083,Exit 120,EXIT 120,Carlock,"Carlock, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20120/25083,40.578773,-89.136776,http://maps.google.com/maps?t=m&q=loc:40.578773+-89.136776,Westbound
+Illinois,I-74,25084,Mackinaw Dells Rest Area,REST AREA,"Mackinaw Dells Rest Area
+          (MM: 114.0)","Congerville, Illinois",https://www.iexitapp.com/Illinois/I-74/Rest%20Area/25084,40.609958,-89.227308,http://maps.google.com/maps?t=m&q=loc:40.609958+-89.227308,Westbound
+Illinois,I-74,25085,Exit 112,EXIT 112,IL-117; Goodfield,"Goodfield, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20112/25085,40.621373,-89.27011,http://maps.google.com/maps?t=m&q=loc:40.621373+-89.27011,Westbound
+Illinois,I-74,25086,Exit 102,EXIT 102,Morton,"Morton, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20102/25086,40.621575,-89.4562,http://maps.google.com/maps?t=m&q=loc:40.621575+-89.4562,Westbound
+Illinois,I-74,25088,Exit 99,EXIT 99,"I 474
+          (MM: 99.0)","East Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2099/25088,40.631017,-89.511109,http://maps.google.com/maps?t=m&q=loc:40.631017+-89.511109,Westbound
+Illinois,I-74,25089,Exit 98,EXIT 98,Pinecrest Drive,"East Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2098/25089,40.641087,-89.535268,http://maps.google.com/maps?t=m&q=loc:40.641087+-89.535268,Westbound
+Illinois,I-74,25090,Exit 96,EXIT 96,East Washington Street; Illinois 8; U.S. 150,"East Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2096/25090,40.658711,-89.565111,http://maps.google.com/maps?t=m&q=loc:40.658711+-89.565111,Westbound
+Illinois,I-74,25091,Exit 95,EXIT 95,North Main Street; U.S. 150 W; Illinois 116 W,"East Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2095/25091,40.667292,-89.571384,http://maps.google.com/maps?t=m&q=loc:40.667292+-89.571384,Westbound
+Illinois,I-74,25092,Exit 94,EXIT 94,Downtown Peoria,"East Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2094/25092,40.675707,-89.577581,http://maps.google.com/maps?t=m&q=loc:40.675707+-89.577581,Westbound
+Illinois,I-74,54314,Exit 94,EXIT 94,Riverfront Dr; Downtown Peoria; Michel Bridge,"East Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2094/54314,40.678492,-89.584793,http://maps.google.com/maps?t=m&q=loc:40.678492+-89.584793,Westbound
+Illinois,I-74,25093,Exit 93,EXIT 93,Adams Street; U.S. 24; Illinois 29; Jefferson Avenue; Downtown Peoria,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2093/25093,40.69124,-89.584805,http://maps.google.com/maps?t=m&q=loc:40.69124+-89.584805,Westbound
+Illinois,I-74,25094,Exit 92B,EXIT 92B,Northeast Greenleaf Street;IL 40,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2092B/25094,40.696805,-89.589545,http://maps.google.com/maps?t=m&q=loc:40.696805+-89.589545,Westbound
+Illinois,I-74,25095,Exit 92A,EXIT 92A,IL-40 N; Knoxville Ave,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2092A/25095,40.69976,-89.592607,http://maps.google.com/maps?t=m&q=loc:40.69976+-89.592607,Westbound
+Illinois,I-74,25096,Exit 91,EXIT 91,University St,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2091/25096,40.707115,-89.607019,http://maps.google.com/maps?t=m&q=loc:40.707115+-89.607019,Westbound
+Illinois,I-74,25097,Exit 90,EXIT 90,Gale Ave,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2090/25097,40.713246,-89.62152,http://maps.google.com/maps?t=m&q=loc:40.713246+-89.62152,Westbound
+Illinois,I-74,25098,Exit 89,EXIT 89,War Memorial Drive; US-150 E,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2089/25098,40.729356,-89.619662,http://maps.google.com/maps?t=m&q=loc:40.729356+-89.619662,Westbound
+Illinois,I-74,54315,Exit 89,EXIT 89,War Memorial Drive; US-150 W,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2089/54315,40.732855,-89.621241,http://maps.google.com/maps?t=m&q=loc:40.732855+-89.621241,Westbound
+Illinois,I-74,25099,Exit 88,EXIT 88,Sterling Ave,"Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2088/25099,40.733023,-89.6216,http://maps.google.com/maps?t=m&q=loc:40.733023+-89.6216,Westbound
+Illinois,I-74,25100,Exit 87B,EXIT 87B,"IL 6
+          (MM: 87.0)","Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2087B/25100,40.741134,-89.661588,http://maps.google.com/maps?t=m&q=loc:40.741134+-89.661588,Westbound
+Illinois,I-74,25101,Exit 87A,EXIT 87A,"I 474
+          (MM: 87.0)","Peoria, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2087A/25101,40.74211,-89.666583,http://maps.google.com/maps?t=m&q=loc:40.74211+-89.666583,Westbound
+Illinois,I-74,25102,Exit 82,EXIT 82,Kickapoo-Edwards Rd,"Edwards, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2082/25102,40.773003,-89.749448,http://maps.google.com/maps?t=m&q=loc:40.773003+-89.749448,Westbound
+Illinois,I-74,25103,Exit 75,EXIT 75,Brimfield; Oak Hill,"Brimfield, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2075/25103,40.826097,-89.866359,http://maps.google.com/maps?t=m&q=loc:40.826097+-89.866359,Westbound
+Illinois,I-74,25104,Exit 71,EXIT 71,IL-78; Canton; Kewanee,"Elmwood, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2071/25104,40.849901,-89.92324,http://maps.google.com/maps?t=m&q=loc:40.849901+-89.92324,Westbound
+Illinois,I-74,25105,Spoon River Rest Area,REST AREA,"Spoon River Rest Area
+          (MM: 62.0)","Williamsfield, Illinois",https://www.iexitapp.com/Illinois/I-74/Rest%20Area/25105,40.877459,-90.083657,http://maps.google.com/maps?t=m&q=loc:40.877459+-90.083657,Westbound
+Illinois,I-74,25106,Exit 54,EXIT 54,US-150; IL-97; Lewistown,"Knoxville, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2054/25106,40.911548,-90.248547,http://maps.google.com/maps?t=m&q=loc:40.911548+-90.248547,Westbound
+Illinois,I-74,25107,Exit 51,EXIT 51,Knoxville,"Knoxville, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2051/25107,40.921579,-90.290755,http://maps.google.com/maps?t=m&q=loc:40.921579+-90.290755,Westbound
+Illinois,I-74,25108,Exit 48B,EXIT 48B,E Galesburg,"Galesburg, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2048B/25108,40.943191,-90.333168,http://maps.google.com/maps?t=m&q=loc:40.943191+-90.333168,Westbound
+Illinois,I-74,54318,Exit 48A,EXIT 48A,Galesburg,"Galesburg, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2048A/54318,40.94763,-90.333375,http://maps.google.com/maps?t=m&q=loc:40.94763+-90.333375,Westbound
+Illinois,I-74,25110,Exit 46B,EXIT 46B,"US 34
+          (MM: 46.0)","Galesburg, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2046B/25110,40.979513,-90.336164,http://maps.google.com/maps?t=m&q=loc:40.979513+-90.336164,Westbound
+Illinois,I-74,54320,Exit 46A,EXIT 46A,"US 34
+          (MM: 46.0)","Galesburg, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2046A/54320,40.984312,-90.336373,http://maps.google.com/maps?t=m&q=loc:40.984312+-90.336373,Westbound
+Illinois,I-74,25111,Exit 32,EXIT 32,IL-17; Woodhull; Alpha,"Woodhull, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2032/25111,41.174791,-90.332297,http://maps.google.com/maps?t=m&q=loc:41.174791+-90.332297,Westbound
+Illinois,I-74,25112,Krisdala Baka Rest Area,REST AREA,"Krisdala Baka Rest Area
+          (MM: 28.0)","Woodhull, Illinois",https://www.iexitapp.com/Illinois/I-74/Rest%20Area/25112,41.210762,-90.331759,http://maps.google.com/maps?t=m&q=loc:41.210762+-90.331759,Westbound
+Illinois,I-74,25113,Exit 24,EXIT 24,IL-81; Kewanee; Cambridge,"Lynn Center, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%2024/25113,41.291045,-90.333919,http://maps.google.com/maps?t=m&q=loc:41.291045+-90.333919,Westbound
+Illinois,I-74,25115,IL 110,EXIT,IL 110,"Colona, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%20/25115,41.440989,-90.329899,http://maps.google.com/maps?t=m&q=loc:41.440989+-90.329899,Westbound
+Illinois,I-74,25118,Weigh Station,WEIGH STATION,"Weigh Station
+          (MM: 7.0)","Coal Valley, Illinois",https://www.iexitapp.com/Illinois/I-74/Weigh%20Station/25118,41.454529,-90.4257,http://maps.google.com/maps?t=m&q=loc:41.454529+-90.4257,Westbound
+Illinois,I-74,25119,Exit 5A,EXIT 5A,"I 280
+          (MM: 5.0)","Moline, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%205A/25119,41.457568,-90.490296,http://maps.google.com/maps?t=m&q=loc:41.457568+-90.490296,Westbound
+Illinois,I-74,54325,Exit 4B,EXIT 4B,IL-5 E; John Deere Rd; John Deere Expy; John Deere Rd,"Moline, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%204B/54325,41.466614,-90.494969,http://maps.google.com/maps?t=m&q=loc:41.466614+-90.494969,Westbound
+Illinois,I-74,25121,Exit 4A,EXIT 4A,IL-5 W; John Deere Rd; John Deere Expy,"Moline, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%204A/25121,41.471654,-90.494526,http://maps.google.com/maps?t=m&q=loc:41.471654+-90.494526,Westbound
+Illinois,I-74,25122,Exit 3,EXIT 3,Avenue of the Cities,"Moline, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%203/25122,41.486319,-90.500107,http://maps.google.com/maps?t=m&q=loc:41.486319+-90.500107,Westbound
+Illinois,I-74,25123,Exit 2,EXIT 2,7th Ave,"Moline, Illinois",https://www.iexitapp.com/Illinois/I-74/Exit%202/25123,41.50135,-90.507996,http://maps.google.com/maps?t=m&q=loc:41.50135+-90.507996,Westbound

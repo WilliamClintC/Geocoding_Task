@@ -1,0 +1,7 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Indiana,I-265,34028,Exit 1,EXIT 1,State St,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-265/Exit%201/34028,38.309147,-85.847551,http://maps.google.com/maps?t=m&q=loc:38.309147+-85.847551,Northbound
+Indiana,I-265,34029,Exit 3,EXIT 3,IN-111; Grant Line Rd,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-265/Exit%203/34029,38.333849,-85.822549,http://maps.google.com/maps?t=m&q=loc:38.333849+-85.822549,Northbound
+Indiana,I-265,34030,Exit 4,EXIT 4,IN-311; Charlestown Rd,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-265/Exit%204/34030,38.341808,-85.805829,http://maps.google.com/maps?t=m&q=loc:38.341808+-85.805829,Northbound
+Indiana,I-265,34033,Exit 4,EXIT 4,IN-311; Charlestown Rd,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-265/Exit%204/34033,38.344434,-85.792616,http://maps.google.com/maps?t=m&q=loc:38.344434+-85.792616,Southbound
+Indiana,I-265,34034,Exit 3,EXIT 3,IN-111; Grant Line Rd,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-265/Exit%203/34034,38.339245,-85.811812,http://maps.google.com/maps?t=m&q=loc:38.339245+-85.811812,Southbound
+Indiana,I-265,34035,Exit 1,EXIT 1,State St,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-265/Exit%201/34035,38.317234,-85.841997,http://maps.google.com/maps?t=m&q=loc:38.317234+-85.841997,Southbound

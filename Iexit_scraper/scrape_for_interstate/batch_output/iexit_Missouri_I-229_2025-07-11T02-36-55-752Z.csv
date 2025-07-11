@@ -1,0 +1,11 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-229,56966,Exit 1D,EXIT 1D,"MO 752
+          (MM: 1.0)","St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%201D/56966,39.715652,-94.816189,http://maps.google.com/maps?t=m&q=loc:39.715652+-94.816189,Northbound
+Missouri,I-229,56967,Exit 3,EXIT 3,MO-371; 22nd St,"St. Joseph, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%203/56967,39.719725,-94.829889,http://maps.google.com/maps?t=m&q=loc:39.719725+-94.829889,Northbound
+Missouri,I-229,56968,Exit 4,EXIT 4,E Lake Blvd,"St. Joseph, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%204/56968,39.731746,-94.847243,http://maps.google.com/maps?t=m&q=loc:39.731746+-94.847243,Northbound
+Missouri,I-229,32783,Exit 4B,EXIT 4B,"US 36
+          (MM: 4.0)","St. Joseph, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%204B/32783,39.746142,-94.853472,http://maps.google.com/maps?t=m&q=loc:39.746142+-94.853472,Northbound
+Missouri,I-229,32784,Exit 6A,EXIT 6A,Edmond St; Central; Business District,"St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%206A/32784,39.7628,-94.858633,http://maps.google.com/maps?t=m&q=loc:39.7628+-94.858633,Northbound
+Missouri,I-229,32785,Exit 6B,EXIT 6B,U.S. 59 N; Saint Joseph Avenue,"St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%206B/32785,39.769091,-94.8613,http://maps.google.com/maps?t=m&q=loc:39.769091+-94.8613,Northbound
+Missouri,I-229,32786,Exit 7,EXIT 7,Highland Ave,"St Joseph, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%207/32786,39.779581,-94.866883,http://maps.google.com/maps?t=m&q=loc:39.779581+-94.866883,Northbound
+Missouri,I-229,32787,Exit 11,EXIT 11,Missouri K; Amazonia,"Savannah, Missouri",https://www.iexitapp.com/Missouri/I-229/Exit%2011/32787,39.831152,-94.865496,http://maps.google.com/maps?t=m&q=loc:39.831152+-94.865496,Northbound

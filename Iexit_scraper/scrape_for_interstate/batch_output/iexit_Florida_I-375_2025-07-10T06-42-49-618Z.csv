@@ -1,0 +1,3 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Florida,I-375,35025,"I-275 (SR 93) – Bradenton (south), Tampa (north)",EXIT,"I-275 (SR 93) – Bradenton (south), Tampa (north)","St Petersburg, Florida",https://www.iexitapp.com/Florida/I-375/Exit%20/35025,27.777159,-82.656008,http://maps.google.com/maps?t=m&q=loc:27.777159+-82.656008,Southbound
+Florida,I-375,35024,"I-275 (SR 93) – Bradenton, Tampa",EXIT,"I-275 (SR 93) – Bradenton, Tampa","St Petersburg, Florida",https://www.iexitapp.com/Florida/I-375/Exit%20/35024,27.776968,-82.651103,http://maps.google.com/maps?t=m&q=loc:27.776968+-82.651103,Southbound

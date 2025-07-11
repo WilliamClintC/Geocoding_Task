@@ -1,0 +1,11 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Nevada,I-515,32489,Exit 62,EXIT 62,Auto Show Dr,"Henderson, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2062/32489,36.039644,-115.020254,http://maps.google.com/maps?t=m&q=loc:36.039644+-115.020254,Northbound
+Nevada,I-515,32490,Exit 64A,EXIT 64A,Sunset Rd W,"Henderson, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2064A/32490,36.059272,-115.029038,http://maps.google.com/maps?t=m&q=loc:36.059272+-115.029038,Northbound
+Nevada,I-515,32491,Exit 64B,EXIT 64B,Galleria Drive,"Henderson, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2064B/32491,36.061968,-115.030685,http://maps.google.com/maps?t=m&q=loc:36.061968+-115.030685,Northbound
+Nevada,I-515,32492,Exit 65,EXIT 65,Russell Road,"Las Vegas, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2065/32492,36.080822,-115.044745,http://maps.google.com/maps?t=m&q=loc:36.080822+-115.044745,Northbound
+Nevada,I-515,32493,Exit 68,EXIT 68,Tropicana Ave; Mc Carran Airport,"Las Vegas, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2068/32493,36.095585,-115.078372,http://maps.google.com/maps?t=m&q=loc:36.095585+-115.078372,Northbound
+Nevada,I-515,56489,Exit 69,EXIT 69,Flamingo Rd,"Las Vegas, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2069/56489,36.10886,-115.082344,http://maps.google.com/maps?t=m&q=loc:36.10886+-115.082344,Northbound
+Nevada,I-515,32495,Exit 70,EXIT 70,Boulder Hwy,"Las Vegas, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2070/32495,36.129957,-115.08886,http://maps.google.com/maps?t=m&q=loc:36.129957+-115.08886,Northbound
+Nevada,I-515,32496,Exit 72,EXIT 72,Charleston Blvd,"Las Vegas, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2072/32496,36.153003,-115.091364,http://maps.google.com/maps?t=m&q=loc:36.153003+-115.091364,Northbound
+Nevada,I-515,32497,Exit 73,EXIT 73,Eastern Ave,"Las Vegas, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2073/32497,36.167925,-115.111423,http://maps.google.com/maps?t=m&q=loc:36.167925+-115.111423,Northbound
+Nevada,I-515,32498,Exit 75,EXIT 75,Las Vegas Blvd; Downtown LV,"Las Vegas, Nevada",https://www.iexitapp.com/Nevada/I-515/Exit%2075/32498,36.171476,-115.132512,http://maps.google.com/maps?t=m&q=loc:36.171476+-115.132512,Northbound

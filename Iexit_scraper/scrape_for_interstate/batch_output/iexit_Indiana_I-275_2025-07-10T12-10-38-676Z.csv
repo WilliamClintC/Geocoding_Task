@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Indiana,I-275,34909,Exit 16,EXIT 16,"SR 1 north to US 50 – Lawrenceburg, Greendale, Aurora","Lawrenceburg, Indiana",https://www.iexitapp.com/Indiana/I-275/Exit%2016/34909,39.122554,-84.833421,http://maps.google.com/maps?t=m&q=loc:39.122554+-84.833421,Northbound

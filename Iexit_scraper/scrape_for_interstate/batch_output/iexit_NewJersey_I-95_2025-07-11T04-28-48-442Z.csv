@@ -1,0 +1,49 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New Jersey,I-95,6175,Exit 74,EXIT 74,Palisades Parkway,"Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2074/6175,40.853476,-73.961576,http://maps.google.com/maps?t=m&q=loc:40.853476+-73.961576,Southbound
+New Jersey,I-95,6176,Exit 73,EXIT 73,US-9W; NJ-67; Fort Lee,"Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2073/6176,40.85388,-73.963603,http://maps.google.com/maps?t=m&q=loc:40.85388+-73.963603,Southbound
+New Jersey,I-95,47576,Exit 73,EXIT 73,US-9W; NJ-67; Fort Lee,"Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2073/47576,40.854542,-73.96556,http://maps.google.com/maps?t=m&q=loc:40.854542+-73.96556,Southbound
+New Jersey,I-95,6177,Exit 72B,EXIT 72B,"US 1;US 9;US 46
+          (MM: 72.0)","Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2072B/6177,40.856735,-73.972622,http://maps.google.com/maps?t=m&q=loc:40.856735+-73.972622,Southbound
+New Jersey,I-95,6178,NJ 4,EXIT,NJ 4,"Fort Lee, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/6178,40.857672,-73.973973,http://maps.google.com/maps?t=m&q=loc:40.857672+-73.973973,Southbound
+New Jersey,I-95,6179,Exit 69,EXIT 69,"I 80
+          (MM: 69.0)","Teaneck, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2069/6179,40.870228,-74.00159,http://maps.google.com/maps?t=m&q=loc:40.870228+-74.00159,Southbound
+New Jersey,I-95,47577,Exit 68,EXIT 68,U.S. 46; The Ridgefields,"Ridgefield Park, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2068/47577,40.852904,-74.015159,http://maps.google.com/maps?t=m&q=loc:40.852904+-74.015159,Southbound
+New Jersey,I-95,47578,Exit 68,EXIT 68,U.S. 46 W,"Ridgefield Park, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2068/47578,40.849947,-74.016811,http://maps.google.com/maps?t=m&q=loc:40.849947+-74.016811,Southbound
+New Jersey,I-95,47579,Exit 68,EXIT 68,U.S. 46 E,"Ridgefield Park, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2068/47579,40.849298,-74.01718,http://maps.google.com/maps?t=m&q=loc:40.849298+-74.01718,Southbound
+New Jersey,I-95,47581,Vince Lombardi Travel Plaza,SERVICE PLAZA,Vince Lombardi Travel Plaza,"Ridgefield, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/47581,40.827696,-74.028752,http://maps.google.com/maps?t=m&q=loc:40.827696+-74.028752,Southbound
+New Jersey,I-95,6182,Toll,TOLL BOOTH,Toll,"Carlstadt, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Toll/6182,40.813752,-74.056028,http://maps.google.com/maps?t=m&q=loc:40.813752+-74.056028,Southbound
+New Jersey,I-95,6183,Exit 16W,EXIT 16W,"NJ 3
+          (MM: 16.0)","East Rutherford, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2016W/6183,40.802337,-74.072842,http://maps.google.com/maps?t=m&q=loc:40.802337+-74.072842,Southbound
+New Jersey,I-95,47582,Exit 16W,EXIT 16W,Secaucus; Lincoln Tunnel,"East Rutherford, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2016W/47582,40.802337,-74.072842,http://maps.google.com/maps?t=m&q=loc:40.802337+-74.072842,Southbound
+New Jersey,I-95,47583,Exit 16W,EXIT 16W,NJ-3; Secaucus; Rutherford; Lincoln Tunnel,"East Rutherford, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2016W/47583,40.804449,-74.080271,http://maps.google.com/maps?t=m&q=loc:40.804449+-74.080271,Southbound
+New Jersey,I-95,6185,Exit 15E,EXIT 15E,Jersey City; Newark,"Newark, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2015E/6185,40.732224,-74.125528,http://maps.google.com/maps?t=m&q=loc:40.732224+-74.125528,Southbound
+New Jersey,I-95,47589,Exit 13A,EXIT 13A,"NJ 81
+          (MM: 13.0)","Elizabeth, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2013A/47589,40.670381,-74.17744,http://maps.google.com/maps?t=m&q=loc:40.670381+-74.17744,Southbound
+New Jersey,I-95,47592,Exit 13,EXIT 13,I-278; Elizabeth; Verrazano Bridge; Goethals Bridge,"Linden, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2013/47592,40.647811,-74.202114,http://maps.google.com/maps?t=m&q=loc:40.647811+-74.202114,Southbound
+New Jersey,I-95,47594,Exit 12,EXIT 12,Carteret Rahway,"Carteret, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2012/47594,40.59971,-74.231627,http://maps.google.com/maps?t=m&q=loc:40.59971+-74.231627,Southbound
+New Jersey,I-95,47595,Thomas Edison Service Area,SERVICE PLAZA,Thomas Edison Service Area,"Port Reading, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/HMSHost%20Service%20Plaza/47595,40.564148,-74.258627,http://maps.google.com/maps?t=m&q=loc:40.564148+-74.258627,Southbound
+New Jersey,I-95,47596,Exit 11,EXIT 11,"GSP;US 9;GSP
+          (MM: 11.0)","Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47596,40.548298,-74.279266,http://maps.google.com/maps?t=m&q=loc:40.548298+-74.279266,Southbound
+New Jersey,I-95,47597,Exit 11,EXIT 11,U.S. 9; Woodbridge,"Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47597,40.548298,-74.279266,http://maps.google.com/maps?t=m&q=loc:40.548298+-74.279266,Southbound
+New Jersey,I-95,47598,Exit 11,EXIT 11,U.S. 9; Woodbridge,"Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47598,40.534734,-74.302536,http://maps.google.com/maps?t=m&q=loc:40.534734+-74.302536,Southbound
+New Jersey,I-95,47599,Exit 11,EXIT 11,U.S. 9; Woodbridge,"Woodbridge, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2011/47599,40.535796,-74.303955,http://maps.google.com/maps?t=m&q=loc:40.535796+-74.303955,Southbound
+New Jersey,I-95,47601,Exit 10,EXIT 10,"NJ 440;I 287
+          (MM: 10.0)","Edison, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2010/47601,40.530503,-74.333909,http://maps.google.com/maps?t=m&q=loc:40.530503+-74.333909,Southbound
+New Jersey,I-95,47602,Exit 10,EXIT 10,I-287; NJ-440; Perth Amboy; Metuchen; Edison Township,"Edison, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2010/47602,40.530503,-74.333909,http://maps.google.com/maps?t=m&q=loc:40.530503+-74.333909,Southbound
+New Jersey,I-95,47603,Exit 10,EXIT 10,I-95,"Edison, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%2010/47603,40.525219,-74.337962,http://maps.google.com/maps?t=m&q=loc:40.525219+-74.337962,Southbound
+New Jersey,I-95,47605,Exit 9,EXIT 9,NJ-18 N; US-1; New Brunswick,"East Brunswick, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%209/47605,40.484927,-74.39995,http://maps.google.com/maps?t=m&q=loc:40.484927+-74.39995,Southbound
+New Jersey,I-95,47607,Exit 8A,EXIT 8A,New Jersey 32; U.S. 130; Jamesburg; Cranbury,"Jamesburg, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%208A/47607,40.355277,-74.47149,http://maps.google.com/maps?t=m&q=loc:40.355277+-74.47149,Southbound
+New Jersey,I-95,47608,Molly Pitcher Service Area,SERVICE PLAZA,Molly Pitcher Service Area,"Cranbury, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/47608,40.33284,-74.481616,http://maps.google.com/maps?t=m&q=loc:40.33284+-74.481616,Southbound
+New Jersey,I-95,47609,Exit 8,EXIT 8,"NJ 133
+          (MM: 8.0)","Hightstown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%208/47609,40.268715,-74.509623,http://maps.google.com/maps?t=m&q=loc:40.268715+-74.509623,Southbound
+New Jersey,I-95,47611,Exit 7A,EXIT 7A,"I 195;I 195
+          (MM: 7.0)","Trenton, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%207A/47611,40.201057,-74.590185,http://maps.google.com/maps?t=m&q=loc:40.201057+-74.590185,Southbound
+New Jersey,I-95,47613,Richard Stockton Travel Plaza,SERVICE PLAZA,Richard Stockton Travel Plaza,"Trenton, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Service%20Plaza/47613,40.183446,-74.618743,http://maps.google.com/maps?t=m&q=loc:40.183446+-74.618743,Southbound
+New Jersey,I-95,47614,Exit 7,EXIT 7,US-206 N; Bordentown; Trenton,"Bordentown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%207/47614,40.128983,-74.694419,http://maps.google.com/maps?t=m&q=loc:40.128983+-74.694419,Southbound
+New Jersey,I-95,47615,Exit 7,EXIT 7,US-206 S,"Bordentown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%207/47615,40.123735,-74.704719,http://maps.google.com/maps?t=m&q=loc:40.123735+-74.704719,Southbound
+New Jersey,I-95,47616,Exit 6,EXIT 6,"NJTP
+          (MM: 6.0)","Bordentown, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%206/47616,40.104083,-74.722891,http://maps.google.com/maps?t=m&q=loc:40.104083+-74.722891,Southbound
+New Jersey,I-95,47618,Toll,TOLL BOOTH,Toll,"Roebling, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Toll/47618,40.09583,-74.77396,http://maps.google.com/maps?t=m&q=loc:40.09583+-74.77396,Southbound
+New Jersey,I-95,47619,US-130 N,EXIT,US-130 N,"Roebling, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/47619,40.098378,-74.782799,http://maps.google.com/maps?t=m&q=loc:40.098378+-74.782799,Southbound
+New Jersey,I-95,47620,US-130 S,EXIT,US-130 S,"Burlington, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/47620,40.102638,-74.78704,http://maps.google.com/maps?t=m&q=loc:40.102638+-74.78704,Southbound
+New Jersey,I-95,47621,I 276,EXIT,I 276,"Burlington, New Jersey",https://www.iexitapp.com/New%20Jersey/I-95/Exit%20/47621,40.116915,-74.83018,http://maps.google.com/maps?t=m&q=loc:40.116915+-74.83018,Southbound

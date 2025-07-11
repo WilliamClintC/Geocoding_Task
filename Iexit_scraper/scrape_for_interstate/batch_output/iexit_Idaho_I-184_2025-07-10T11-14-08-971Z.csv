@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Idaho,I-184,36377,Exit 1A,EXIT 1A,Franklin Road,"Boise, Idaho",https://www.iexitapp.com/Idaho/I-184/Exit%201A/36377,43.597363,-116.28955,http://maps.google.com/maps?t=m&q=loc:43.597363+-116.28955,Eastbound
+Idaho,I-184,36378,Exit 2,EXIT 2,Curtis Road,"Boise, Idaho",https://www.iexitapp.com/Idaho/I-184/Exit%202/36378,43.615786,-116.257084,http://maps.google.com/maps?t=m&q=loc:43.615786+-116.257084,Eastbound
+Idaho,I-184,36379,Exit 3,EXIT 3,Fairview Avenue,"Boise, Idaho",https://www.iexitapp.com/Idaho/I-184/Exit%203/36379,43.618403,-116.240159,http://maps.google.com/maps?t=m&q=loc:43.618403+-116.240159,Eastbound
+Idaho,I-184,36380,US-20 east / US-26 east,EXIT,US-20 east / US-26 east,"Boise, Idaho",https://www.iexitapp.com/Idaho/I-184/Exit%20/36380,43.619036,-116.219792,http://maps.google.com/maps?t=m&q=loc:43.619036+-116.219792,Eastbound

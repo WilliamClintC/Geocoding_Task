@@ -1,0 +1,7 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-270,34459,Exit 12,EXIT 12,IL 159,"Glen Carbon, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%2012/34459,38.754596,-89.951578,http://maps.google.com/maps?t=m&q=loc:38.754596+-89.951578,Westbound
+Illinois,I-270,34460,Exit 9,EXIT 9,Collinsville,"Glen Carbon, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%209/34460,38.756606,-90.003767,http://maps.google.com/maps?t=m&q=loc:38.756606+-90.003767,Westbound
+Illinois,I-270,34462,Exit 6B,EXIT 6B,IL-111 N; Wood River,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%206B/34462,38.757547,-90.060766,http://maps.google.com/maps?t=m&q=loc:38.757547+-90.060766,Westbound
+Illinois,I-270,34463,Exit 6A,EXIT 6A,IL-111 S; Pontoon Beach,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%206A/34463,38.75767,-90.067472,http://maps.google.com/maps?t=m&q=loc:38.75767+-90.067472,Westbound
+Illinois,I-270,34464,Exit 4,EXIT 4,IL-203; Granite City,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%204/34464,38.757955,-90.08633,http://maps.google.com/maps?t=m&q=loc:38.757955+-90.08633,Westbound
+Illinois,I-270,34465,Exit 3,EXIT 3,Exit 3 N,"Granite City, Illinois",https://www.iexitapp.com/Illinois/I-270/Exit%203/34465,38.76622,-90.118339,http://maps.google.com/maps?t=m&q=loc:38.76622+-90.118339,Westbound

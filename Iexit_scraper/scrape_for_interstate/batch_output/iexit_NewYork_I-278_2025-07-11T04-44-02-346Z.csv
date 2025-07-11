@@ -1,0 +1,54 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-278,67,Exit 4,EXIT 4,Forest Ave,"Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%204/67,40.62625,-74.179611,http://maps.google.com/maps?t=m&q=loc:40.62625+-74.179611,Northbound
+New York,I-278,68,Exit 5,EXIT 5,"NY 440
+          (MM: 5.0)","Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%205/68,40.6248,-74.177753,http://maps.google.com/maps?t=m&q=loc:40.6248+-74.177753,Northbound
+New York,I-278,69,Exit 7,EXIT 7,Richmond Ave,"Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%207/69,40.619774,-74.165692,http://maps.google.com/maps?t=m&q=loc:40.619774+-74.165692,Northbound
+New York,I-278,70,Exit 8,EXIT 8,"Dr. Martin Luther King Jr. Expressway
+          (MM: 8.0)","Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%208/70,40.613172,-74.155173,http://maps.google.com/maps?t=m&q=loc:40.613172+-74.155173,Northbound
+New York,I-278,71,Exit 9,EXIT 9,"NY 440
+          (MM: 9.0)","Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%209/71,40.611322,-74.152787,http://maps.google.com/maps?t=m&q=loc:40.611322+-74.152787,Northbound
+New York,I-278,72,Exit 11,EXIT 11,Bradley Ave,"Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2011/72,40.607794,-74.136755,http://maps.google.com/maps?t=m&q=loc:40.607794+-74.136755,Northbound
+New York,I-278,73,Exit 12,EXIT 12,Todt Hill Rd; Slosson Ave,"Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2012/73,40.609965,-74.120275,http://maps.google.com/maps?t=m&q=loc:40.609965+-74.120275,Northbound
+New York,I-278,74,Exit 13,EXIT 13,Richmond Rd; Clove Rd; Hylan Blvd,"Staten Island, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2013/74,40.610315,-74.103316,http://maps.google.com/maps?t=m&q=loc:40.610315+-74.103316,Northbound
+New York,I-278,47032,BP,EXIT,BP,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%20/47032,40.61057,-74.032059,http://maps.google.com/maps?t=m&q=loc:40.61057+-74.032059,Northbound
+New York,I-278,77,Exit 17,EXIT 17,92 St,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2017/77,40.614432,-74.027416,http://maps.google.com/maps?t=m&q=loc:40.614432+-74.027416,Northbound
+New York,I-278,78,Exit 18,EXIT 18,Fort Hamilton Parkway,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2018/78,40.619857,-74.023039,http://maps.google.com/maps?t=m&q=loc:40.619857+-74.023039,Northbound
+New York,I-278,79,Exit 20,EXIT 20,7 Ave; 65 St,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2020/79,40.62824,-74.017547,http://maps.google.com/maps?t=m&q=loc:40.62824+-74.017547,Northbound
+New York,I-278,80,Exit 21,EXIT 21,3rd Avenue,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2021/80,40.637832,-74.02062,http://maps.google.com/maps?t=m&q=loc:40.637832+-74.02062,Northbound
+New York,I-278,82,Exit 23,EXIT 23,38th st,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2023/82,40.654011,-74.007869,http://maps.google.com/maps?t=m&q=loc:40.654011+-74.007869,Northbound
+New York,I-278,83,Exit 24,EXIT 24,"NY 27
+          (MM: 24.0)","Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2024/83,40.665491,-73.996137,http://maps.google.com/maps?t=m&q=loc:40.665491+-73.996137,Northbound
+New York,I-278,84,Exit 25,EXIT 25,"Gowanus Expressway
+          (MM: 25.0)","Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2025/84,40.675765,-74.000936,http://maps.google.com/maps?t=m&q=loc:40.675765+-74.000936,Northbound
+New York,I-278,85,Exit 26,EXIT 26,Hamilton Avenue,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2026/85,40.676994,-74.001591,http://maps.google.com/maps?t=m&q=loc:40.676994+-74.001591,Northbound
+New York,I-278,86,Exit 27,EXIT 27,Atlantic Ave,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2027/86,40.690071,-73.998634,http://maps.google.com/maps?t=m&q=loc:40.690071+-73.998634,Northbound
+New York,I-278,87,Exit 28A,EXIT 28A,Cadman Plaza W,"New York City, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2028A/87,40.700985,-73.994484,http://maps.google.com/maps?t=m&q=loc:40.700985+-73.994484,Northbound
+New York,I-278,47035,Exit 28B,EXIT 28B,"Brooklyn Bridge
+          (MM: 28.0)","New York City, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2028B/47035,40.701492,-73.989805,http://maps.google.com/maps?t=m&q=loc:40.701492+-73.989805,Northbound
+New York,I-278,47036,Exit 29A,EXIT 29A,Exit,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2029A/47036,40.700282,-73.985197,http://maps.google.com/maps?t=m&q=loc:40.700282+-73.985197,Northbound
+New York,I-278,90,Exit 29B,EXIT 29B,Tillary St,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2029B/90,40.697268,-73.981954,http://maps.google.com/maps?t=m&q=loc:40.697268+-73.981954,Northbound
+New York,I-278,47037,Exit 30,EXIT 30,Flushing Ave,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2030/47037,40.695756,-73.964979,http://maps.google.com/maps?t=m&q=loc:40.695756+-73.964979,Northbound
+New York,I-278,92,Exit 32,EXIT 32,Metropolitan Ave; Williamsburg Bridge; Manhattan,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2032/92,40.711072,-73.955334,http://maps.google.com/maps?t=m&q=loc:40.711072+-73.955334,Northbound
+New York,I-278,93,Exit 33,EXIT 33,Humboldt St; Mc Guinness Blvd,"Brooklyn, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2033/93,40.718977,-73.946013,http://maps.google.com/maps?t=m&q=loc:40.718977+-73.946013,Northbound
+New York,I-278,47039,Exit 35,EXIT 35,"I 495;I 495
+          (MM: 35.0)","Maspeth, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2035/47039,40.732913,-73.923381,http://maps.google.com/maps?t=m&q=loc:40.732913+-73.923381,Northbound
+New York,I-278,47040,Exit 35,EXIT 35,I-495 E; 48 St,"Maspeth, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2035/47040,40.732523,-73.921435,http://maps.google.com/maps?t=m&q=loc:40.732523+-73.921435,Northbound
+New York,I-278,47041,Exit 35,EXIT 35,I-495 E; 48 St,"Maspeth, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2035/47041,40.732523,-73.921435,http://maps.google.com/maps?t=m&q=loc:40.732523+-73.921435,Northbound
+New York,I-278,95,Exit 39,EXIT 39,NY-25; Queens Blvd; 65th Place; 58th Street,"Woodside, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2039/95,40.738337,-73.903092,http://maps.google.com/maps?t=m&q=loc:40.738337+-73.903092,Northbound
+New York,I-278,96,Exit 40,EXIT 40,Broadway E,"Woodside, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2040/96,40.746555,-73.894849,http://maps.google.com/maps?t=m&q=loc:40.746555+-73.894849,Northbound
+New York,I-278,97,Exit 41,EXIT 41,New York 25 A,"Woodside, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2041/97,40.751435,-73.897266,http://maps.google.com/maps?t=m&q=loc:40.751435+-73.897266,Northbound
+New York,I-278,47043,Exit 42,EXIT 42,"Brooklyn-Queens Expressway
+          (MM: 42.0)","Edgewater, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2042/47043,40.754452,-73.898687,http://maps.google.com/maps?t=m&q=loc:40.754452+-73.898687,Northbound
+New York,I-278,99,Exit 43,EXIT 43,30th Avenue,"Guttenberg, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2043/99,40.757797,-73.900575,http://maps.google.com/maps?t=m&q=loc:40.757797+-73.900575,Northbound
+New York,I-278,100,Exit 44,EXIT 44,Astoria Blvd W,"Edgewater, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2044/100,40.767116,-73.904046,http://maps.google.com/maps?t=m&q=loc:40.767116+-73.904046,Northbound
+New York,I-278,102,Exit 45,EXIT 45,31 St; Astoria Blvd; Interstate 278 Alternative,"Edgewater, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2045/102,40.769571,-73.913036,http://maps.google.com/maps?t=m&q=loc:40.769571+-73.913036,Northbound
+New York,I-278,47045,Exit 46,EXIT 46,"Robert F. Kennedy Bridge
+          (MM: 46.0)","New York, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2046/47045,40.792006,-73.92457,http://maps.google.com/maps?t=m&q=loc:40.792006+-73.92457,Northbound
+New York,I-278,104,Exit 47,EXIT 47,"I 87
+          (MM: 47.0)","Bronx, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2047/104,40.801634,-73.916961,http://maps.google.com/maps?t=m&q=loc:40.801634+-73.916961,Northbound
+New York,I-278,105,Exit 48,EXIT 48,Bruckner Boulevard,"Bronx, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2048/105,40.801966,-73.91664,http://maps.google.com/maps?t=m&q=loc:40.801966+-73.91664,Northbound
+New York,I-278,106,Exit 49,EXIT 49,"I 895
+          (MM: 49.0)","Bronx, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2049/106,40.820012,-73.89027,http://maps.google.com/maps?t=m&q=loc:40.820012+-73.89027,Northbound
+New York,I-278,107,Exit 52,EXIT 52,Bronx River Pkwy N; White Plains,"Bronx, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2052/107,40.823644,-73.877658,http://maps.google.com/maps?t=m&q=loc:40.823644+-73.877658,Northbound
+New York,I-278,108,Exit 53,EXIT 53,White Plains Rd; Castle Hill Ave,"Bronx, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2053/108,40.825294,-73.864876,http://maps.google.com/maps?t=m&q=loc:40.825294+-73.864876,Northbound
+New York,I-278,47048,Exit 54,EXIT 54,Hutchinson River Pkwy; Zerega Ave; Throgs Neck Bridge; Whitestone Bridge,"Bronx, New York",https://www.iexitapp.com/New%20York/I-278/Exit%2054/47048,40.826853,-73.85235,http://maps.google.com/maps?t=m&q=loc:40.826853+-73.85235,Northbound

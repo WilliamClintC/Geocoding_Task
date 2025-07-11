@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New Jersey,I-278,63,Elizabeth; Linden,EXIT,Elizabeth; Linden,"Linden, New Jersey",https://www.iexitapp.com/New%20Jersey/I-278/Exit%20/63,40.643271,-74.217258,http://maps.google.com/maps?t=m&q=loc:40.643271+-74.217258,Northbound
+New Jersey,I-278,155,NJ 439;Cole Place;Bayway Avenue;Trenton Avenue;Relocated Bayway,EXIT,NJ 439;Cole Place;Bayway Avenue;Trenton Avenue;Relocated Bayway,"Elizabeth, New Jersey",https://www.iexitapp.com/New%20Jersey/I-278/Exit%20/155,40.64165,-74.206194,http://maps.google.com/maps?t=m&q=loc:40.64165+-74.206194,Southbound
+New Jersey,I-278,157,Plant Entrance,EXIT,Plant Entrance,"Linden, New Jersey",https://www.iexitapp.com/New%20Jersey/I-278/Exit%20/157,40.638485,-74.232548,http://maps.google.com/maps?t=m&q=loc:40.638485+-74.232548,Southbound
+New Jersey,I-278,47067,Exit,EXIT,Exit,"Linden, New Jersey",https://www.iexitapp.com/New%20Jersey/I-278/Exit%20/47067,40.636289,-74.234213,http://maps.google.com/maps?t=m&q=loc:40.636289+-74.234213,Southbound

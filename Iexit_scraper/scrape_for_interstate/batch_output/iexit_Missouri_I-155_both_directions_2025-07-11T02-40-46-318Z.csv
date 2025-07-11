@@ -1,0 +1,6 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Missouri,I-155,33645,Weigh Station,WEIGH STATION,Weigh Station,"Caruthersville, Missouri",https://www.iexitapp.com/Missouri/I-155/Weigh%20Station/33645,36.141241,-89.639802,http://maps.google.com/maps?t=m&q=loc:36.141241+-89.639802,Northbound
+Missouri,I-155,33646,Exit 6,EXIT 6,Caruthersville,"Caruthersville, Missouri",https://www.iexitapp.com/Missouri/I-155/Exit%206/33646,36.150205,-89.66005,http://maps.google.com/maps?t=m&q=loc:36.150205+-89.66005,Northbound
+Missouri,I-155,33647,Exit 4,EXIT 4,Missouri U; Caruthersville,"Caruthersville, Missouri",https://www.iexitapp.com/Missouri/I-155/Exit%204/33647,36.17345,-89.690422,http://maps.google.com/maps?t=m&q=loc:36.17345+-89.690422,Northbound
+Missouri,I-155,33650,Exit 4,EXIT 4,Caruthersville,"Caruthersville, Missouri",https://www.iexitapp.com/Missouri/I-155/Exit%204/33650,36.178925,-89.696345,http://maps.google.com/maps?t=m&q=loc:36.178925+-89.696345,Southbound
+Missouri,I-155,33651,Exit 6,EXIT 6,Missouri 84 Y; Caruthersville,"Caruthersville, Missouri",https://www.iexitapp.com/Missouri/I-155/Exit%206/33651,36.153065,-89.667151,http://maps.google.com/maps?t=m&q=loc:36.153065+-89.667151,Southbound

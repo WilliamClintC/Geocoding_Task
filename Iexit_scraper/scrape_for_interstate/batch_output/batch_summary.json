@@ -1,0 +1,166 @@
+{
+  "totalProcessed": 31,
+  "totalEntries": 539,
+  "failedEntries": 22,
+  "failedUrls": [
+    {
+      "index": 14,
+      "state": "Arizona",
+      "highway": "I-8",
+      "url": "https://www.iexitapp.com/exits/Arizona/I-8/East/143",
+      "timestamp": "2025-07-09T11:45:14.443Z"
+    },
+    {
+      "index": 15,
+      "state": "Arizona",
+      "highway": "I-17",
+      "url": "https://www.iexitapp.com/exits/Arizona/I-17/North/146",
+      "timestamp": "2025-07-09T11:45:24.518Z"
+    },
+    {
+      "index": 16,
+      "state": "Arizona",
+      "highway": "I-19",
+      "url": "https://www.iexitapp.com/exits/Arizona/I-19/North/147",
+      "timestamp": "2025-07-09T11:45:35.230Z"
+    },
+    {
+      "index": 17,
+      "state": "Arizona",
+      "highway": "AZ 101",
+      "url": "https://www.iexitapp.com/exits/Arizona/AZ%20101/East/495",
+      "timestamp": "2025-07-09T11:45:44.764Z"
+    },
+    {
+      "index": 18,
+      "state": "Arizona",
+      "highway": "AZ 51",
+      "url": "https://www.iexitapp.com/exits/Arizona/AZ%2051/North/496",
+      "timestamp": "2025-07-09T11:45:55.004Z"
+    },
+    {
+      "index": 19,
+      "state": "Arkansas",
+      "highway": "I-40",
+      "url": "https://www.iexitapp.com/exits/Arkansas/I-40/East/675",
+      "timestamp": "2025-07-09T11:46:05.147Z"
+    },
+    {
+      "index": 20,
+      "state": "Arkansas",
+      "highway": "I-55",
+      "url": "https://www.iexitapp.com/exits/Arkansas/I-55/North/116",
+      "timestamp": "2025-07-09T11:47:56.548Z"
+    },
+    {
+      "index": 21,
+      "state": "Arkansas",
+      "highway": "I-30",
+      "url": "https://www.iexitapp.com/exits/Arkansas/I-30/East/161",
+      "timestamp": "2025-07-09T11:48:05.918Z"
+    },
+    {
+      "index": 22,
+      "state": "Arkansas",
+      "highway": "I-430",
+      "url": "https://www.iexitapp.com/exits/Arkansas/I-430/North/293",
+      "timestamp": "2025-07-09T11:48:16.975Z"
+    },
+    {
+      "index": 31,
+      "state": "California",
+      "highway": "I-15",
+      "url": "https://www.iexitapp.com/exits/California/I-15/North/87",
+      "timestamp": "2025-07-09T20:34:16.804Z"
+    },
+    {
+      "index": 32,
+      "state": "California",
+      "highway": "I-40",
+      "url": "https://www.iexitapp.com/exits/California/I-40/East/670",
+      "timestamp": "2025-07-09T20:34:27.086Z"
+    },
+    {
+      "index": 33,
+      "state": "California",
+      "highway": "I-80",
+      "url": "https://www.iexitapp.com/exits/California/I-80/East/127",
+      "timestamp": "2025-07-09T20:34:39.257Z"
+    },
+    {
+      "index": 34,
+      "state": "California",
+      "highway": "I-5",
+      "url": "https://www.iexitapp.com/exits/California/I-5/North/139",
+      "timestamp": "2025-07-09T20:34:46.978Z"
+    },
+    {
+      "index": 35,
+      "state": "California",
+      "highway": "I-8",
+      "url": "https://www.iexitapp.com/exits/California/I-8/East/142",
+      "timestamp": "2025-07-09T20:34:56.442Z"
+    },
+    {
+      "index": 36,
+      "state": "California",
+      "highway": "I-105",
+      "url": "https://www.iexitapp.com/exits/California/I-105/East/248",
+      "timestamp": "2025-07-09T20:35:07.402Z"
+    },
+    {
+      "index": 37,
+      "state": "California",
+      "highway": "I-205",
+      "url": "https://www.iexitapp.com/exits/California/I-205/North/250",
+      "timestamp": "2025-07-09T20:35:17.926Z"
+    },
+    {
+      "index": 38,
+      "state": "California",
+      "highway": "I-405",
+      "url": "https://www.iexitapp.com/exits/California/I-405/North/253",
+      "timestamp": "2025-07-09T20:36:04.342Z"
+    },
+    {
+      "index": 39,
+      "state": "California",
+      "highway": "I-505",
+      "url": "https://www.iexitapp.com/exits/California/I-505/North/256",
+      "timestamp": "2025-07-09T20:36:15.323Z"
+    },
+    {
+      "index": 30,
+      "state": "California",
+      "highway": "US 101",
+      "url": "https://www.iexitapp.com/exits/California/US%20101/North/654",
+      "timestamp": "2025-07-10T01:53:00.578Z"
+    },
+    {
+      "index": 31,
+      "state": "California",
+      "highway": "I-15",
+      "url": "https://www.iexitapp.com/exits/California/I-15/North/87",
+      "timestamp": "2025-07-10T01:53:09.935Z"
+    },
+    {
+      "index": 32,
+      "state": "California",
+      "highway": "I-40",
+      "url": "https://www.iexitapp.com/exits/California/I-40/East/670",
+      "timestamp": "2025-07-10T01:53:21.121Z"
+    },
+    {
+      "index": 33,
+      "state": "California",
+      "highway": "I-80",
+      "url": "https://www.iexitapp.com/exits/California/I-80/East/127",
+      "timestamp": "2025-07-10T01:53:31.739Z"
+    }
+  ],
+  "completedAt": "2025-07-10T02:17:02.285Z",
+  "outputFiles": {
+    "combinedCsv": "C:\\Users\\clint\\Desktop\\Geocoding_Task\\Iexit_scraper\\scrape_for_interstate\\batch_output\\combined_exit_data.csv",
+    "progressFile": "C:\\Users\\clint\\Desktop\\Geocoding_Task\\Iexit_scraper\\scrape_for_interstate\\batch_output\\batch_progress.json"
+  }
+}

@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Iowa,I-480,36407,41st Street — Dodge Park,EXIT,41st Street — Dodge Park,"Council Bluffs, Iowa",https://www.iexitapp.com/Iowa/I-480/Exit%20/36407,41.260327,-95.917402,http://maps.google.com/maps?t=m&q=loc:41.260327+-95.917402,Eastbound

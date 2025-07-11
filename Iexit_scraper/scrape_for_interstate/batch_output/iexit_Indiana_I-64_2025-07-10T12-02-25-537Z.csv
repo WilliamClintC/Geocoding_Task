@@ -1,0 +1,24 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Indiana,I-64,24504,Exit 123,EXIT 123,IN-62 E; New Albany,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%20123/24504,38.284372,-85.828102,http://maps.google.com/maps?t=m&q=loc:38.284372+-85.828102,Westbound
+Indiana,I-64,24506,Exit 119,EXIT 119,US-150 W; Greenville; Paoli,"New Albany, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%20119/24506,38.304162,-85.884715,http://maps.google.com/maps?t=m&q=loc:38.304162+-85.884715,Westbound
+Indiana,I-64,24507,Exit 118,EXIT 118,IN-64 W; IN-62 W; Edwardsville; Georgetown,"Georgetown, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%20118/24507,38.29136,-85.907503,http://maps.google.com/maps?t=m&q=loc:38.29136+-85.907503,Westbound
+Indiana,I-64,24508,Temporarily Closed - Lanesville Welcome Center,WELCOME CENTER,"Temporarily Closed - Lanesville Welcome Center
+          (MM: 115.0)","Georgetown, Indiana",https://www.iexitapp.com/Indiana/I-64/Welcome%20Center/24508,38.27733,-85.956398,http://maps.google.com/maps?t=m&q=loc:38.27733+-85.956398,Westbound
+Indiana,I-64,24509,Exit 113,EXIT 113,Lanesville,"Corydon, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%20113/24509,38.266769,-85.997586,http://maps.google.com/maps?t=m&q=loc:38.266769+-85.997586,Westbound
+Indiana,I-64,24510,Exit 105,EXIT 105,Palmyra,"Corydon, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%20105/24510,38.239747,-86.125781,http://maps.google.com/maps?t=m&q=loc:38.239747+-86.125781,Westbound
+Indiana,I-64,24512,Exit 92,EXIT 92,IN-66; Leavenworth; Marengo,"Leavenworth, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2092/24512,38.244111,-86.352535,http://maps.google.com/maps?t=m&q=loc:38.244111+-86.352535,Westbound
+Indiana,I-64,24513,Exit 86,EXIT 86,English,"English, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2086/24513,38.243355,-86.461342,http://maps.google.com/maps?t=m&q=loc:38.243355+-86.461342,Westbound
+Indiana,I-64,24514,Exit 79,EXIT 79,French Lick,"St Croix, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2079/24514,38.227404,-86.585589,http://maps.google.com/maps?t=m&q=loc:38.227404+-86.585589,Westbound
+Indiana,I-64,24515,Exit 72,EXIT 72,IN-145; Bristow; Birdseye,"Bristow, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2072/24515,38.227595,-86.695414,http://maps.google.com/maps?t=m&q=loc:38.227595+-86.695414,Westbound
+Indiana,I-64,24516,Exit 63,EXIT 63,IN-162; Santa Claus; Ferdinand; Jasper,"Ferdinand, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2063/24516,38.205558,-86.858421,http://maps.google.com/maps?t=m&q=loc:38.205558+-86.858421,Westbound
+Indiana,I-64,24517,Nancy Hanks Rest Area,REST AREA,"Nancy Hanks Rest Area
+          (MM: 59.0)","Dale, Indiana",https://www.iexitapp.com/Indiana/I-64/Rest%20Area/24517,38.196423,-86.942349,http://maps.google.com/maps?t=m&q=loc:38.196423+-86.942349,Westbound
+Indiana,I-64,24518,Exit 57B,EXIT 57B,US-231 N; Huntingburg; Jasper,"Dale, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2057B/24518,38.193991,-86.972324,http://maps.google.com/maps?t=m&q=loc:38.193991+-86.972324,Westbound
+Indiana,I-64,24519,Exit 57A,EXIT 57A,Dale,"Dale, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2057A/24519,38.194324,-86.983008,http://maps.google.com/maps?t=m&q=loc:38.194324+-86.983008,Westbound
+Indiana,I-64,24520,Exit 54,EXIT 54,Tennyson,"Dale, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2054/24520,38.197065,-87.02872,http://maps.google.com/maps?t=m&q=loc:38.197065+-87.02872,Westbound
+Indiana,I-64,24521,Exit 39,EXIT 39,IN-61; Boonville; Lynnville,"Lynnville, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2039/24521,38.195963,-87.289079,http://maps.google.com/maps?t=m&q=loc:38.195963+-87.289079,Westbound
+Indiana,I-64,24523,Exit 25B,EXIT 25B,US-41 N; Terre Haute,"Haubstadt, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2025B/24523,38.167136,-87.542465,http://maps.google.com/maps?t=m&q=loc:38.167136+-87.542465,Westbound
+Indiana,I-64,24524,Exit 25A,EXIT 25A,US-41 S; Evansville,"Haubstadt, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2025A/24524,38.167141,-87.551008,http://maps.google.com/maps?t=m&q=loc:38.167141+-87.551008,Westbound
+Indiana,I-64,24525,Exit 18,EXIT 18,Evansville,"Cynthiana, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2018/24525,38.16356,-87.676885,http://maps.google.com/maps?t=m&q=loc:38.16356+-87.676885,Westbound
+Indiana,I-64,24526,Exit 12,EXIT 12,IN-165; Poseyville,"Poseyville, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%2012/24526,38.183984,-87.773379,http://maps.google.com/maps?t=m&q=loc:38.183984+-87.773379,Westbound
+Indiana,I-64,24527,Exit 4,EXIT 4,IN-69; Harmony,"Griffin, Indiana",https://www.iexitapp.com/Indiana/I-64/Exit%204/24527,38.197422,-87.911421,http://maps.google.com/maps?t=m&q=loc:38.197422+-87.911421,Westbound

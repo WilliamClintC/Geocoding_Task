@@ -1,0 +1,35 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Arizona,I-8,53157,Exit 174,EXIT 174,Trekell Road,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20174/53157,32.82988,-111.735412,http://maps.google.com/maps?t=m&q=loc:32.82988+-111.735412,Westbound
+Arizona,I-8,18257,Exit 172,EXIT 172,Thornton Rd,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20172/18257,32.828166,-111.767218,http://maps.google.com/maps?t=m&q=loc:32.828166+-111.767218,Westbound
+Arizona,I-8,18258,Exit 169,EXIT 169,Bianco Road,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20169/18258,32.828212,-111.825313,http://maps.google.com/maps?t=m&q=loc:32.828212+-111.825313,Westbound
+Arizona,I-8,18259,Exit 167,EXIT 167,Montgomery Rd,"Casa Grande, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20167/18259,32.828163,-111.856278,http://maps.google.com/maps?t=m&q=loc:32.828163+-111.856278,Westbound
+Arizona,I-8,18260,Exit 161,EXIT 161,Stanfield,"Stanfield, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20161/18260,32.828433,-111.957891,http://maps.google.com/maps?t=m&q=loc:32.828433+-111.957891,Westbound
+Arizona,I-8,18261,Exit 151,EXIT 151,AZ-84 E; AZ-347 N; Maricopa,"Maricopa, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20151/18261,32.834572,-112.129113,http://maps.google.com/maps?t=m&q=loc:32.834572+-112.129113,Westbound
+Arizona,I-8,18262,Picnic Area,PICNIC AREA,Picnic Area,"Maricopa, Arizona",https://www.iexitapp.com/Arizona/I-8/Picnic%20Area/18262,32.835017,-112.145631,http://maps.google.com/maps?t=m&q=loc:32.835017+-112.145631,Westbound
+Arizona,I-8,18263,Exit 144,EXIT 144,Vekol Rd,"Gila Bend, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20144/18263,32.841897,-112.252462,http://maps.google.com/maps?t=m&q=loc:32.841897+-112.252462,Westbound
+Arizona,I-8,18264,Exit 140,EXIT 140,Freeman Rd,"Gila Bend, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20140/18264,32.849009,-112.316062,http://maps.google.com/maps?t=m&q=loc:32.849009+-112.316062,Westbound
+Arizona,I-8,18265,Exit 119,EXIT 119,Butterfield Trail; AZ-85; I-10,"Gila Bend, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20119/18265,32.923999,-112.664773,http://maps.google.com/maps?t=m&q=loc:32.923999+-112.664773,Westbound
+Arizona,I-8,18266,Exit 115,EXIT 115,State Route 85; Phoenix; Ajo,"Gila Bend, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20115/18266,32.939121,-112.72984,http://maps.google.com/maps?t=m&q=loc:32.939121+-112.72984,Westbound
+Arizona,I-8,53158,Exit 111,EXIT 111,Citrus Valley Rd,"Gila Bend, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20111/53158,32.933211,-112.797501,http://maps.google.com/maps?t=m&q=loc:32.933211+-112.797501,Westbound
+Arizona,I-8,18268,Exit 106,EXIT 106,Paloma Rd,"Gila Bend, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20106/18268,32.922645,-112.882922,http://maps.google.com/maps?t=m&q=loc:32.922645+-112.882922,Westbound
+Arizona,I-8,18269,Exit 102,EXIT 102,Painted Rock Rd,"Gila Bend, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%20102/18269,32.912388,-112.953327,http://maps.google.com/maps?t=m&q=loc:32.912388+-112.953327,Westbound
+Arizona,I-8,18270,Exit 87,EXIT 87,Sentinel; Hyder,"Dateland, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2087/18270,32.859196,-113.207253,http://maps.google.com/maps?t=m&q=loc:32.859196+-113.207253,Westbound
+Arizona,I-8,18271,Sentinel Rest Area,REST AREA,"Sentinel Rest Area
+          (MM: 83.0)","Dateland, Arizona",https://www.iexitapp.com/Arizona/I-8/Rest%20Area/18271,32.85552,-113.248931,http://maps.google.com/maps?t=m&q=loc:32.85552+-113.248931,Westbound
+Arizona,I-8,18272,Exit 78,EXIT 78,Spot Rd,"Dateland, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2078/18272,32.836485,-113.351695,http://maps.google.com/maps?t=m&q=loc:32.836485+-113.351695,Westbound
+Arizona,I-8,18273,Exit 73,EXIT 73,Aztec,"Dateland, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2073/18273,32.825366,-113.437861,http://maps.google.com/maps?t=m&q=loc:32.825366+-113.437861,Westbound
+Arizona,I-8,18274,Exit 67,EXIT 67,Dateland,"Dateland, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2067/18274,32.802793,-113.535492,http://maps.google.com/maps?t=m&q=loc:32.802793+-113.535492,Westbound
+Arizona,I-8,18275,Rest Area,REST AREA,"Rest Area
+          (MM: 56.0)","Roll, Arizona",https://www.iexitapp.com/Arizona/I-8/Rest%20Area/18275,32.732255,-113.711044,http://maps.google.com/maps?t=m&q=loc:32.732255+-113.711044,Westbound
+Arizona,I-8,18276,Exit 54,EXIT 54,Ave 52E; Mohawk Valley,"Roll, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2054/18276,32.730035,-113.726534,http://maps.google.com/maps?t=m&q=loc:32.730035+-113.726534,Westbound
+Arizona,I-8,18277,Exit 42,EXIT 42,Ave 40E; Tacna,"Wellton, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2042/18277,32.694558,-113.947648,http://maps.google.com/maps?t=m&q=loc:32.694558+-113.947648,Westbound
+Arizona,I-8,18278,Exit 37,EXIT 37,Avenue 36 E; Roll,"Wellton, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2037/18278,32.682868,-114.016476,http://maps.google.com/maps?t=m&q=loc:32.682868+-114.016476,Westbound
+Arizona,I-8,18279,Exit 30,EXIT 30,Ave 29E; Wellton,"Wellton, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2030/18279,32.663265,-114.136942,http://maps.google.com/maps?t=m&q=loc:32.663265+-114.136942,Westbound
+Arizona,I-8,18280,Exit 21,EXIT 21,Dome Valley,"Wellton, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2021/18280,32.670858,-114.298584,http://maps.google.com/maps?t=m&q=loc:32.670858+-114.298584,Westbound
+Arizona,I-8,18281,Exit 14,EXIT 14,Foothills Blvd,"Yuma, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2014/18281,32.669299,-114.404734,http://maps.google.com/maps?t=m&q=loc:32.669299+-114.404734,Westbound
+Arizona,I-8,18282,Exit 12,EXIT 12,Fortuna Rd; US-95 N,"Yuma, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%2012/18282,32.670653,-114.438077,http://maps.google.com/maps?t=m&q=loc:32.670653+-114.438077,Westbound
+Arizona,I-8,18283,Exit 9,EXIT 9,I-8; Avenue 81/2 E,"Yuma, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%209/18283,32.670833,-114.480679,http://maps.google.com/maps?t=m&q=loc:32.670833+-114.480679,Westbound
+Arizona,I-8,18284,Exit 7,EXIT 7,Araby Rd,"Yuma, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%207/18284,32.678564,-114.515016,http://maps.google.com/maps?t=m&q=loc:32.678564+-114.515016,Westbound
+Arizona,I-8,18285,Exit 3,EXIT 3,Avenue 3 E; Arizona 280 S,"Yuma, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%203/18285,32.68799,-114.575024,http://maps.google.com/maps?t=m&q=loc:32.68799+-114.575024,Westbound
+Arizona,I-8,18286,Exit 2,EXIT 2,US-95 N; 16th St,"Yuma, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%202/18286,32.694864,-114.604384,http://maps.google.com/maps?t=m&q=loc:32.694864+-114.604384,Westbound
+Arizona,I-8,18287,Exit 1,EXIT 1,Giss Pkwy,"Yuma, Arizona",https://www.iexitapp.com/Arizona/I-8/Exit%201/18287,32.716048,-114.611818,http://maps.google.com/maps?t=m&q=loc:32.716048+-114.611818,Westbound

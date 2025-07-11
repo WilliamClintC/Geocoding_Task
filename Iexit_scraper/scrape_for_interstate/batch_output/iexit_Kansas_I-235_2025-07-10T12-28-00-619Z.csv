@@ -1,0 +1,16 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Kansas,I-235,33030,Exit 15,EXIT 15,Broadway,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%2015/33030,37.757202,-97.337221,http://maps.google.com/maps?t=m&q=loc:37.757202+-97.337221,Southbound
+Kansas,I-235,33031,Exit 13,EXIT 13,"KS 96
+          (MM: 13.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%2013/33031,37.757264,-97.358894,http://maps.google.com/maps?t=m&q=loc:37.757264+-97.358894,Southbound
+Kansas,I-235,33032,Exit 11,EXIT 11,25th St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%2011/33032,37.733191,-97.378335,http://maps.google.com/maps?t=m&q=loc:37.733191+-97.378335,Southbound
+Kansas,I-235,33033,Exit 10,EXIT 10,Zoo Blvd,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%2010/33033,37.713287,-97.400466,http://maps.google.com/maps?t=m&q=loc:37.713287+-97.400466,Southbound
+Kansas,I-235,33034,Exit 8,EXIT 8,Central Ave,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%208/33034,37.698789,-97.409344,http://maps.google.com/maps?t=m&q=loc:37.698789+-97.409344,Southbound
+Kansas,I-235,33035,Exit 7B,EXIT 7B,"US 54;US 400
+          (MM: 7.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%207B/33035,37.676168,-97.402054,http://maps.google.com/maps?t=m&q=loc:37.676168+-97.402054,Southbound
+Kansas,I-235,57020,Exit 7A,EXIT 7A,"US 54;US 400
+          (MM: 7.0)","Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%207A/57020,37.672919,-97.401578,http://maps.google.com/maps?t=m&q=loc:37.672919+-97.401578,Southbound
+Kansas,I-235,33036,Exit 5,EXIT 5,Southwest Blvd; State Route 42,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%205/33036,37.650289,-97.400269,http://maps.google.com/maps?t=m&q=loc:37.650289+-97.400269,Southbound
+Kansas,I-235,33037,Exit 4,EXIT 4,West St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%204/33037,37.633041,-97.392233,http://maps.google.com/maps?t=m&q=loc:37.633041+-97.392233,Southbound
+Kansas,I-235,33038,Exit 3,EXIT 3,Meridian Ave,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%203/33038,37.62852,-97.374502,http://maps.google.com/maps?t=m&q=loc:37.62852+-97.374502,Southbound
+Kansas,I-235,33039,Exit 2,EXIT 2,Seneca St,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%202/33039,37.627927,-97.356398,http://maps.google.com/maps?t=m&q=loc:37.627927+-97.356398,Southbound
+Kansas,I-235,33040,Exit 1B,EXIT 1B,Mac Arthur Rd,"Wichita, Kansas",https://www.iexitapp.com/Kansas/I-235/Exit%201B/33040,37.625096,-97.341021,http://maps.google.com/maps?t=m&q=loc:37.625096+-97.341021,Southbound

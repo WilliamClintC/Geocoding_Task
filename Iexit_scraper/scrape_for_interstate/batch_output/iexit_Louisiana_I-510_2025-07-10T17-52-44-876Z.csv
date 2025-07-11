@@ -1,0 +1,5 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Louisiana,I-510,56568,Exit 1B,EXIT 1B,Lake Forest Blvd,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-510/Exit%201B/56568,30.048208,-89.938714,http://maps.google.com/maps?t=m&q=loc:30.048208+-89.938714,Westbound
+Louisiana,I-510,32135,Exit 2A,EXIT 2A,US-90; Chef Menteur Hwy,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-510/Exit%202A/32135,30.03275,-89.939593,http://maps.google.com/maps?t=m&q=loc:30.03275+-89.939593,Westbound
+Louisiana,I-510,32136,Exit 2C,EXIT 2C,Almonaster Blvd; Old Gentilly Rd,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-510/Exit%202C/32136,30.020732,-89.939567,http://maps.google.com/maps?t=m&q=loc:30.020732+-89.939567,Westbound
+Louisiana,I-510,32137,LA 47,EXIT,LA 47,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-510/Exit%20/32137,30.014461,-89.939688,http://maps.google.com/maps?t=m&q=loc:30.014461+-89.939688,Westbound

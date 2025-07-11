@@ -1,0 +1,29 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Idaho,I-86,9857,Exit 15,EXIT 15,Raft River Area,"Declo, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2015/9857,42.598076,-113.234806,http://maps.google.com/maps?t=m&q=loc:42.598076+-113.234806,Eastbound
+Idaho,I-86,9858,Coldwater Hill Rest Area,REST AREA,"Coldwater Hill Rest Area
+          (MM: 19.0)","American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Rest%20Area/9858,42.612303,-113.152603,http://maps.google.com/maps?t=m&q=loc:42.612303+-113.152603,Eastbound
+Idaho,I-86,9859,Exit 21,EXIT 21,Osborn Loop,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2021/9859,42.620063,-113.12767,http://maps.google.com/maps?t=m&q=loc:42.620063+-113.12767,Eastbound
+Idaho,I-86,9860,Exit 28,EXIT 28,Massacre Rocks; State Park,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2028/9860,42.66362,-112.998769,http://maps.google.com/maps?t=m&q=loc:42.66362+-112.998769,Eastbound
+Idaho,I-86,9861,Exit 33,EXIT 33,Neeley Area,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2033/9861,42.708298,-112.930507,http://maps.google.com/maps?t=m&q=loc:42.708298+-112.930507,Eastbound
+Idaho,I-86,9862,Exit 36,EXIT 36,ID-37; American Falls; Rockland; I-86 BUS,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2036/9862,42.746685,-112.882492,http://maps.google.com/maps?t=m&q=loc:42.746685+-112.882492,Eastbound
+Idaho,I-86,51750,Exit 40,EXIT 40,ID-39; American Falls; Aberdeen,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2040/51750,42.791234,-112.830778,http://maps.google.com/maps?t=m&q=loc:42.791234+-112.830778,Eastbound
+Idaho,I-86,9864,Exit 44,EXIT 44,Seagull Bay,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2044/9864,42.82675,-112.774135,http://maps.google.com/maps?t=m&q=loc:42.82675+-112.774135,Eastbound
+Idaho,I-86,51751,Exit 49,EXIT 49,Rainbow Rd,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2049/51751,42.869563,-112.702552,http://maps.google.com/maps?t=m&q=loc:42.869563+-112.702552,Eastbound
+Idaho,I-86,51752,Exit 52,EXIT 52,Arbon Valley,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2052/51752,42.887019,-112.639195,http://maps.google.com/maps?t=m&q=loc:42.887019+-112.639195,Eastbound
+Idaho,I-86,51753,Exit 56,EXIT 56,Pocatello Regional Airport,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2056/51753,42.90023,-112.581856,http://maps.google.com/maps?t=m&q=loc:42.90023+-112.581856,Eastbound
+Idaho,I-86,9868,Exit 58,EXIT 58,US-30; W Pocatello,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2058/9868,42.912259,-112.535776,http://maps.google.com/maps?t=m&q=loc:42.912259+-112.535776,Eastbound
+Idaho,I-86,9869,Exit 61,EXIT 61,US-91; Yellowstone Ave; Chubbuck,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2061/9869,42.912699,-112.471515,http://maps.google.com/maps?t=m&q=loc:42.912699+-112.471515,Eastbound
+Idaho,I-86,9871,Exit 61,EXIT 61,US 91; Chubbuck,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2061/9871,42.912906,-112.46158,http://maps.google.com/maps?t=m&q=loc:42.912906+-112.46158,Westbound
+Idaho,I-86,9872,Exit 58,EXIT 58,W Pocatello,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2058/9872,42.912742,-112.523363,http://maps.google.com/maps?t=m&q=loc:42.912742+-112.523363,Westbound
+Idaho,I-86,51755,Exit 56,EXIT 56,Pocatello Regional Airport,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2056/51755,42.903482,-112.57196,http://maps.google.com/maps?t=m&q=loc:42.903482+-112.57196,Westbound
+Idaho,I-86,51756,Exit 52,EXIT 52,Arbon Valley,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2052/51756,42.889241,-112.628615,http://maps.google.com/maps?t=m&q=loc:42.889241+-112.628615,Westbound
+Idaho,I-86,51757,Exit 49,EXIT 49,Rainbow Rd,"Pocatello, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2049/51757,42.874348,-112.687681,http://maps.google.com/maps?t=m&q=loc:42.874348+-112.687681,Westbound
+Idaho,I-86,9876,Exit 44,EXIT 44,Seagull Bay,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2044/9876,42.846204,-112.764314,http://maps.google.com/maps?t=m&q=loc:42.846204+-112.764314,Westbound
+Idaho,I-86,51758,Exit 40,EXIT 40,ID-39; American Falls; Aberdeen,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2040/51758,42.794681,-112.825771,http://maps.google.com/maps?t=m&q=loc:42.794681+-112.825771,Westbound
+Idaho,I-86,9878,Exit 36,EXIT 36,ID-37; Rockland,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2036/9878,42.75214,-112.876866,http://maps.google.com/maps?t=m&q=loc:42.75214+-112.876866,Westbound
+Idaho,I-86,9879,Exit 33,EXIT 33,Neeley Area,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2033/9879,42.71437,-112.920928,http://maps.google.com/maps?t=m&q=loc:42.71437+-112.920928,Westbound
+Idaho,I-86,9880,Massacre Rocks Rest Area,REST AREA,"Massacre Rocks Rest Area
+          (MM: 31.0)","American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Rest%20Area/9880,42.698849,-112.952899,http://maps.google.com/maps?t=m&q=loc:42.698849+-112.952899,Westbound
+Idaho,I-86,9881,Exit 28,EXIT 28,Massacre Rocks; State Park,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2028/9881,42.673154,-112.989065,http://maps.google.com/maps?t=m&q=loc:42.673154+-112.989065,Westbound
+Idaho,I-86,9882,Exit 21,EXIT 21,Coldwater Area,"American Falls, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2021/9882,42.622047,-113.115347,http://maps.google.com/maps?t=m&q=loc:42.622047+-113.115347,Westbound
+Idaho,I-86,9883,Exit 15,EXIT 15,Raft River Area,"Declo, Idaho",https://www.iexitapp.com/Idaho/I-86/Exit%2015/9883,42.599907,-113.22338,http://maps.google.com/maps?t=m&q=loc:42.599907+-113.22338,Westbound

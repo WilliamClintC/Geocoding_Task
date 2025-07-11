@@ -1,0 +1,7 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Maryland,I-895,40828,Exit 9,EXIT 9,Childs Street to Frankfurst Avenue,"Curtis Bay, Maryland",https://www.iexitapp.com/Maryland/I-895/Exit%209/40828,39.240923,-76.5888,http://maps.google.com/maps?t=m&q=loc:39.240923+-76.5888,Northbound
+Maryland,I-895,40829,Exit 10,EXIT 10,Holabird Avenue – Dundalk,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-895/Exit%2010/40829,39.272088,-76.554633,http://maps.google.com/maps?t=m&q=loc:39.272088+-76.554633,Northbound
+Maryland,I-895,40830,Exit 11A,EXIT 11A,Boston Street,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-895/Exit%2011A/40830,39.278163,-76.553204,http://maps.google.com/maps?t=m&q=loc:39.278163+-76.553204,Northbound
+Maryland,I-895,40831,Exit 11B,EXIT 11B,O'Donnell Street,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-895/Exit%2011B/40831,39.280584,-76.553241,http://maps.google.com/maps?t=m&q=loc:39.280584+-76.553241,Northbound
+Maryland,I-895,40832,Exit 12,EXIT 12,Lombard Street,"Baltimore, Maryland",https://www.iexitapp.com/Maryland/I-895/Exit%2012/40832,39.291332,-76.553804,http://maps.google.com/maps?t=m&q=loc:39.291332+-76.553804,Northbound
+Maryland,I-895,40833,Exit 13,EXIT 13,US 40 east (Pulaski Highway) / MD 151 (Erdman Avenue),", Maryland",https://www.iexitapp.com/Maryland/I-895/Exit%2013/40833,39.300836,-76.547248,http://maps.google.com/maps?t=m&q=loc:39.300836+-76.547248,Northbound

@@ -1,0 +1,135 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Idaho,I-84,28003,Snake River View Rest Area,REST AREA,"Snake River View Rest Area
+          (MM: 1.0)","Fruitland, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28003,43.996121,-116.936566,http://maps.google.com/maps?t=m&q=loc:43.996121+-116.936566,Eastbound
+Idaho,I-84,28004,Exit 3,EXIT 3,US-95; Payette; Parma,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%203/28004,43.972676,-116.91613,http://maps.google.com/maps?t=m&q=loc:43.972676+-116.91613,Eastbound
+Idaho,I-84,28005,Exit 9,EXIT 9,US-30; New Plymouth; Emmett,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%209/28005,43.908639,-116.817885,http://maps.google.com/maps?t=m&q=loc:43.908639+-116.817885,Eastbound
+Idaho,I-84,28006,Exit 13,EXIT 13,Black Canyon Jct,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2013/28006,43.86819,-116.781437,http://maps.google.com/maps?t=m&q=loc:43.86819+-116.781437,Eastbound
+Idaho,I-84,28007,Exit 17,EXIT 17,Sand Hollow,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2017/28007,43.808439,-116.753265,http://maps.google.com/maps?t=m&q=loc:43.808439+-116.753265,Eastbound
+Idaho,I-84,28008,Exit 25,EXIT 25,ID-44; Middleton,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2025/28008,43.71275,-116.700787,http://maps.google.com/maps?t=m&q=loc:43.71275+-116.700787,Eastbound
+Idaho,I-84,28009,Exit 26,EXIT 26,US-20; US-26; Notus,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2026/28009,43.692986,-116.695542,http://maps.google.com/maps?t=m&q=loc:43.692986+-116.695542,Eastbound
+Idaho,I-84,28010,Exit 27,EXIT 27,I-84; Caldwell; Homedale,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2027/28010,43.68377,-116.69007,http://maps.google.com/maps?t=m&q=loc:43.68377+-116.69007,Eastbound
+Idaho,I-84,28011,Exit 28,EXIT 28,10th Ave; City Center,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2028/28011,43.673423,-116.682055,http://maps.google.com/maps?t=m&q=loc:43.673423+-116.682055,Eastbound
+Idaho,I-84,28012,Exit 29,EXIT 29,US-20 E; US-26 E,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2029/28012,43.664999,-116.665271,http://maps.google.com/maps?t=m&q=loc:43.664999+-116.665271,Eastbound
+Idaho,I-84,28013,Exit 33,EXIT 33,ID-55 S; Nampa; Marsing,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2033/28013,43.613798,-116.602058,http://maps.google.com/maps?t=m&q=loc:43.613798+-116.602058,Eastbound
+Idaho,I-84,28014,Exit 35,EXIT 35,Northside Blvd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2035/28014,43.600801,-116.577028,http://maps.google.com/maps?t=m&q=loc:43.600801+-116.577028,Eastbound
+Idaho,I-84,28015,Exit 36,EXIT 36,N Franklin Blvd; Murphy,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2036/28015,43.599193,-116.557802,http://maps.google.com/maps?t=m&q=loc:43.599193+-116.557802,Eastbound
+Idaho,I-84,28016,Exit 38,EXIT 38,Garrity Blvd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2038/28016,43.598849,-116.519654,http://maps.google.com/maps?t=m&q=loc:43.598849+-116.519654,Eastbound
+Idaho,I-84,28017,Exit 42,EXIT 42,Ten Mile road,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2042/28017,43.593503,-116.442844,http://maps.google.com/maps?t=m&q=loc:43.593503+-116.442844,Eastbound
+Idaho,I-84,28018,Exit 44,EXIT 44,Route 69 S; Meridian Kuna,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2044/28018,43.593355,-116.401864,http://maps.google.com/maps?t=m&q=loc:43.593355+-116.401864,Eastbound
+Idaho,I-84,28019,Exit 46,EXIT 46,ID-55; Eagle; McCall,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2046/28019,43.593698,-116.366207,http://maps.google.com/maps?t=m&q=loc:43.593698+-116.366207,Eastbound
+Idaho,I-84,28020,Exit 49,EXIT 49,I 184,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2049/28020,43.597053,-116.294543,http://maps.google.com/maps?t=m&q=loc:43.597053+-116.294543,Eastbound
+Idaho,I-84,54739,Exit 50A-B,EXIT 50A-B,Exit,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2050A-B/54739,43.596609,-116.291139,http://maps.google.com/maps?t=m&q=loc:43.596609+-116.291139,Eastbound
+Idaho,I-84,54741,Exit 50A,EXIT 50A,W Overland Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2050A/54741,43.592473,-116.279324,http://maps.google.com/maps?t=m&q=loc:43.592473+-116.279324,Eastbound
+Idaho,I-84,28022,Exit 50B,EXIT 50B,Cole Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2050B/28022,43.589623,-116.27333,http://maps.google.com/maps?t=m&q=loc:43.589623+-116.27333,Eastbound
+Idaho,I-84,28023,Exit 52,EXIT 52,Orchard Street,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2052/28023,43.578314,-116.250037,http://maps.google.com/maps?t=m&q=loc:43.578314+-116.250037,Eastbound
+Idaho,I-84,28024,Exit 53,EXIT 53,Boise Airport,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2053/28024,43.571905,-116.220672,http://maps.google.com/maps?t=m&q=loc:43.571905+-116.220672,Eastbound
+Idaho,I-84,28025,Exit 54,EXIT 54,Broadway Ave,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2054/28025,43.567655,-116.201633,http://maps.google.com/maps?t=m&q=loc:43.567655+-116.201633,Eastbound
+Idaho,I-84,28026,Exit 57,EXIT 57,Gowen Road,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2057/28026,43.544662,-116.164138,http://maps.google.com/maps?t=m&q=loc:43.544662+-116.164138,Eastbound
+Idaho,I-84,28027,Exit 59A,EXIT 59A,S.Eisenman IC,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2059A/28027,43.513183,-116.146216,http://maps.google.com/maps?t=m&q=loc:43.513183+-116.146216,Eastbound
+Idaho,I-84,28028,Exit 59B,EXIT 59B,Memory Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2059B/28028,43.507395,-116.142984,http://maps.google.com/maps?t=m&q=loc:43.507395+-116.142984,Eastbound
+Idaho,I-84,28029,Blacks Creek Rest Area,REST AREA,"Blacks Creek Rest Area
+          (MM: 62.0)","Boise, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28029,43.480219,-116.110233,http://maps.google.com/maps?t=m&q=loc:43.480219+-116.110233,Eastbound
+Idaho,I-84,28030,Exit 64,EXIT 64,Blacks Creek Rd; Kuna,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2064/28030,43.466761,-116.096301,http://maps.google.com/maps?t=m&q=loc:43.466761+-116.096301,Eastbound
+Idaho,I-84,28031,Exit 71,EXIT 71,Orchard; Mayfield,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2071/28031,43.388002,-116.000171,http://maps.google.com/maps?t=m&q=loc:43.388002+-116.000171,Eastbound
+Idaho,I-84,28032,Exit 74,EXIT 74,Simco Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2074/28032,43.347272,-115.956213,http://maps.google.com/maps?t=m&q=loc:43.347272+-115.956213,Eastbound
+Idaho,I-84,28033,Exit 90,EXIT 90,I-84; State Hwy 51; State Hwy 67; Mountain Home; Bruneau,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2090/28033,43.174157,-115.75069,http://maps.google.com/maps?t=m&q=loc:43.174157+-115.75069,Eastbound
+Idaho,I-84,28034,Exit 95,EXIT 95,US-20 N; Mountain Home; Fairfield,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2095/28034,43.142897,-115.667604,http://maps.google.com/maps?t=m&q=loc:43.142897+-115.667604,Eastbound
+Idaho,I-84,28035,Exit 99,EXIT 99,Old Oregon Trail Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2099/28035,43.090644,-115.616728,http://maps.google.com/maps?t=m&q=loc:43.090644+-115.616728,Eastbound
+Idaho,I-84,28036,Exit 112,EXIT 112,Hammett,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20112/28036,42.958443,-115.470076,http://maps.google.com/maps?t=m&q=loc:42.958443+-115.470076,Eastbound
+Idaho,I-84,28037,Exit 120,EXIT 120,I-84; Glenn Ferry,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20120/28037,42.961949,-115.313258,http://maps.google.com/maps?t=m&q=loc:42.961949+-115.313258,Eastbound
+Idaho,I-84,28038,Exit 121,EXIT 121,Glenns Ferry; King Hill,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20121/28038,42.959672,-115.295993,http://maps.google.com/maps?t=m&q=loc:42.959672+-115.295993,Eastbound
+Idaho,I-84,28040,Exit 129,EXIT 129,King Hill,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20129/28040,42.954167,-115.154906,http://maps.google.com/maps?t=m&q=loc:42.954167+-115.154906,Eastbound
+Idaho,I-84,28041,Bliss Rest Area,REST AREA,"Bliss Rest Area
+          (MM: 133.0)","King Hill, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28041,42.940643,-115.080398,http://maps.google.com/maps?t=m&q=loc:42.940643+-115.080398,Eastbound
+Idaho,I-84,28042,Exit 137,EXIT 137,I-84; US-30; Bliss; Buhl,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20137/28042,42.937921,-115.000446,http://maps.google.com/maps?t=m&q=loc:42.937921+-115.000446,Eastbound
+Idaho,I-84,54742,Exit 137,EXIT 137,I-84; US-30; Bliss; Buhl,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20137/54742,42.9369,-114.995127,http://maps.google.com/maps?t=m&q=loc:42.9369+-114.995127,Eastbound
+Idaho,I-84,28043,Exit 141,EXIT 141,US-26; Gooding; Hagerman,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20141/28043,42.927052,-114.939611,http://maps.google.com/maps?t=m&q=loc:42.927052+-114.939611,Eastbound
+Idaho,I-84,28044,Exit 147,EXIT 147,Turttle,"Tuttle, Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20147/28044,42.86304,-114.848564,http://maps.google.com/maps?t=m&q=loc:42.86304+-114.848564,Eastbound
+Idaho,I-84,28045,Exit 155,EXIT 155,ID-46; Wendell,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20155/28045,42.778925,-114.728906,http://maps.google.com/maps?t=m&q=loc:42.778925+-114.728906,Eastbound
+Idaho,I-84,28046,Exit 157,EXIT 157,ID-46; Wendell,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20157/28046,42.76739,-114.710362,http://maps.google.com/maps?t=m&q=loc:42.76739+-114.710362,Eastbound
+Idaho,I-84,28047,Exit 165,EXIT 165,ID-25; Jerome,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20165/28047,42.726806,-114.550505,http://maps.google.com/maps?t=m&q=loc:42.726806+-114.550505,Eastbound
+Idaho,I-84,28048,Exit 168,EXIT 168,Jerome,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20168/28048,42.691969,-114.520873,http://maps.google.com/maps?t=m&q=loc:42.691969+-114.520873,Eastbound
+Idaho,I-84,28049,Junction US 93 Rest Area,REST AREA,"Junction US 93 Rest Area
+          (MM: 171.0)","Jerome, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28049,42.652811,-114.475026,http://maps.google.com/maps?t=m&q=loc:42.652811+-114.475026,Eastbound
+Idaho,I-84,54743,Exit 173,EXIT 173,US-93 S,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20173/54743,42.646159,-114.457843,http://maps.google.com/maps?t=m&q=loc:42.646159+-114.457843,Eastbound
+Idaho,I-84,54744,US 93,EXIT,US 93,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20/54744,42.637811,-114.449473,http://maps.google.com/maps?t=m&q=loc:42.637811+-114.449473,Eastbound
+Idaho,I-84,28051,Exit 182,EXIT 182,ID-50; Eden; Kimberly,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20182/28051,42.57831,-114.301298,http://maps.google.com/maps?t=m&q=loc:42.57831+-114.301298,Eastbound
+Idaho,I-84,28052,Exit 188,EXIT 188,Valley Rd; Hazelton,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20188/28052,42.575899,-114.178894,http://maps.google.com/maps?t=m&q=loc:42.575899+-114.178894,Eastbound
+Idaho,I-84,28053,Exit 194,EXIT 194,Ridgeway Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20194/28053,42.575946,-114.081455,http://maps.google.com/maps?t=m&q=loc:42.575946+-114.081455,Eastbound
+Idaho,I-84,28054,Exit 201,EXIT 201,State Route 25; Kasota Rd; Paul,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20201/28054,42.576371,-113.936938,http://maps.google.com/maps?t=m&q=loc:42.576371+-113.936938,Eastbound
+Idaho,I-84,28055,Exit 208,EXIT 208,ID-27; Burley; Paul; I-84 BUS,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20208/28055,42.568089,-113.792728,http://maps.google.com/maps?t=m&q=loc:42.568089+-113.792728,Eastbound
+Idaho,I-84,28056,Exit 211,EXIT 211,US-30; ID-24; Rupert; Heyburn,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20211/28056,42.568674,-113.735942,http://maps.google.com/maps?t=m&q=loc:42.568674+-113.735942,Eastbound
+Idaho,I-84,28057,Exit 216,EXIT 216,ID-25; Declo Albion,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20216/28057,42.568678,-113.627266,http://maps.google.com/maps?t=m&q=loc:42.568678+-113.627266,Eastbound
+Idaho,I-84,28059,Exit 228,EXIT 228,Yale Rd; ID-81; Malta,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20228/28059,42.517337,-113.425057,http://maps.google.com/maps?t=m&q=loc:42.517337+-113.425057,Eastbound
+Idaho,I-84,28060,Cotterell Rest Area,REST AREA,"Cotterell Rest Area
+          (MM: 229.0)","Declo, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28060,42.506349,-113.410055,http://maps.google.com/maps?t=m&q=loc:42.506349+-113.410055,Eastbound
+Idaho,I-84,28061,Exit 237,EXIT 237,Idahome Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20237/28061,42.41798,-113.322843,http://maps.google.com/maps?t=m&q=loc:42.41798+-113.322843,Eastbound
+Idaho,I-84,28062,Exit 245,EXIT 245,Sublett Rd; Malta,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20245/28062,42.329813,-113.216221,http://maps.google.com/maps?t=m&q=loc:42.329813+-113.216221,Eastbound
+Idaho,I-84,28063,Exit 254,EXIT 254,Sweetzer Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20254/28063,42.244237,-113.092597,http://maps.google.com/maps?t=m&q=loc:42.244237+-113.092597,Eastbound
+Idaho,I-84,28064,Exit 263,EXIT 263,Juniper Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20263/28064,42.155344,-112.987994,http://maps.google.com/maps?t=m&q=loc:42.155344+-112.987994,Eastbound
+Idaho,I-84,28065,Juniper Rest Area,REST AREA,"Juniper Rest Area
+          (MM: 269.0)","Malad City, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28065,42.078539,-112.913585,http://maps.google.com/maps?t=m&q=loc:42.078539+-112.913585,Eastbound
+Idaho,I-84,28149,Temporarily Closed - Juniper Rest Area,REST AREA,"Temporarily Closed - Juniper Rest Area
+          (MM: 269.0)","Malad City, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28149,42.068548,-112.902536,http://maps.google.com/maps?t=m&q=loc:42.068548+-112.902536,Westbound
+Idaho,I-84,28150,Exit 263,EXIT 263,Juniper Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20263/28150,42.147827,-112.982077,http://maps.google.com/maps?t=m&q=loc:42.147827+-112.982077,Westbound
+Idaho,I-84,28151,Exit 254,EXIT 254,Sweetzer Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20254/28151,42.238168,-113.086858,http://maps.google.com/maps?t=m&q=loc:42.238168+-113.086858,Westbound
+Idaho,I-84,28152,Exit 245,EXIT 245,Sublett Rd; Malta,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20245/28152,42.325614,-113.209576,http://maps.google.com/maps?t=m&q=loc:42.325614+-113.209576,Westbound
+Idaho,I-84,28153,Exit 237,EXIT 237,Idahome Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20237/28153,42.412298,-113.31559,http://maps.google.com/maps?t=m&q=loc:42.412298+-113.31559,Westbound
+Idaho,I-84,28154,Cotterell Rest Area,REST AREA,"Cotterell Rest Area
+          (MM: 229.0)","Declo, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28154,42.502516,-113.406322,http://maps.google.com/maps?t=m&q=loc:42.502516+-113.406322,Westbound
+Idaho,I-84,28155,Exit 228,EXIT 228,Yale Rd; ID-81; Declo,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20228/28155,42.513627,-113.419224,http://maps.google.com/maps?t=m&q=loc:42.513627+-113.419224,Westbound
+Idaho,I-84,28157,Exit 216,EXIT 216,ID-77; ID-25; Rupert Declo,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20216/28157,42.568946,-113.620477,http://maps.google.com/maps?t=m&q=loc:42.568946+-113.620477,Westbound
+Idaho,I-84,28158,Exit 211,EXIT 211,US-30; ID-24; Heyburn; Burley; I-84 BUS,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20211/28158,42.568948,-113.729354,http://maps.google.com/maps?t=m&q=loc:42.568948+-113.729354,Westbound
+Idaho,I-84,28159,Exit 208,EXIT 208,ID-27; Burley; Paul,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20208/28159,42.568375,-113.782377,http://maps.google.com/maps?t=m&q=loc:42.568375+-113.782377,Westbound
+Idaho,I-84,28160,Exit 201,EXIT 201,Kasota Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20201/28160,42.576768,-113.925301,http://maps.google.com/maps?t=m&q=loc:42.576768+-113.925301,Westbound
+Idaho,I-84,28161,Exit 194,EXIT 194,ID-25; Ridgeway Rd; Hazelton,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20194/28161,42.576239,-114.060659,http://maps.google.com/maps?t=m&q=loc:42.576239+-114.060659,Westbound
+Idaho,I-84,28162,Exit 188,EXIT 188,Valley Rd; Eden,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20188/28162,42.576215,-114.164732,http://maps.google.com/maps?t=m&q=loc:42.576215+-114.164732,Westbound
+Idaho,I-84,28163,Exit 182,EXIT 182,State Route 50; Kimberly; Twin Falls,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20182/28163,42.576736,-114.289103,http://maps.google.com/maps?t=m&q=loc:42.576736+-114.289103,Westbound
+Idaho,I-84,28164,Exit 173,EXIT 173,US-93; Twin Falls; Sun Valley,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20173/28164,42.638064,-114.433326,http://maps.google.com/maps?t=m&q=loc:42.638064+-114.433326,Westbound
+Idaho,I-84,28165,Exit 168,EXIT 168,Jerome,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20168/28165,42.685843,-114.516001,http://maps.google.com/maps?t=m&q=loc:42.685843+-114.516001,Westbound
+Idaho,I-84,28166,Exit 165,EXIT 165,ID-25; Jerome; Fairgrounds,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20165/28166,42.721067,-114.542165,http://maps.google.com/maps?t=m&q=loc:42.721067+-114.542165,Westbound
+Idaho,I-84,28167,Exit 157,EXIT 157,ID-46; Wendell; Gooding,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20157/28167,42.765093,-114.6974,http://maps.google.com/maps?t=m&q=loc:42.765093+-114.6974,Westbound
+Idaho,I-84,28168,Exit 155,EXIT 155,Hagerman,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20155/28168,42.771579,-114.71836,http://maps.google.com/maps?t=m&q=loc:42.771579+-114.71836,Westbound
+Idaho,I-84,28169,Exit 147,EXIT 147,Tuttle,"Tuttle, Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20147/28169,42.854546,-114.840693,http://maps.google.com/maps?t=m&q=loc:42.854546+-114.840693,Westbound
+Idaho,I-84,28170,Exit 141,EXIT 141,I-84 BUS; US-26; US-30; Bliss; Hagerman,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20141/28170,42.920543,-114.928745,http://maps.google.com/maps?t=m&q=loc:42.920543+-114.928745,Westbound
+Idaho,I-84,28171,Exit 137,EXIT 137,Bliss; Pioneer Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20137/28171,42.938224,-114.984849,http://maps.google.com/maps?t=m&q=loc:42.938224+-114.984849,Westbound
+Idaho,I-84,28172,Bliss Rest Area,REST AREA,"Bliss Rest Area
+          (MM: 133.0)","King Hill, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28172,42.938202,-115.065524,http://maps.google.com/maps?t=m&q=loc:42.938202+-115.065524,Westbound
+Idaho,I-84,28173,Exit 129,EXIT 129,King Hill,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20129/28173,42.953594,-115.144073,http://maps.google.com/maps?t=m&q=loc:42.953594+-115.144073,Westbound
+Idaho,I-84,28175,Exit 121,EXIT 121,I-84 BUS; Glenns Ferry,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20121/28175,42.960404,-115.284864,http://maps.google.com/maps?t=m&q=loc:42.960404+-115.284864,Westbound
+Idaho,I-84,28176,Exit 114,EXIT 114,Cold Springs Road; Hammett; Interstate 84 Business; ID-78,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20114/28176,42.946139,-115.421121,http://maps.google.com/maps?t=m&q=loc:42.946139+-115.421121,Westbound
+Idaho,I-84,28177,Exit 112,EXIT 112,Hammett,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%20112/28177,42.958809,-115.4564,http://maps.google.com/maps?t=m&q=loc:42.958809+-115.4564,Westbound
+Idaho,I-84,28178,Exit 99,EXIT 99,Old Oregon Trail Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2099/28178,43.084567,-115.61142,http://maps.google.com/maps?t=m&q=loc:43.084567+-115.61142,Westbound
+Idaho,I-84,28179,Exit 95,EXIT 95,US-20; ID-51; State Hwy 67; I-84 BUS; Mountain Home; Fairfield,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2095/28179,43.135941,-115.660455,http://maps.google.com/maps?t=m&q=loc:43.135941+-115.660455,Westbound
+Idaho,I-84,28180,Exit 90,EXIT 90,W Mountain Home,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2090/28180,43.174139,-115.7487,http://maps.google.com/maps?t=m&q=loc:43.174139+-115.7487,Westbound
+Idaho,I-84,28181,Exit 74,EXIT 74,Simco Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2074/28181,43.341859,-115.949891,http://maps.google.com/maps?t=m&q=loc:43.341859+-115.949891,Westbound
+Idaho,I-84,28182,Exit 71,EXIT 71,Orchard; Mayfield,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2071/28182,43.382709,-115.994021,http://maps.google.com/maps?t=m&q=loc:43.382709+-115.994021,Westbound
+Idaho,I-84,54763,Exit 64,EXIT 64,Exit,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2064/54763,43.463615,-116.092288,http://maps.google.com/maps?t=m&q=loc:43.463615+-116.092288,Westbound
+Idaho,I-84,28183,Blacks Creek Rest Area,REST AREA,"Blacks Creek Rest Area
+          (MM: 62.0)","Boise, Idaho",https://www.iexitapp.com/Idaho/I-84/Rest%20Area/28183,43.476602,-116.103743,http://maps.google.com/maps?t=m&q=loc:43.476602+-116.103743,Westbound
+Idaho,I-84,28184,Exit 59,EXIT 59,S Eisenman Ic,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2059/28184,43.501667,-116.13709,http://maps.google.com/maps?t=m&q=loc:43.501667+-116.13709,Westbound
+Idaho,I-84,28185,Exit 57,EXIT 57,Gowen Rd; ID-21; Idaho City,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2057/28185,43.538156,-116.157611,http://maps.google.com/maps?t=m&q=loc:43.538156+-116.157611,Westbound
+Idaho,I-84,28186,Exit 54,EXIT 54,US-20; US-26; Broadway Ave; City Center,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2054/28186,43.565138,-116.193352,http://maps.google.com/maps?t=m&q=loc:43.565138+-116.193352,Westbound
+Idaho,I-84,28187,Exit 53,EXIT 53,Vista Avenue; Boise Airport,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2053/28187,43.569747,-116.208941,http://maps.google.com/maps?t=m&q=loc:43.569747+-116.208941,Westbound
+Idaho,I-84,28188,Exit 52,EXIT 52,Orchard St,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2052/28188,43.573127,-116.238703,http://maps.google.com/maps?t=m&q=loc:43.573127+-116.238703,Westbound
+Idaho,I-84,28189,Exit 50B,EXIT 50B,E Overland Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2050B/28189,43.588249,-116.269827,http://maps.google.com/maps?t=m&q=loc:43.588249+-116.269827,Westbound
+Idaho,I-84,28190,Exit 50A,EXIT 50A,South Cole Road,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2050A/28190,43.590869,-116.275297,http://maps.google.com/maps?t=m&q=loc:43.590869+-116.275297,Westbound
+Idaho,I-84,54764,Exit 49,EXIT 49,I 184,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2049/54764,43.598694,-116.285905,http://maps.google.com/maps?t=m&q=loc:43.598694+-116.285905,Westbound
+Idaho,I-84,28191,Exit 49,EXIT 49,I-184; Franklin Rd; City Center,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2049/28191,43.592233,-116.278153,http://maps.google.com/maps?t=m&q=loc:43.592233+-116.278153,Westbound
+Idaho,I-84,28192,Exit 46,EXIT 46,ID 55,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2046/28192,43.597425,-116.346087,http://maps.google.com/maps?t=m&q=loc:43.597425+-116.346087,Westbound
+Idaho,I-84,28193,Exit 44,EXIT 44,ID-69; Meridian Kuna,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2044/28193,43.593555,-116.386695,http://maps.google.com/maps?t=m&q=loc:43.593555+-116.386695,Westbound
+Idaho,I-84,28194,Exit 42,EXIT 42,Ten Mile road,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2042/28194,43.593563,-116.42578,http://maps.google.com/maps?t=m&q=loc:43.593563+-116.42578,Westbound
+Idaho,I-84,28195,Exit 38,EXIT 38,Interstate 84; Idaho Center Boulevard; Garrity Boulevard,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2038/28195,43.599729,-116.506411,http://maps.google.com/maps?t=m&q=loc:43.599729+-116.506411,Westbound
+Idaho,I-84,28196,Exit 36,EXIT 36,N Franklin Blvd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2036/28196,43.598715,-116.548504,http://maps.google.com/maps?t=m&q=loc:43.598715+-116.548504,Westbound
+Idaho,I-84,28197,Exit 35,EXIT 35,Northside Blvd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2035/28197,43.600356,-116.568244,http://maps.google.com/maps?t=m&q=loc:43.600356+-116.568244,Westbound
+Idaho,I-84,28198,Exit 33B,EXIT 33B,Midland Blvd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2033B/28198,43.605894,-116.590993,http://maps.google.com/maps?t=m&q=loc:43.605894+-116.590993,Westbound
+Idaho,I-84,28199,Exit 33A,EXIT 33A,ID-55 N; Nampa; Marsing,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2033A/28199,43.610759,-116.59747,http://maps.google.com/maps?t=m&q=loc:43.610759+-116.59747,Westbound
+Idaho,I-84,28200,Exit 29,EXIT 29,US-20; US-26; Franklin Rd,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2029/28200,43.659704,-116.657061,http://maps.google.com/maps?t=m&q=loc:43.659704+-116.657061,Westbound
+Idaho,I-84,28201,Exit 28,EXIT 28,10th Ave; City Center,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2028/28201,43.668076,-116.672765,http://maps.google.com/maps?t=m&q=loc:43.668076+-116.672765,Westbound
+Idaho,I-84,28202,Exit 27,EXIT 27,ID-19; Wilder; Homedale,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2027/28202,43.677179,-116.68697,http://maps.google.com/maps?t=m&q=loc:43.677179+-116.68697,Westbound
+Idaho,I-84,28203,Exit 26,EXIT 26,US-20; US-26; Notus Parma,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2026/28203,43.687009,-116.690359,http://maps.google.com/maps?t=m&q=loc:43.687009+-116.690359,Westbound
+Idaho,I-84,28204,Exit 25,EXIT 25,State Route 44; Middleton,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2025/28204,43.703096,-116.699001,http://maps.google.com/maps?t=m&q=loc:43.703096+-116.699001,Westbound
+Idaho,I-84,28205,Exit 17,EXIT 17,Sand Hollow,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2017/28205,43.804275,-116.750403,http://maps.google.com/maps?t=m&q=loc:43.804275+-116.750403,Westbound
+Idaho,I-84,28206,Exit 13,EXIT 13,Black Canyon Jct,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%2013/28206,43.865166,-116.776493,http://maps.google.com/maps?t=m&q=loc:43.865166+-116.776493,Westbound
+Idaho,I-84,28207,Exit 9,EXIT 9,US-30; New Plymouth,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%209/28207,43.905109,-116.813114,http://maps.google.com/maps?t=m&q=loc:43.905109+-116.813114,Westbound
+Idaho,I-84,28208,Exit 3,EXIT 3,US-95; Fruitland; Payette,", Idaho",https://www.iexitapp.com/Idaho/I-84/Exit%203/28208,43.969726,-116.911888,http://maps.google.com/maps?t=m&q=loc:43.969726+-116.911888,Westbound

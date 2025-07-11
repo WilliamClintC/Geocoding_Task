@@ -1,0 +1,10 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Illinois,I-155,33673,Exit 31,EXIT 31,Birchwood St; IL-98,"Morton, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2031/33673,40.605856,-89.478541,http://maps.google.com/maps?t=m&q=loc:40.605856+-89.478541,Southbound
+Illinois,I-155,33674,Exit 30,EXIT 30,Queenwood Rd,"Morton, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2030/33674,40.59539,-89.478367,http://maps.google.com/maps?t=m&q=loc:40.59539+-89.478367,Southbound
+Illinois,I-155,33675,Exit 28,EXIT 28,Broadway Road,"Tremont, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2028/33675,40.57321,-89.477969,http://maps.google.com/maps?t=m&q=loc:40.57321+-89.477969,Southbound
+Illinois,I-155,33676,Exit 25,EXIT 25,lllinois 9; Pekin; Bloomington,"Tremont, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2025/33676,40.529504,-89.47718,http://maps.google.com/maps?t=m&q=loc:40.529504+-89.47718,Southbound
+Illinois,I-155,33677,Exit 22,EXIT 22,Townline Rd,"Tremont, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2022/33677,40.486003,-89.47178,http://maps.google.com/maps?t=m&q=loc:40.486003+-89.47178,Southbound
+Illinois,I-155,33678,Exit 19,EXIT 19,Illinois 122 E; Hopedale,"Hopedale, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2019/33678,40.431917,-89.460705,http://maps.google.com/maps?t=m&q=loc:40.431917+-89.460705,Southbound
+Illinois,I-155,33679,Exit 15,EXIT 15,IL-122 W,"Delavan, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2015/33679,40.384592,-89.455779,http://maps.google.com/maps?t=m&q=loc:40.384592+-89.455779,Southbound
+Illinois,I-155,33680,Exit 10,EXIT 10,US 136,"Hartsburg, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%2010/33680,40.312733,-89.454042,http://maps.google.com/maps?t=m&q=loc:40.312733+-89.454042,Southbound
+Illinois,I-155,33681,Exit 6,EXIT 6,Hartsburg,"Hartsburg, Illinois",https://www.iexitapp.com/Illinois/I-155/Exit%206/33681,40.254135,-89.461291,http://maps.google.com/maps?t=m&q=loc:40.254135+-89.461291,Southbound

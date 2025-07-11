@@ -1,0 +1,2 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-895,40850,Westchester Avenue – Hunts Point Market,EXIT,Westchester Avenue – Hunts Point Market,"Bronx, New York",https://www.iexitapp.com/New%20York/I-895/Exit%20/40850,40.830508,-73.885403,http://maps.google.com/maps?t=m&q=loc:40.830508+-73.885403,Southbound

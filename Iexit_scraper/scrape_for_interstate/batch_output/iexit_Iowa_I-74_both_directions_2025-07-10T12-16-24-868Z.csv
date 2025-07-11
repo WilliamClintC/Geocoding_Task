@@ -1,0 +1,9 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Iowa,I-74,24851,Exit 1,EXIT 1,53rd St; Hamilton; Tech College,"Davenport, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%201/24851,41.579361,-90.522233,http://maps.google.com/maps?t=m&q=loc:41.579361+-90.522233,Eastbound
+Iowa,I-74,24852,Exit 2,EXIT 2,Spruce Hills Dr; US-6 W; Kimberly Rd,"Davenport, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%202/24852,41.560387,-90.522556,http://maps.google.com/maps?t=m&q=loc:41.560387+-90.522556,Eastbound
+Iowa,I-74,24853,Exit 3,EXIT 3,Middle Rd; Locusst St,"Bettendorf, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%203/24853,41.543144,-90.518493,http://maps.google.com/maps?t=m&q=loc:41.543144+-90.518493,Eastbound
+Iowa,I-74,24854,Exit 4,EXIT 4,Riverfront; Grant St-State St; US-67,"Bettendorf, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%204/24854,41.534861,-90.516379,http://maps.google.com/maps?t=m&q=loc:41.534861+-90.516379,Eastbound
+Iowa,I-74,25126,Exit 4,EXIT 4,US-67; State St; Grant St; Riverfront,"Bettendorf, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%204/25126,41.522878,-90.513072,http://maps.google.com/maps?t=m&q=loc:41.522878+-90.513072,Westbound
+Iowa,I-74,25127,Exit 3,EXIT 3,Middle Rd; Locust St,"Bettendorf, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%203/25127,41.537544,-90.516835,http://maps.google.com/maps?t=m&q=loc:41.537544+-90.516835,Westbound
+Iowa,I-74,25128,Exit 2,EXIT 2,Spruce Hills Dr; US-6; Kimberly Rd,"Davenport, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%202/25128,41.550264,-90.521419,http://maps.google.com/maps?t=m&q=loc:41.550264+-90.521419,Westbound
+Iowa,I-74,25129,Exit 1,EXIT 1,53rd St; Hamilton; Tech College,"Davenport, Iowa",https://www.iexitapp.com/Iowa/I-74/Exit%201/25129,41.569886,-90.522108,http://maps.google.com/maps?t=m&q=loc:41.569886+-90.522108,Westbound

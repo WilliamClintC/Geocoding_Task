@@ -1,0 +1,7 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+Louisiana,I-610,32247,Exit 3,EXIT 3,Elysian Fields Avenue,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-610/Exit%203/32247,29.991636,-90.055493,http://maps.google.com/maps?t=m&q=loc:29.991636+-90.055493,Westbound
+Louisiana,I-610,32248,Exit 2B,EXIT 2B,US-90 W; New Orleans St; N Broad St,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-610/Exit%202B/32248,29.990991,-90.067081,http://maps.google.com/maps?t=m&q=loc:29.990991+-90.067081,Westbound
+Louisiana,I-610,32249,Exit 2C,EXIT 2C,Paris Ave,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-610/Exit%202C/32249,29.990804,-90.069724,http://maps.google.com/maps?t=m&q=loc:29.990804+-90.069724,Westbound
+Louisiana,I-610,32250,Exit 1A,EXIT 1A,Canal Blvd,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-610/Exit%201A/32250,29.994992,-90.104867,http://maps.google.com/maps?t=m&q=loc:29.994992+-90.104867,Westbound
+Louisiana,I-610,56572,Exit 1B,EXIT 1B,I-10 E; New Orleans; Business District,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-610/Exit%201B/56572,29.995679,-90.116294,http://maps.google.com/maps?t=m&q=loc:29.995679+-90.116294,Westbound
+Louisiana,I-610,56573,Exit 1B,EXIT 1B,I-10 E; New Orleans; Business District,"New Orleans, Louisiana",https://www.iexitapp.com/Louisiana/I-610/Exit%201B/56573,29.995427,-90.115218,http://maps.google.com/maps?t=m&q=loc:29.995427+-90.115218,Westbound

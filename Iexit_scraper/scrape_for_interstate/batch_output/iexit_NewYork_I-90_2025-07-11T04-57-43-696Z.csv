@@ -1,0 +1,100 @@
+state,highway,exit_id,title,exit_name,exit_description,exit_location,iexit_detail_link,latitude,longitude,google_maps_link,direction
+New York,I-90,6905,Exit 61,EXIT 61,Shortman Rd; Ripley,"Ripley, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2061/6905,42.259646,-79.748659,http://maps.google.com/maps?t=m&q=loc:42.259646+-79.748659,Eastbound
+New York,I-90,6906,Exit 60,EXIT 60,NY-394; Westfield; Mayville,"Westfield, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2060/6906,42.335983,-79.587509,http://maps.google.com/maps?t=m&q=loc:42.335983+-79.587509,Eastbound
+New York,I-90,6907,Exit 59,EXIT 59,NY-60; Dunkirk; Fredonia,"Dunkirk, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2059/6907,42.461507,-79.309695,http://maps.google.com/maps?t=m&q=loc:42.461507+-79.309695,Eastbound
+New York,I-90,6908,Exit 58,EXIT 58,US-20 W; NY-5 W,"Irving, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2058/6908,42.547753,-79.111817,http://maps.google.com/maps?t=m&q=loc:42.547753+-79.111817,Eastbound
+New York,I-90,50908,Angola Travel Plaza,SERVICE PLAZA,Angola Travel Plaza,"Angola, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/50908,42.633708,-78.991178,http://maps.google.com/maps?t=m&q=loc:42.633708+-78.991178,Eastbound
+New York,I-90,6910,Exit 57A,EXIT 57A,Eden; Angola,"Derby, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2057A/6910,42.656383,-78.963653,http://maps.google.com/maps?t=m&q=loc:42.656383+-78.963653,Eastbound
+New York,I-90,6911,Parking Area,PARKING AREA,Parking Area,"Eden, New York",https://www.iexitapp.com/New%20York/I-90/Parking%20Area/6911,42.686361,-78.937731,http://maps.google.com/maps?t=m&q=loc:42.686361+-78.937731,Eastbound
+New York,I-90,6912,Exit 57,EXIT 57,NY-75; Hamburg; E Aurora,"Hamburg, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2057/6912,42.741946,-78.843043,http://maps.google.com/maps?t=m&q=loc:42.741946+-78.843043,Eastbound
+New York,I-90,6913,Exit 56,EXIT 56,NY-179; Mile Strip Rd; Blasdell; Orchard Park,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2056/6913,42.793727,-78.816497,http://maps.google.com/maps?t=m&q=loc:42.793727+-78.816497,Eastbound
+New York,I-90,6914,Exit 55,EXIT 55,"US 219
+          (MM: 55.0)","Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2055/6914,42.816158,-78.791761,http://maps.google.com/maps?t=m&q=loc:42.816158+-78.791761,Eastbound
+New York,I-90,6915,Exit 54,EXIT 54,NY 400,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2054/6915,42.847248,-78.79152,http://maps.google.com/maps?t=m&q=loc:42.847248+-78.79152,Eastbound
+New York,I-90,6916,Exit 53,EXIT 53,"I 190
+          (MM: 53.0)","Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2053/6916,42.87103,-78.789965,http://maps.google.com/maps?t=m&q=loc:42.87103+-78.789965,Eastbound
+New York,I-90,76901,Exit 53,EXIT 53,To I-190 Exit 1 - S Ogden St; Dingens St,"West Seneca, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2053/76901,42.871002,-78.789978,http://maps.google.com/maps?t=m&q=loc:42.871002+-78.789978,Eastbound
+New York,I-90,6917,Exit 52A,EXIT 52A,William St; Buffalo; Cheektowaga,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2052A/6917,42.880711,-78.770717,http://maps.google.com/maps?t=m&q=loc:42.880711+-78.770717,Eastbound
+New York,I-90,6918,Exit 52E,EXIT 52E,Walden Avenue E; Cheektowaga,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2052E/6918,42.904429,-78.766722,http://maps.google.com/maps?t=m&q=loc:42.904429+-78.766722,Eastbound
+New York,I-90,6919,Exit 52W,EXIT 52W,Walden Avenue W; Buffalo,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2052W/6919,42.90961,-78.766519,http://maps.google.com/maps?t=m&q=loc:42.90961+-78.766519,Eastbound
+New York,I-90,6920,Exit 51E,EXIT 51E,"NY 33
+          (MM: 51.0)","Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2051E/6920,42.928458,-78.766112,http://maps.google.com/maps?t=m&q=loc:42.928458+-78.766112,Eastbound
+New York,I-90,50913,Exit 51W,EXIT 51W,"NY 33
+          (MM: 51.0)","Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2051W/50913,42.933024,-78.766162,http://maps.google.com/maps?t=m&q=loc:42.933024+-78.766162,Eastbound
+New York,I-90,6921,Exit 50A,EXIT 50A,Cleveland Dr,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2050A/6921,42.940977,-78.766185,http://maps.google.com/maps?t=m&q=loc:42.940977+-78.766185,Eastbound
+New York,I-90,6922,Exit 50,EXIT 50,"I 290
+          (MM: 50.0)","Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2050/6922,42.944873,-78.766108,http://maps.google.com/maps?t=m&q=loc:42.944873+-78.766108,Eastbound
+New York,I-90,50916,Exit 49,EXIT 49,NY-78; Depew; Lockport,"Buffalo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2049/50916,42.950674,-78.707633,http://maps.google.com/maps?t=m&q=loc:42.950674+-78.707633,Eastbound
+New York,I-90,50917,Exit 48A,EXIT 48A,NY-77; Pembroke; Medina,"Corfu, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2048A/50917,43.001275,-78.41627,http://maps.google.com/maps?t=m&q=loc:43.001275+-78.41627,Eastbound
+New York,I-90,6925,Pembroke Travel Plaza,SERVICE PLAZA,Pembroke Travel Plaza,"Corfu, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/6925,43.012143,-78.332496,http://maps.google.com/maps?t=m&q=loc:43.012143+-78.332496,Eastbound
+New York,I-90,6926,Exit 48,EXIT 48,NY-98; Batavia,"Batavia, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2048/6926,43.018364,-78.189297,http://maps.google.com/maps?t=m&q=loc:43.018364+-78.189297,Eastbound
+New York,I-90,6927,Exit 47,EXIT 47,"I 490
+          (MM: 47.0)","Le Roy, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2047/6927,43.028896,-77.970253,http://maps.google.com/maps?t=m&q=loc:43.028896+-77.970253,Eastbound
+New York,I-90,50919,Scottsville Travel Plaza,SERVICE PLAZA,Scottsville Travel Plaza,"West Henrietta, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/50919,43.04169,-77.717973,http://maps.google.com/maps?t=m&q=loc:43.04169+-77.717973,Eastbound
+New York,I-90,50920,Exit 46,EXIT 46,"I 390;I 390
+          (MM: 46.0)","Rush, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2046/50920,43.047527,-77.656817,http://maps.google.com/maps?t=m&q=loc:43.047527+-77.656817,Eastbound
+New York,I-90,50921,Exit 46,EXIT 46,I-390 N; Rochester,"Rush, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2046/50921,43.047527,-77.656817,http://maps.google.com/maps?t=m&q=loc:43.047527+-77.656817,Eastbound
+New York,I-90,6930,Parking Area,PARKING AREA,Parking Area,"Pittsford, New York",https://www.iexitapp.com/New%20York/I-90/Parking%20Area/6930,43.015824,-77.483017,http://maps.google.com/maps?t=m&q=loc:43.015824+-77.483017,Eastbound
+New York,I-90,50923,Exit 45,EXIT 45,"I 490
+          (MM: 45.0)","Victor, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2045/50923,43.008418,-77.438567,http://maps.google.com/maps?t=m&q=loc:43.008418+-77.438567,Eastbound
+New York,I-90,6932,Exit 44,EXIT 44,NY-332; Canandaigua,"Victor, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2044/6932,42.995816,-77.371994,http://maps.google.com/maps?t=m&q=loc:42.995816+-77.371994,Eastbound
+New York,I-90,50925,Exit 43,EXIT 43,State Route 21; Manchester; Palmyra,"Shortsville, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2043/50925,42.978695,-77.236532,http://maps.google.com/maps?t=m&q=loc:42.978695+-77.236532,Eastbound
+New York,I-90,6934,Clifton Springs Travel Plaza,SERVICE PLAZA,Clifton Springs Travel Plaza,"Clifton Springs, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/6934,42.973444,-77.177071,http://maps.google.com/maps?t=m&q=loc:42.973444+-77.177071,Eastbound
+New York,I-90,50926,Exit 42,EXIT 42,NY-14; Geneva; Lyons,"Phelps, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2042/50926,42.954797,-76.986591,http://maps.google.com/maps?t=m&q=loc:42.954797+-76.986591,Eastbound
+New York,I-90,6936,Exit 41,EXIT 41,NY-414; Waterloo Clyde,"Waterloo, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2041/6936,42.96673,-76.856261,http://maps.google.com/maps?t=m&q=loc:42.96673+-76.856261,Eastbound
+New York,I-90,6937,Port Byron Travel Plaza,SERVICE PLAZA,Port Byron Travel Plaza,"Port Byron, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/6937,43.022952,-76.674094,http://maps.google.com/maps?t=m&q=loc:43.022952+-76.674094,Eastbound
+New York,I-90,50928,Temporarily Closed - Erie Canal Heritage Park,PARKING AREA,Temporarily Closed - Erie Canal Heritage Park,"Port Byron, New York",https://www.iexitapp.com/New%20York/I-90/Parking%20Area/50928,43.03546,-76.639931,http://maps.google.com/maps?t=m&q=loc:43.03546+-76.639931,Eastbound
+New York,I-90,6938,Exit 40,EXIT 40,Weedsport; Auburn,"Weedsport, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2040/6938,43.060377,-76.567928,http://maps.google.com/maps?t=m&q=loc:43.060377+-76.567928,Eastbound
+New York,I-90,50929,Exit 39,EXIT 39,"I 690;NY 690
+          (MM: 39.0)","Syracuse, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2039/50929,43.107517,-76.285978,http://maps.google.com/maps?t=m&q=loc:43.107517+-76.285978,Eastbound
+New York,I-90,50931,Exit 38,EXIT 38,Liverpool; Syracuse,"Syracuse, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2038/50931,43.117736,-76.222898,http://maps.google.com/maps?t=m&q=loc:43.117736+-76.222898,Eastbound
+New York,I-90,6941,Exit 37,EXIT 37,Electronics Pkwy; Syracuse,"Syracuse, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2037/6941,43.103799,-76.18553,http://maps.google.com/maps?t=m&q=loc:43.103799+-76.18553,Eastbound
+New York,I-90,6943,DeWitt Travel Plaza,SERVICE PLAZA,DeWitt Travel Plaza,"Syracuse, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/6943,43.091783,-76.104034,http://maps.google.com/maps?t=m&q=loc:43.091783+-76.104034,Eastbound
+New York,I-90,6944,Exit 35,EXIT 35,NY-298; E Syracuse; Syracuse,"Syracuse, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2035/6944,43.092252,-76.093446,http://maps.google.com/maps?t=m&q=loc:43.092252+-76.093446,Eastbound
+New York,I-90,6945,Exit 34A,EXIT 34A,"I 481;I 481
+          (MM: 34.0)","East Syracuse, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2034A/6945,43.094484,-76.049511,http://maps.google.com/maps?t=m&q=loc:43.094484+-76.049511,Eastbound
+New York,I-90,6946,Exit 34,EXIT 34,NY-13; Canastota; Oneida,"Canastota, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2034/6946,43.091419,-75.750997,http://maps.google.com/maps?t=m&q=loc:43.091419+-75.750997,Eastbound
+New York,I-90,6947,Exit 33,EXIT 33,NY-365; Verona; Rome,"Verona, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2033/6947,43.123593,-75.585657,http://maps.google.com/maps?t=m&q=loc:43.123593+-75.585657,Eastbound
+New York,I-90,6948,Parking Area,PARKING AREA,Parking Area,"Verona, New York",https://www.iexitapp.com/New%20York/I-90/Parking%20Area/6948,43.129672,-75.535149,http://maps.google.com/maps?t=m&q=loc:43.129672+-75.535149,Eastbound
+New York,I-90,6949,Oneida Travel Plaza,SERVICE PLAZA,Oneida Travel Plaza,"Rome, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/6949,43.125982,-75.417475,http://maps.google.com/maps?t=m&q=loc:43.125982+-75.417475,Eastbound
+New York,I-90,6950,Exit 32,EXIT 32,NY-233; Westmoreland,"Rome, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2032/6950,43.124528,-75.406625,http://maps.google.com/maps?t=m&q=loc:43.124528+-75.406625,Eastbound
+New York,I-90,6951,Exit 31,EXIT 31,NY-8; I-790; NY-12; Utica,"Utica, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2031/6951,43.113036,-75.208304,http://maps.google.com/maps?t=m&q=loc:43.113036+-75.208304,Eastbound
+New York,I-90,6952,Exit 30,EXIT 30,NY-28; Herkimer; Mohawk,"Herkimer, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2030/6952,43.017539,-74.993185,http://maps.google.com/maps?t=m&q=loc:43.017539+-74.993185,Eastbound
+New York,I-90,6953,Exit 29A,EXIT 29A,NY-169; Little Falls; Dolgeville,"Little Falls, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2029A/6953,43.015345,-74.824165,http://maps.google.com/maps?t=m&q=loc:43.015345+-74.824165,Eastbound
+New York,I-90,6954,Indian Castle Travel Plaza,SERVICE PLAZA,Indian Castle Travel Plaza,"Little Falls, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/6954,43.016853,-74.806707,http://maps.google.com/maps?t=m&q=loc:43.016853+-74.806707,Eastbound
+New York,I-90,6955,Exit 29,EXIT 29,US-10; Canajoharie; Sharon Springs,"Canajoharie, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2029/6955,42.907669,-74.566127,http://maps.google.com/maps?t=m&q=loc:42.907669+-74.566127,Eastbound
+New York,I-90,6956,Parking Area,PARKING AREA,Parking Area,"Fultonville, New York",https://www.iexitapp.com/New%20York/I-90/Parking%20Area/6956,42.94234,-74.397974,http://maps.google.com/maps?t=m&q=loc:42.94234+-74.397974,Eastbound
+New York,I-90,6957,Exit 28,EXIT 28,New York 30A; Fultonville; Fonda,"Fultonville, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2028/6957,42.945644,-74.364993,http://maps.google.com/maps?t=m&q=loc:42.945644+-74.364993,Eastbound
+New York,I-90,6958,Exit 27,EXIT 27,NY-30; Amsterdam,"Amsterdam, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2027/6958,42.92411,-74.202359,http://maps.google.com/maps?t=m&q=loc:42.92411+-74.202359,Eastbound
+New York,I-90,50936,Mohawk Travel Plaza,SERVICE PLAZA,Mohawk Travel Plaza,"Amsterdam, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/50936,42.916035,-74.165246,http://maps.google.com/maps?t=m&q=loc:42.916035+-74.165246,Eastbound
+New York,I-90,6960,Exit 26,EXIT 26,"I 890;NY 890
+          (MM: 26.0)","Rotterdam Junction, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2026/6960,42.84345,-74.017971,http://maps.google.com/maps?t=m&q=loc:42.84345+-74.017971,Eastbound
+New York,I-90,6962,Exit 25,EXIT 25,"I 890
+          (MM: 25.0)","Schenectady, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2025/6962,42.754044,-73.933907,http://maps.google.com/maps?t=m&q=loc:42.754044+-73.933907,Eastbound
+New York,I-90,6963,Guilderland Travel Plaza,SERVICE PLAZA,Guilderland Travel Plaza,"Schenectady, New York",https://www.iexitapp.com/New%20York/I-90/Service%20Plaza/6963,42.746069,-73.920556,http://maps.google.com/maps?t=m&q=loc:42.746069+-73.920556,Eastbound
+New York,I-90,6964,Exit 24,EXIT 24,"New York State Thruway
+          (MM: 24.0)","Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2024/6964,42.708351,-73.860472,http://maps.google.com/maps?t=m&q=loc:42.708351+-73.860472,Eastbound
+New York,I-90,50940,Exit 1S,EXIT 1S,"Adirondack Northway
+          (MM: 1.0)","Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%201S/50940,42.697378,-73.843109,http://maps.google.com/maps?t=m&q=loc:42.697378+-73.843109,Eastbound
+New York,I-90,50942,Exit 2,EXIT 2,Washington Ave; Ualbany,"Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%202/50942,42.693077,-73.826931,http://maps.google.com/maps?t=m&q=loc:42.693077+-73.826931,Eastbound
+New York,I-90,6969,Exit 3,EXIT 3,State Offices,"Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%203/6969,42.688519,-73.813703,http://maps.google.com/maps?t=m&q=loc:42.688519+-73.813703,Eastbound
+New York,I-90,50943,Exit 4,EXIT 4,"NY 85
+          (MM: 4.0)","Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%204/50943,42.686599,-73.805556,http://maps.google.com/maps?t=m&q=loc:42.686599+-73.805556,Eastbound
+New York,I-90,6970,Exit 5,EXIT 5,Everett Rd,"Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%205/6970,42.683913,-73.788344,http://maps.google.com/maps?t=m&q=loc:42.683913+-73.788344,Eastbound
+New York,I-90,6971,Exit 5A,EXIT 5A,Corporate Woods Blvd,"Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%205A/6971,42.680636,-73.771859,http://maps.google.com/maps?t=m&q=loc:42.680636+-73.771859,Eastbound
+New York,I-90,6972,Exit 6,EXIT 6,"US 9;US 9
+          (MM: 6.0)","Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%206/6972,42.671604,-73.755538,http://maps.google.com/maps?t=m&q=loc:42.671604+-73.755538,Eastbound
+New York,I-90,50945,Exit 6,EXIT 6,Henry Johnson Blvd,"Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%206/50945,42.671604,-73.755538,http://maps.google.com/maps?t=m&q=loc:42.671604+-73.755538,Eastbound
+New York,I-90,6973,Exit 6A,EXIT 6A,"I 787;I 787
+          (MM: 6.0)","Albany, New York",https://www.iexitapp.com/New%20York/I-90/Exit%206A/6973,42.669876,-73.738446,http://maps.google.com/maps?t=m&q=loc:42.669876+-73.738446,Eastbound
+New York,I-90,6974,Exit 7,EXIT 7,Washington Ave; Rensselaer,"Rensselaer, New York",https://www.iexitapp.com/New%20York/I-90/Exit%207/6974,42.662741,-73.725063,http://maps.google.com/maps?t=m&q=loc:42.662741+-73.725063,Eastbound
+New York,I-90,6975,Exit 8,EXIT 8,"NY 43
+          (MM: 8.0)","Rensselaer, New York",https://www.iexitapp.com/New%20York/I-90/Exit%208/6975,42.655727,-73.718985,http://maps.google.com/maps?t=m&q=loc:42.655727+-73.718985,Eastbound
+New York,I-90,6976,Exit 9,EXIT 9,US-4; E Greenbush,"Rensselaer, New York",https://www.iexitapp.com/New%20York/I-90/Exit%209/6976,42.629533,-73.703814,http://maps.google.com/maps?t=m&q=loc:42.629533+-73.703814,Eastbound
+New York,I-90,6978,Exit 10,EXIT 10,Miller Rd; Schodack Center,"East Greenbush, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2010/6978,42.584248,-73.677921,http://maps.google.com/maps?t=m&q=loc:42.584248+-73.677921,Eastbound
+New York,I-90,6980,Exit 11W,EXIT 11W,US-20 W; U.S. 9 N,"Castleton-on-Hudson, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2011W/6980,42.564146,-73.678893,http://maps.google.com/maps?t=m&q=loc:42.564146+-73.678893,Eastbound
+New York,I-90,6981,Exit 11E,EXIT 11E,US-20 E; U.S. 9 S; Nassau,"Castleton-on-Hudson, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2011E/6981,42.559321,-73.679527,http://maps.google.com/maps?t=m&q=loc:42.559321+-73.679527,Eastbound
+New York,I-90,6985,Exit 12,EXIT 12,US-9; Hudson,"Castleton-on-Hudson, New York",https://www.iexitapp.com/New%20York/I-90/Exit%2012/6985,42.492764,-73.68287,http://maps.google.com/maps?t=m&q=loc:42.492764+-73.68287,Eastbound
+New York,I-90,6986,Berkshire Connector,EXIT,Berkshire Connector,"Nassau, New York",https://www.iexitapp.com/New%20York/I-90/Exit%20/6986,42.484442,-73.671105,http://maps.google.com/maps?t=m&q=loc:42.484442+-73.671105,Eastbound
+New York,I-90,6987,Exit B2,EXIT B2,Taconic Pkwy; NY-295,"Old Chatham, New York",https://www.iexitapp.com/New%20York/I-90/Exit%20B2/6987,42.423788,-73.551318,http://maps.google.com/maps?t=m&q=loc:42.423788+-73.551318,Eastbound
+New York,I-90,50950,Exit B3,EXIT B3,NY-22; Austerlitz; New Lebanon,"Canaan, New York",https://www.iexitapp.com/New%20York/I-90/Exit%20B3/50950,42.360901,-73.430587,http://maps.google.com/maps?t=m&q=loc:42.360901+-73.430587,Eastbound
